@@ -28,7 +28,9 @@ export const fetchQuestionsAtom = atom(
       const ids = Array.from({ length: 6 }, (_, i) => i + 1);
 
       const responses = await Promise.all(
-        ids.map((id) => axios.get(`http://localhost:8080/api/tests/${id}`))
+        ids.map((id) =>
+          axios.get(`https://lpk-quiz.onrender.com/api/tests/${id}`)
+        )
       );
 
       // create the object with ids as keys
