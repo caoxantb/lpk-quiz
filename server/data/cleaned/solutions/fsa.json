@@ -1,0 +1,2342 @@
+[
+  {
+    "id": "FSA-1",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": ". The company's reports are high quarry, but the delay in reporting impairs their usefulness somewhat. The reporting is still better than biased reporting."
+      },
+      {
+        "isCorrect": false,
+        "reason": ". This is an example of decision useful information about a result that may not be sustainable. Reporting is not of the highest quality, but is better than biased reporting"
+      },
+      {
+        "isCorrect": true,
+        "reason": ". Combining the results from two segments is an example of biased reporting, which fails in the middle of the quality spectrum It is difficult to interpret the profitability of each segment when their results are combined"
+      }
+    ],
+    "note": "Financial Statement Analysis: describe a spectrum for assessing financial reporting quality"
+  },
+  {
+    "id": "FSA-2",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because aggressive accounting is a biased choice. Biased accounting choices are higher in quality than earnings management on the spectrum of GAAP conforming financial reports."
+      },
+      {
+        "isCorrect": true,
+        "reason": ". Earnings management represents deliberate actions to influence reported earnings and their interpretation. The distinction between eamings management and biased choices is subtle and, primarily, a matter of intent."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because conservative accounting í a biased choice. Biased accounting choices are higher in quality than earnings management on the spectrum of GAAP conforming financial reports."
+      }
+    ],
+    "note": "Financial Statement Analysis: describe a spectrum for assessing financial reporting quality"
+  },
+  {
+    "id": "FSA-3",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": ". The exclusion of recurring items from non-GAAP financial measures is strictly prohibited by the SEC and should raise concerns that should raise concerns that additional analysis is needed"
+      },
+      {
+        "isCorrect": false,
+        "reason": ". If a company uses non-GAAP measures in is SEC filings, it must display the comparative GAAP measure with equal prominence and provide a reconciliation between the two"
+      },
+      {
+        "isCorrect": false,
+        "reason": ". LIFO reporting provides sufficient information in the Notes to convert from LIFO to FIFO so a formal change should not alter an analyst’s opinion about the company."
+      }
+    ],
+    "note": "Financial Statement Analysis: Describe presentation choices, including non-GAAP measures, el could be used to influence an analyst's"
+  },
+  {
+    "id": "FSA-4",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "IFRS does not allow classification of impairment losses as anything other than an operating cash flow"
+      },
+      {
+        "isCorrect": false,
+        "reason": ", IFRS allows classication of dividends paid as either an operating or a financing cash flow However, when dividends paid is shown as an operating cash flow, reported operating cash flows are lower."
+      },
+      {
+        "isCorrect": true,
+        "reason": ". IFRS allows the classification of interest expense as either an operating or a financing cash flow. When interest expense is shown as a financing cash flow, reported operating cash flows are higher."
+      }
+    ],
+    "note": "Financial Statement Analysis: describe accounting methods (choices and estimates) could be used to manage eamings, cash flow, and balance sheet items"
+  },
+  {
+    "id": "FSA-5",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because both a low availability of substitutes and low bargaining power of buyers would improve a company's pricing power"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a high degree of rivalry would offset the positive effect of a low threat of substitutes."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a high availability of substitutes would act to offset the positive affect of low bargaining power of buyers"
+      }
+    ],
+    "note": "Financial Statement Analysis: explain how the competitive position of a company based on a Porter's five forces analysis affects prices and costs"
+  },
+  {
+    "id": "FSA-6",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "Rationalization takes place after the low-qually reporting act has taken place and is a psychological by individuals to justify their actions. Poor internal controls are not a psychological process"
+      },
+      {
+        "isCorrect": true,
+        "reason": ". Poor internal controls provide opportunities for errors or fraud to be incorporated in financial reporting without being deleted"
+      },
+      {
+        "isCorrect": false,
+        "reason": ". Motivation results from personal pressures or corporate pressures to report on a low-quality basis. Poor internal controls provide the vehicle through which low-quality reporting can be concealed, not the motivation for it."
+      }
+    ],
+    "note": "Financial Statement Analysis: describe motivations that might cause management to issue financial reports that are not high quality and conditions that are conducive to issuing low- quality, or even fraudulent"
+  },
+  {
+    "id": "FSA-7",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because conservatism in which people maintain their prior views or forceasts by inadequately incorporating new information"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because overconfidence bias occurs when people demonstrate unwarranted faith in their own abilities"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because representative bas refers to the tendency to classify information based on past experiences and known classifications"
+      }
+    ],
+    "note": "Financial Statement: explain how behavioral factors affect analyst Analysis forecasts and recommend remedial actions for analyst blases"
+  },
+  {
+    "id": "FSA-8",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because normalized earnings remove the impact of temporary factors and unusual events such as acquisitions."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because normalized earings are the expected level of mid-cycle earnings for a company in the absence of any unusual or temporary factors that affect profitability."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because normalized earning are based on mid-cycle eamings, not peak-year earnings."
+      }
+    ],
+    "note": "Financial Statement Analysis: explan considerations in the choice of an explol forecast Fonzon and an analyst's choices in developing projections beyond the short-term forecast hortzon"
+  },
+  {
+    "id": "FSA-9",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because Porter's five forces framework and analytical tools can help analysts assess the relative profit potential of a company by helping analysts estimate whether profit margins are likely to be relatively high or low (relative to historical profit margins and relative to competing companies)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because Porter's five forces framework and similar analytical tools can help analysts assess the relative profit potential of a company by helping analysts estimate whether profit margins are likely to be relatively high or low (relative to historical profit margins and relative to competing companies)."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because Porter's live forces framework and similaranalytical tools can help analysts assess the relative profit potential of a company by helping them understand the company’s industry and its postion within the industry. Understanding the industry and competative contexts of a company helps analysts estimate whether, for example, sales growth is likely to be relatively high or low(relative to history, relative to the overall growth in the economy or a sector and/ or relative to competing companies) and whether the profit margins are likely to be relatively high or low (relative to historical profit margins and relative to competing companies)"
+      }
+    ],
+    "note": "Financial Statement Analysis: explain bow the competitive position of a company base on a Porter's five forces says affects prices and costs"
+  },
+  {
+    "id": "FSA-10",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it computes the gross profit margin as cost of sales/ sales. Curent gross profit margin is 25% (300/1,200) and the forecasted gross profit margin is 24,1% (312 / 1.296) a decrease of approximately 1%."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the gross profit for the current year is 900 (=1,200-300) therefore the current gross profit margin is 75% If sales Increase by 8% (to 1,296) and cost of sales increase by 4% (to 312), the forecasted gross profit is 984 (=1.295-312) and the forecasted gross profit margin is 75.9%. This is an increase of approximately 1% (=75.9% -75%)"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it assumes the starting values have the same base and takes the difference in the growth rates, 4% = sales growth - cost of sales growth"
+      }
+    ],
+    "note": "Financial Statement Analysis: demonstrate the development of a sales-based pro forma company model"
+  },
+  {
+    "id": "FSA-11",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the impact of higher prices on volume depends on the price elasticity of demand (Le., how the quantity demanded varies with price). Since volumes will decline, cost of goods sold will also decline."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the impact of higher prices on volume depends on the price elasticity of demand (ie, how the quantly demanded varies with price). Price elasticity of demand gives the impact to volume, and not total revenues, for a given level of price increases. Furthermore, Analyst A expects price sticky of 0.5 micating that volume will fall by 0 percent given the 10 percent retail price increase."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the impact of higher prices on volume depends on the price elasticity of demand (le, how the quantly demanded varies with price). Price elasticity of demand gives the impact to volume, and not total revenues, for a given level of price increases"
+      }
+    ],
+    "note": "Financial Statement Analysis: explain how to forecast industry and company sales and costs when they are subject to price inflation or ceflation"
+  },
+  {
+    "id": "FSA-12",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because share repurchases decrease the number of shares outstanding. A decrease in the number of shares outstanding will raise the EPS all things being equal"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a secondary stock issuance increases the number of shares outstanding. An increase in the number of shares outstanding will decrease the EPS all things being equal."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because an increase in equity-based compensation increases the number of shares outstanding. An increase in the number of shares outstanding will decrease the EPS all things being equal"
+      }
+    ],
+    "note": "Financial Statement Analysis: demonstrate the development of a sales-based pro forma company model"
+  },
+  {
+    "id": "FSA-13",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "as U.S GAAP prohibit the reversal of write-downs"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this is the reversal under IFRS. Inventories shall be measured (and carried on the balance sheet) at the lower of cost and net realizable value Reversal (limited to the amount of the original write-down) is required for a subsequent increase in value of inventory previously written down. The reversal of any write-down of inventories is recognized as a reduction in cost of sales (reduction in the amount of inventories recognized as expense). The write-down in Year 1 is equal to 5 million (€55 cost - €60 net realizable value). The reversal is\nlimited to the original 5 million write-down. Under U.S. CAAP, reversal of a write-down is prohibited\nc. Incorrect and is the amount of the reversal allowed if the candidate incorrectly calculated the initial write-down as 7 milion (65 cost – 58 current replacement cost) under IFRS. This is also the correct initial write-down under U.S GAAP, assuiming inventories are measured using LIFO or retail inventory methods. Also, it is the amount by which the net realizable value exceeds carrying value at 31 December Year 2. However, under US GAAP reversal of a write down is prohibited."
+      },
+      {
+        "isCorrect": false,
+        "reason": ""
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-14",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because €3,000,000 net income would need to be adjusted for accrued income/expense derived from the change in accounts recervate and accounts payable. The increase in accounts receivables subtracted from net income and the decrease in accoums payable is also subtracted from net income.\nChange in cash = Net Income - increase in Accounts Receivable - decrease in Accounts Payabl -- €2,000,000\nChange in cash = €3,000,000 - €2,000,000 - €3,000,000 = - €2,000,000\nEnding cash balance = 2011 ending cash balance + change in cash = €10,000,000 - €2,000,000 = €8,000,000"
+      },
+      {
+        "isCorrect": false,
+        "reason": ""
+      },
+      {
+        "isCorrect": false,
+        "reason": ""
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-15",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because €500 million represents the costs incurred during the development phase which should be capitalized. Costs incumed in the development stage can be captalized as intangible assets if certain criteria are met, including technological feasibility, the ability to use or sell the resulting asset and the ability to complete the projec."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because €900 million represents the costs need during the research phase. IFRS requires that expenditures on research or during the research phase of an internal project be expensed rather than capitalized."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because €1,500 million is the total costs incurred in the research and the development phases. It includes the €900 million costs incurred in the research phase which should be expensed. Only the €600 milion capitalized as an intangible asset incurred during the development phase should be capitalized."
+      }
+    ],
+    "note": "Financial Statement Analysis: compare the financial reporting of the following types of irtangible assets: purchases, Intermally developed, and acquired in a business combination"
+  },
+  {
+    "id": "FSA-16",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because a relatively high receivables tumover ratio (and commensurately low DSO) might indicate highly efficient credit and collection"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because a reatively high recevables turnover ratio (and commensuratery low DSO) might indicate highly efficient credit and collection"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a low DOH may suggest a firm is efficient at selling its inventory, but it does not measure how long it takes it to collect from its sales. The number of DSO represents the elapsed time between a sale and cash collection, reflecting how fast the company collects cash from customers to whom it offers credit. A relatively high receivables turnover ratio (and commensurately low DSO) might indicate highly efficient credit and collection"
+      }
+    ],
+    "note": "Financial Statement Analysis: calculate and interpret activity, liquidity, solvency, and protability ratios"
+  },
+  {
+    "id": "FSA-17",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because regardless of the originating source of the deferred tax liability, all changes in deferred tax liabilities will either be added back or subtracted from net income under the indirect method of reporting cash tow from operations"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because an increase in deferred tax liability would be an addition to net come under the indirect method of reporting cash flow from operations."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because a decrease in deferred tax liability would be subtracted from net income under the indirect method of reporting cash flow from operations."
+      }
+    ],
+    "note": "Financial Statement Analysis: describe the steps in the preperation of direct and indirect cash flow statements, including how cash flows can be computed using Income statement and balance sheet data"
+  },
+  {
+    "id": "FSA-18",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because activity ratios measure how efficiently a company performs day-to-day tasks, such as collection of receivables and management of inventory."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because solvency ratios measure a company’s ability to meet long term obligations. Subsets of these ratios are also known as “leverage” and “long-term debt” ratios"
+      },
+      {
+        "isCorrect": false,
+        "reason": "profitability ratios measure the company's ability to generate profits from its resources (assets)"
+      }
+    ],
+    "note": "Financial StatementAnalysis: calculate and interpret activity, liquidity, solvency, and profitability ratios"
+  },
+  {
+    "id": "FSA-19",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because a disclaimer of opinion occurs when auditors are unable to issue an opinion"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a qualified opinion (rather than a disclaimer of opinion) would be appropriate in the case of some scope Iimitation or an exception to accounting stances."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because an adverse opinion (rather than a disclaimer of opinion) would be appropriate if the auditor determines that financial statements materially depart from accounting standards and are not fairly presented."
+      }
+    ],
+    "note": "Financial Statement Analysis: describe the importance of regulatory filings, financial statement rules and supplementary information, management's commentary, and audit reports"
+  },
+  {
+    "id": "FSA-20",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because a relatively high receivables turnover (and commensurately low DSO) might indicate highly efficient creditt and collection."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a relatively high receivables turnover ratio (and commensurately low DSO) might indicate highly efficient credit and collection."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the number of days of payables reflects the average number of days the company takes to pay its suppliers and is not related to account receivables or the efficiency of the company's credit or collections."
+      }
+    ],
+    "note": "Financial Statement Analysis: calculate and interpret activity, liquidity, solvency, and profitability ratios"
+  },
+  {
+    "id": "FSA-21",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because a vertical common-size income statement divides each income statement tem by revenue. Gross profit is the amount of revenue available after subtracting the costs of delivery goods or services. Accordingly, based only on this information, under vertical common size analysis, seling, general, and administrative expenses can be expressed as\n= Selling, general, and administrative experses / Revenue\n= Seling, general and administrative expenses / (Gross preft + Cost of sales) –\n= 30/(100 + 150)\n; or = 30/250 ~ 12%"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it expresses seling, general, and administrative expenses as a percentage of Cost of sales. Consequently, Selling general, and administrative expenses/Cost of sales = 30/150 = 20%"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it expresses selling, general, and administrative expenses as a percentage of Gross profit: Consequently, Selling general, and administrative expenses/Gross profit = 30/100 = 30%."
+      }
+    ],
+    "note": "Financial Statement Analysis: a company's mancal performance using comme size income statements and financial ratios based on the income statement"
+  },
+  {
+    "id": "FSA-22",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because gain on sale of assets is a non-operating item that is included in net income calculation. Therefore, gains on sale of assels must be substracted from, not added back to nel income when preparing a cash flow statement under the indirect method."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because amortization of a discount (premium) a non-cash item and thus, apart from its effect on taxable income, has no effect on cash flow in the section of the statement of cash flows that reconciles net income to operating cash flow, amortization of a discount (premium) is added back to (subtracted from) net income."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a decrease in deferred ltax liability occurs when accounting tax expense is lower than the amount of cash paid the income taxes. Therefore, the amount of decrease must be subtracted from net income when preparing the cash flow statement under the indirect method."
+      }
+    ],
+    "note": "Financial Statement Analysis: descuite the steps in the preparation of direct and indirect cash low statements including how cash flows can be computed using income statement and balance sheet cats"
+  },
+  {
+    "id": "FSA-23",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because an increase in inventory increases purchases from suppliers compared to cost of goods sold to determine purchases from suppliers, cost of goods sold is adjusted for the change in inventory. If inventory increased during the year, then purchases during the year exceeded cost of goods sold, and vice versa."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because an increase in accounts payable mears that less was paid than was purchased from suppliers. If accounts payable increased during the year, then purchases on an accrual basis would be higher than they would be on a cash basis, and vice versa"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because an increase in accounts receivable means that less was collected than was sold. To determine the approximate cash receipts from customers, it is necessary to adjust this revenue amount by the net change in accounts receivable for the year. If accounts receivable increase during the year, revenue on an accrual basis is higher than cash recepts from customers, and vice versa."
+      }
+    ],
+    "note": "Financial Statement Analysis: describe the steps in the preperation of direct and indirect cash flow statements, including how cash flows can be computed using income statement and balance sheet data"
+  },
+  {
+    "id": "FSA-24",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because acquiring an intangible asset is an investing activity whereas internally developing in intangible asset can be a combination of operating and investing activity. Costs of acquiring intangible assets are classified as investing cash outflows. IFRS require that expenditures on research (or during the research phase of an internal project) be expensed rather than capitalised as an Intangible asset. IFRS allow companies to capitalise an intangible asset arising from development (or the development phase of an internal project) if certain criteria are met, including demonstration of the technical feasibility of completing the intangible asset and the intent to use or sell the asset. Consequently, acquiring an intangible asset would result in lower operating cast outflows than internally developing the intangible assets (as the latter would result in increased operating cash outflows during the research phase)"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because acquiring an intangible asset is an investing activity whereas internally developing in intangible asset can be a combination of operating and investing activity. On the statement of cash flows, costs of internally developing intangible assets are classified as\noperating cash outflows whereas costs of acquiring intangible assets are classed as investing cash outflows"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because acquiring an intangible asset is an investing activity whereas internally developing an intangible asset can be a combination of operating and investing activities. On the statement of cash flows, costs of internally developing intangible assets are classified as operating cash outflows whereas costs of acquiring intangible assets are classified as investing cash outflows. Cost of acquiring intangible assets are classified investing cash cutflows. IFRS require that expenditures on research (or during the research phase of an internal project) be expensed rather than captalised as an intangible asset. IFRS alow companies to recognise an intangible asset arising from development (or the development phase of an inernal project) if certain criteria are met, including a demonstration of the technical fossibility of completing the intangible asset and the intent to use or sell the asset"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-25",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because an audit is based on a review of information provided by the company, not the auditor. Although audit opinions provide discipline for financial reporting quality, inherent limitations exist. An audit opinion is based on a review of information prepared by the company."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because an audit is based on sampling, not an exhaustive review of all transactions. Althoguh audit opinions provide discipline for financial reporting quality, inherent limitations exist. An audit is based on sampling and the sample might not reveal misstatements."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because although audit opinions provide discipline for financial reporting quality, inherent limitations exist. An “expectation gap” may exist between the auditor’s role and the public’s expectation of auditors. An audit is not typically intended to detect fraud, it is intended to provide assurance that the financial reports are fairly presented."
+      }
+    ],
+    "note": "Financial Statement Analysis: describe mechanisms the discipline financial reporting quality and the potential limitations of those mechanisms."
+  },
+  {
+    "id": "FSA-26",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it reduces net income by the common and preferred dividend account. Basic EPS & (Net income - Common dividends - Preferred dividends) / weighted average number of shares outstanding) = (€80.000 - €16,000 - €10,000) / 150 000 = €0.36."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because Basic EPS (Net income - Preferred dividends)/(Weighted average number of shares outstanding) = (€80,000-€10,000)/150.000 = 0.47"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it uses the common shares outstanding at year end as the denominator. Basic EPS = €80,000 - €10,000) / 130,000 = €0.54"
+      }
+    ],
+    "note": "Financial Statement Analysis: describe how eamings per share is calculated and calculate and interpret a company's basic and diluted earnings per share for companies with simple and complex capital structures including those with antidilutive securities."
+  },
+  {
+    "id": "FSA-27",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because an adverse audit opinion is issued when an auditor determines that the financial statements depart materially from accounting standards and are not fairly presented."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a qualified audit opinion is one in which there is some scope limitation or exception to accounting standards. Exceptions are described in the audit report with additional explanatory paragraps so that the analyst can determine the importance of the exception."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a disclaimer of opinion occurs when, for some reason, such as a scope limitation, the auditors are unable to issue an opinion."
+      }
+    ],
+    "note": "Financial Statement Analysis: describe the importance of management's commentary, regulatory filings, financial statements roles and supplementary information, management’s commentary, and audit reports."
+  },
+  {
+    "id": "FSA-28",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because DSO was subtracted to derive CCC. Accordingly, CCC = DCH – DEO - Number of days of payables = 180 – 36 - 45 = 99 days."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because Cash conversion cycle (CCC) = DOH + DSO - Number of days of payables.\nDOH = Number of days in period/ inventory turnover = 360/2 = 180 days.\nDSO = Number of days in period/ Receivables turnover-360/10 = 36 days.\nDNumber of days of paysites Number of days in period /Payables tumover = 360/8 = 45 days\nThus CCC = 180+36-45 = 171 days"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because Number of days of payabies was added to derive CCC Accordingly CCC = DCH + DRO + Number of days of payables = 180+36 +45 =261 days"
+      }
+    ],
+    "note": "Financial Statement Analysis: calculate and interpret activity, Iiquidity, solvency and profitability ratios"
+  },
+  {
+    "id": "FSA-29",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it reverses all signage and calculares Cash now from operating activities = Net income – Decrease in working capital + Gain on retirement on debt = 10.000 -2,000 + 500 - 8,500"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because Cash flow from operating activities = Net income + Decrease in working capital - Gain on retirement on debt = 10,000+2000-500 = 11,500."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it reverses the sign on gain on retirement on debt and calculates Cash flow from operating activities = Net income + Decrease in working capital + Gain on retirement on debt = 10,000 + 2.000 – 500 = 12,500"
+      }
+    ],
+    "note": "Financial Statement Analysis: describe the steps in the preparation of direct and indirect cash flow statements, including how cash flows can be computed using Income statement and balance sheet data"
+  },
+  {
+    "id": "FSA-30",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because correction of an error for a prior period is handled by restating the financial statements including the balance presented sheet statement of owners’ equity, and cash flow statements to the prior periods, presented in the current financial statement in the current. Thus, it uses the “full retrospective method\" which requires companies to restate prior periods’ results"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because changes accounting estimates are handled prospectively, with the change affecting the financial statements for the period of change and future periods."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because at times standard setters issue new standards that require companies to change accounting policies. Depending on the standard, companies may be permitted to adopt the standards prospectively (in the future) or retrospectively (restate financial statements as though the standard existed in the past) while the new revenue recognition standard also offered companies the option of using a modified retrospective method of adoption. Under the modified retrospective approach, companies were not required to revise previously reported financial statements. Instead, they adjusted the opening balances of retained eamings (and other applicable accounts) for the cumulative Impact of the new standard."
+      }
+    ],
+    "note": "Financial Statement Analysis: describe the financial reporting treatment and analysis of non- recurring items (including discontinued operations, unusual or infrequent items) and changes in accounting policies."
+  },
+  {
+    "id": "FSA-31",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because an upward revaluiation is treated the same as the amount in excess of the reversal amount. In other words, if a revaluation intially increases the carrying amount of the asset class, the increase in the carrying asset class bypasses the income statement and goes directly to equity under the heading of revaluation surplus. The financial leverage ratio is the average total assets divided by average total equity. Increasing both the numerator (assets) and denominator (equity) by the same amount leads to a decline in the (Mathematically, when a ratio is greater than one, as in this case, an increase in both the numerator and the denominator by the same amount leads to a decline in the ratio)"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because leverage is the average total assets divided by average shareholders’ equity, increasing both the numerator (assets) and denominator (equity) by the same amount leads to a decline in the ratio (Mathematically, when a ratio is greater than one, as in this case, an increase in both the numerator and the denominator by the same amount leads to a decline in the ratio)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because leverage is the average total assets divided by average shareholders' equity, increasing both the numerator (assets) and denominator (equity) by the same amount leads to a decline in the ratio (Mathematically, when a ratio is greater than one, as in this case, an increase in both the numerator and the denominator by the same amount leads to a decline in the ratio)."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-32",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because decrease in accounts receivable was deducted rather than added Consequently, cash flow from operating activities = Net income - gain on sale of equipment - decrease in accounts receivable = 143 - 20 – 38 = 85."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because changes in working capital accounts include increases and decreases in the current operating asset and liability accounts. To make the working captal adjustments under the indirect method, any increase in a current operating asset account is subtracted from net income and a net decrease is added to net income. When calculating operating cash flow under the indirect method, gain on sale of assets are subjected from net income. Accordingly, cash flow from operating activities Net income gain on sale of equipment + cecrease in accounts receivable = 143-20+38 = 161"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because gain on sale of equipment was added rather than deducted from net income. Consequently, cash flow from operating activities = Net income + gain on sale of equipment decrease in accounts receivable= 143 +20 +36 =201"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-33",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because companies that use specic identification, weighted average cost, or FIFO methods are more likely to incur inventory write-downs then compares that use the LIFO method"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because companies that use specific identification, weighted average cost, or FIFO methods are more likely to incur inventory write-downs than companies that use the LIFO method. Under the LIFO method, the oldest costs are reflected in the inventory carrying amount on the balance sheet. Given increasing inventory costs, the inventory carrying amounts under the LIFO method are already conservatively presented at the oldest and lowest costs. Thus, it is far less likely that inventory write-downs will occur under LIFO, and if a write-down does occur, it is likely to be of a lesser magnitude."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because companies that use specific identification, weighted average cost, or FIFO methods are more likely to incur inventory write-downs than companies that use the LIFO method."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-34",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because both trend and cross-sectional analyses are used to compare a company's financial ratios with those of its competitors. In general, the financial ratios of a company are compared with those of its major competitors (cross-sectional and trend analysis) and to the company's prior periods trend analysis)"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because both trend and cross-sectional analyses are used to compare a company's financial ratios with those of is compestors. In general, the finance ratios of a company are compared with those of is major competitors (cross sectional and trend analysis) and to the company's prior periods trend analysis)."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because both types of analyses are used to compare a company's financial ratios with those of its competitors. In general, the financial ratios of a company are compared with those of its major competitors (cross- sectional and trend analysis) and to the company's prior periods (trend analysis)."
+      }
+    ],
+    "note": "Financial Statement Analysis: calculate and interpret activity, liquidity, solvency, and protability ratios"
+  },
+  {
+    "id": "FSA-35",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because Basic EPS = (Net income – Preferred Dividends) / Weighted average number of shares outstanding = ($210,000 - $0) / [(50,000 × 3/12) + (30,000 × 9/12) * 2] = ($210,000) / [(12,500 + 22,500)*2] = $210,000 / 700,00 = $3.00."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it incorrectly calculates the weighted average number of shares outstanding."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it also miscalculates the weighted average number of shares outstanding."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-36",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": ""
+      },
+      {
+        "isCorrect": false,
+        "reason": ""
+      },
+      {
+        "isCorrect": true,
+        "reason": "because common-size analysis of the income statement can be performed by stating each line item on the income statement as a percentage of revenue. Accordingly. Company I's gross profit margin (7,586,000- 3.413,700) / 7,586,000 = 55%, being higher than Company 2's gross profit margin of (9,445,000-4.533,600) / 9.445,000 = 52%."
+      }
+    ],
+    "note": "Financial Statement Analysis: evaluate a company's financial performance using common-site Income statements and financial ratios based on the Income statement"
+  },
+  {
+    "id": "FSA-37",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because deferred tax assets, rather than deferred tax liabilities arise when the tax base of an assets greater than its carrying amount"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because deferred tax assets, rather than deferred tax abilities arise when the carrying amount of a liability is greater than its tax base."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because deferred tax liabilities arise when a financial accounting income tax expense exceeds income taxes payable"
+      }
+    ],
+    "note": "Financial Statement Analysis: contrast accounting profit, xable income taxes payable, and income tax expense and lemporary versus permanent differences between accounting profit and taxable income"
+  },
+  {
+    "id": "FSA-38",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because Cash paid to suppliers = Cost of goods sold + Increase in inventory - Increase in accounts payable = €5,000 + €3,000 - €2,500 = €5,500 - €2,500 = €6,500."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it excludes the increase in accounts payable and miscalculates Purchases from suppliers instead of Cash paid to suppliers."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it mistakenly added, rather than subtracted the increase in accounts payable in the calculation of Cash paid to suppliers."
+      }
+    ],
+    "note": "Financial Statement Analysis: demonstrate the conversion of cash flows from the indirect to direct method"
+  },
+  {
+    "id": "FSA-39",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": ""
+      },
+      {
+        "isCorrect": false,
+        "reason": ""
+      },
+      {
+        "isCorrect": true,
+        "reason": "because Diluted EPS = Net income / (Weighted average number of common shares + New common shares issued at conversion). Weighted average number of common shares during the year = 3,500,000 + (1,000,000 × 9/12) = 4,250,000, considering the shares issued on April 1, which are outstanding for 9 out of the 12 months of the year. New shares issued at conversion = 400,000 × 2 = 800,000. Diluted EPS = €3,000,000 / (4,250,000 + 800,000) = €3,000,000 / 5,050,000 = €0.5941 (rounded to €0.59)."
+      }
+    ],
+    "note": "Financial Statement Analysis: describe how eamings per share is calculated and calculate and interpret a company's basic and ciluted eamings per share for companies with simple and complex capital structures including those with anticliutive securities"
+  },
+  {
+    "id": "FSA-40",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it subtracted the after-tax interest adjustment instead of adding it back. Therefore, FCFF = 80 - 10 × (1 - 0.20) - 15 = 80 - (10 × 0.80) - 15 = 80 - 8 - 15 = €57."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it incorrectly assumed that interest expensed and paid was included in financing activities and did not adjust for int(1 - Tax rate). Accordingly, FCFF = CFO – FCInv = 80 - 15 = €65."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because FCFF can be computed from cash flow from operating activities as FCFF = CFO + int(1 - Tax rate) - FCInv. CFO represents cash flow from operating activities under US GAAP or under IFRS where the company has included interest paid in operating activities. Accordingly, FCFF = 80 + [10 × (1 - 0.20)] - 15 = 80 + (10 × 0.80) - 15 = 80 + 8 - 15 = €73."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-41",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because financial statements that are in compliance with accounting standards generally receive an unqualified (clean) opinion."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because material departures from accounting standards will typically result in an adverse opinion, not a qualified one."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because financial statements showing \"scope limitation or exception to accounting standards\" will earn a qualified opinion."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-42",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because common-size statements are an output of the \"process data\" phase of the financial statement analysis framework."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because analytical results, rather than common-size statements, are the output of the \"analyze and interpret the processed data\" phase."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because analytical reports and recommendations, not common-size statements, are the outputs of the \"develop and communicate conclusions and recommendations\" phase."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-43",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because interest expense was not added. Accordingly, Ending interest payable = Beginning interest payable - Cash paid for Interest = €45,000 - €15,000 = €30,000."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because Ending Interest payable - Beginning Interest payable + Interest expense - Cash paid for interest. Accordingly, Ending interest payable = Beginning interest payable + Interest expense - Cash paid for interest = €45,000 + €50,000 - €15,000 = €80,000."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because Cash paid for interest was not deducted. Accordingly, Ending interest payable = Beginning interest payable + Interest expense = €45,000 + €50,000 - €95,000."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-44",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it subtracts the entire interest payment instead of the net-of-tax interest amount. Therefore, FCFF - Interest paid - FCFE does not equal net debt repayment. The calculation results in 2,500 - 260 - 1,300 = 940, which is not the correct net debt repayment."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because FCFF = CFO + Interest paid (1 - Tax rate) – CapEx (“FCInv”). In addition FCFE = CFO - FCInv + Net debt repayment. Rearranging FCFF: CFO - FCInv = FCFF - Interest paid (1 - Tax rate). Rearranging FCFE: CFO - FCInv = FCFE + Net debt repayment. Therefore: FCFF - Interest paid (1 - Tax rate) = FCFE + Net debt repayment → 2,500 - (260 × (1 - 40%)) = 1300 + Net debt repayment\nHence, Net debt repayment = 2,344 - 1,300 = 1,044."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it assumes interest paid is classified as a cash flow from financing activities and doesn't need to be added back to CFO. Consequently, the calculations made are not in line with the correct net debt repayment."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-45",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because deferred tax assets, which appear on the balance sheet, arise when an excess amount is paid for income taxes (taxable income higher than accounting profit)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a deferred tax asset arises when the tax base of an asset exceeds its carrying amount. Differences between the tax base and the carrying amount also result in differences between accounting profit and taxable income. Deductible temporary differences result in a deferred tax asset when the tax base of an asset exceeds its carrying amount."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because deferred tax assets arise when the amount paid for taxes (taxes payable) exceeds the tax expense. A company's taxable income is the basis for its income tax payable (a liability) or recoverable (an asset) which is calculated on the basis of the company's tax rate and appears on its balance sheet. Deferred tax assets appear on the balance sheet when an excess amount is paid for income taxes (taxable income higher than accounting profit), and the company expects to recover the difference during the course of future operations. Actual income taxes payable may thus exceed the financial accounting income tax expense, which is based on accounting profit."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-46",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the interest expense for a lessee with an operating lease is lower compared to a finance lease (there is no interest expense under an operating lease). Under IFRS, there is a single accounting model for both finance and operating leases for lessors. At lease inception, the lessee records a lease payable liability and a \"right-of-use\" (ROU) asset on its balance sheet, both equal to the present value of future lease payments. The following describes how the transaction (under IFRS) affects the financial statements: interest expense on the lease liability and the amortization expense related to the ROU asset are reported separately on the income statement. However, under US GAAP, the interest and amortization\nexpenses related to the ROU asset are reported as a single operating expense on the income statement. The interest and amortization components are not separately reported."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because In the case of operating leases under US GAAP, the lessee recognizes the lease payments as rent expense and does not report depreciation expense for the leased asset. The payments made reflect the right-of-use (ROU) asset's amortization over the lease term. The amortization expense and no depreciation expense are reported in the financial statements."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because financing cash outflow for a lessee with an operating lease is lower compared to a finance lease under IFRS. There is a single accounting model for both finance and operating leases for lessors under IFRS. At lease inception, the lessee records a lease payable liability and a right-of-use (ROU) asset on its balance sheet, both equal to the present value of future lease payments. The principal repayment component of the lease liability is reported as a cash outflow under financing activities on the statement of cash flows. However, under US GAAP, the entire lease payment is reported as a cash outflow under operating activities on the statement of cash flows. The interest and principal payment components are not reported separately."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-47",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because in common-size cash flow statement analysis, there are two common approaches. The primary approach is to express each line item of cash inflow or outflow as a percentage of the total inflows or outflows of cash. The secondary approach is to express each line item as a percentage of net revenue, not total assets."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because in common-size cash flow statement analysis, there are two prevalent approaches. The primary approach involves expressing each line item of cash inflow or outflow as a percentage of the total inflows or outflows of cash. The secondary approach is to express each line item as a percentage of net revenue."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because in common-size cash flow statement analysis, there are two alternative approaches. The primary approach is to express each line item of cash inflow or outflow as a percentage of the total inflows or outflows of cash. The secondary approach is to express each line item as a percentage of net revenue, not net cash flows."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-48",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because disclosures are useful when analyzing a company. Under US GAAP, required financial statement disclosures concerning inventory include the accounting policies adopted in measuring inventories, including the cost formulas (inventory valuation methods) used. However, the second part of the disclosure regarding the amount of any reversal of write-downs that reduce the cost of goods sold is not relevant under US GAAP, as US GAAP doesn't allow for the reversal of prior-year inventory write-downs. US GAAP also requires disclosure of significant estimates applicable to inventories and any material amount of income resulting from the liquidation of LIFO inventory."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the second part of the disclosure regarding the amount of any reversal of write-downs that reduce the cost of goods sold is not relevant under US GAAP, as US GAAP doesn't allow for the reversal of prior-year inventory write-downs. The actual required disclosures under US GAAP differ from this statement."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because although disclosures are useful when analyzing a company, the second part of the disclosure about the reversal of write-downs is not applicable under US GAAP. US GAAP doesn't permit the reversal of prior-year inventory write-downs. The required disclosures under US GAAP pertain more to accounting policies, significant estimates applicable to inventories, and any material amount of income resulting from the liquidation of LIFO inventory."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-49",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because as a result of the revaluations, the €2,500 increase in the value of the asset during the first year (€27,500 - €25,000) is recorded in the revaluation surplus account in equity. The subsequent decrease in fair value by €5,000 (€22,500 - €27,500) in the second year is assumed to be applied only to the revaluation surplus account, resulting in a balance of -€2,500 (-€25,000 - €5,000)."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because under the revaluation model, when an asset's value increases, the surplus goes directly to equity. Any subsequent decrease in the asset's value will decrease the revaluation surplus and then affect the income statement. Therefore, the initial increase of €2,500 (€27,500 - €25,000) goes to the revaluation surplus account in equity. Out of the subsequent decrease of €5,000 (€22,500 - €27,500) in fair value, €2,500 is used to decrease the revaluation surplus, while the remaining €2,500 goes to the income statement. Thus, the revaluation surplus ends up at €0."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because, as a result of the revaluations, the initial increase of €2,500 (€27,500 - €25,000) goes to the revaluation surplus account in equity. The subsequent decrease of €5,000 (€22,500 - €27,500) in fair value is accounted for in the income statement and does not directly affect the revaluation surplus account."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-50",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because US GAAP prohibits the reversal of write-downs, but not IFRS."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because according to IFRS, inventories are measured at the lower of cost and net realizable value. With each subsequent period, a new assessment of net realizable value is made. Reversal of any write-down of inventories, limited to the original write-down amount, is recognized as a reduction in cost of sales (i.e., a reduction in the amount of inventories recognized as an expense).\n• On December 31 of Year 1, the inventory is carried on the balance sheet at the lower of cost and net realizable value: min(€100,000, €97,000) = €97,000.\n• The write-down of inventory equals the Cost of inventory minus the Net realizable value: €100,000 - (€97,000) = €3,000.\n• On December 31 of Year 2, the Net realizable value (€105,000) is higher than the previous level (exceeding the cost of inventory). The reversal of any write-down of inventories is recognized as a reduction in cost of sales and is limited to the amount of the original write-down, which is €3,000."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it computes the reversal of inventory write-down as the difference between the net realizable value at the next assessment date and its previous level (€105,000 - €97,000 = €8,000), while the reversal of any write-down of inventories is limited to the amount of the original write-down, which is €3,000."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-51",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it has included the EBIT Margin in the calculation instead of the Net Profit Margin. Accordingly, Total asset turnover = ROE / (EBIT Margin x Leverage); or = 10% / (5% x 2) = 10 / 10 = 1.0."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because according to the DuPont analysis for ROE, ROE = Net Profit Margin × Total Asset Turnover × Leverage. Thus, rearranging the formula for Total Asset Turnover: Total Asset Turnover = ROE / (Net Profit Margin × Leverage) = 10% / (4% × 2) = 10 / 8 = 1.25, approximately 1.3."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it included the Interest Burden in the calculation. Accordingly, Total Asset Turnover = ROE / (Net Profit Margin × Leverage × Interest Burden); or = 10% / (4% × 2 × 85%) = 10 / 6.8 ≈ 1.471, approximately 1.5."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-52",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because if purchase prices of inventory are decreasing, using the LIFO Inventory valuation method will result in higher gross profit compared to other methods."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because if purchase prices of inventory are declining, using the LIFO method of inventory valuation will result in a higher current ratio compared to other methods. The use of the LIFO method results in a higher ending inventory current asset compared to other methods. Therefore, the current ratio, defined as current assets divided by current liabilities, will be higher as current assets (Inventory) will be higher and current liabilities will not be affected by the choice of the inventory valuation method."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because if purchase prices of inventory are declining, using the LIFO method of inventory valuation will result in a higher ending inventory and a lower cost of sales compared to other inventory valuation methods. Inventory turnover is defined as cost of sales divided by average inventory. Since the cost of sales will be lower under LIFO compared to FIFO and average inventory will be higher under LIFO as compared to FIFO in a period of declining unit costs, inventory turnover will be lower under LIFO than FIFO in a period of declining inventory unit costs."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-53",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because in each subsequent period, a new assessment of net realizable value is made. Reversal (limited to the amount of the original write-down) is required for a subsequent increase in value of inventory previously written down. Reversals are not allowed for US GAAP, which would result in this answer. Inventory would be written down from 2,000 to 1,700 in Year 1, and the reversal in Year 2 would be limited to the original write-down of 300, bringing the value back to 2,000 at the end of Year 2."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because in each subsequent period, a new assessment of net realizable value is made. Reversal (limited to the amount of the original write-down) is required for a subsequent increase in value of inventory previously written down. Inventory would be written down from 2,000 to 1,700 in Year 1, and the reversal in Year 2 would be limited to the original write-down of 300, bringing the value back to 2,000 at the end of Year 2."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because in each subsequent period, a new assessment of net realizable value is made. Reversal (limited to the amount of the original write-down) is required for a subsequent increase in value of inventory previously written down. The incorrect answer is obtained by writing the inventory up to the Year 2 net realizable value."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-54",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because FIFO assumes that the oldest inventory items are sold first, leaving the most recently purchased inventory on the balance sheet. The carrying amount of inventories under FIFO will more closely reflect current replacement values because inventories are assumed to consist of the most recently purchased items. Companies typically record changes to inventory using either a periodic inventory system or a perpetual inventory system. Under either system, the allocation of goods available for sale to cost of sales and ending inventory is the same if the inventory valuation method used is either specific identification or FIFO."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because under LIFO, the most recently purchased inventory items are assumed to be sold first, so items included in the cost of goods sold more closely reflect current replacement value. However, the balance sheet inventory will reflect prior period (lower in this case) prices. The cost of sales under LIFO will more closely reflect current replacement value. Although the carrying amount of the ending inventory may differ (compared to the periodic system) because the perpetual system will apply LIFO continuously throughout the year, the effect of increasing prices and quantities will result in a lower reported inventory on the balance sheet than current replacement values."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because under LIFO, the most recently purchased inventory items are assumed to be sold first, so items included in the cost of goods sold more closely reflect current replacement value. However, the balance sheet inventory will reflect prior period (lower in this case) prices. The cost of sales under LIFO will more closely reflect current replacement value. Although the carrying amount of the ending inventory may differ (compared to the periodic system) because the perpetual system will apply LIFO continuously throughout the year, the effect of increasing prices and quantities will result in a lower reported inventory on the balance sheet than current replacement values."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-55",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because an adjustment is permitted in all cases under IFRS. The only situation where the loss cannot be reversed is under US GAAP for an asset held for use. Under US GAAP, the impairment loss would not be reversed, remaining at €40,000."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because in recognizing the impairment loss in Year 1, carrying cost was reduced from €50,000 to €40,000, so an impairment loss of €10,000 was reported. A reversal can only be taken for the previous carrying amount, not the full recoverable amount. Therefore, with the reversal, carrying cost reverts to its previous level of €50,000. Note that IFRS permit the reversal of impairment losses only. IFRS do not permit the revaluation to the recoverable amount if the recoverable amount exceeds the previous carrying amount."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because IFRS permit the reversal of impairment losses only. IFRS do not permit the revaluation to the recoverable amount if the recoverable amount exceeds the previous carrying\namount. Previously, carrying cost was reduced from €50,000 to €40,000, so an impairment loss of €10,000 was reported. A reversal can only be taken for the previous carrying amount. Therefore, the new carrying cost cannot increase to the full recoverable amount of €60,000."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-56",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because a write-down of inventory to a lower value would decrease both total asset turnover and the current ratio. Total asset turnover, calculated by dividing net sales by average total assets, will decrease as the denominator (average total assets) decreases due to the reduced inventory value. Similarly, the current ratio, calculated as current assets divided by current liabilities, will decline because reducing inventory (a component of current assets) decreases the numerator, affecting the ratio."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because when the value of inventory declines below the carrying amount on the balance sheet, the inventory carrying amount must be written down to its net realizable value. This write-down reduces both inventory and the carrying value of inventory on the balance sheet, impacting asset turnover and solvency ratios. The total asset turnover ratio, calculated by dividing net sales by average total assets, will increase due to the reduction in average total assets caused by the write-down. However, the current ratio, computed as current assets divided by current liabilities, decreases because reducing inventory affects the numerator while current liabilities remain unaffected."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a write-down of inventory to its net realizable value would result in a lower total asset turnover ratio and a lower current ratio due to the reduction in inventory value impacting both ratios negatively."
+      }
+    ],
+    "note": "Note: \"All else being equal\" has been considered in this analysis to isolate the impact of inventory write-downs on these financial ratios."
+  },
+  {
+    "id": "FSA-57",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because IFRS allow companies to classity interest expense as either an operating acavity or a financing activity. This is the treatment of dividends paid under US GAAP US GAAP classify dividends paid to stockholders as a financing activity."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because IFRS allow companies to classity interest expense as either an eperating activity or a financing activity. This is the treatment of interest paid under US GAAP US GAAP classy interest expense as an operating activity, even though the principal amount of the debt issued is classified as a inancing acivity."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because IFRS allows more fexibility in the reporting of such items as interest paid. IFRS allow companies to classify Interest expense as either an operating activity or a financing activity."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-58",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the inventory turnover in Year 2 was calculated based on the average of the Net Realizable Value of Inventory for the two years. Consequently, the Inventory turnover in Year 2 = Cost of goods sold / Average Inventory = 600 / ((120 + 80) / 2) = 600 / 100 = 6.0."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the inventory turnover in Year 2 was calculated based on the average of the Cost of Inventory for the two years. Consequently, the Inventory turnover in Year 2 = Cost of goods sold / Average Inventory = 600 / ((100 + 90) / 2) = 600 / 95 = 6.3."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because under IFRS, inventories are to be measured (and carried on the balance sheet) at the lower of cost and net realizable value. Accordingly, Year 1 inventory = 80 (being the lower of 90 and 80), and Year 2 inventory = 100 (being the lower of 100 and 120). Inventory turnover in Year 2 = Cost of goods sold / Average Inventory = 600 / ((100 + 80) / 2) = 600 / 90 = 6.7."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-59",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it assumes the company reports under US GAAP and uses the LIFO inventory valuation method, taking the lower limit of market value (i.e., net realizable value less a normal profit margin) instead of the current replacement cost. Accordingly, Min(Cost, Net realizable value less a normal profit margin) = Min(€3,600; €3,100) = €3,100."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it assumes the company reports under US GAAP and uses the LIFO inventory valuation method. Under US GAAP, for inventories measured using LIFO and retail inventory methods, market value is defined as the current replacement cost (€3,200), subject to upper and lower limits. The lower limit of market value is the net realizable value less a normal profit margin (€3,100). Accordingly, Min(Cost, Market value) = Min(€3,600, €3,200) = €3,200."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because under IFRS, inventories are to be measured (and carried on the balance sheet) at the lower of cost and net realizable value. Accordingly, Min(Cost, Net realizable value) = Min(€3,600, €3,300) = €3,300."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-60",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because for lessees, there are lease accounting exemptions for certain lease contracts. If the term is 12 months or less (under both IFRS and US GAAP) or for a \"low-value asset\" up to $5,000 or similar amounts (under IFRS only), the lessee can elect to simply expense the lease payments on a straight-line basis. These exemptions are not available to lessors."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because under IFRS, there is a single accounting model for both finance and operating leases for lessees. At lease inception, the lessee records a lease liability and a \"right- of-use\" (ROU) asset on its balance sheet, both equal to the present value of future lease payments."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because under IFRS, there is a single accounting model for both finance and operating leases for lessees. At lease inception, the lessee records a lease liability and a right-of- use (ROU) asset on its balance sheet, both equal to the present value of future lease payments."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-61",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "A contract is signed. According to the converged standards of revenue recognition, the process involves five steps:\n1. Identify the contract(s) with a customer.\n2. Identify the separate or distinct performance obligations in the contract.\n3. Determine the transaction price.\n4. Allocate the transaction price to the performance obligations in the contract.\n5. Recognize revenue when (or as) the entity satisfies a performance obligation. While\nentering into or signing the contract would be covered by steps 1-4, step 5 is required to recognize revenue. The entity will only recognize revenue when it is able to satisfy the performance obligation."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because it is only when all performance obligations have been met except for payment that a receivable appears on the seller's balance sheet."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it is only when all performance obligations have been met except for payment that a receivable appears on the seller's balance sheet. If consideration is received in advance of transferring goods or services, the seller presents a contract liability. Consequently, the seller recognizes a contract liability rather than a receivable."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-62",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it is the value of the asset if sold less costs to sell, which is the lower, not higher, of its fair value less costs to sell and its value in use. Under IFRS, the company would compare the carrying value (€20,000) with the higher of its fair value less costs to sell (€19,100 - €1,900 = €17,200) and its value in use (€17,400). Under IFRS, the carrying value is €17,400."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because it represents the value of the asset in use. Under IFRS, the company would compare the carrying value (€20,000) with the higher of its fair value less costs to sell (€19,100 - €1,900 = €17,200) and its value in use (€17,400). Under IFRS, the carrying value is €17,400."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this is the carrying amount after impairment assessment under US GAAP: the carrying amount (€20,000) is compared with the undiscounted expected future cash flows (€22,000). The carrying amount is less than the undiscounted expected future cash flows, so the carrying amount is considered recoverable. The equipment would continue to be carried at €20,000 under US GAAP."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-63",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because activity ratios (such as Inventory turnover and total asset turnover) will be positively affected by a write-down because the asset base (denominator) is reduced."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because an inventory write-down reduces both profit and the carrying amount of inventory on the balance sheet, thus having a negative effect on profitability, liquidity, and solvency ratios."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because an inventory write-down reduces both profit and the carrying amount of inventory on the balance sheet, thereby negatively impacting profitability, liquidity, and solvency ratios."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-64",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because if a deferred tax asset or liability resulted in the past, but the criteria of economic benefits are not met on the current balance sheet date, then, under IFRS, an existing deferred tax asset or liability related to the item will be reversed."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because if a deferred tax asset or liability resulted in the past, but the criteria of economic benefits are not met on the current balance sheet date, then, under IFRS, an existing deferred tax asset or liability related to the item will be reversed. Under US GAAP, a valuation allowance is established."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it refers to a deferred tax liability reported under US GAAP. The analysis should classify the deferred tax liability as debt if the liability is expected to reverse with subsequent tax payment. If the liability is not expected to reverse, there is no expectation of a cash outflow, and the liability should be treated as equity."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-65",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because if revenue reported using accrual accounting is higher than the cash actually collected, the result will typically be an increase in accounts receivable. Also, Beginning accounts receivable plus Revenue minus Cash collected from customers equals Ending accounts receivable, restated as: Cash collected from customers = Beginning accounts receivable + Revenue - Ending accounts receivable or Revenue - Increase in accounts receivable = 5,000 - 1,200 = 3,800."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it equals Revenue (3,000) or the Reverse Change in cash balance (instead of Change in accounts receivable) = 6,000 - (2,000 - 2,000) = 6,000 - 0 = 5,000."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it assumes Cash collected from customers = Revenue + Increase in accounts receivable = 5,000 + 1,200 = 6,200."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-66",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because IFRS requires eight financial statement disclosures concerning inventory, including (1) the carrying amount of inventories carried at fair value less costs to sell, (2) the amount of any reversal of any write-down that is recognized as a reduction in cost of sales in the period, and (3) the circumstances or events that led to the reversal of a write-down of inventories. Inventory-related disclosures under US GAAP are very similar to the disclosures above, except that requirement (2) and (3) are not relevant because US GAAP does not permit the reversal of prior-year inventory write-downs."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because inventory-related disclosures under US GAAP are very similar to the disclosures under IFRS, except that the requirement \"the circumstances or events that led to the reversal of a write-down of inventories\" is not relevant because US GAAP does not permit the reversal of prior-year inventory write-downs."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because inventory-related disclosures under US GAAP are very similar to the disclosures under IFRS, except that the requirement \"the amount of any reversal of any write-\ndown that is recognized as a reduction in cost of sales in the period\" is not relevant because US GAAP does not permit the reversal of prior-year inventory write-downs."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-67",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because in an environment of declining inventory unit costs and constant or increasing inventory quantities, FIFO (compared with weighted average cost or LIFO) will allocate a higher amount of the total cost of goods available for sale to cost of sales on the income statement and a lower amount to ending inventory on the balance sheet. Accordingly, because cost of sales will be higher under FIFO, a company's gross profit, operating profit, and income taxes will be lower."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because in an environment of declining inventory unit costs and constant or increasing inventory quantities, FIFO (compared with weighted average cost or LIFO) will allocate a higher amount of the total cost of goods available for sale to cost of sales on the income statement and a lower amount to ending inventory on the balance sheet. Accordingly, because cost of sales will be higher under FIFO, a company's gross profit, operating profit, and income taxes will be lower. In comparison, in a period of declining inventory unit costs, LIFO will result in higher inventory and lower cost of sales. Because cost declined over the period, LIFO had the highest ending inventory, the lowest cost of sales, and the highest gross profit [compared to Specific Identification, Weighted Average Cost, and FIFO]."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because in an environment of declining inventory unit costs and constant or increasing inventory quantities, FIFO (compared with weighted average cost or LIFO) will allocate a higher amount of the total cost of goods available for sale to cost of sales on the income statement and a lower amount to ending inventory on the balance sheet. Accordingly, because cost of sales will be higher under FIFO, a company's gross profit, operating profit, and income taxes will be lower."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-68",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because, in contrast to changes in accounting policies (such as whether to expense the cost of employee stock options), companies sometimes make changes in accounting estimates such as the useful life of a depreciable asset. Changes in accounting estimates are handled prospectively, with the change affecting the financial statements for the period of change and future periods. No adjustments are made to prior statements, and the adjustment is not shown on the face of the income statement."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because, in contrast to changes in accounting policies, changes in accounting estimates, such as the useful life of a depreciable asset, are handled prospectively. They affect the financial statements for the period of change\nand future periods. No adjustments are made to prior statements, and the adjustment is not separately shown on the face of the income statement."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because, in contrast to changes in accounting policies, changes in accounting estimates, such as the useful life of a depreciable asset, are handled prospectively. They affect the financial statements for the period of change and future periods. No adjustments are made to prior statements, and the adjustment is not shown separately on the face of the income statement."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-69",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because increasing the estimated salvage values is an example of a non-conservative (or aggressive) accounting policy. Depreciation expense is affected by the estimated salvage value of the assets being depreciated. A higher salvage value will decrease depreciation expense under most methods, compared with the choice of a lower salvage value."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because changing the depreciation method from straight-line to double-declining balance is an example of a conservative accounting policy change. This change would increase depreciation expenses and decrease earnings for the year. The selection of a depreciation method affects the allocation of the cost of long-lived assets to accounting periods, and managers may choose different methods based on various factors."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because changing from weighted average to FIFO Inventory valuation method in a period of declining inventory prices and quantities is an example of a conservative accounting policy change. In an environment of declining inventory unit costs and constant or increasing inventory quantities, FIFO (in comparison with weighted average cost or LIFO) would allocate a higher amount of the total cost of goods available for sale to cost of sales on the income statement and a lower amount to ending inventory on the balance sheet. This change leads to higher cost of sales and lower reported profits. Assumptions about Inventory cost flows provide another example of how accounting choices can affect financial reporting"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-70",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the cash received from the sale of equipment is calculated as follows: Historical cost of equipment sold (€5,000,000) - Accumulated depreciation on the equipment sold (€3,000,000) = Book value of the equipment sold (€2,000,000) - Loss on sale (€250,000) = €1,750,000."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the cash received from the sale of equipment is determined by subtracting the book value of the equipment sold (calculated as the historical cost minus the accumulated depreciation) from the loss on sale reported. The formula is: Cash received from the sale of equipment = Book value of the equipment sold - Loss on sale = €2,000,000 - €250,000 = €1,750,000."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the calculation for cash received from the sale of equipment as Historical cost of equipment sold (€5,000,000) - Loss on sale (€250,000) equals €4,750,000, which is not accurate in this context."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-71",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because ROA is calculated as Net income divided by Average total assets, which is (110 / 1,000) * 100 = 11%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it assumes ROA is calculated as Earnings before taxes divided by Total average assets, which is (130 / 1,000) * 100 = 13%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it assumes ROA is calculated as EBIT divided by Average total assets, which is (150 / 1,000) * 100 = 15%."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-72",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because if the number of shares of common stock increases as a result of a stock dividend or stock split, the EPS calculation reflects the change retroactively to the beginning of the period. The denominator is the same for both the basic and diluted EPS calculations."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the assumed exercise of the stock options would not change net income for the year (or predetermine dividends). Therefore, for calculating EPS, no change is made to the numerator. However, the denominator would be increased by the incremental number of shares issued as a result of the stock options being exercised."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because both the numerator and the denominator change when dealing with convertible debt. The numerator is increased by after-tax interest on the convertible debt, and the denominator is increased by the additional shares that were issued upon conversion."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-73",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it has not weighted the number of shares outstanding during the year and instead used the period-end balance along with the effect of the conversion. That is, weighted average number of shares outstanding is mistakenly calculated as 1,100.000 shares plus 200,000 which equels 1.300.000. Assuming all else equal, $1,312,000 / 1,300,000 = $1.01"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the basic EPS calculation does not incorporate the convertible bond as dilutive. The basic EPS is calculated as follows: Basic EPS = (Net income - Preferred dividends) / (Weighted average number of shares outstanding). Net income is $1,200,000. There are no preferred dividends. Weighted average number of shares outstanding is calculated as follows: Weighted average number of shares outstanding = [(1,000,000 shares * 3 months) + (1,100,000 shares * 9 months)] / 12 months = (3,000,000 + 9,900,000) / 12 months = 12,900,000 / 12 = 1,075,000 shares. Therefore, Basic EPS = $1,200,000 / 1,075,000 = $1.12. Diluted EPS, computed using the convertible bonds, is calculated as follows: (Net income + After-tax interest on convertible debt - Preferred dividends) / (Weighted average number of shares outstanding - Additional common shares that would have been issued at conversion). After-tax interest on convertible debt = $2,000,000 * 8% * (1 - 30%) = $112,000 Therefore, Diluted EPS = ($1,200,000 + $112,000) / (1,075,000 + 200,000) = $1,312,000 / 1,275,000 ≈ $1.03."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it erroneously includes the pre-tax cost of debt as an addition to net income in the numerator. The computation is shown as ($1,200,000 + $160,000) / (1,075,000 + 200,000) = $1,360,000 / 1,275,000 ≈ $1.07. If a candidate mistakenly uses net income alone in the numerator with any of the denominators in the three Response Rationales, the answer will also be closest to this distractor."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-74",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it omits the financial leverage in the ROE calculation and instead uses the ROA calculation. It calculates ROA (Return on Assets) as Net profit margin × Total asset turnover = 3% × 1.8 = 5.4%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it includes the tax burden in the ROE calculation and not financial leverage. The formula becomes ROC (Return on Capital) = Net profit margin × Total asset turnover × Financial leverage × Tax burden = 3.0% × 1.8 × 1.5 × 0.85 = 6.585% ≈ 6.9%."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because ROE (Return on Equity) is calculated using the formula: Net profit margin × Total asset turnover × Financial leverage = 3.0% × 1.8 × 1.5 = 8.1%."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-75",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the carrying amount after the impairment charge is equal to the recoverable amount. Under IFRS 36, an impairment loss is measured as the excess of the carrying amount over the recoverable amount of the asset. The recoverable amount of an asset\nis defined as the higher of its fair value less costs to sell (€9,000 - €200 = €8,800) and its value in use (€7,000). The lower of these two values is €7,000, not €9,000."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the carrying amount after the impairment charge is equal to the recoverable amount. Under IFRS 36, an impairment loss is measured as the excess of the carrying amount over the recoverable amount of the asset. The recoverable amount of an asset is defined as the higher of its fair value less costs to sell (€9,000 - €200 = €8,800) and its value in use (€7,000). In this case, the recoverable amount is the fair value less costs to sell, which is €8,800."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it attempts to subtract the cost of selling from the fair value, which is not necessary. The recoverable amount of an asset is the higher of its fair value less costs to sell or its value in use, and in this scenario, the fair value less costs to sell is €8,800, not €9,000."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-76",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because this is a profitability ratio. ROE measures the return earned by a company on its equity capital, including minority equity, preferred equity, and common equity. ROE is calculated as Net Income divided by Average Total Equity."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this is an activity ratio (or asset utilization, turnover, or operating efficiency ratio) that measures how well a company manages various activities. Fixed asset turnover is calculated as Revenue divided by Average Net Fixed Assets. This ratio assesses how efficiently the company generates revenues from its investments in fixed assets."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because solvency ratios are primarily of two types: debt ratios, which focus on the balance sheet and measure the amount of debt capital relative to equity capital, and coverage ratios, which focus on the income statement and measure the ability of a company to cover its debt payments. These ratios are used in assessing a company's solvency and evaluating the quality of its bonds and other debt obligations.\nFixed charge coverage ratio is calculated as (EBIT + Lease payments) divided by (Interest payments + Lease payments). A higher fixed charge coverage ratio implies stronger solvency, offering greater assurance that the company can service its debt obligations, such as bank loans, notes, and bonds, from normal earnings."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-77",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the accounting treatment for lessors is substantially similar under both IFRS and US GAAP. In both accounting standards, lessors classify leases as finance or operating leases, which determines their financial reporting. Under a finance lease, the lessor recognizes a\nlease receivable on the balance sheet, representing the present value of future lease payments, and derecognizes the leased asset. Any difference between the present value of the lease payments and the carrying amount of the asset is recognized as a gain or loss."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because under both IFRS and US GAAP, lessors classify leases as finance or operating leases, each with its respective accounting treatment. In the case of an operating lease, the lessor retains the leased asset on its books and recognizes lease revenue on a straight-line basis over the lease term."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the accounting treatment for lessors is similar under both IFRS and US GAAP. Both standards categorize leases as finance or operating leases, impacting the lessor's financial reporting. In an operating lease scenario, the lessor retains the leased asset on its books and recognizes lease revenue evenly over the lease term, differing from finance leases where the lessor derecognizes the asset and recognizes a lease receivable."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-78",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the amount of the impairment loss will reduce the carrying amount of the asset on the balance sheet and will consequently reduce net income on the income statement. Impairment charges reduce income but have no effect on revenue. Therefore, the impairment causes a decrease in the net profit margin, where Net profit margin = Net Income / Revenue."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the Debt-to-equity ratio is the total debt divided by total equity. The impairment loss reduces the carrying amount of the asset on the balance sheet, but it does not directly affect the total debt or equity, which are unaffected by impairment charges. Therefore, impairment charges do not impact the Debt-to-equity ratio."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the Working capital turnover ratio, which is calculated as Revenue divided by Average working capital, is unaffected by impairment changes. Impairment losses reduce the carrying amount of the asset on the balance sheet and subsequently reduce net income on the income statement. However, impairment charges are non-cash items and do not affect the working capital or the turnover ratio."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-79",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it incorrectly excludes the Current portion of long-term interest-bearing debt from the Total debt and calculates the Debt-to-capital ratio as Total debt / (Total debt + Total shareholders' equity), which leads to an error in the calculation. The correct formula for the debt to capital ratio is (Short-term interest-bearing debt + Current portion of long-term interest-bearing debt + Non-current portion of long-term interest-bearing debt) / (Short-term interest-bearing debt + Current portion of long-term interest-bearing debt + Non-current portion of long-term interest-bearing debt + Total shareholders' equity). Using the correct formula, the calculation would be (700 + 500 + 800) / (700 + 500 + 800 + 7,500) = 2,000 / 9,500 = 0.211 or 21%."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the Debt-to-capital ratio is calculated correctly as (Short-term interest- bearing debt + Current portion of long-term interest-bearing debt + Non-current portion of long-term interest-bearing debt) divided by (Short-term interest-bearing debt + Current portion of long-term interest-bearing debt + Non-current portion of long-term interest-bearing debt + Total shareholders' equity), which results in (700 + 500 + 800) / (700 + 500 + 800 + 7,500) = 2,000 / 9,500 = 0.211 or 21%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it mistakenly calculates the Debt-to-equity ratio [(Short-term interest- bearing debt + Current portion of long-term interest-bearing debt + Non-current portion of long-term interest-bearing debt) / Total shareholders' equity], which results in an incorrect Debt-to-capital ratio."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-80",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the entity will recognize revenue when it is able to satisfy the performance obligation by transferring control to the customer. Factors to consider when assessing whether the customer has obtained control of an asset at a point in time involve whether the customer (not the entity/seller) has legal title."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the entity (the seller) will recognize revenue when it is able to satisfy the performance obligation by transferring control to the customer. Factors to consider when assessing whether the customer has obtained control of an asset at a point in time include whether the entity has a present right to payment."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the entity (the seller) will recognize revenue when it is able to satisfy the performance obligation by transferring control to the customer. Factors to consider when assessing whether the customer has obtained control of an asset at a point in time involve whether the customer (not the entity/seller) has the significant risks and rewards of ownership."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-81",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the carrying amount is zero due to the full amount having been expensed for financial accounting purposes, while the tax base of the asset was only reduced by one-fifth of the total cost in the first year. Additionally, taxable profit will be available against which the deductible temporary differences can be utilized. As the asset's carrying amount is less than the tax base, it will result in a deferred tax asset."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a deferred tax liability results when the asset's carrying amount is greater than the tax base."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the asset's carrying amount is less than the tax base, therefore it will result in a deferred tax asset."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-82",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the Cash conversion cycle = Days of Inventory on hand + Days of sales outstanding - Number of days of payables. If payables turnover were to decrease, it would increase the Number of days of payables, thereby increasing the CCC."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the Cash conversion cycle = Days of Inventory on hand + Days of sales outstanding - Number of days of payables. A decrease in inventory turnover would increase the Days of Inventory on hand, thereby increasing the cash conversion cycle."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the Cash conversion cycle = Days of Inventory on hand + Days of sales outstanding - Number of days of payables. An increase in the Days of sales outstanding would increase, not decrease, the cash conversion cycle."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-83",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the cash paid for interest is included in operating cash flows under US GAAP and may be included in operating or financing cash flows under IFRS. US GAAP classifies interest expense as an operating activity, even though the principal amount of the debt issued is classified as a financing activity. IFRS allows companies to classify interest expense as either an operating activity or a financing activity."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the cash paid for interest is included in operating cash flows under US GAAP."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the cash paid for interest is included in operating cash flows under US GAAP and may be included in operating or financing cash flows under IFRS."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-84",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the company's trailing 12 months earnings for the period ended 30 June of Year 2 are calculated as (Earnings as of 31 December of Year 1 - Earnings as of 30 June of Year 1) + Earnings as of 30 June of Year 2. It's (1,500 - 2,000) + 2,200 = 3,700."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the provided explanation seems to be incorrect. The correct calculation for the trailing 12 months earnings is not just the sum of Earnings as of 31 December of Year 1 and Earnings as of 30 June of Year 2. The correct formula should consider the earnings over the last 12 months leading to 30 June of Year 2."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the calculation method provided is incorrect. The trailing 12 months earnings should consider the cumulative earnings for the 12 months leading to the end of June of Year 2, not just the earnings at different intervals."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-85",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because even though Company 1 has the lowest leverage ratio among the three, it has a lower interest coverage ratio compared to Company 3, indicating it might not be the most solvent."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because Company 2 has higher leverage ratios than both Company 1 and Company 3 and a lower interest coverage ratio than Company 3, indicating it may not be the most solvent."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because solvency refers to the ability to meet long-term debt obligations. It can be evaluated using leverage and coverage ratios. Typically, higher leverage ratios indicate higher financial risk and weaker solvency. Also, a higher interest coverage ratio suggests stronger solvency. Comparing the information provided:\nCompany 1 Company 2 Company 3 Debt to assets ratio 0.20 0.25 0.15 Debt to equity ratio 0.25 0.33 0.23 Debt to capital 0.20 0.25 0.20 Financial leverage ratio 1.25 1.33 1.25 Interest coverage ratio 2.00 2.50 3.02\nAmong the three companies, Company 3 has the lowest debt proportionately (comparing debt ratios) and the highest interest coverage ratio, indicating it might be the most solvent among the options provided. Therefore, the correct answer is C, Company 3."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-86",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the carrying amount of an asset being higher than its tax base is considered to be a temporary difference that results in a deferred tax liability."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the carrying amount of an asset being higher than its tax base is considered to be a temporary difference that results in a deferred tax liability."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the carrying amount of an asset being higher than its tax base is considered to be a temporary difference that results in a deferred tax liability. Deferred tax liabilities arise when the carrying amount of an asset exceeds its tax base, leading to taxable amounts in future periods when the temporary difference reverses. These differences affect accounting profit and taxable income, resulting in deferred tax liabilities, which are recognized on the balance sheet."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-87",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the debt-to-equity ratio measures the proportion of debt used to finance a company's assets compared to the equity. A debt-to-equity ratio of 1.0 indicates an equal amount of debt and equity. The debt-to-capital ratio calculates the proportion of debt financing in relation to the company's total capital. If the debt-to-equity ratio is 1.0, then the debt-to- capital ratio would be 0.5.\nDebt-to-equity ratio = Total debt / Total shareholder's equity = 1.0 Debt-to-capital ratio = Total debt / (Total debt + Total shareholder's equity) = 1.0 / (1.0 + 1.0) = 1.0 / 2.0 = 0.5"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it incorrectly equates the debt-to-equity ratio with the debt-to-capital ratio, stating they both are 1.0."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it asserts that the debt-to-capital ratio is twice the debt-to-equity ratio. This is inaccurate as the debt-to-capital ratio is not necessarily double the debt-to-equity ratio."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-88",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the disclosure requirements under US GAAP regarding Property, Plant, and Equipment (PP&E) necessitate the disclosure of major classes of depreciable assets. Companies are mandated to reveal the balances of significant classes of depreciable assets, accumulated depreciation by major asset classes, and a general description of the depreciation methods used for computing depreciation expense related to those major classes of depreciable assets."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the revaluation model is not permitted under US GAAP for reporting long- lived assets. This model is allowed under IFRS but not under US GAAP."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because while IFRS necessitates a reconciliation of the carrying amount at the beginning and end of the period for each class of PP&E, under US GAAP, the disclosure requirements are less exhaustive. US GAAP requires a disclosure of depreciation expense for the period, balances of major classes of depreciable assets, accumulated depreciation by major asset classes, and a general description of the depreciation methods used for computing depreciation expense related to those major classes of depreciable assets. Thus, the reconciliation of the carrying amount at the beginning and end of the period is not specifically required under US GAAP for PP&E disclosures."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-89",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the fixed asset turnover ratio would be higher for a company with newer assets (which are less depreciated and thus reflected in the financial statements at a higher carrying value) compared to a company with older assets (which are more depreciated and thus reflected at a lower carrying value)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the fixed asset turnover ratio would be higher for a company with newer assets (which are less depreciated and thus reflected in the financial statements at a higher carrying value) compared to a company with older assets (which are more depreciated and thus reflected at a lower carrying value)."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the fixed asset turnover ratio would be higher for a company with newer assets (which are less depreciated and thus reflected in the financial statements at a higher carrying value) compared to a company with older assets (which are more depreciated and thus reflected at a lower carrying value)."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-90",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the interest coverage ratio measures the number of times a company's EBIT could cover its interest payments. A higher interest coverage ratio indicates stronger solvency, offering greater assurance that the company can service its debt from operating earnings. Accordingly, the Interest Coverage Ratio for Year 1 is 40/8 = 5 and for Year 2 is 35/6 = 5.83, which shows an increase in the interest coverage ratio from Year 1 to Year 2, indicating improved solvency."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the financial leverage ratio, which measures the proportion of total assets financed by equity, has increased from Year 1 (Financial Leverage Ratio: 450/120 = 3.75) to Year 2 (Financial Leverage Ratio: 500/100 = 5), implying higher leverage and weaker solvency."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because while the interest coverage ratio has improved (indicating better solvency), the financial leverage ratio has increased, signaling higher leverage and weaker solvency. Therefore, both ratios do not indicate improved solvency from Year 1 to Year 2."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-91",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it assumes the cash proceeds from the sale of PP&E went towards emmer cash flow from operating or cash whom financing, and not cash flow Fom invesung."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it incorrectly subtracts the gain from the carrying amount to calculate the sales proceeds. Thes sales proceeds = carrying amount-gain on sale = 75-2 = 73."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the gain or loss on the sale of long-livec assets is computed as the sales proceeds minus the carrying amount of the asset at the time of sale. An asset's carrying amount is typically the net book value e The historical cost minus accumulated depreciation), unless the assets carrying amount has been changed to reflect imparentador revaluation, as previously discussed Ignoring taxes, the cash low from the sale would appear as a cash inflow from investing Thus gain on sale of long lived asset sales proceeds-carrying semount. Rearranging, sales proceeds gan ce sale of long lived asset + carrying amount -2+75-77."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-92",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the license has an indefinite tre and is not amortised Only those intangible assets assumed to have file useful lives are amorised over then uselu Ives, following the pallen in which the benelts are used up. Examples of Intangible assets with indefinite useful lives include an acquired license that, although it has a specific expiration date, can be renewed at little or no cost and an acquired trademark that, although it has a specific expiration, can be renewed at a minimal cost and relates to a product that a company plans to continue selling for the foreseeable finire Intangible assets with indefinite lives are not amortised Instead, they are camed on the balance sheet at historical cost but are tested at least annualy for impairment."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the license has an indelene and is therefore not amcised. Intangible assets will dele lives am not amorised instead they am camos on the balance shoot at historical cast hur am tested at least annually for impairment."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the license has an indennite line and is therefore not amortised. Intangible assets will deinte Ives are not amortised. Instead, they are camed on the balance sheet at historical cost but are tested at least annually for impairment."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-93",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it calculates the canying amount of the equipment-historical cost+ accumulated deprecision -50+5-55. Consequently, the gain on the sale seting price-carrying amount-55-55-3"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because il calculates the gem on the sale seting price-historical cust-56-50-0."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the gain or loss on the sale of long livec assets is computed as the sales proceeds minus the carrying amount of the asset at the time of sale. An asset's carrying amount is typically the net book value (Le.. the historical cost minus accumulated depreciation). The carrying amount of the equipment - historical cost- accumulated depreciation-50-5-65, and the gain on the sale-selling prion-canying amount-58-45-13"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-94",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "toneret nec it is the carrying amount of the inventory, being Mingos Net rezate value) Min(750 1100-50-501-0 (which is also equal to the cost of the inventory) RS state that centres sal be measured (and carried on the balance sheet) at the lower of cost and nes realizable value. While the nec realizable value is the estimated selling price in the ordinary course of business less the estimated costs necessary to make the sale and estimated cons to get the inventory in condition for sale"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because if calculates Nel realizable value-Cost of inventory+ Estimated ccals necessary to make the sale Estimated costs to get the inventory in condition for sale; or 760-60- 50-650."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the net realizable value is the estimated seling price in the ordinary course of business less the estimated costs conessary in make the san and estimated costs to get the inventory condrion for save Accordingly, the net realzable value 1,100-50-50-1200"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-95",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the quick ratio is a liquidry ratio which measures a company's ability to meet its short-term obligations."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the operating profit margin is a profitably ratio which measures a company's ability to generate profits from its resources (assets)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because days of payables outstanding is an activity ratio which measures how efficiently a company performs day-to-day tasks, such as the collection of receivables and management of inventory"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-96",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it is the Cash ratio. The Cash ratio (Cash and equivalents + Short-term marketable secunes)/Cumen bones. The calculation is (000+ 5000/10.000-1,300/10,000 -0.13 or 13%"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the Quick ratio (Cash and equivalents Short term marketable securities Receivables)/ Current labilities. The calculation is (800+500 2,000)/10,000 = 3,300/10.000 = 0 33, or 33%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it is the Current ratio. The Cument rato-Current assets/Current liabilities, the calculation is (800 + 500+ 700 + 2000) 10,000-01, nr 40%"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-97",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the total debt ratio = total debt/total assets = 100/400 = 0.25."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it calculates the debt-to-equity ratio = total debt / total equity = 100 / 200 = 0.50. This ratio may also be incorrectly calculated by dividing total liabilities by total assets (200 / 400 = 0.50)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it calculates the financial leverage ratio = total assets / total equity = 400 / 200 = 2.00."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-98",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the major sources of cash for a company can vary with its stage of growth. For a mature company, it is expected and desirable that operating activities are the primary source of cashflow. Over the long term, a company must generate cash from its operating activities. If operating cash flow were consistently negative, a company would need to borrow money or issue stock (financing activities) to fund the shortfall. Eventually, these providers of capital need to be repaid from operations, or they will no longer be willing to provide capital."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because for a mature company, it is expected and desirable that operating activities are the primary source of cash flows. Cash generated from operating activities can be used in other investing or financing opportunities or other business ventures if the company has good opportunities to invest."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because for a mature company, it is expected and desirable that operating activities are the primary source of cash flows. Cash generated from operating activities can be used in either investing or financing activities if the company does not have profitable investment opportunities. Alternatively, the cash should be returned to shareholders or debt providers as part of financing activities."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-99",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it assumes only the incurred actual costs as being recognized as revenue - €0.5 million. The standard states that for performance obligations satisfied over time (e.g., where there is a long-term contract), revenue is recognized over time by measuring progress toward satisfying the obligation."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it assumes that revenue is only recognized according to the same elapsed time. However, the standard refers to performance obligations satisfied over time and requires that progress toward complete satisfaction of the performance obligation be measured based on an input method, such as the one illustrated here (recognizing revenue based on the proportion of total costs that have been incurred in the period) or an output method (recognizing revenue based on units produced or milestones achieved). Accordingly, the calculation becomes €500,000 (costs incurred in Year 1) / €2,000,000 (total estimated costs) * €3,000,000 (total contract value) = €750,000."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the standard states that for performance obligations satisfied over time (e.g., where there is a long-term contract), revenue is recognized over time by measuring progress toward satisfying the obligation. The standard refers to performance obligations satisfied over time and requires that progress toward complete satisfaction of the performance obligation be measured based on an input method, such as the one illustrated here (recognizing revenue based on the proportion of total costs that have been incurred in the period) or an output method (recognizing revenue based on units produced or milestones achieved). Accordingly, the company has incurred 25% of the total expected costs (€500,000 / €2,000,000) and will thus recognize 25% of €3,000,000 (€750,000) as revenue in Year 1."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-100",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because there are several advantages to leasing an asset compared with purchasing. Leases typically require little or no down payment upfront."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because under IFRS, there is a single accounting model for both finance and operating leases. At lease inception, the lessee records a lease liability and a right-of-use (ROU) asset on its balance sheet, both equal to the present value of future lease payments. For lessees, there are lease accounting exemptions for certain lease contracts if the term is 12 months or less (IFRS and US GAAP) or if it is for a low-value asset, up to $5,000 in sales price (IFRS only), whereas lessees can elect to recognize the lease payments as expenses on a straight-line basis."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because under IFRS, there is a single accounting model for both finance and operating leases for lessees. At lease inception, the lessee records a lease liability and a right-of- use (ROU) asset on its balance sheet, both equal to the present value of future lease payments."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-101",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because to determine the cash paid for other operating expenses, it is necessary to adjust the other operating expenses amount on the income statement by the net changes in prepaid expenses and accrued expense liabilities for the year. Accordingly, Cash paid for other operating expenses = Other operating expenses - Decrease in prepaid expenses - Increase in other accrued liabilities = 4,500 - 200 - 300 = 4,000."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it added the decrease in prepaid expenses instead of subtracting it. 4,500 + 200 - 300 = 4,400."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it added the increase in accrued liabilities instead of subtracting it. 4,500 - 200 + 300 = 4,600."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-102",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it calculated the carrying amount of the equipment (purchase price of the equipment - accumulated depreciation) = 1,000 - 250 = 750."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the gain or loss on the sale of long-lived assets is computed as the sales proceeds minus the carrying amount of the asset at the time of sale. The calculation should be Cash flow from the sale of the equipment = Sale proceeds - Carrying amount of the equipment + Gain on sale of the equipment = (1,000 - 250) + 400 = 1,150."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it calculated the cash flow from the sale of equipment (purchase price of the equipment + gain on sale of the equipment) = 1,000 + 400 = 1,400."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-103",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the transaction will not increase net income for the current year since delivery of services does not happen in the current year. No revenue is recognized in the current year for services to be delivered in the following year."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because a payment received in advance is recorded as a liability for unearned revenue when the cash is initially received, and revenue will be recognized over time as products and services are delivered."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the cash flow will be recognized in the current year even though the revenue will not be recognized until the following year. The receipt of cash in the current year will increase cash flow from operating activities in the current year rather than the following year."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-104",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because an upward asset revaluation only affects the fixed assets on the asset side and the surplus account in equity; the numerator remains unchanged. It leads to an increased total asset value and therefore has a direct relationship only with the PP&E on the asset side and the surplus account in equity; the numerator is unaffected, and only the denominator increased. This leads to a decreased total asset turnover."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the upward revaluation increases the fixed asset value causing an increased total asset value. Total assets in the denominator increase while the numerator (net sales) remains the same. This results in a higher total asset turnover."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the upward revaluation increases the fixed asset value, therefore increasing the denominator (total assets) but the total debt remains unchanged in the numerator. This leads to a decrease in the debt-to-assets ratio."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-105",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because US GAAP classifies dividends paid to stockholders as a financing activity, whereas IFRS allows companies to classify dividends paid as either an operating activity or a financing activity."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because US GAAP classifies dividends paid to stockholders as a financing activity, whereas IFRS allows companies to classify dividends paid as either an operating activity or a financing activity."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because US GAAP classifies dividends paid to stockholders as a financing activity, whereas IFRS allows companies to classify dividends paid as either an operating activity or a financing activity."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-106",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because this is the third of five steps in recognizing revenue according to the converged accounting standard for revenue recognition."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because this is the first of five steps in recognizing revenue according to the converged accounting standard for revenue recognition. The [converged accounting standard for revenue recognition] describes the application of five steps in recognizing revenue:\n1. Identify the contract(s) with a customer\n2. Identify the separate or distinct performance obligations in the contract\n3. Determine the transaction price\n4. Allocate the transaction price to the performance obligations in the contract\n5. Recognize revenue when (or as) the entity satisfies a performance obligation."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this is the second of five steps in recognizing revenue according to the converged accounting standard for revenue recognition."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-107",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because this metric indicates the number of times company EBIT can cover the interest payments. Higher coverage ratios provide assurance that the company can service debt from operating earnings."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this defines the debt-to-equity ratio (instead of the financial leverage ratio). The debt-to-equity ratio measures the amount of debt financing relative to equity financing. Higher debt-to-capital or debt-to-equity ratios imply weaker solvency."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because this defines the financial leverage ratio. The financial leverage ratio (also known as the leverage ratio or equity multiplier) measures the financial support provided by one money unit of equity. The higher the financial leverage ratio, the more leveraged the company is in the sense of using debt and other liabilities to finance assets. This ratio is often calculated using average total assets and average total equity and plays an important role in the DuPont decomposition of return on equity."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-108",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because this metric indicates the amount of time that elapses from the point when a company invests in working capital until the point at which the company collects cash. Consequently, the cash conversion cycle does not indicate the degree to which a company's liquid assets can cover daily cash expenditures."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because this ratio measures how long the company can continue to pay its expenses from its existing liquid assets without receiving any additional cash inflow."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this measure focuses on the degree to which the company's earnings can cover its fixed charges. This ratio relates fixed charges or obligations to the cash flow generated by the company. It measures the number of times a company's earnings (before interest, taxes, and lease payments) can cover the company's interest and lease payments."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-109",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because under both IFRS and US GAAP, accounting goodwill arising from acquisitions is capitalized."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because under both IFRS and US GAAP, accounting goodwill arising from acquisitions is capitalized. Goodwill is not amortized but is tested for impairment annually. If goodwill is deemed to be impaired, an impairment loss is charged against income in the current period."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because under both IFRS and US GAAP, accounting goodwill arising from acquisitions is capitalized. Goodwill is not amortized but is tested for impairment annually. If goodwill is deemed to be impaired, an impairment loss is charged against income in the current period."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-110",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because when a cash flow statement has been presented using the indirect method, operating cash inflows and outflows are not separately presented; therefore, the common-size cash flow statement shows only the net operating cash flow (net cash provided by or used in operating activities) as a percentage of total inflows or outflows, depending on whether the net amount was a cash inflow or outflow. Because the net amount is an outflow, it should be calculated as a percentage of total cash outflows as follows: 750/2500=30%"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because when a cash flow statement has been presented using the indirect method, operating cash inflows and outflows are not separately presented; therefore, the common-size cash flow statement shows only the net operating cash flow (net cash provided by or used in operating activities) as a percentage of total inflows or outflows, depending on whether the net amount was a cash inflow or outflow. Because the net amount is an outflow, it should be calculated as a percentage of total cash outflows as follows: 750/2500=30%. The incorrect answer is obtained by dividing net cash used in operations by total cash inflows: 750/1500=50%"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because when a cash flow statement has been presented using the indirect method, operating cash inflows and outflows are not separately presented; therefore, the common-size cash flow statement shows only the net operating cash flow (net cash provided by or used in operating activities) as a percentage of total inflows or outflows, depending on whether the net amount was a cash inflow or outflow. Because the net amount is an outflow, it should be calculated as a percentage of total cash outflows as follows: 750/2500=30%. The incorrect answer is obtained by dividing net cash used in operations by the net decrease in cash: 750/1000=75%"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-111",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because when a company disposes of or establishes a plan to dispose of one of its component operations and will have no further involvement in the operation, the income statement reports separately the effect of this disposal as a \"discontinued\" operation under both IFRS and US GAAP. Financial standards provide various criteria for reporting the effect separately, which are generally that the discontinued component must be separable both physically and operationally."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because items of income or expense that are material and/or relevant to the understanding of the entity's financial performance should be disclosed separately under IFRS. Unusual or infrequent items may meet these criteria, for instance, restructuring charges or gains/losses arising from asset sales, but these are considered part of ordinary activities."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because both IFRS and US GAAP specify that the results of discontinued operations should be reported separately from continuing operations."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-112",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it does not reflect the correct calculation for impairment loss under the cost model. The impairment loss under the cost model is recognized when the carrying amount of an asset exceeds its recoverable amount. The recoverable amount is the higher of fair value less costs to sell and value in use. In this case, the recoverable amount would be €1,700 (Fair value - Costs to sell). Therefore, the impairment loss is €300 (Carrying amount - Recoverable amount = €2,000 - €1,700)."
+      },
+      {
+        "isCorrect": true,
+        "reason": ". Under ISA 36, an impairment loss is measured as the excess of carrying amount over the recoverable amount of the asset. The recoverable amount of an asset is defined as the higher of its fair value less costs to sell and its value in use. Value in use is a discounted measure of expected future cash flows. As the recoverable amount = MAX (Fair value less costs to sell, value in use) = MAX [(1700 – 50); 1500] = 1650, the impairment loss = carrying amount – recoverable amount = 2000 – 1650 = 350"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it calculates the recoverable amount as the lower of its fair value less costs to sell and its value in use. Accordingly, the recoverable amount = MIN(Fair value less costs to sell, value in use) = MIN [(1700 – 50); 1500] = 1500, the impairment loss = carrying amount – recoverable amount = 2000 – 1500 = 500"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-113",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because when an asset is retired or abandoned, the accounting is similar to a sale, except that the company does not record cash proceeds. Assets are reduced by the carrying amount of the asset at the time of retirement or abandonment, and a loss equal to the assets carrying amount is recorded. The carrying amount of the asset is 10 at the time of abandonment. As a result, the asset's carrying value will be reduced to 0, resulting in a loss of 10 on the income statement, and will have no cash impact on the cash flow statement"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it calculates the loss of 1 on the income statement by using the fair value at the time of abandonment which is incorrect because the cost model is applied."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because there should be no cash impact on the cash flow statement. However, the decrease of 1 on the cash flow statement is due to the incorrect recognition of the 1 fair value at the time of abandonment"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-114",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the calculation seems to have computed the tax burden (approximately 42.78%) rather than the average tax rate. The tax burden is one minus the average tax rate, indicating how much of a company's pretax profits it retains."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it appears to have confused Return on Equity (ROE) with Return on Assets (ROA) in the calculation. ROE can be dissected through the DuPont analysis formula: ROE = Tax Burden × Interest Burden × EBIT Margin × Total Asset Turnover × Financial Leverage. With the given values, the estimated tax burden is approximately 53.48%, hence the average tax rate would be approximately 47%."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the calculation seems to employ the DuPont analysis formula: ROE = Tax Burden × Interest Burden × EBIT Margin × Total Asset Turnover × Financial Leverage. Utilizing this formula with the provided values yields an estimated tax burden of around 42.78%. Tax burden reflects one minus the average tax rate, or how much of a company’s pretax profits it gets to keep. Thus average tax rate = 1 – Tax burden = 57.22% ~ 57%"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-115",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it mentions \"estimated useful life\" instead of \"remaining useful life\" of the class, as required. Under IFRS, for each class of property, plant, and equipment, a company must disclose remaining useful life (or useful life only)."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because for each class of property, plant, and equipment carried under the cost model, a company must disclose various details such as measurement bases, depreciation method, useful lives, depreciation rate used, gross carrying amount, accumulated depreciation at the beginning and end of periods, reconciliation of carrying amount at the start and end of the period, and additional disclosures such as restrictions on title, liens on property, and contractual agreements."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because disclosing the details of how fair value was obtained is necessary for classes of PP&E under the revaluation model, not the cost model. Under IFRS, if the revaluation model is applied, disclosure requirements encompass the date of revaluation, particulars of fair value determination, carrying amount under the cost model, and the revaluation surplus."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-116",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it is recognized in profit and loss instead of other comprehensive income. Under IFRS, the change in the net pension asset or liability each period is viewed as having three general components. Two of the components of this change are recognized as pension expense in profit and loss: (1) employees' service costs and (2) the net interest expense or income accrued on the beginning net pension asset or liability."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because under IFRS, the change in the net pension asset or liability each period is viewed as having three general components. Two of the components of this change are recognized as pension expense in profit and loss: (1) employees' service costs and (2) the net interest expense or income accrued on the beginning net pension asset or liability. The third component of the change in the net pension asset or liability during a period— remeasurements—is recognized in other comprehensive income. Remeasurements are not amortized into profit or loss over time. Remeasurements include (a) actuarial gains and losses."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it is recognized in profit and loss instead of other comprehensive income. Under IFRS, the change in the net pension asset or liability each period is viewed as having three general components. Two of the components of this change are recognized as pension expense in profit and loss: (1) employees' service costs and (2) the net interest expense or income accrued on the beginning net pension asset or liability."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-117",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because FCFE is equal to FCFF."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because under U.S. GAAP, free cash flow to the firm is calculated as CFO + int(1 - tax rate) - capital expenditures. Since the firm has interest-bearing debt outstanding, $18,000 ($10,000(1-0.4)) is added back to CFO in calculating FCFF. In addition, the capital expenditures of $82,000 are subtracted, so the equation becomes CFO + $18,000 - $82,000 for a net decrease to CFO of $64,000 ($18,000 - $82,000 = -$64,000). The calculation for free cash flow to equity is CFO - capital expenditures - net borrowing with no adjustment for interest paid under US GAAP. The calculation becomes CFO - $82,000 + $18,000 for a net decrease to CFO of $64,000 ($82,000 - $18,000 = $64,000). Therefore, FTE will be equal to FCFE, as the after-tax interest add-back to FCFF is equal to the net borrowing add-back to FCFE, and CFO and capital expenditures are the same for both."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because FCFE is equal to FCFF."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-118",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because US GAAP used to specify the lower of cost or market to value inventories. For fiscal years beginning after December 15, 2016, inventories measured using other than LIFO and retail inventory methods are measured at the lower of cost or net realizable value."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because under US GAAP for fiscal years beginning after December 15, 2016, inventories measured using other than LIFO and retail inventory methods are measured at the lower of cost or net realizable value."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because US GAAP used to specify the lower of cost or market to value inventories. For fiscal years beginning after December 16, 2016, inventories measured using other than FIFO and retail inventory methods are measured at the lower of cost or net realizable value. This answer incorrectly uses some of the inventory measurement restrictions under US GAAP for FIFO. For inventories measured using FIFO and retail inventory methods, market value is defined as current replacement cost subject to upper and lower limits. Market value cannot exceed net realizable value."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-119",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because under US GAAP, all investments in equity securities (other than investments giving rise to ownership positions that confer significant influence over the investee) are measured at fair value with unrealized holding gains or losses recognized in the income statement."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because under US GAAP, all investments in equity securities (other than investments giving rise to ownership positions that confer significant influence over the investors) are measured at fair value with unrealized holding gains or losses recognized in the income statement."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because under US GAAP, all investments in equity securities (other than investments giving rise to ownership positions that confer significant influence over the investors) are measured at fair value with unrealized holding gains or losses recognized in the income statement."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-120",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it subtracts the preferred dividends from net income in the diluted EPS calculation. Accordingly, Diluted EPS = (€2,500,000 - 1,000,000 × 1) / (2,000,000 + 2 × 1,000,000) = €1,500,000 / 4,000,000 = €0.375 = €0.38."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it subtracts the preferred dividends multiplied by an after-tax percentage from net income in the diluted EPS calculation. Accordingly, Diluted EPS = (€2,500,000 - 1,000,000 × 1) + [2 × (1-0.4)] / (2,000,000 + 2 × 1,000,000) = €1,800,000 / 4,000,000 = €0.45 = €0.48."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because when a company has convertible preferred stock outstanding, diluted EPS is calculated using the if-converted method. The formula to calculate diluted EPS using the if- converted method for preferred stock is: Diluted EPS = Net income / (Weighted average number of shares outstanding + New common shares that would have been issued at conversion). Therefore, Diluted EPS = €2,500,000 / (2,000,000 + 2 × 1,000,000) = €2,500,000 / 4,000,000 = €0.625 = €0.63. However, diluted EPS, by definition, is always equal to or less than basic EPS. Basic EPS = (Net income - Preferred dividends) / (Weighted average number of shares outstanding) = (€2,600,000 - 1,000,000) / 2,000,000 = €1,600,000 / 2,000,000 = €0.80 = €0.75. Therefore, the convertible preferred stocks are dilutive, and diluted EPS = €0.63."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-121",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it subtracts the preferred dividends from net income in the diluted EPS calculation. The calculation becomes: Diluted EPS = (€5,000,000 - 400,000 × €2) / (2,000,000 + 6 × 400,000) = (€5,000,000 - €800,000) / €4,400,000 = €4,200,000 / €4,400,000 = €0.95."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it subtracts the common dividends from net income in the diluted EPS calculation. The calculation becomes: Diluted EPS = (€5,000,000 - €500,000) / (2,000,000 + 6 × 400,000) = €4,500,000 / €4,400,000 = €1.02."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because when a company has convertible preferred stock outstanding, diluted EPS is calculated using the if-converted method. The formula to calculate diluted EPS using the if- converted method for preferred stock is: Diluted EPS = Net income / (Weighted average number of shares outstanding + New common shares that would have been issued at conversion). Therefore, Diluted EPS = €5,000,000 / (2,000,000 + 6 × 400,000) = €5,000,000 / €4,400,000 = €1.14. Checking that diluted EPS, by definition, is always equal to or less than basic EPS. Basic EPS = (Net income - Preferred dividends) / (Weighted average number of shares outstanding) = (€5,000,000 - €400,000) / 2,000,000 = €4,600,000 / 2,000,000 = €2.30 = €2.1. Therefore, the convertible preferred stocks are dilutive, and diluted EPS is €1.14."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-122",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it states Cash and cash equivalents as a percentage of Revenue instead of Total assets. Consequently, the calculation becomes Cash and cash equivalents / (Cash and Cash equivalents + Total assets) = 40 / (40 + 125 + 35) = 40 / 160 = 20%."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because vertical common-size analysis involves stating each balance sheet item as a percentage of total assets. Accordingly, Cash and cash equivalents is stated as a percentage of Total assets: Cash and cash equivalents / (Total current assets + Total non-current assets) = 40 / (125 + 35) = 40 / 160 = 25%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it states Cash and cash equivalents as a percentage of Total current assets instead of Total assets. Consequently, the calculation becomes Cash and cash equivalents / Total current assets = 40 / 125 = 32%."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-123",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because Payables turnover = Purchases / Average trade payables, or Purchases (proxied by cost of sales) / Average trade payables = 1,800 / ((180 + 220) / 2) = 1,800 / 200 = 9. The number of days of payables reflects the average number of days the company takes to pay its suppliers, and the payables turnover ratio measures how many times per year the company theoretically pays off all its creditors. For purposes of calculating these ratios, an implicit assumption is that the company makes all its purchases using credit. Cost of goods sold (or cost of sales) is sometimes used as an approximation of purchases."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it uses ending accounts payable rather than average payables in the denominator of the calculation, or = 1,800 / 180 = 10."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it uses sales rather than cost of sales in the numerator of the calculation, or = 2,400 / ((180 + 220) / 2) = 2,400 / 200 = 12."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-124",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the Cash conversion cycle (net operating cycle) (CCC) = Days of inventory on hand + Days of sales outstanding - Number of days of payables, and thí metrics indicates the amount of time that elapses from the point when a company invests in working capital until the point at which the company collects cash. A shorter cash coversion cycle indicates greater liquidity. A longer cash conversion cycle indicates lower liquidity. Also, Payables turnover = Purchases/ Average trade payables and Number of days of payables = Number of days in period / Payables turnover. Accordingly, the number of days payables for Year 2 = Number of days in period / Payables turnover, or 365 / 36 = 10.1389 and the number of days payables for Year 1 = Number of days in period / Payables turnover = 365 / 18 = 20.2778 (365 is used for the number of days in a year given the annual date). The CCC for Year 2 = DOH + DOS – Number of days of payalbes, or 11 + 24 – 10.1389 = 24.8611 and the CCC for Year 1 = 14.7222. As the CCC is higher (longer) in Year 2 than in Year 1, the company’s liquidity based on its CCC alone has deteriorated."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it did not consider the Number of days of payables in the calculation of the CCC. The calculation CCC for Year 2 = Days of inventory on hand + Days of sales outstanding = 11 + 24 = 35, and CCC for Year 1 = Days of inventory on hand + Days of sales outstanding = 13 + 22 = 35. As the CCC calculated for Year 2 is the same as Year 1, the company's liquidity based on its CCC alone remained the same."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it did not convert the Payables turnover ratio to Number of days of payables. Instead, CCC for Year 2 = Days of inventory on hand + Days of sales outstanding - Payables turnover = 11 + 24 - 36 = -1, and CCC for Year 1 = Days of inventory on hand + Days of sales outstanding - Payables turnover = 13 + 22 - 18 = 17. As the CCC is lower (shorter) in Year 2 than in Year 1, the company's liquidity based on its CCC alone appears to have improved."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-125",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the role of financial reporting issued by companies is to provide information about a company's performance, financial position, and changes in financial position. The answer describes the role of management analyses managers within a company perform financial analysis to make operating, investing, and financing decisions but do not necessarily rely on analysis of related financial statements."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the role of financial reporting issued by companies is to provide information about a company's performance, financial position, and changes in financial position."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the role of financial reporting issued by companies is to provide information about a company's performance, financial position, and changes in financial position. The answer describes the role of financial statement analysis. The role of financial statement analysis is to use financial reports prepared by companies, combined with other information, to evaluate the past, current, and potential performance and financial position of a company for the purpose of making investment, credit, and other economic decisions."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-126",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it uses Net income instead of EBIT. Accordingly, Fixed charge coverage ratio = (Net income + Lease payments) / (Interest payments + Lease payments) = (8 + 4) / (6 + 4) = 12 / 10 = 1.2."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it sums Lease payments in the numerator. Accordingly, Fixed charge coverage ratio = EBIT / (Interest payments + Lease payments) = 16 / (6 + 4) = 16 / 10 = 1.6."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the fixed charge coverage ratio relates fixed financing charges, or obligations, to the cash flow generated by the company. It measures the number of times a company's earnings (before interest, taxes, and lease payments) can cover the company's interest and lease payments. Accordingly, Fixed charge coverage ratio = (EBIT + Lease payments) / (Interest payments + Lease payments) = (16 + 4) / (6 + 4) = 20 / 10 = 2.0. For computing this ratio, an assumption sometimes made is that one-third of the lease payment amount represents interest on the lease obligation and that the rest is a repayment of principal on the obligation. For this variant of the fixed charge coverage ratio, the numerator is EBIT plus one-third of lease payments, and the denominator is interest payments plus one-third of lease payments. Accordingly, Fixed charge coverage ratio = (EBIT + (Lease payments / 3)) / (Interest payments + (Lease payments / 3)) = (16 + (4 / 3)) / (6 + (4 / 3)) = (16 + 1.33) / (6 + 1.33) ≈ 17.33 / 7.33 ≈ 2.36, which is also closest to 2.0."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-127",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because, under US GAAP, a valuation allowance for deferred tax assets impacts the effective tax rate only. Establishing a valuation allowance reduces the deferred tax asset and income in the period in which the allowance is established. Also, Reported effective tax rate = Income tax expense / Pretax income (Accounting profit)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because, under US GAAP, the recognition of a valuation allowance for deferred tax assets impacts the effective tax rate only."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because, under US GAAP, the recognition of a valuation allowance for deferred tax assets impacts the effective tax rate only."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-128",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because under US GAAP, companies are required to use the cost model to value intangible assets. IFRS allows companies to value intangible assets under a cost model or under a revaluation model. The revaluation model can only be selected when there is an active market for an intangible asset."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the revaluation model is not allowed under US GAAP; however, IFRS permits the use of the revaluation model or the cost model."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the revaluation model is not allowed under US GAAP; however, IFRS permits the use of the revaluation model or the cost model."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-129",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because there are several advantages to leasing an asset compared to purchasing. Cost effectiveness: Leases are a form of secured borrowing. In the event of non-payment, the lessor simply repossesses the leased asset. As a result, the effective interest rate for a lease is typically lower than what the lessee would pay on an unsecured loan or bond."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because there are several advantages to leasing an asset compared to purchasing. Less cash is needed upfront. Lessees typically require little, if any, down payment."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because there are several advantages to leasing an asset compared to purchasing it: Convenience and lower risks associated with asset ownership such as obsolescence."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "FSA-130",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because to determine the approximate cash receipts from its customers, it is necessary to adjust this revenue by the net change in accounts receivable for the year. Revenue minus the change in receivables: 2,100 - (230 - 200) = 2,070."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it adds the change in cash to revenues rather than subtracting the change in receivables: 2,100 + (70 - 50) = 2,120."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it adds the change in accounts receivable to revenue rather than subtracting the change: 2,100 + (230 - 200) = 2,130."
+      }
+    ],
+    "note": ""
+  }
+]

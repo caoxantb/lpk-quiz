@@ -1,0 +1,917 @@
+[
+  {
+    "id": "ALT-1",
+    "question": "Compared to centralized cryptocurrency exchanges, decentralized exchanges are:",
+    "solutions": [
+      {
+        "answer": "Less likely to be regulated and less susceptible to attacks from hackers"
+      },
+      {
+        "answer": "Less likely to be regulated and more susceptible to attacks from hackers"
+      },
+      {
+        "answer": "More likely to be regulated and less susceptible to attacks from hackers"
+      }
+    ]
+  },
+  {
+    "id": "ALT-2",
+    "question": "Which of the following forms of digital asset investment most likely involves the use of a cryptocurrency wallet?",
+    "solutions": [
+      {
+        "answer": "Direct investment"
+      },
+      {
+        "answer": "Indirect investment via ETFs"
+      },
+      {
+        "answer": "Indirect investment via coin trusts"
+      }
+    ]
+  },
+  {
+    "id": "ALT-3",
+    "question": "The correlation of cryptocurrencies with traditional assets has been:",
+    "solutions": [
+      {
+        "answer": "Decreasing"
+      },
+      {
+        "answer": "Steady"
+      },
+      {
+        "answer": "Increasing"
+      }
+    ]
+  },
+  {
+    "id": "ALT-4",
+    "question": "Which of the following is most likely a major driver of bitcoin returns?",
+    "solutions": [
+      {
+        "answer": "Increased market adoption"
+      },
+      {
+        "answer": "The prospect of underlying cashflow generation"
+      },
+      {
+        "answer": "Consistently high correlation with traditional asset classes"
+      }
+    ]
+  },
+  {
+    "id": "ALT-5",
+    "question": "Cryptocurrencies can be issued by:",
+    "solutions": [
+      {
+        "answer": "individuals only"
+      },
+      {
+        "answer": "Corporations and organisations only"
+      },
+      {
+        "answer": "individuals, corporations and organisations"
+      }
+    ]
+  },
+  {
+    "id": "ALT-6",
+    "question": "Compared to traditional financial assets, digital assets:",
+    "solutions": [
+      {
+        "answer": "can be invested in through indirect investment vehicles such as ETFs"
+      },
+      {
+        "answer": "are generaly recorded in private ledgers maintained by central intermediaries"
+      },
+      {
+        "answer": "do not have an inherent value based on underlying assets or on potential cash flows"
+      }
+    ]
+  },
+  {
+    "id": "ALT-7",
+    "question": "A measure that restricts new investors in a hedge fund from redeeming their capital for a set amount of time in order to implement the fund's investment strategy is known as a:",
+    "solutions": [
+      {
+        "answer": "gate"
+      },
+      {
+        "answer": "notice period"
+      },
+      {
+        "answer": "lockup period"
+      }
+    ]
+  },
+  {
+    "id": "ALT-8",
+    "question": "Venture capital is best classified as a sub-category of.",
+    "solutions": [
+      {
+        "answer": "real estate"
+      },
+      {
+        "answer": "hedge funds"
+      },
+      {
+        "answer": "private equity"
+      }
+    ]
+  },
+  {
+    "id": "ALT-9",
+    "question": "A leveraged loan is best defined as a loan:",
+    "solutions": [
+      {
+        "answer": "that is itself levered"
+      },
+      {
+        "answer": "to mature companies in financial difficulty"
+      },
+      {
+        "answer": "that comes with warrants or conversion rights"
+      }
+    ]
+  },
+  {
+    "id": "ALT-10",
+    "question": "From the perspective of a private equity firm, an advantage of exiting a portfolio company through a special purpose acquisition company (SPAC) most likely include:",
+    "solutions": [
+      {
+        "answer": "floating valuation"
+      },
+      {
+        "answer": "flexibility of the transaction structure"
+      },
+      {
+        "answer": "lower deal risk due to restrictions on redemptions"
+      }
+    ]
+  },
+  {
+    "id": "ALT-11",
+    "question": "With respect to private equity, the growth capital strategy is also known as:",
+    "solutions": [
+      {
+        "answer": "venture capital"
+      },
+      {
+        "answer": "recapitalization"
+      },
+      {
+        "answer": "minority equity investing"
+      }
+    ]
+  },
+  {
+    "id": "ALT-12",
+    "question": "Which of the following hedge fund investments require the highest level of scrutiny and due diligence?",
+    "solutions": [
+      {
+        "answer": "Level 1 assets"
+      },
+      {
+        "answer": "Level 2 assets"
+      },
+      {
+        "answer": "Level 3 assets"
+      }
+    ]
+  },
+  {
+    "id": "ALT-13",
+    "question": "Hedge funds are most likely to place restrictions on:",
+    "solutions": [
+      {
+        "answer": "redemptions"
+      },
+      {
+        "answer": "the use of leverage"
+      },
+      {
+        "answer": "the use of derivatives"
+      }
+    ]
+  },
+  {
+    "id": "ALT-14",
+    "question": "Crude oil is categorized as:",
+    "solutions": [
+      {
+        "answer": "a soft commodity"
+      },
+      {
+        "answer": "a hard commodity"
+      },
+      {
+        "answer": "neithera soft commodity nor a hard commodity"
+      }
+    ]
+  },
+  {
+    "id": "ALT-15",
+    "question": "Compared with direct investing, co-investing in alternative investments most likely offers:",
+    "solutions": [
+      {
+        "answer": "reduced control over the investment selection prOcess"
+      },
+      {
+        "answer": "the same level of control over the investment selection process"
+      },
+      {
+        "answer": "higher control over the investment selection process"
+      }
+    ]
+  },
+  {
+    "id": "ALT-16",
+    "question": "Which of the following methods of investing in alternative investments provides the most flexibility to the investor?",
+    "solutions": [
+      {
+        "answer": "Co-investing"
+      },
+      {
+        "answer": "Fund investing"
+      },
+      {
+        "answer": "Direct investing"
+      }
+    ]
+  },
+  {
+    "id": "ALT-17",
+    "question": "Which of the following is best classified as a commodity?",
+    "solutions": [
+      {
+        "answer": "Livestock"
+      },
+      {
+        "answer": "Timberland"
+      },
+      {
+        "answer": "Agricultural land"
+      }
+    ]
+  },
+  {
+    "id": "ALT-18",
+    "question": "Investors in greenfield infrastructure projects typically:",
+    "solutions": [
+      {
+        "answer": "rely on the assets' financial and operating history"
+      },
+      {
+        "answer": "invest alongside strategic investors or developers"
+      },
+      {
+        "answer": "have lower development risk than investors in brownfield projects"
+      }
+    ]
+  },
+  {
+    "id": "ALT-19",
+    "question": "An analyst gathers the following information about a hedge fund:\nBeginning-of-year assets under management (AUM): $500 million\nAnnual return before fees: 22%\nManagement fee, based on end-of-year AUM before fees: 2%\nIncentive fee: 15%\nHard hurdle rate: 10%\nThe incentive fee (in $ millions) based on returns net of management fees is closest to:",
+    "solutions": [
+      {
+        "answer": "7.2"
+      },
+      {
+        "answer": "13.0"
+      },
+      {
+        "answer": "14.7"
+      }
+    ]
+  },
+  {
+    "id": "ALT-20",
+    "question": "A hedge fund strategy that seeks to influence a company's policies through the purchase of equity is best described as a(n):",
+    "solutions": [
+      {
+        "answer": "activist strategy"
+      },
+      {
+        "answer": "market-neutral strategy"
+      },
+      {
+        "answer": "merger arbitrage strategy"
+      }
+    ]
+  },
+  {
+    "id": "ALT-21",
+    "question": "Event-driven hedge fund strategies are most likely.",
+    "solutions": [
+      {
+        "answer": "long biased"
+      },
+      {
+        "answer": "based on 'top-down' analysis"
+      },
+      {
+        "answer": "exploiting short-term pricing discrepancies between two related securities"
+      }
+    ]
+  },
+  {
+    "id": "ALT-22",
+    "question": "Which of the following are best categorized as social infrastructure assets?",
+    "solutions": [
+      {
+        "answer": "Airports"
+      },
+      {
+        "answer": "Correctional facilities"
+      },
+      {
+        "answer": "Telecommunication towers"
+      }
+    ]
+  },
+  {
+    "id": "ALT-23",
+    "question": "Which of the following statements is most accurate? Alternative investments:",
+    "solutions": [
+      {
+        "answer": "tend to be more efficiently priced than traditional investments"
+      },
+      {
+        "answer": "fall outside of the definition of long-only positions in stocks, bonds, and cash"
+      },
+      {
+        "answer": "have relatively high correlation of returns with those of traditional investments"
+      }
+    ]
+  },
+  {
+    "id": "ALT-24",
+    "question": "An analyst gathers the following information about a hedge fund:\n• $200 million in assets under management at the beginning of year • a 2% management fee based on year-end assets under management • a 20% incentive fee calculated net of the management fee\nIf the fund's gross return is 25% during the year, the total fees earned by the fund manager are:",
+    "solutions": [
+      {
+        "answer": "$11 million"
+      },
+      {
+        "answer": "$14 million"
+      },
+      {
+        "answer": "$15 million"
+      }
+    ]
+  },
+  {
+    "id": "ALT-25",
+    "question": "Management fees are most likely based on assets under management for:",
+    "solutions": [
+      {
+        "answer": "hedge funds only"
+      },
+      {
+        "answer": "private equity funds only"
+      },
+      {
+        "answer": "both hedge funds and private equity funds"
+      }
+    ]
+  },
+  {
+    "id": "ALT-26",
+    "question": "A leveraged private investment vehicle that employs both long and short positions is most likely a:",
+    "solutions": [
+      {
+        "answer": "hedge fund"
+      },
+      {
+        "answer": "private equity fund"
+      },
+      {
+        "answer": "venture capital fund"
+      }
+    ]
+  },
+  {
+    "id": "ALT-27",
+    "question": "A feature that protects hedge fund clients from paying twice for the same performance is most likely a:",
+    "solutions": [
+      {
+        "answer": "discount"
+      },
+      {
+        "answer": "hurdle rate"
+      },
+      {
+        "answer": "high-water mark"
+      }
+    ]
+  },
+  {
+    "id": "ALT-28",
+    "question": "A joint venture is an alternative investment structure that is most likely used for:",
+    "solutions": [
+      {
+        "answer": "infrastructure investment"
+      },
+      {
+        "answer": "private equity investment"
+      },
+      {
+        "answer": "real estate direct investment"
+      }
+    ]
+  },
+  {
+    "id": "ALT-29",
+    "question": "Regarding distribution methods in alternative investments, which of the following is most advantageous to the limited partners? A(n):",
+    "solutions": [
+      {
+        "answer": "American waterfall"
+      },
+      {
+        "answer": "deal-by-deal waterfall"
+      },
+      {
+        "answer": "whole-of-fund waterfall"
+      }
+    ]
+  },
+  {
+    "id": "ALT-30",
+    "question": "Which of the following hedge fund mechanisms is most likely used to impose a temporary restriction on redemptions if needed?",
+    "solutions": [
+      {
+        "answer": "Gate"
+      },
+      {
+        "answer": "Notice period"
+      },
+      {
+        "answer": "Lockup period"
+      }
+    ]
+  },
+  {
+    "id": "ALT-31",
+    "question": "Which of the following infrastructure investments most likely have the highest risk?",
+    "solutions": [
+      {
+        "answer": "Brownfield investments with the majority of their return from current yield"
+      },
+      {
+        "answer": "Brownfield investments with the majority of their return from capital appreciation"
+      },
+      {
+        "answer": "Greenfield investments with the majority of their return from capital appreciation"
+      }
+    ]
+  },
+  {
+    "id": "ALT-32",
+    "question": "Which of the following methods of investing in alternative investments requires the least amount of investment expertise?",
+    "solutions": [
+      {
+        "answer": "Co-investing"
+      },
+      {
+        "answer": "Fund investing"
+      },
+      {
+        "answer": "Direct investing"
+      }
+    ]
+  },
+  {
+    "id": "ALT-33",
+    "question": "The benefits of adding investments in infrastructure assets to a portfolio most likely include:",
+    "solutions": [
+      {
+        "answer": "inflation protection only"
+      },
+      {
+        "answer": "low correlation with existing portfolio assets only"
+      },
+      {
+        "answer": "both inflation protection and low correlation with existing portfolio assets"
+      }
+    ]
+  },
+  {
+    "id": "ALT-34",
+    "question": "In co-investing, the investor invests in alternative assets indirectly through a fund but also has the:",
+    "solutions": [
+      {
+        "answer": "right to invest directly in the same assets alongside the fund"
+      },
+      {
+        "answer": "obligation to invest directly in the same assets alongside the fund"
+      },
+      {
+        "answer": "right to invest in the general partner's fund management company"
+      }
+    ]
+  },
+  {
+    "id": "ALT-35",
+    "question": "A disadvantage of direct real estate investing is:",
+    "solutions": [
+      {
+        "answer": "a lack of control"
+      },
+      {
+        "answer": "unfavorable tax rules"
+      },
+      {
+        "answer": "the time required to manage the property"
+      }
+    ]
+  },
+  {
+    "id": "ALT-36",
+    "question": "Which of the following statements about private debt is most accurate? Mezzanine debt: structure.",
+    "solutions": [
+      {
+        "answer": "is subordinated to equity in a borrower's capital"
+      },
+      {
+        "answer": "is less risky than senior secured debt issued by the same company"
+      },
+      {
+        "answer": "may include additional features such as warrants to provide equity participation to lenders"
+      }
+    ]
+  },
+  {
+    "id": "ALT-37",
+    "question": "Which of the following statements about private equity performance evaluation is most accurate?",
+    "solutions": [
+      {
+        "answer": "Private equity fund management fees are based on capital called"
+      },
+      {
+        "answer": "Cash flows are frequently described in terms of the J-curve effect"
+      },
+      {
+        "answer": "Managers have no discretion on the timing of the distribution of proceeds"
+      }
+    ]
+  },
+  {
+    "id": "ALT-38",
+    "question": "Which of the following is most likely a primary exit strategy for a company held by a private equity fund's portfolio?",
+    "solutions": [
+      {
+        "answer": "IPO"
+      },
+      {
+        "answer": "Management buy-in"
+      },
+      {
+        "answer": "Management buyout"
+      }
+    ]
+  },
+  {
+    "id": "ALT-39",
+    "question": "A hedge fund that seeks to profit from a view on overall market direction as influenced by economic trends best describes a:",
+    "solutions": [
+      {
+        "answer": "macro hedge fund"
+      },
+      {
+        "answer": "multi-strategy hedge fund"
+      },
+      {
+        "answer": "market-neutral hedge fund"
+      }
+    ]
+  },
+  {
+    "id": "ALT-40",
+    "question": "Which of the following is best categorized as core real estate?",
+    "solutions": [
+      {
+        "answer": "A high-quality office building in a rural area"
+      },
+      {
+        "answer": "A low-quality office building in a major urban center"
+      },
+      {
+        "answer": "A high-quality office building in a major urban center"
+      }
+    ]
+  },
+  {
+    "id": "ALT-41",
+    "question": "Compared with fund investing in alternative investments, the co-investing method most likely has:",
+    "solutions": [
+      {
+        "answer": "lower management fees"
+      },
+      {
+        "answer": "the same level of management fees"
+      },
+      {
+        "answer": "higher management fees"
+      }
+    ]
+  },
+  {
+    "id": "ALT-42",
+    "question": "Which of the following is best described as a relative value hedge fund strategy?",
+    "solutions": [
+      {
+        "answer": "Short biased"
+      },
+      {
+        "answer": "Special situations"
+      },
+      {
+        "answer": "Convertible bond arbitrage"
+      }
+    ]
+  },
+  {
+    "id": "ALT-43",
+    "question": "Which of the following statements about real estate assets is most accurate?",
+    "solutions": [
+      {
+        "answer": "Real estate assets are heterogeneous"
+      },
+      {
+        "answer": "Commercial property represents the majority of real estate assets by value"
+      },
+      {
+        "answer": "Private real estate has historically had high correlations with other asset classes"
+      }
+    ]
+  },
+  {
+    "id": "ALT-44",
+    "question": "Which of the following hedge funds most likely have a beta close to zero?",
+    "solutions": [
+      {
+        "answer": "Short-biased funds"
+      },
+      {
+        "answer": "Market-neutral funds"
+      },
+      {
+        "answer": "Fundamental long/short growth funds"
+      }
+    ]
+  },
+  {
+    "id": "ALT-45",
+    "question": "A hedge fund has the following characteristics:\n• Assets under management, beginning of year: $100 million • Assets under management, end of year: $120 million • Management fee: 1% of year-end assets under management • Performance fee: 15% of the annual return above a 3% hurdle rate\nIf the performance fee is calculated net of the management fee and there were no capital contributions or withdrawals, the net annual return to the investor is closest to:",
+    "solutions": [
+      {
+        "answer": "16.3%"
+      },
+      {
+        "answer": "16.4%"
+      },
+      {
+        "answer": "16.5%"
+      }
+    ]
+  },
+  {
+    "id": "ALT-46",
+    "question": "\n• Assets under management $1.5 billion, beginning of year • Annual return 20% • Management fee 2%, based on year-end valuation\n• Incentive fee 20%, calculated net of management fees\nIf the incentive fee is calculated on returns in excess of a 6% hurdle rate, total annual fees earned by the fund manager are closest to:",
+    "solutions": [
+      {
+        "answer": "$34,800,000"
+      },
+      {
+        "answer": "$70,800,000"
+      },
+      {
+        "answer": "$78,000,000"
+      }
+    ]
+  },
+  {
+    "id": "ALT-47",
+    "question": "What is the most likely effect of a redemption fee on the returns of the remaining investors in a hedge fund? A redemption fee:",
+    "solutions": [
+      {
+        "answer": "reduces investor returns"
+      },
+      {
+        "answer": "has no effect on investor returns"
+      },
+      {
+        "answer": "enhances investor returns"
+      }
+    ]
+  },
+  {
+    "id": "ALT-48",
+    "question": "If a commodity's storage cost is equal to its convenience yield, its futures prices will be greater than its spot price if the risk-free rate is:",
+    "solutions": [
+      {
+        "answer": "negative"
+      },
+      {
+        "answer": "zero"
+      },
+      {
+        "answer": "positive"
+      }
+    ]
+  },
+  {
+    "id": "ALT-49",
+    "question": "An analyst gathers the following information about a hedge fund:\nBeginning-of-year assets under management (AUM) €200 million Management fee, based on end-of-year AUM before fees 1.5% Incentive fee 20% Hard hurdle rate 5% Annual return before fees 15%.\nIf the incentive fee is based on returns net of management fees, total fees for the year are closest to",
+    "solutions": [
+      {
+        "answer": "€6.8 million"
+      },
+      {
+        "answer": "€7.5 million"
+      },
+      {
+        "answer": "€8.8 million"
+      }
+    ]
+  },
+  {
+    "id": "ALT-50",
+    "question": "In the private debt market, venture debt:",
+    "solutions": [
+      {
+        "answer": "entails buying the debt of mature companies in financial difficulty"
+      },
+      {
+        "answer": "provides capital to early-stage companies that may be generating little cash flow"
+      },
+      {
+        "answer": "entails buying the debt of mature companies in financial difficulty and provides capital to early-stage companies that may be generating little cash flow"
+      }
+    ]
+  },
+  {
+    "id": "ALT-51",
+    "question": "Timberland investments offer:",
+    "solutions": [
+      {
+        "answer": "an income stream only"
+      },
+      {
+        "answer": "the potential for capital gain only"
+      },
+      {
+        "answer": "both an income stream and the potential for capital gain"
+      }
+    ]
+  },
+  {
+    "id": "ALT-52",
+    "question": "Which of the following real estate investing strategies is most likely to focus on modest redevelopment or upgrades, the leasing of vacant space, and the repositioning of underlying properties to earn a higher return?",
+    "solutions": [
+      {
+        "answer": "Core-plus"
+      },
+      {
+        "answer": "Value-add"
+      },
+      {
+        "answer": "Opportunistic"
+      }
+    ]
+  },
+  {
+    "id": "ALT-53",
+    "question": "All else being equal, when a commodity futures market is in contango, the forward curve is most likely:",
+    "solutions": [
+      {
+        "answer": "downward sloping"
+      },
+      {
+        "answer": "flat"
+      },
+      {
+        "answer": "upward sloping"
+      }
+    ]
+  },
+  {
+    "id": "ALT-54",
+    "question": "With respect to infrastructure investments, a take-or-pay arrangement is most likely used to mitigate:",
+    "solutions": [
+      {
+        "answer": "demand risk"
+      },
+      {
+        "answer": "operational risk"
+      },
+      {
+        "answer": "construction risk"
+      }
+    ]
+  },
+  {
+    "id": "ALT-55",
+    "question": "Which of the following is most appropriately categorized as a traditional investment?",
+    "solutions": [
+      {
+        "answer": "Gold"
+      },
+      {
+        "answer": "Cash"
+      },
+      {
+        "answer": "Real estate"
+      }
+    ]
+  },
+  {
+    "id": "ALT-56",
+    "question": "Which of the following is most likely a characteristic of private real estate markets?",
+    "solutions": [
+      {
+        "answer": "Transaction costs are high"
+      },
+      {
+        "answer": "Private market indexes are investable"
+      },
+      {
+        "answer": "It is easy for small investors to establish a diversified portfolio of wholly owned properties"
+      }
+    ]
+  },
+  {
+    "id": "ALT-57",
+    "question": "Alternative investments:",
+    "solutions": [
+      {
+        "answer": "include tangible assets only"
+      },
+      {
+        "answer": "include intangible assets only"
+      },
+      {
+        "answer": "may include both tangible and intangible assets"
+      }
+    ]
+  },
+  {
+    "id": "ALT-58",
+    "question": "In alternative investments, a clawback provision represents the right of.",
+    "solutions": [
+      {
+        "answer": "limited partners to reclaim performance losses"
+      },
+      {
+        "answer": "the general partner to reclaim part of limited partners' distributions"
+      },
+      {
+        "answer": "limited partners to reclaim part of the general partner's performance fee"
+      }
+    ]
+  },
+  {
+    "id": "ALT-59",
+    "question": "Which of the following is the most conservative",
+    "solutions": [
+      {
+        "answer": "Using bid prices for long approach to valuing a hedge fund's underlying positions? positions and ask prices for short positions"
+      },
+      {
+        "answer": "Using bid prices for short positions and ask prices for long positions"
+      },
+      {
+        "answer": "Using the average of the bid and ask prices for both long and short positions"
+      }
+    ]
+  },
+  {
+    "id": "ALT-60",
+    "question": "All else being equal, which of the following types of private debt is most likely to have the lowest level of risk?",
+    "solutions": [
+      {
+        "answer": "Mezzanine debt"
+      },
+      {
+        "answer": "Unitranche debt"
+      },
+      {
+        "answer": "Infrastructure debt"
+      }
+    ]
+  },
+  {
+    "id": "ALT-61",
+    "question": "An analyst gathers the following information about a hedge fund:\n• Beginning-of-year assets under management (AUM) $50 million • Annual return before fees 20% • Management fee (based on end-of-year AUM before fees) 2% • Incentive fee (based on return net of management fees) 20%\nAn investor's net return is:",
+    "solutions": [
+      {
+        "answer": "13.60%"
+      },
+      {
+        "answer": "14.08%"
+      },
+      {
+        "answer": "14.40%"
+      }
+    ]
+  }
+]

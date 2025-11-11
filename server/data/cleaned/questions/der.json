@@ -1,0 +1,977 @@
+[
+  {
+    "id": "DER-1",
+    "question": "All else held equal, the value of a European call option is best characterized as having a:",
+    "solutions": [
+      {
+        "answer": "negative relationship with the price of the underlying"
+      },
+      {
+        "answer": "negative relationship with the volatility of the underlying"
+      },
+      {
+        "answer": "positive relationship with the time to expiration"
+      }
+    ]
+  },
+  {
+    "id": "DER-2",
+    "question": "All else being equal, which of the following European put options on the same underlying most likely has the highest value?",
+    "solutions": [
+      {
+        "answer": "Option 1"
+      },
+      {
+        "answer": "Option 2"
+      },
+      {
+        "answer": "Option 3"
+      }
+    ]
+  },
+  {
+    "id": "DER-3",
+    "question": "The value of a European put is directly related to the:",
+    "solutions": [
+      {
+        "answer": "risk-free rate"
+      },
+      {
+        "answer": "exercise price"
+      },
+      {
+        "answer": "value of the underlying"
+      }
+    ]
+  },
+  {
+    "id": "DER-4",
+    "question": "An investor gathers the following information about a call option:\nAt expiration, if the price of the underlying is $30, the value of the call option to the call seller is:",
+    "solutions": [
+      {
+        "answer": "-$5"
+      },
+      {
+        "answer": "$0"
+      },
+      {
+        "answer": "$10"
+      }
+    ]
+  },
+  {
+    "id": "DER-5",
+    "question": "An analyst gathers the following information:\nAccording to put-call parity, the price of the put is closest to:",
+    "solutions": [
+      {
+        "answer": "$28.25"
+      },
+      {
+        "answer": "$30.00"
+      },
+      {
+        "answer": "$108.25"
+      }
+    ]
+  },
+  {
+    "id": "DER-6",
+    "question": "Two-year and three-year government benchmark zero-coupon bonds are priced at 96 and 93 (per 100 face value), respectively. The implied one-year forward rate in two years' time is closest to:",
+    "solutions": [
+      {
+        "answer": "3.00%"
+      },
+      {
+        "answer": "3.23%"
+      },
+      {
+        "answer": "3.36%"
+      }
+    ]
+  },
+  {
+    "id": "DER-7",
+    "question": "According to put-call parity, the payoff of a European put option is equivalent to a payoff of a portfolio consisting of.",
+    "solutions": [
+      {
+        "answer": "a long asset, a short call and a long risk-free bond"
+      },
+      {
+        "answer": "a short asset, a long call and a long risk-free bond"
+      },
+      {
+        "answer": "a short asset, a short call and a short risk-free bond"
+      }
+    ]
+  },
+  {
+    "id": "DER-8",
+    "question": "An investor takes a long position in a risk-free bond and in a forward contract on a non- dividend-paying stock. The forward contract is priced at £50. The annual risk-free rate is 10%. A nine-month put option on the stock with an exercise price of £47 trades at £4. The price of a nine-month call option on the stock with an exercise price of £47 is closest to:",
+    "solutions": [
+      {
+        "answer": "£6.79"
+      },
+      {
+        "answer": "£7.22"
+      },
+      {
+        "answer": "£7.30"
+      }
+    ]
+  },
+  {
+    "id": "DER-9",
+    "question": "Which of the following is most accurate?",
+    "solutions": [
+      {
+        "answer": "A forward contract is traded on an organized exchange"
+      },
+      {
+        "answer": "Forward contracts are more transparent than futures contracts"
+      },
+      {
+        "answer": "The buyer of a forward contract agrees to buy the underlying asset at a fixed price on a future date"
+      }
+    ]
+  },
+  {
+    "id": "DER-10",
+    "question": "A commodities producer selling its inventory forward in anticipation of lower prices in the future is an example of a:",
+    "solutions": [
+      {
+        "answer": "fair value hedge"
+      },
+      {
+        "answer": "cash flow hedge"
+      },
+      {
+        "answer": "net investment hedge"
+      }
+    ]
+  },
+  {
+    "id": "DER-11",
+    "question": "Which of the following is equal to the greater of zero or the present value of the exercise price minus the spot price?",
+    "solutions": [
+      {
+        "answer": "The lower bound of a put option"
+      },
+      {
+        "answer": "The lower bound of a call option"
+      },
+      {
+        "answer": "The upper bound of a put option"
+      }
+    ]
+  },
+  {
+    "id": "DER-12",
+    "question": "Which of the following most likely has an embedded derivative in its structure?",
+    "solutions": [
+      {
+        "answer": "A put option"
+      },
+      {
+        "answer": "A callable bond"
+      },
+      {
+        "answer": "A futures contract"
+      }
+    ]
+  },
+  {
+    "id": "DER-13",
+    "question": "Which of the following derivatives most likely requires a payment to be made at the initiation of the contract? A(n):",
+    "solutions": [
+      {
+        "answer": "swap"
+      },
+      {
+        "answer": "option"
+      },
+      {
+        "answer": "forward"
+      }
+    ]
+  },
+  {
+    "id": "DER-14",
+    "question": "Basis risk is best described as a(n):",
+    "solutions": [
+      {
+        "answer": "investor's inability to meet a margin call due to a lack of funds"
+      },
+      {
+        "answer": "potential divergence between the expected value of a derivative and its underlying"
+      },
+      {
+        "answer": "divergence in the cash flow timing of a derivative versus that of an underlying transaction"
+      }
+    ]
+  },
+  {
+    "id": "DER-15",
+    "question": "Which of the following derivative contracts is best described as a contingent claim?",
+    "solutions": [
+      {
+        "answer": "A swap contract"
+      },
+      {
+        "answer": "A forward contract"
+      },
+      {
+        "answer": "An option contract"
+      }
+    ]
+  },
+  {
+    "id": "DER-16",
+    "question": "An investor buys a call option for $4 that has an exercise price of $27. At expiration, if the stock price is $22, the call option payoff is:",
+    "solutions": [
+      {
+        "answer": "negative"
+      },
+      {
+        "answer": "zero"
+      },
+      {
+        "answer": "positive"
+      }
+    ]
+  },
+  {
+    "id": "DER-17",
+    "question": "Which of the following derivatives have a non-linear payoff?",
+    "solutions": [
+      {
+        "answer": "Contingent claims only"
+      },
+      {
+        "answer": "Forward commitments only"
+      },
+      {
+        "answer": "Both contingent claims and forward commitments"
+      }
+    ]
+  },
+  {
+    "id": "DER-18",
+    "question": "The potential divergence between the expected value of a derivative instrument versus an underlying or hedged transaction best describes:",
+    "solutions": [
+      {
+        "answer": "basis risk"
+      },
+      {
+        "answer": "liquidity risk"
+      },
+      {
+        "answer": "systemic risk"
+      }
+    ]
+  },
+  {
+    "id": "DER-19",
+    "question": "With respect to hedge accounting designation types, a:",
+    "solutions": [
+      {
+        "answer": "foreign exchange forward to hedge forecasted sales is an example of a fair value hedge"
+      },
+      {
+        "answer": "commodity futures contract used to hedge inventory is an example of a cash flow hedge"
+      },
+      {
+        "answer": "currency forward to offset the foreign exchange risk of equity of a foreign operation is an example of a net investment hedge"
+      }
+    ]
+  },
+  {
+    "id": "DER-20",
+    "question": "Which of the following statements about derivatives is most accurate?",
+    "solutions": [
+      {
+        "answer": "Derivatives reduce the efficiency of price discovery for the underlying"
+      },
+      {
+        "answer": "Transaction cost of derivatives are greater than the transaction cost of the underlying"
+      },
+      {
+        "answer": "Excessive risk taking and use of leverage in derivative markets may contribute to market stress"
+      }
+    ]
+  },
+  {
+    "id": "DER-21",
+    "question": "Which of the following asset classes is most likely to have a convenience yield?",
+    "solutions": [
+      {
+        "answer": "Commodities"
+      },
+      {
+        "answer": "Interest rates"
+      },
+      {
+        "answer": "Foreign exchange"
+      }
+    ]
+  },
+  {
+    "id": "DER-22",
+    "question": "Counterparty default risk is most likely lowest for which of the following types of derivatives?",
+    "solutions": [
+      {
+        "answer": "Swaps"
+      },
+      {
+        "answer": "Futures"
+      },
+      {
+        "answer": "Forwards"
+      }
+    ]
+  },
+  {
+    "id": "DER-23",
+    "question": "When the strike price of a call option is lower, the likelihood of the option expiring in-the- money is:",
+    "solutions": [
+      {
+        "answer": "lower"
+      },
+      {
+        "answer": "unchanged"
+      },
+      {
+        "answer": "higher"
+      }
+    ]
+  },
+  {
+    "id": "DER-24",
+    "question": "Derivatives are typically priced by forming a hedge involving the underlying asset and a derivative such that the combination must pay the:",
+    "solutions": [
+      {
+        "answer": "risk-free rate"
+      },
+      {
+        "answer": "dividend yield"
+      },
+      {
+        "answer": "convenience yield"
+      }
+    ]
+  },
+  {
+    "id": "DER-25",
+    "question": "Thepotential divergence between the cash flow timing of a derivative instrument versus its underlying best describes:",
+    "solutions": [
+      {
+        "answer": "basis risk"
+      },
+      {
+        "answer": "liquidity risk"
+      },
+      {
+        "answer": "systemic risk"
+      }
+    ]
+  },
+  {
+    "id": "DER-26",
+    "question": "Before expiration, if the price of the underlying is above the exercise price, the European put option has a positive:",
+    "solutions": [
+      {
+        "answer": "time value"
+      },
+      {
+        "answer": "intrinsic value"
+      },
+      {
+        "answer": "exercise value"
+      }
+    ]
+  },
+  {
+    "id": "DER-27",
+    "question": "According to put-call-forward parity, the payoff on a fiduciary call is equivalent to the payoff on a portfolio consisting of:",
+    "solutions": [
+      {
+        "answer": "a long call and a short risk-free bond"
+      },
+      {
+        "answer": "a long put, a long forward contract and a long risk-free bond"
+      },
+      {
+        "answer": "a short call, a long forward contract and a long risk-free bond"
+      }
+    ]
+  },
+  {
+    "id": "DER-28",
+    "question": "Compared to over-the-counter derivatives, exchange-traded derivatives:",
+    "solutions": [
+      {
+        "answer": "are less standardized"
+      },
+      {
+        "answer": "provide less transparency"
+      },
+      {
+        "answer": "have lower transaction costs"
+      }
+    ]
+  },
+  {
+    "id": "DER-29",
+    "question": "A series of forward rate agreements and an interest rate swap contract covering the same periods and using the same market reference rate will most likely have the same:",
+    "solutions": [
+      {
+        "answer": "fixed rates"
+      },
+      {
+        "answer": "cash flows upfront"
+      },
+      {
+        "answer": "settlement cash flows"
+      }
+    ]
+  },
+  {
+    "id": "DER-30",
+    "question": "The value of a forward contract at initiation is most likely equal to:",
+    "solutions": [
+      {
+        "answer": "zero"
+      },
+      {
+        "answer": "the spot price minus the forward price"
+      },
+      {
+        "answer": "the forward price minus the spot price"
+      }
+    ]
+  },
+  {
+    "id": "DER-31",
+    "question": "Which of the following derivatives realize a gain as the market reference rate rises above the initial fixed rate?",
+    "solutions": [
+      {
+        "answer": "Long forward rate agreements only"
+      },
+      {
+        "answer": "Short interest rate futures contracts only"
+      },
+      {
+        "answer": "Both long forward rate agreements and short interest rate futures contracts"
+      }
+    ]
+  },
+  {
+    "id": "DER-32",
+    "question": "In the over-the-counter derivatives market, most transactions occur between end users and:",
+    "solutions": [
+      {
+        "answer": "dealers"
+      },
+      {
+        "answer": "other end users"
+      },
+      {
+        "answer": "a central counterparty"
+      }
+    ]
+  },
+  {
+    "id": "DER-33",
+    "question": "Which of the following statements is most accurate? A standard interest rate swap has:",
+    "solutions": [
+      {
+        "answer": "a symmetric payoff profile"
+      },
+      {
+        "answer": "the principal cash flow exchanged upfront"
+      },
+      {
+        "answer": "periodic settlements that occur at the beginning of each period"
+      }
+    ]
+  },
+  {
+    "id": "DER-34",
+    "question": "Q. The upper bound of a call price is the:",
+    "solutions": [
+      {
+        "answer": "exercise price"
+      },
+      {
+        "answer": "price of the underlying"
+      },
+      {
+        "answer": "underlying's price minus the present value of the exercise price"
+      }
+    ]
+  },
+  {
+    "id": "DER-35",
+    "question": "The following portfolios contain a company's stock and a derivative on the stock:\nThe portfolio containing a derivative acting as a firm commitment to hedge the stock is most likely.",
+    "solutions": [
+      {
+        "answer": "Portfolio 1"
+      },
+      {
+        "answer": "Portfolio 2"
+      },
+      {
+        "answer": "Portfolio 3"
+      }
+    ]
+  },
+  {
+    "id": "DER-36",
+    "question": "A futures contract's:",
+    "solutions": [
+      {
+        "answer": "mark-to-market is not settled until maturity"
+      },
+      {
+        "answer": "price remains fixed until the contract matures"
+      },
+      {
+        "answer": "variation margin reduces counterparty credit risk"
+      }
+    ]
+  },
+  {
+    "id": "DER-37",
+    "question": "Q. A stock with a dividend yield of 3% is trading in the spot market at $50. If the annual risk-free rate is 5%, the 6- month forward price of the stock is closest to:",
+    "solutions": [
+      {
+        "answer": "$49.50"
+      },
+      {
+        "answer": "$50.50"
+      },
+      {
+        "answer": "$51.27"
+      }
+    ]
+  },
+  {
+    "id": "DER-38",
+    "question": "If the net cost of carry is zero, the forward price of a commodity is most likely.",
+    "solutions": [
+      {
+        "answer": "less than the commodity's spot price compounded at the risk-free rate over the life of the contract"
+      },
+      {
+        "answer": "equal to the commodity's spot price compounded at the risk-free rate over the life of the contract"
+      },
+      {
+        "answer": "greater than the commodity's spot price compounded at the risk-free rate over the life of the contract"
+      }
+    ]
+  },
+  {
+    "id": "DER-39",
+    "question": "Long futures contracts are more attractive than long forward positions for the same underlying and maturity when\nfutures prices and interest rates are:",
+    "solutions": [
+      {
+        "answer": "negatively correlated"
+      },
+      {
+        "answer": "uncorrelated"
+      },
+      {
+        "answer": "positively correlated"
+      }
+    ]
+  },
+  {
+    "id": "DER-40",
+    "question": "The differential between forward and futures prices is determined by which of the following?",
+    "solutions": [
+      {
+        "answer": "Interest rate volatility only"
+      },
+      {
+        "answer": "The correlation between futures prices and interest rates only"
+      },
+      {
+        "answer": "Both interest rate volatility and the correlation between futures prices and interest rates"
+      }
+    ]
+  },
+  {
+    "id": "DER-41",
+    "question": "Q. From the fixed-rate receiver's perspective, if the market reference rate increases, the value of a swap contract:",
+    "solutions": [
+      {
+        "answer": "decreases"
+      },
+      {
+        "answer": "stays the same"
+      },
+      {
+        "answer": "increases"
+      }
+    ]
+  },
+  {
+    "id": "DER-42",
+    "question": "An analyst gathers the following information:\n● The current spot price of crude oil is $120 per barrel. ● The risk-free rate is 3% with annual compounding. ● A futures contract has 182 days until settlement. ● The storage cost is $5 per barrel, payable at the end of the futures contract.\nBased on 365 days per year, the futures price per barrel of crude oil is closest to:",
+    "solutions": [
+      {
+        "answer": "$126.78"
+      },
+      {
+        "answer": "$126.86"
+      },
+      {
+        "answer": "$126.93"
+      }
+    ]
+  },
+  {
+    "id": "DER-43",
+    "question": "Most derivatives pricing models are established on the foundation that:",
+    "solutions": [
+      {
+        "answer": "arbitrage opportunities exist"
+      },
+      {
+        "answer": "only one price for a derivative exists"
+      },
+      {
+        "answer": "the underlying asset price is inferred to determine the derivative price"
+      }
+    ]
+  },
+  {
+    "id": "DER-44",
+    "question": "Q. Which of the following is most accurate regarding a call option replication strategy?",
+    "solutions": [
+      {
+        "answer": "The strategy requires adjustment over the life of the option contract based on the likelihood of exercise"
+      },
+      {
+        "answer": "If the call option is exercised, the strategy requires purchasing the underlying from the proceeds of the loan"
+      },
+      {
+        "answer": "At inception, the strategy requires buying long a forward contract on the underlying and borrowing at the risk free rate"
+      }
+    ]
+  },
+  {
+    "id": "DER-45",
+    "question": "An analyst collects the following information:\n● Current stock price €26 ● Gross return from an up move 1.10 ● Gross return from a down move 0.75 ● Call and put exercise price €22\nBased on a one-period binomial pricing model, which of the following has the largest payoff?",
+    "solutions": [
+      {
+        "answer": "Put option following an up move"
+      },
+      {
+        "answer": "Put option following a down move"
+      },
+      {
+        "answer": "Call option following a down move"
+      }
+    ]
+  },
+  {
+    "id": "DER-46",
+    "question": "A $10 million interest rate swap with annual payments has a fixed swap rate of 1.95%. The implied forward rates are:\nThe periodic settlement value in Year 3 for the fixed-rate payer is expected to be closest to:",
+    "solutions": [
+      {
+        "answer": "-$95,000"
+      },
+      {
+        "answer": "-$60,000"
+      },
+      {
+        "answer": "$60,000"
+      }
+    ]
+  },
+  {
+    "id": "DER-47",
+    "question": "Which of the following best describes put-call-forward parity?",
+    "solutions": [
+      {
+        "answer": "The present value of the exercise price plus the call price equals the put price plus the underlying price. value of the exercise price plus the put price"
+      },
+      {
+        "answer": "The underlying price plus the call price equals the present value of the exercise price plus the put price"
+      },
+      {
+        "answer": "The call price minus the put price equals the present value of the exercise price minus the underlying price"
+      }
+    ]
+  },
+  {
+    "id": "DER-48",
+    "question": "Consider a put option selling for $2 in which the exercise price is $45. What is the profit for a put buyer if the price of the underlying at expiration is $41?",
+    "solutions": [
+      {
+        "answer": "-$2"
+      },
+      {
+        "answer": "$2"
+      },
+      {
+        "answer": "$4"
+      }
+    ]
+  },
+  {
+    "id": "DER-49",
+    "question": "Q. Based on put-call parity, which of the following is equivalent to a long position in the underlying asset?",
+    "solutions": [
+      {
+        "answer": "Long call, long put, and short bond"
+      },
+      {
+        "answer": "Long put, short call, and long bond"
+      },
+      {
+        "answer": "Long call, short put, and long bond"
+      }
+    ]
+  },
+  {
+    "id": "DER-50",
+    "question": "An analyst gathers the following information about an underlying:\n● Current price of underlying asset $16.0 ● End of period upward price $22.0 ● End of period downward price $12.0 ● Risk-free rate 4.0%\nUsing a one-period binomial model, the risk-neutral probability of a price increase is closest to:",
+    "solutions": [
+      {
+        "answer": "0.38"
+      },
+      {
+        "answer": "0.46"
+      },
+      {
+        "answer": "0.54"
+      }
+    ]
+  },
+  {
+    "id": "DER-51",
+    "question": "An investor expects an underlying to go up or down by 25% over the next year. If the risk- free rate is 5%, the risk- neutral probability of a decrease in the underlying price is closest to:",
+    "solutions": [
+      {
+        "answer": "0.25"
+      },
+      {
+        "answer": "0.40"
+      },
+      {
+        "answer": "0.60"
+      }
+    ]
+  },
+  {
+    "id": "DER-52",
+    "question": "Which of the following factors affects the option price when using a binomial model? The:",
+    "solutions": [
+      {
+        "answer": "risk-free rate"
+      },
+      {
+        "answer": "level of investors' risk aversion"
+      },
+      {
+        "answer": "expected return of the underlying"
+      }
+    ]
+  },
+  {
+    "id": "DER-53",
+    "question": "An end user seeking to hedge a specific underlying exposure having non-standard size and settlement dates would most likely trade on a(n):",
+    "solutions": [
+      {
+        "answer": "futures market"
+      },
+      {
+        "answer": "over-the-counter derivative market"
+      },
+      {
+        "answer": "exchange-traded derivative market"
+      }
+    ]
+  },
+  {
+    "id": "DER-54",
+    "question": "All else being equal, if the up gross return increases in a one-period binomial model, the risk-neutral probability of an upward price movement of the asset will:",
+    "solutions": [
+      {
+        "answer": "decrease"
+      },
+      {
+        "answer": "remain the same"
+      },
+      {
+        "answer": "increase"
+      }
+    ]
+  },
+  {
+    "id": "DER-55",
+    "question": "A forward agreement has the following terms:\n● Spot price at inception $275 ● Forward price $285 ● Number of shares 2,000\nAt expiration, if the spot price is $282, the value to the seller is:",
+    "solutions": [
+      {
+        "answer": "-$6,000"
+      },
+      {
+        "answer": "$6,000"
+      },
+      {
+        "answer": "$14,000"
+      }
+    ]
+  },
+  {
+    "id": "DER-56",
+    "question": "A trader sells a call option on a stock index with a strike price of 2,400 for $25. The value of a one-point move in the index is $1. At expiration, the stock index is trading at 2,450. The trader's profit is:",
+    "solutions": [
+      {
+        "answer": "-$50"
+      },
+      {
+        "answer": "-$25"
+      },
+      {
+        "answer": "$25"
+      }
+    ]
+  },
+  {
+    "id": "DER-57",
+    "question": "An investor buys a call for $5.75 that has a strike price of $130. If the value at expiration for this call is $17.80, the price of the underlying at expiration is closest to:",
+    "solutions": [
+      {
+        "answer": "$112.20"
+      },
+      {
+        "answer": "$142.05"
+      },
+      {
+        "answer": "$147.80"
+      }
+    ]
+  },
+  {
+    "id": "DER-58",
+    "question": "An investor sells a European put option with the following characteristics:\n● Put price 30 ● Exercise price 1,320\nIf the price of the underlying at expiration is 1,340, the profit for the seller is:",
+    "solutions": [
+      {
+        "answer": "10"
+      },
+      {
+        "answer": "20"
+      },
+      {
+        "answer": "30"
+      }
+    ]
+  },
+  {
+    "id": "DER-59",
+    "question": "An analyst gathers the following information about three portfolios each consisting of two derivatives on the same underlying:\nAll else being equal, which portfolio will benefit from an increase in price of the underlying?",
+    "solutions": [
+      {
+        "answer": "Portfolio 1"
+      },
+      {
+        "answer": "Portfolio 2"
+      },
+      {
+        "answer": "Portfolio 3"
+      }
+    ]
+  },
+  {
+    "id": "DER-60",
+    "question": "All else being equal, the cost of carry on a dividend-paying stock is:",
+    "solutions": [
+      {
+        "answer": "lower than the cost of carry on a stock with no dividends"
+      },
+      {
+        "answer": "the same as the cost of carry on a stock with no dividends"
+      },
+      {
+        "answer": "higher than the cost of carry on a stock with no dividends"
+      }
+    ]
+  },
+  {
+    "id": "DER-61",
+    "question": "An investor collects the following information about a put option:\n● Stock price at initiation $220 ● Strike price $210 ● Option premium $9\nAt expiration, if the price of the stock is $200, the investor's profit from buying the put is:",
+    "solutions": [
+      {
+        "answer": "-$19"
+      },
+      {
+        "answer": "-$9"
+      },
+      {
+        "answer": "$1"
+      }
+    ]
+  },
+  {
+    "id": "DER-62",
+    "question": "Which of the following interest rate derivatives most likely has the largest convexity bias?",
+    "solutions": [
+      {
+        "answer": "Forward rate agreement on a 1-month market reference rate"
+      },
+      {
+        "answer": "Forward rate agreement on a 3-month market reference rate"
+      },
+      {
+        "answer": "Interest rate futures contract on a 3-month market reference rate"
+      }
+    ]
+  },
+  {
+    "id": "DER-63",
+    "question": "The upper bound of a call value is the:",
+    "solutions": [
+      {
+        "answer": "underlying's price"
+      },
+      {
+        "answer": "underlying's price plus the present value of its exercise price or zero, whichever is greater"
+      },
+      {
+        "answer": "underlying's price minus the present value of its exercise price or zero, whichever is greater"
+      }
+    ]
+  },
+  {
+    "id": "DER-64",
+    "question": "Q. Which party in an option contract has the right to sell the underlying stock at the exercise price?",
+    "solutions": [
+      {
+        "answer": "The buyer of a call option"
+      },
+      {
+        "answer": "The buyer of a put option"
+      },
+      {
+        "answer": "The seller of a put option"
+      }
+    ]
+  },
+  {
+    "id": "DER-65",
+    "question": "All else being equal, if the risk-free rate increases immediately after the inception of a forward contract, the value of the contract to the forward buyer will:",
+    "solutions": [
+      {
+        "answer": "decrease"
+      },
+      {
+        "answer": "stay the same"
+      },
+      {
+        "answer": "increase"
+      }
+    ]
+  }
+]

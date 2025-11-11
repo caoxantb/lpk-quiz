@@ -1,0 +1,1862 @@
+[
+  {
+    "id": "EQU-1",
+    "question": "Q. All else being equal, a reverse stock split results in:",
+    "solutions": [
+      {
+        "answer": "a decrease in the number of shares and an increase in the share price"
+      },
+      {
+        "answer": "an increase in the number of shares and a decrease in the share price"
+      },
+      {
+        "answer": "an increase in the number of shares and an increase in the share price"
+      }
+    ]
+  },
+  {
+    "id": "EQU-2",
+    "question": "Q. All else being equal, which of the following has the same effect on shareholders' wealth as a cash dividend?",
+    "solutions": [
+      {
+        "answer": "A stock split"
+      },
+      {
+        "answer": "A stock dividend"
+      },
+      {
+        "answer": "A share repurchase"
+      }
+    ]
+  },
+  {
+    "id": "EQU-3",
+    "question": "Q. Sponsored depository receipts most likely differ from unsponsored ones in terms of whether:",
+    "solutions": [
+      {
+        "answer": "investors have voting rights"
+      },
+      {
+        "answer": "they are traded on exchanges"
+      },
+      {
+        "answer": "their prices are affected by exchange rate movements"
+      }
+    ]
+  },
+  {
+    "id": "EQU-4",
+    "question": "Q. All else being equal, which of the following are equivalent to stock dividends in terms of the economic effect on the company and shareholders?",
+    "solutions": [
+      {
+        "answer": "Stock splits"
+      },
+      {
+        "answer": "Cash dividends"
+      },
+      {
+        "answer": "Share repurchases"
+      }
+    ]
+  },
+  {
+    "id": "EQU-5",
+    "question": "Q. Asset-based valuation most likely uses estimates of the company's:",
+    "solutions": [
+      {
+        "answer": "assets only"
+      },
+      {
+        "answer": "assets and liabilities only"
+      },
+      {
+        "answer": "assets, liabilities and projected cash flow"
+      }
+    ]
+  },
+  {
+    "id": "EQU-6",
+    "question": "Q. The dividend discount model assumes that dividends are paid:",
+    "solutions": [
+      {
+        "answer": "quarterly"
+      },
+      {
+        "answer": "half yearly"
+      },
+      {
+        "answer": "at the end of each year"
+      }
+    ]
+  },
+  {
+    "id": "EQU-7",
+    "question": "An analyst gathers the following information about a company and its common stock:\nForward P/E 8\nRequired rate of return 12%\nDividend growth rate 4%\nUsing the Gordon growth model, the company's dividend payout ratio is closest to:",
+    "solutions": [
+      {
+        "answer": "8%"
+      },
+      {
+        "answer": "33%"
+      },
+      {
+        "answer": "64%"
+      }
+    ]
+  },
+  {
+    "id": "EQU-8",
+    "question": "Q. Asset-based valuation models are most appropriate for companies with a high proportion of:",
+    "solutions": [
+      {
+        "answer": "illiquid assets"
+      },
+      {
+        "answer": "current assets"
+      },
+      {
+        "answer": "intangible assets"
+      }
+    ]
+  },
+  {
+    "id": "EQU-9",
+    "question": "Q. Both equity and fixed income indexes can be categorized according to the:",
+    "solutions": [
+      {
+        "answer": "currency of payments"
+      },
+      {
+        "answer": "issuer's economic sector"
+      },
+      {
+        "answer": "degree of inflation protection"
+      }
+    ]
+  },
+  {
+    "id": "EQU-10",
+    "question": "Q. Trading by arbitrageurs most likely:",
+    "solutions": [
+      {
+        "answer": "reduces liquidity"
+      },
+      {
+        "answer": "increases pricing discrepancies"
+      },
+      {
+        "answer": "contributes to market efficiency"
+      }
+    ]
+  },
+  {
+    "id": "EQU-11",
+    "question": "Q. A feature of an efficient market is that:",
+    "solutions": [
+      {
+        "answer": "the market reflects all past and present information"
+      },
+      {
+        "answer": "asset prices react to information that is fully anticipated"
+      },
+      {
+        "answer": "an investor can earn consistent, superior, risk-adjusted returns"
+      }
+    ]
+  },
+  {
+    "id": "EQU-12",
+    "question": "Q. Decreased market efficiency is most likely associated with an increase in:",
+    "solutions": [
+      {
+        "answer": "transaction costs"
+      },
+      {
+        "answer": "financial disclosure"
+      },
+      {
+        "answer": "the number of market participants"
+      }
+    ]
+  },
+  {
+    "id": "EQU-13",
+    "question": "Q. Which of the following is most likely a demographic influence on industry growth?",
+    "solutions": [
+      {
+        "answer": "Lifestyle"
+      },
+      {
+        "answer": "Distribution of age"
+      },
+      {
+        "answer": "Spending behavior"
+      }
+    ]
+  },
+  {
+    "id": "EQU-14",
+    "question": "Q. Fixed-income indexes most likely:",
+    "solutions": [
+      {
+        "answer": "are more easily replicated than equity indexes"
+      },
+      {
+        "answer": "require the provider to estimate the prices of some constituent securities"
+      },
+      {
+        "answer": "are created from a smaller universe of possible constituent securities than the universe of equity securities"
+      }
+    ]
+  },
+  {
+    "id": "EQU-15",
+    "question": "Q. As time passes after inception, the value of the price version of an index is:",
+    "solutions": [
+      {
+        "answer": "less than the value of the total return version"
+      },
+      {
+        "answer": "equal to the value of the total return version"
+      },
+      {
+        "answer": "greater than the value of the total return version"
+      }
+    ]
+  },
+  {
+    "id": "EQU-16",
+    "question": "Q. With respect to behavioral finance, which of the following is least likely a behavioral bias used to explain pricing anomalies?",
+    "solutions": [
+      {
+        "answer": "Risk aversion"
+      },
+      {
+        "answer": "Loss aversion"
+      },
+      {
+        "answer": "Overconfidence"
+      }
+    ]
+  },
+  {
+    "id": "EQU-17",
+    "question": "Q. With respect to behavioral finance, which of the following is least likely a behavioral bias used to explain pricing anomalies?",
+    "solutions": [
+      {
+        "answer": "Risk aversion"
+      },
+      {
+        "answer": "Loss aversion"
+      },
+      {
+        "answer": "Overconfidence"
+      }
+    ]
+  },
+  {
+    "id": "EQU-18",
+    "question": "Q. The voting method that allows shareholders to cast all their votes for a single candidate is best described as:",
+    "solutions": [
+      {
+        "answer": "proxy voting"
+      },
+      {
+        "answer": "statutory voting"
+      },
+      {
+        "answer": "cumulative voting"
+      }
+    ]
+  },
+  {
+    "id": "EQU-19",
+    "question": "Q. Convertible preference shares most likely:",
+    "solutions": [
+      {
+        "answer": "are riskier than the underlying common shares for investors"
+      },
+      {
+        "answer": "allow investors to benefit from a rise in the price of the common shares"
+      },
+      {
+        "answer": "are issued primarily by companies of lower risk and used as a financing option"
+      }
+    ]
+  },
+  {
+    "id": "EQU-20",
+    "question": "Q. Industries whose revenues and profits are least affected by fluctuations in the overall economy are most likely:",
+    "solutions": [
+      {
+        "answer": "growth industries"
+      },
+      {
+        "answer": "cyclical industries"
+      },
+      {
+        "answer": "defensive industries"
+      }
+    ]
+  },
+  {
+    "id": "EQU-21",
+    "question": "Q. If it is difficult to find a buyer or a seller for an asset, the asset most likely trades on:",
+    "solutions": [
+      {
+        "answer": "brokered markets"
+      },
+      {
+        "answer": "order-driven markets"
+      },
+      {
+        "answer": "quote-driven markets"
+      }
+    ]
+  },
+  {
+    "id": "EQU-22",
+    "question": "Q. A disadvantage of using price multiples to value stocks is that:",
+    "solutions": [
+      {
+        "answer": "multiples are not easily calculated"
+      },
+      {
+        "answer": "cross-sectional comparisons are not possible"
+      },
+      {
+        "answer": "accounting methods produce different results that are not easily comparable across companies"
+      }
+    ]
+  },
+  {
+    "id": "EQU-23",
+    "question": "Q. All else being equal, an increase in which of the following most likely increases a company's enterprise value?",
+    "solutions": [
+      {
+        "answer": "Book value of debt"
+      },
+      {
+        "answer": "Market value of investments"
+      },
+      {
+        "answer": "Market value of preferred stock"
+      }
+    ]
+  },
+  {
+    "id": "EQU-24",
+    "question": "Q. The Global Industry Classification Standard (GICS) classifies industries based on:",
+    "solutions": [
+      {
+        "answer": "statistical similarities"
+      },
+      {
+        "answer": "business-cycle sensitivities"
+      },
+      {
+        "answer": "products and/or services supplied"
+      }
+    ]
+  },
+  {
+    "id": "EQU-25",
+    "question": "Q. Which of the following indexes is composed of futures contracts?",
+    "solutions": [
+      {
+        "answer": "Commodity index"
+      },
+      {
+        "answer": "Hedge fund index"
+      },
+      {
+        "answer": "Broad equity market index"
+      }
+    ]
+  },
+  {
+    "id": "EQU-26",
+    "question": "Q. External factors affecting an industry's growth most likely include:",
+    "solutions": [
+      {
+        "answer": "cost structures"
+      },
+      {
+        "answer": "economies of scale"
+      },
+      {
+        "answer": "technological influences"
+      }
+    ]
+  },
+  {
+    "id": "EQU-27",
+    "question": "Q. Which of the following is most likely used to raise funds for a capital project?",
+    "solutions": [
+      {
+        "answer": "Equity issuance only"
+      },
+      {
+        "answer": "A stock dividend only"
+      },
+      {
+        "answer": "Both equity issuance and a stock dividend"
+      }
+    ]
+  },
+  {
+    "id": "EQU-28",
+    "question": "Q. In dividend payment chronology, the ex-dividend date most likely comes after the:",
+    "solutions": [
+      {
+        "answer": "record date"
+      },
+      {
+        "answer": "payment date"
+      },
+      {
+        "answer": "declaration date"
+      }
+    ]
+  },
+  {
+    "id": "EQU-29",
+    "question": "An analyst gathers the following information about an industry and three comparable companies within the industry:\nBased only on this information, the most overvalued company is:",
+    "solutions": [
+      {
+        "answer": "Company 1"
+      },
+      {
+        "answer": "Company 2"
+      },
+      {
+        "answer": "Company 3"
+      }
+    ]
+  },
+  {
+    "id": "EQU-30",
+    "question": "Q. Which of the following industries or sectors is most likely classified as cyclical?",
+    "solutions": [
+      {
+        "answer": "Utilities"
+      },
+      {
+        "answer": "Industrials"
+      },
+      {
+        "answer": "Health care"
+      }
+    ]
+  },
+  {
+    "id": "EQU-31",
+    "question": "Q. An increase in shares held by controlling shareholders most likely impacts the constituent weightings of a(n):",
+    "solutions": [
+      {
+        "answer": "price-weighted index"
+      },
+      {
+        "answer": "equal-weighted index"
+      },
+      {
+        "answer": "float-adjusted market-capitalization-weighted index"
+      }
+    ]
+  },
+  {
+    "id": "EQU-32",
+    "question": "Q. Free-cash-flow-to-equity is equal to cash flow from operations:",
+    "solutions": [
+      {
+        "answer": "less fixed capital investment less net borrowing"
+      },
+      {
+        "answer": "less fixed capital investment plus net borrowing"
+      },
+      {
+        "answer": "plus fixed capital investment less net borrowing"
+      }
+    ]
+  },
+  {
+    "id": "EQU-33",
+    "question": "Q. Over time, which of the following indexes most likely has portfolio weights that shift away from securities that have increased in relative value and toward securities that have fallen in relative value? A:",
+    "solutions": [
+      {
+        "answer": "price-weighted index"
+      },
+      {
+        "answer": "fundamentally weighted index"
+      },
+      {
+        "answer": "market-capitalization-weighted index"
+      }
+    ]
+  },
+  {
+    "id": "EQU-34",
+    "question": "An analyst gathers the following data for three companies in the same industry (in millions):\nBased on enterprise value multiples, which of the three companies is likely the most undervalued?",
+    "solutions": [
+      {
+        "answer": "Company 1"
+      },
+      {
+        "answer": "Company 2"
+      },
+      {
+        "answer": "Company 3"
+      }
+    ]
+  },
+  {
+    "id": "EQU-35",
+    "question": "Q. Which of the following statements best describes hedge fund indexes?",
+    "solutions": [
+      {
+        "answer": "Index constituents are regulated entities"
+      },
+      {
+        "answer": "Potential survivorship bias is reduced by voluntary performance reporting"
+      },
+      {
+        "answer": "There may be little overlap in index constituents between different indexes offered by different index providers"
+      }
+    ]
+  },
+  {
+    "id": "EQU-36",
+    "question": "Q. A market where security prices fully reflect all publicly known and available information, but not private information, is:",
+    "solutions": [
+      {
+        "answer": "weak-form efficient"
+      },
+      {
+        "answer": "semi-strong-form efficient"
+      },
+      {
+        "answer": "strong-form efficient"
+      }
+    ]
+  },
+  {
+    "id": "EQU-37",
+    "question": "Q. In a highly efficient market, a passive investment strategy most likely has:",
+    "solutions": [
+      {
+        "answer": "higher transaction costs than an active strategy"
+      },
+      {
+        "answer": "lower information-seeking costs than an active strategy"
+      },
+      {
+        "answer": "higher risk-adjusted returns before all expenses than an active strategy"
+      }
+    ]
+  },
+  {
+    "id": "EQU-38",
+    "question": "Q. Fundamental analysis most likely.",
+    "solutions": [
+      {
+        "answer": "uses stock price patterns to trade"
+      },
+      {
+        "answer": "is an input for passive portfolio management"
+      },
+      {
+        "answer": "helps participants understand the value implications of information"
+      }
+    ]
+  },
+  {
+    "id": "EQU-39",
+    "question": "Q. Which of the following is considered an external influence on industry growth?",
+    "solutions": [
+      {
+        "answer": "Social trends"
+      },
+      {
+        "answer": "Barriers to entry"
+      },
+      {
+        "answer": "Industry concentration"
+      }
+    ]
+  },
+  {
+    "id": "EQU-40",
+    "question": "Q. In a weak-form efficient market, which of the following information is reflected in security prices?",
+    "solutions": [
+      {
+        "answer": "Historical prices only"
+      },
+      {
+        "answer": "Historical prices and historical trading volumes only"
+      },
+      {
+        "answer": "Historical prices, historical trading volumes, and current earnings"
+      }
+    ]
+  },
+  {
+    "id": "EQU-41",
+    "question": "Q. Security market indices most likely serve as proxies for:",
+    "solutions": [
+      {
+        "answer": "nonsystematic risk"
+      },
+      {
+        "answer": "asset classes in asset allocation models"
+      },
+      {
+        "answer": "the fair value of assets in asset-based valuation models"
+      }
+    ]
+  },
+  {
+    "id": "EQU-42",
+    "question": "Q. When constructing an equity index, each company's weight in the index is dependent on its number of shares outstanding if the index is:",
+    "solutions": [
+      {
+        "answer": "price weighted"
+      },
+      {
+        "answer": "equal weighted"
+      },
+      {
+        "answer": "market-capitilization weighted"
+      }
+    ]
+  },
+  {
+    "id": "EQU-43",
+    "question": "Q. All else being equal, which of the following preference shares pays the lowest dividend?",
+    "solutions": [
+      {
+        "answer": "Putable"
+      },
+      {
+        "answer": "Callable"
+      },
+      {
+        "answer": "Non-callable"
+      }
+    ]
+  },
+  {
+    "id": "EQU-44",
+    "question": "Q. When an investment bank guarantees the sale of an entire issue at a negotiated offering price, this best describes\na(n):",
+    "solutions": [
+      {
+        "answer": "rights offering"
+      },
+      {
+        "answer": "best effort offering"
+      },
+      {
+        "answer": "underwritten offering"
+      }
+    ]
+  },
+  {
+    "id": "EQU-45",
+    "question": "Q.Management is more likely to focus on short-term results instead of long-term earnings growth if a company raises equity through:",
+    "solutions": [
+      {
+        "answer": "venture capital"
+      },
+      {
+        "answer": "a leveraged buyout"
+      },
+      {
+        "answer": "an initial public offering"
+      }
+    ]
+  },
+  {
+    "id": "EQU-46",
+    "question": "Q. If the index's value is 100 at the beginning of Period 1, the index's value at the end of Period 3 is closest to:",
+    "solutions": [
+      {
+        "answer": "103"
+      },
+      {
+        "answer": "105"
+      },
+      {
+        "answer": "106"
+      }
+    ]
+  },
+  {
+    "id": "EQU-47",
+    "question": "Q. If the cost to fill trades increases, the market's informational efficiency most likely:",
+    "solutions": [
+      {
+        "answer": "decreases"
+      },
+      {
+        "answer": "remains the same"
+      },
+      {
+        "answer": "increases"
+      }
+    ]
+  },
+  {
+    "id": "EQU-48",
+    "question": "Q. The best estimate of the company's dividend growth rate is:",
+    "solutions": [
+      {
+        "answer": "5.8%"
+      },
+      {
+        "answer": "6.7%"
+      },
+      {
+        "answer": "7.4%"
+      }
+    ]
+  },
+  {
+    "id": "EQU-49",
+    "question": "Q.Financial intermediaries that help their clients arrange seasoned securities offerings are best known as:",
+    "solutions": [
+      {
+        "answer": "investment banks"
+      },
+      {
+        "answer": "commercial banks"
+      },
+      {
+        "answer": "multi-lateral trading facilities"
+      }
+    ]
+  },
+  {
+    "id": "EQU-50",
+    "question": "Q. . Over the long run, if a market is semi-strong-form efficient, which of the following investment strategies should result in the highest return to investors? A(n):",
+    "solutions": [
+      {
+        "answer": "passive investment strategy"
+      },
+      {
+        "answer": "active trading strategy seeking to exploit price patterns"
+      },
+      {
+        "answer": "active trading strategy seeking to exploit public information"
+      }
+    ]
+  },
+  {
+    "id": "EQU-51",
+    "question": "Q. A multi-market index is most appropriately used as a benchmark:",
+    "solutions": [
+      {
+        "answer": "for a single country ETF"
+      },
+      {
+        "answer": "for a small-capitalization growth stock manager"
+      },
+      {
+        "answer": "to calculate beta for the portfolio of a global stock manager"
+      }
+    ]
+  },
+  {
+    "id": "EQU-52",
+    "question": "Q. Industry classification systems are developed and used by:",
+    "solutions": [
+      {
+        "answer": "commercial entities only"
+      },
+      {
+        "answer": "governmental agencies only"
+      },
+      {
+        "answer": "both commercial entities and governmental agencies"
+      }
+    ]
+  },
+  {
+    "id": "EQU-53",
+    "question": "Q. If the required rate of return is 10%, using the Gordon growth model, the intrinsic value per share of the stock is closest to:",
+    "solutions": [
+      {
+        "answer": "$14.56"
+      },
+      {
+        "answer": "$19.23"
+      },
+      {
+        "answer": "$20.15"
+      }
+    ]
+  },
+  {
+    "id": "EQU-54",
+    "question": "Q. According to the efficient market hypothesis, if market prices reflect private information, the market is most likely:",
+    "solutions": [
+      {
+        "answer": "strong-form efficient"
+      },
+      {
+        "answer": "weak-form efficient only"
+      },
+      {
+        "answer": "semi-strong-form efficient, but not strong-form efficient"
+      }
+    ]
+  },
+  {
+    "id": "EQU-55",
+    "question": "Q. The Global Industry Classification Standard's broadest level of classification is a(n):",
+    "solutions": [
+      {
+        "answer": "sector"
+      },
+      {
+        "answer": "industry"
+      },
+      {
+        "answer": "industry group"
+      }
+    ]
+  },
+  {
+    "id": "EQU-56",
+    "question": "Q. In which of the following forms of market efficiency are investors able to consistently outperform the market using fundamental analysis?",
+    "solutions": [
+      {
+        "answer": "Weak-form market efficiency"
+      },
+      {
+        "answer": "Semi-strong-form market efficiency"
+      },
+      {
+        "answer": "Strong-form market efficiency"
+      }
+    ]
+  },
+  {
+    "id": "EQU-57",
+    "question": "Q. Which of the following indexes are regularly rebalanced by the index provider?",
+    "solutions": [
+      {
+        "answer": "Price-weighted indexes only"
+      },
+      {
+        "answer": "Equal-weighted indexes only"
+      },
+      {
+        "answer": "Both price-weighted indexes and equal-weighted indexes"
+      }
+    ]
+  },
+  {
+    "id": "EQU-58",
+    "question": "Q. Which of the following best describes an industry-level force in a thorough industry analysis?",
+    "solutions": [
+      {
+        "answer": "Threat of new entrants"
+      },
+      {
+        "answer": "Demographic influences"
+      },
+      {
+        "answer": "Technological influences"
+      }
+    ]
+  },
+  {
+    "id": "EQU-60",
+    "question": "Q. Commercial industry classification systems are most likely updated:",
+    "solutions": [
+      {
+        "answer": "less frequently than government classification systems"
+      },
+      {
+        "answer": "as frequently as government classification systems"
+      },
+      {
+        "answer": "more frequently than government classification systems"
+      }
+    ]
+  },
+  {
+    "id": "EQU-61",
+    "question": "Q. A company's net income available to ordinary shareholders divided by the average total book value of equity is best described the:",
+    "solutions": [
+      {
+        "answer": "company's intrinsic value"
+      },
+      {
+        "answer": "company's return on equity"
+      },
+      {
+        "answer": "minimum required rate of return of investors in the company's equity"
+      }
+    ]
+  },
+  {
+    "id": "EQU-62",
+    "question": "Q. A world equity index is most likely considered a:",
+    "solutions": [
+      {
+        "answer": "style index"
+      },
+      {
+        "answer": "sector index"
+      },
+      {
+        "answer": "multi-market index"
+      }
+    ]
+  },
+  {
+    "id": "EQU-63",
+    "question": "Q. All else being equal, which of the following preference share characteristics may contain provisions that entitle shareholders to an additional distribution of the company's assets upon liquidation, above the par value?",
+    "solutions": [
+      {
+        "answer": "Callable"
+      },
+      {
+        "answer": "Cumulative"
+      },
+      {
+        "answer": "Participating"
+      }
+    ]
+  },
+  {
+    "id": "EQU-64",
+    "question": "Q. A three-stage dividend discount model is most appropriate for valuing a company that is:",
+    "solutions": [
+      {
+        "answer": "mature"
+      },
+      {
+        "answer": "transitioning to maturity"
+      },
+      {
+        "answer": "young and entering the growth phase"
+      }
+    ]
+  },
+  {
+    "id": "EQU-65",
+    "question": "Q. A company's management is most likely able to directly influence the company's:",
+    "solutions": [
+      {
+        "answer": "book value"
+      },
+      {
+        "answer": "market value"
+      },
+      {
+        "answer": "intrinsic value"
+      }
+    ]
+  },
+  {
+    "id": "EQU-66",
+    "question": "Q. In contrast to the market value of an equity security, intrinsic value is most likely:",
+    "solutions": [
+      {
+        "answer": "not known with certainty"
+      },
+      {
+        "answer": "constant throughout the life of the security"
+      },
+      {
+        "answer": "determined by the intersection of supply and demand"
+      }
+    ]
+  },
+  {
+    "id": "EQU-67",
+    "question": "Q. Short sellers are most likely exposed to:",
+    "solutions": [
+      {
+        "answer": "unlimited gains and limited losses"
+      },
+      {
+        "answer": "limited gains and unlimited losses"
+      },
+      {
+        "answer": "unlimited gains and unlimited losses"
+      }
+    ]
+  },
+  {
+    "id": "EQU-68",
+    "question": "Q. In which markets are government bills most likely traded?",
+    "solutions": [
+      {
+        "answer": "Money markets"
+      },
+      {
+        "answer": "Capital markets"
+      },
+      {
+        "answer": "Alternative investment markets"
+      }
+    ]
+  },
+  {
+    "id": "EQU-69",
+    "question": "Q. Enterprise value is most likely associated with:",
+    "solutions": [
+      {
+        "answer": "multiplier models"
+      },
+      {
+        "answer": "present value models"
+      },
+      {
+        "answer": "asset-based valuation models"
+      }
+    ]
+  },
+  {
+    "id": "EQU-70",
+    "question": "Q. A characteristic of real assets is that they most likely:",
+    "solutions": [
+      {
+        "answer": "trade in liquid markets"
+      },
+      {
+        "answer": "are inexpensive to manage"
+      },
+      {
+        "answer": "are unique assets with different attributes"
+      }
+    ]
+  },
+  {
+    "id": "EQU-71",
+    "question": "Q. If a European investor believes the US equity market will decline in the next three months, the transaction most likely to allow the investor to profit from this view is the purchase of a:",
+    "solutions": [
+      {
+        "answer": "put option"
+      },
+      {
+        "answer": "call option"
+      },
+      {
+        "answer": "currency swap"
+      }
+    ]
+  },
+  {
+    "id": "EQU-72",
+    "question": "Q. If the ability of clients to identify competent agents increases, the need for regulation most likely.",
+    "solutions": [
+      {
+        "answer": "decreases,"
+      },
+      {
+        "answer": "remains the same"
+      },
+      {
+        "answer": "increases"
+      }
+    ]
+  },
+  {
+    "id": "EQU-73",
+    "question": "An analyst gathers the following book value information about a company and its common shares:\nInventories €20 million\nNet fixed assets €80 million\nTotal assets €150 million\nTotal liabilities €90 million\nShares outstanding 4 million\nThe analyst estimates the market value of net fixed assets to be 125% of book value and the market value of inventories to be 90% of book value. If the stock is currently trading at €19.50 per share, the asset-based value per share is most likely:",
+    "solutions": [
+      {
+        "answer": "less than the market price"
+      },
+      {
+        "answer": "equal to the market price"
+      },
+      {
+        "answer": "greater than the market price"
+      }
+    ]
+  },
+  {
+    "id": "EQU-74",
+    "question": "Q. The book value of a company's equity is:",
+    "solutions": [
+      {
+        "answer": "the present value of its future cash flows"
+      },
+      {
+        "answer": "the difference between its total assets and total liabilities"
+      },
+      {
+        "answer": "its share price multiplied by the number of outstanding shares"
+      }
+    ]
+  },
+  {
+    "id": "EQU-75",
+    "question": "Q. A company's ROE most likely decreases if shareholders' equity increases at:",
+    "solutions": [
+      {
+        "answer": "a lower rate than net income"
+      },
+      {
+        "answer": "the same rate as net income"
+      },
+      {
+        "answer": "a higher rate than net income"
+      }
+    ]
+  },
+  {
+    "id": "EQU-76",
+    "question": "Q. An equity index representing groups of securities classified on the basis of market capitalization is most likely a:",
+    "solutions": [
+      {
+        "answer": "style index"
+      },
+      {
+        "answer": "sector index"
+      },
+      {
+        "answer": "multi-market index"
+      }
+    ]
+  },
+  {
+    "id": "EQU-77",
+    "question": "An analyst gathers the following information about common shares:\nIf the investor's required rate of return is 9%, the company's justified forward P/E is:",
+    "solutions": [
+      {
+        "answer": "less than the peer group's justified forward P/E"
+      },
+      {
+        "answer": "the same as the peer group's justified forward P/E"
+      },
+      {
+        "answer": "greater than the peer group's justified forward P/E"
+      }
+    ]
+  },
+  {
+    "id": "EQU-78",
+    "question": "An analyst gathers the following information about a company's shares:\nDividend payable per share $0.50\nEx-date 20 August\nClosing share price on 19 August $29.00\nAll else being equal, at the beginning of trading on 20 August, the company's shares will most likely trade at:",
+    "solutions": [
+      {
+        "answer": "$28.50"
+      },
+      {
+        "answer": "$29.00"
+      },
+      {
+        "answer": "$29.50"
+      }
+    ]
+  },
+  {
+    "id": "EQU-79",
+    "question": "An analyst gathers the following information about a company's dividend payment chronology:\nEx-dividend date 2 August\nHolder-of-record date 5 August\nThe last date an investor can purchase the company's stock and be entitled to receive the dividend is most likely.",
+    "solutions": [
+      {
+        "answer": "1 August"
+      },
+      {
+        "answer": "2 August"
+      },
+      {
+        "answer": "4 August"
+      }
+    ]
+  },
+  {
+    "id": "EQU-80",
+    "question": "Q. The January effect is an example of:",
+    "solutions": [
+      {
+        "answer": "loss aversion"
+      },
+      {
+        "answer": "an earnings surprise"
+      },
+      {
+        "answer": "a market pricing anomaly"
+      }
+    ]
+  },
+  {
+    "id": "EQU-81",
+    "question": "An investor gathers the following data regarding three stocks:\nAll else being equal, the investor should purchase:",
+    "solutions": [
+      {
+        "answer": "Stock 1"
+      },
+      {
+        "answer": "Stock 2"
+      },
+      {
+        "answer": "Stock 3"
+      }
+    ]
+  },
+  {
+    "id": "EQU-82",
+    "question": "Q. Behavioral finance:",
+    "solutions": [
+      {
+        "answer": "suggests that behavioral biases only affect novice investors"
+      },
+      {
+        "answer": "provides a possible explanation for a number of pricing anomalies,"
+      },
+      {
+        "answer": "relies on the assumption that people consider all available information in decision-making"
+      }
+    ]
+  },
+  {
+    "id": "EQU-83",
+    "question": "An analyst gathers and estimates the following information about a company's stock:\nCurrent dividend per share (D) $4\nCurrent EPS $5\nDividend growth rate 4%\nIf the estimated stock value using the Gordon growth model is $92 per share, the required return on this stock is\nclosest to:",
+    "solutions": [
+      {
+        "answer": "8.35%"
+      },
+      {
+        "answer": "8.52%"
+      },
+      {
+        "answer": "9.44%"
+      }
+    ]
+  },
+  {
+    "id": "EQU-84",
+    "question": "Q. The first date that a share trades without the declared dividend is the:",
+    "solutions": [
+      {
+        "answer": "ex-date"
+      },
+      {
+        "answer": "payable date"
+      },
+      {
+        "answer": "declaration date"
+      }
+    ]
+  },
+  {
+    "id": "EQU-85",
+    "question": "Q. A $25 par value non-callable, non-convertible preferred share pays an annual dividend rate of 5%. If the required rate of return is 4%, the preferred share's intrinsic value is closest to:",
+    "solutions": [
+      {
+        "answer": "$25.25"
+      },
+      {
+        "answer": "$26.00"
+      },
+      {
+        "answer": "$31.25"
+      }
+    ]
+  },
+  {
+    "id": "EQU-86",
+    "question": "Q. An investor buys a security on margin posting 50% of the initial price as equity. All else being equal, if the price declines 25%, the investor's new leverage ratio is closest to:",
+    "solutions": [
+      {
+        "answer": "2"
+      },
+      {
+        "answer": "3"
+      },
+      {
+        "answer": "4"
+      }
+    ]
+  },
+  {
+    "id": "EQU-87",
+    "question": "Q. When using a multiplier model, the fundamental variable is stated on:",
+    "solutions": [
+      {
+        "answer": "a trailing basis only"
+      },
+      {
+        "answer": "a forward basis only"
+      },
+      {
+        "answer": "either a forward basis or a trailing basis"
+      }
+    ]
+  },
+  {
+    "id": "EQU-88",
+    "question": "Q. For a security position purchased on margin, the leverage ratio is the ratio of the value of the position to:",
+    "solutions": [
+      {
+        "answer": "the value of equity in the position"
+      },
+      {
+        "answer": "the amount of the margin loan in the position"
+      },
+      {
+        "answer": "the amount of the margin loan plus equity in the position"
+      }
+    ]
+  },
+  {
+    "id": "EQU-89",
+    "question": "Q. A non-callable, non-convertible perpetual preferred share pays a level dividend of $1.20 with a current market price of $20. If an investor has a required rate of return of 6%, the preferred shares are most likely:",
+    "solutions": [
+      {
+        "answer": "undervalued"
+      },
+      {
+        "answer": "fairly valued"
+      },
+      {
+        "answer": "overvalued"
+      }
+    ]
+  },
+  {
+    "id": "EQU-90",
+    "question": "Q. Broker 1 has a minimum margin requirement of 62.5% and Broker 2 has a maximum leverage ratio of 1.6. The maximum financial leverage possible with Broker 1 is:",
+    "solutions": [
+      {
+        "answer": "less than the maximum financial leverage with Broker 2"
+      },
+      {
+        "answer": "equal to the maximum financial leverage with Broker 2"
+      },
+      {
+        "answer": "greater than the maximum financial leverage with Broker 2"
+      }
+    ]
+  },
+  {
+    "id": "EQU-91",
+    "question": "Q. If securities are purchased on margin with a maximum leverage ratio of 1.75, the minimum margin requirement is closest to:",
+    "solutions": [
+      {
+        "answer": "43%"
+      },
+      {
+        "answer": "57%"
+      },
+      {
+        "answer": "75%"
+      }
+    ]
+  },
+  {
+    "id": "EQU-92",
+    "question": "Q. Which of the following market anomalies is best described as a time-series anomaly?",
+    "solutions": [
+      {
+        "answer": "Size effect"
+      },
+      {
+        "answer": "Momentum"
+      },
+      {
+        "answer": "Initial Public Offerings"
+      }
+    ]
+  },
+  {
+    "id": "EQU-93",
+    "question": "An analyst gathers the following information about a company:\nDividend payout ratio 40%\nRequired rate of return on equity 15%\nReturn on equity 20%\nThe justified forward P/E ratio for the company's stock is closest to:",
+    "solutions": [
+      {
+        "answer": "5.7"
+      },
+      {
+        "answer": "8.0"
+      },
+      {
+        "answer": "13.3"
+      }
+    ]
+  },
+  {
+    "id": "EQU-94",
+    "question": "Q. A trader uses margin to purchase a stock for $50 by posting 30% equity. If the first margin call occurs when the price falls below $43.75, the maintenance margin requirement is closest to:",
+    "solutions": [
+      {
+        "answer": "13%"
+      },
+      {
+        "answer": "18%"
+      },
+      {
+        "answer": "20%"
+      }
+    ]
+  },
+  {
+    "id": "EQU-95",
+    "question": "A trader buys a stock on margin with the following conditions:\nPurchase price per share $50\nEquity per share $25\nMaintenance margin requirement 25%\nIf the share price declines, the highest price at which the trader will receive a margin call is closest to:",
+    "solutions": [
+      {
+        "answer": "$12.50"
+      },
+      {
+        "answer": "$33.33"
+      },
+      {
+        "answer": "$37.50"
+      }
+    ]
+  },
+  {
+    "id": "EQU-96",
+    "question": "Q. The observation that a large-capitalization company's stock price is inflated after the company releases unexpected good news at year end is most likely related to the:",
+    "solutions": [
+      {
+        "answer": "value effect"
+      },
+      {
+        "answer": "overreaction effect"
+      },
+      {
+        "answer": "turn-of-the-year effect"
+      }
+    ]
+  },
+  {
+    "id": "EQU-97",
+    "question": "Q. Order matching rules in order-driven trading systems are used to:",
+    "solutions": [
+      {
+        "answer": "match buy orders to sell orders"
+      },
+      {
+        "answer": "determine the prices at which the orders submitted by dealers are matched"
+      },
+      {
+        "answer": "determine the prices at which the orders submitted by customers are matched"
+      }
+    ]
+  },
+  {
+    "id": "EQU-98",
+    "question": "Q. Which of the following is an objective of market regulation?",
+    "solutions": [
+      {
+        "answer": "Controlling agency problems only"
+      },
+      {
+        "answer": "Ensuring that long-term liabilities are funded only"
+      },
+      {
+        "answer": "Both controlling agency problems and ensuring that long-term liabilities are funded"
+      }
+    ]
+  },
+  {
+    "id": "EQU-99",
+    "question": "An analyst gathers the following information about a company and its historical price multiples:\nBased only on this information, if the share price is $30, the company's shares are most likely overvalued based on:",
+    "solutions": [
+      {
+        "answer": "P/B"
+      },
+      {
+        "answer": "P/E"
+      },
+      {
+        "answer": "P/CF"
+      }
+    ]
+  },
+  {
+    "id": "EQU-100",
+    "question": "Q. Porter's five determinants of the intensity of competition in an industry do not include the:",
+    "solutions": [
+      {
+        "answer": "power of buyers"
+      },
+      {
+        "answer": "threat of substitutes"
+      },
+      {
+        "answer": "position of a company in its life-cycle stage"
+      }
+    ]
+  },
+  {
+    "id": "EQU-101",
+    "question": "A trader reports the following information about an equity investment which was sold after 1 year:\nNumber of shares purchased 2,000\nLeverage ratio 3\nPurchase price per share $12.00\nSale price per share $9.50\nCall money rate per year 3%\nThe trader's equity value as a result of the trade is closest to:",
+    "solutions": [
+      {
+        "answer": "$460,"
+      },
+      {
+        "answer": "$2,520"
+      },
+      {
+        "answer": "$3,000"
+      }
+    ]
+  },
+  {
+    "id": "EQU-102",
+    "question": "Q. If a security's intrinsic value is $55 per share and is currently selling for $50 per share, the security is:",
+    "solutions": [
+      {
+        "answer": "undervalued"
+      },
+      {
+        "answer": "fairly valued"
+      },
+      {
+        "answer": "overvalued"
+      }
+    ]
+  },
+  {
+    "id": "EQU-103",
+    "question": "Q. Convertible preference shares.",
+    "solutions": [
+      {
+        "answer": "are popular in financing venture capital and private equity transactions"
+      },
+      {
+        "answer": "are subject to more price volatility than the underlying common shares"
+      },
+      {
+        "answer": "do not increase in value due to an increase in price of the underlying common shares"
+      }
+    ]
+  },
+  {
+    "id": "EQU-104",
+    "question": "Q. If the price of a stock bought on 30% margin increases by 40%, the return on equity to the buyer is closest to:",
+    "solutions": [
+      {
+        "answer": "52%"
+      },
+      {
+        "answer": "75%"
+      },
+      {
+        "answer": "133%"
+      }
+    ]
+  },
+  {
+    "id": "EQU-105",
+    "question": "Q. The size effect anomaly results when it is observed that on a risk-adjusted basis small cap companies tend to:",
+    "solutions": [
+      {
+        "answer": "underperform equities of large-cap companies"
+      },
+      {
+        "answer": "perform in line with equities of large-cap companies"
+      },
+      {
+        "answer": "outperform equities of large-cap companies"
+      }
+    ]
+  },
+  {
+    "id": "EQU-106",
+    "question": "Q. Within Porter's five forces framework, the power of buyers within an industry is most likely influenced by the:",
+    "solutions": [
+      {
+        "answer": "industry concentration"
+      },
+      {
+        "answer": "availability of lower priced alternative brands"
+      },
+      {
+        "answer": "number of customers for the industry's products"
+      }
+    ]
+  },
+  {
+    "id": "EQU-107",
+    "question": "An investor purchases 1,000 shares of a non-dividend paying stock on margin and sells them after one year as follows:\nPurchase price per share $25\nSale price per share $20\nAnnual call money rate 5%\nLeverage ratio 2\nIgnaring commissions, the investor's holding period return is closest to:",
+    "solutions": [
+      {
+        "answer": "-45%"
+      },
+      {
+        "answer": "-40%"
+      },
+      {
+        "answer": "-23%"
+      }
+    ]
+  },
+  {
+    "id": "EQU-108",
+    "question": "An analyst gathers the following information about a market-capitalization-weighted index and one of its four constituent stocks:\nTotal Market Capitalization (in $ billions)\nStock 20\nIndex 57\nIf the stock price is $30 per share and the index value is 100, the stock's weight in the index is closest to:",
+    "solutions": [
+      {
+        "answer": "25%"
+      },
+      {
+        "answer": "30%"
+      },
+      {
+        "answer": "35%"
+      }
+    ]
+  },
+  {
+    "id": "EQU-109",
+    "question": "Q. The beginning value for an index is 1540 and the ending value is 1575. If the income for the period is 55, the total return of the index is closest to:",
+    "solutions": [
+      {
+        "answer": "1.3%"
+      },
+      {
+        "answer": "2.2%"
+      },
+      {
+        "answer": "5.8%"
+      }
+    ]
+  },
+  {
+    "id": "EQU-110",
+    "question": "Q. If investors can successfully predict future asset prices based on past prices, markets are most likely:",
+    "solutions": [
+      {
+        "answer": "inefficient"
+      },
+      {
+        "answer": "weak-form efficient only"
+      },
+      {
+        "answer": "semi-strong-form efficient"
+      }
+    ]
+  },
+  {
+    "id": "EQU-111",
+    "question": "Q. A company's current dividend (D) of $3 per share is expected to grow 20% per year for three years, then 5% per year thereafter. If the required rate of return is 10%, using a multistage dividend discount model, the intrinsic value of the stock at the end of Year 3 is closest to:",
+    "solutions": [
+      {
+        "answer": "$81.79"
+      },
+      {
+        "answer": "$92.53"
+      },
+      {
+        "answer": "$108.86"
+      }
+    ]
+  },
+  {
+    "id": "EQU-112",
+    "question": "Q. A disadvantage of an equal-weighted index is that:",
+    "solutions": [
+      {
+        "answer": "maintaining equal weights requires frequent reconstitution of the index"
+      },
+      {
+        "answer": "securities that represent a relatively large fraction of the target market value are underrepresented"
+      },
+      {
+        "answer": "securities that represent a relatively small fraction of the target market value are underrepresented"
+      }
+    ]
+  },
+  {
+    "id": "EQU-113",
+    "question": "An analyst gathers the following information about a company's non-callable, non- convertible preferred stock:\nPar value per share €100\nRequired rate of return 7.2%\nMaturity 5 years\nΒ. €7.20.",
+    "solutions": [
+      {
+        "answer": "If the stock's intrinsic value is €125, the company's semi-annual dividend on the preferred stock is closest to:"
+      },
+      {
+        "answer": "€6.62"
+      },
+      {
+        "answer": "€9.00"
+      }
+    ]
+  },
+  {
+    "id": "EQU-114",
+    "question": "Q. In contrast to a public company, a company that has gone private most likely.",
+    "solutions": [
+      {
+        "answer": "faces greater regulatory costs"
+      },
+      {
+        "answer": "focuses more on short-term results"
+      },
+      {
+        "answer": "lacks an active secondary market for its equity"
+      }
+    ]
+  },
+  {
+    "id": "EQU-115",
+    "question": "An analyst gathers the following information about an equal-weighted index composed of three stocks:\nIf there is a 2% return from dividends for each of the three stocks, the total return of the index is:",
+    "solutions": [
+      {
+        "answer": "0%"
+      },
+      {
+        "answer": "2%"
+      },
+      {
+        "answer": "6%"
+      }
+    ]
+  },
+  {
+    "id": "EQU-116",
+    "question": "Q. Which of the following factors would most likely increase market efficiency? Limits on:",
+    "solutions": [
+      {
+        "answer": "short selling"
+      },
+      {
+        "answer": "transaction costs"
+      },
+      {
+        "answer": "trading by foreign investors"
+      }
+    ]
+  },
+  {
+    "id": "EQU-117",
+    "question": "Q. Which of the following index weighting schemes most likely causes a bias in the index when high-priced stocks split?",
+    "solutions": [
+      {
+        "answer": "Price weighted"
+      },
+      {
+        "answer": "Equal weighted"
+      },
+      {
+        "answer": "Value weighted"
+      }
+    ]
+  },
+  {
+    "id": "EQU-118",
+    "question": "Q. In the secondary market, funds flow from:",
+    "solutions": [
+      {
+        "answer": "traders to traders"
+      },
+      {
+        "answer": "issuers to investors"
+      },
+      {
+        "answer": "investors to issuers"
+      }
+    ]
+  },
+  {
+    "id": "EQU-119",
+    "question": "Q. When issuers sell securities to investors:",
+    "solutions": [
+      {
+        "answer": "they trade in the primary market"
+      },
+      {
+        "answer": "they trade in the secondary market"
+      },
+      {
+        "answer": "funds flow between the primary and the secondary market"
+      }
+    ]
+  },
+  {
+    "id": "EQU-120",
+    "question": "Q. In a well-functioning financial system, changes in asset prices primarily reflect changes in:",
+    "solutions": [
+      {
+        "answer": "execution costs"
+      },
+      {
+        "answer": "the demand for liquidity"
+      },
+      {
+        "answer": "fundamental asset values"
+      }
+    ]
+  },
+  {
+    "id": "EQU-121",
+    "question": "Q. When a company raises common equity capital in the public market, the company most likely:",
+    "solutions": [
+      {
+        "answer": "moves money from the present to the future"
+      },
+      {
+        "answer": "agrees to make scheduled distributions in the future"
+      },
+      {
+        "answer": "is required to meet regulatory reporting requirements"
+      }
+    ]
+  },
+  {
+    "id": "EQU-122",
+    "question": "Q. Preference shares are less risky than common shares because preference shares have:",
+    "solutions": [
+      {
+        "answer": "fixed dividends"
+      },
+      {
+        "answer": "a guaranteed return if a company is liquidated"
+      },
+      {
+        "answer": "a larger portion of total return based on future price return"
+      }
+    ]
+  },
+  {
+    "id": "EQU-123",
+    "question": "Q. The Gordon growth model assumes a dividend growth rate:",
+    "solutions": [
+      {
+        "answer": "less than the required rate of return"
+      },
+      {
+        "answer": "equal to the required rate of return"
+      },
+      {
+        "answer": "greater than the required rate of return"
+      }
+    ]
+  },
+  {
+    "id": "EQU-124",
+    "question": "Q. Private equity securities most likely",
+    "solutions": [
+      {
+        "answer": "are listed on public exchanges"
+      },
+      {
+        "answer": "are illiquid and difficult to trade"
+      },
+      {
+        "answer": "have easily available financial information"
+      }
+    ]
+  },
+  {
+    "id": "EQU-125",
+    "question": "/Q. The Gordon growth model is most appropriate for valuing the equity of a dividend- paying:",
+    "solutions": [
+      {
+        "answer": "electric utility firm"
+      },
+      {
+        "answer": "technology company"
+      },
+      {
+        "answer": "automobile manufacturer"
+      }
+    ]
+  }
+]

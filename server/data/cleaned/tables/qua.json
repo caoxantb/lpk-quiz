@@ -1,0 +1,113 @@
+{
+  "QUA-2": [
+    ["Estimated slope", "1.0"],
+    ["Estimated intercept", "1.2%"],
+    ["Standard error of the forecast", "1.4%"],
+    ["Critical t-values at a 5% significance level", "2.032"]
+  ],
+  "QUA-10": [
+    ["CD", "Interest Rate"],
+    ["1", "2.2%"],
+    ["2", "3.3%"],
+    ["3", "4.4%"]
+  ],
+  "QUA-19": [
+    ["", "Expected Annual Return", "Standard Deviation of Returns"],
+    ["Portfolio 1", "23%", "15%"],
+    ["Portfolio 2", "12%", "6%"],
+    ["Portfolio 3", "15%", "8%"]
+  ],
+  "QUA-23": [
+    ["Sum of squares error", "280"],
+    ["Sum of squares regression", "25"],
+    ["Number of paired observations", "30"]
+  ],
+  "QUA-26": [
+    [
+      "Year",
+      "Price per Share at Beginning of Year",
+      "Cash Flow at Beginning of Year"
+    ],
+    ["1", "$100", "$100 used to purchase one share"],
+    ["2", "$100", "$9 received in dividends and not reinvested"],
+    ["3", "$100", "$100 received from selling one share"]
+  ],
+  "QUA-35": [
+    ["", "Value"],
+    ["First quartile", "11"],
+    ["Second quartile", "62"],
+    ["Third quartile", "93"],
+    ["Fourth quartile", "359"]
+  ],
+  "QUA-37": [
+    ["Year", "Outlays", "Proceeds"],
+    ["0", "$100 to purchase the first share", "---"],
+    [
+      "1",
+      "$110 to purchase the second share",
+      "$10 dividend received from first share (not reinvested)"
+    ],
+    ["2", "---", "$230 received from selling two shares at $115 per share"]
+  ],
+  "QUA-45": [
+    ["Year", "Return (%)"],
+    ["1", "6%"],
+    ["2", "7%"],
+    ["3", "3%"],
+    ["4", "2%"],
+    ["5", "4%"]
+  ],
+  "QUA-52": [
+    ["Probability", "Outcome"],
+    ["0.20", "35"],
+    ["0.30", "50"],
+    ["0.50", "80"]
+  ],
+  "QUA-53": [
+    [
+      "Scenario",
+      "Probability of Scenario",
+      "Dividend per Share",
+      "Probability of Dividend"
+    ],
+    ["Favorable", "0.60", "$2.00", "0.80"],
+    ["", "", "$1.50", "0.20"],
+    ["Unfavorable", "0.40", "$0.75", "0.30"],
+    ["", "", "$0.50", "0.70"]
+  ],
+  "QUA-54": [
+    ["", "Term Deposit 1", "Term Deposit 2"],
+    ["Compounding frequency", "Quarterly", "Continuous"],
+    ["Stated annual rate", "4%", "?"]
+  ],
+  "QUA-55": [
+    ["Year", "Price per Share"],
+    ["1", "€14.00"],
+    ["2", "€12.00"],
+    ["3", "€17.00"]
+  ],
+  "QUA-57": [
+    ["", "Return of Y=15%", "Return of Y=10%", "Return of Y=5%"],
+    ["Return of X = 20%", "0.2", "0", "0"],
+    ["Return of X = 15%", "0", "0.4", "0"],
+    ["Return of X = 10%", "0", "0", "0"]
+  ],
+  "QUA-59": [
+    ["Stock price", "at t=0", "$20"],
+    ["Dividend paid", "at t=1", "$3"],
+    ["Stock price", "at t=1", "$12"],
+    ["Dividend paid", "at t=2", "$1"],
+    ["Stock price", "at t=2", "$20"]
+  ],
+  "QUA-66": [
+    ["Annual fee (payable at the beginning of each year)", "$50,000"],
+    ["Number of years of fee payments", "4"]
+  ],
+  "QUA-83": [
+    ["Observation", "Rank of X", "Rank of Y"],
+    ["1", "1", "2"],
+    ["2", "2", "3"],
+    ["3", "3", "4"],
+    ["4", "4", "1"]
+  ]
+}

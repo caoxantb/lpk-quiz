@@ -1,0 +1,1100 @@
+[
+  {
+    "id": "ALT-1",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because decentralized exchanges lack a centralized control mechanism and operate on a distributed platform without central coordination or control. This comes with the benefit that should one of the computers on the network be attacked, the exchange remains operational since there are numerous other computers that continue to operate on the network. That is why attacking decentralized exchanges is substantially more difficult. rendering such attacks almost certain to fail. However, for a centralized exchange, trading is hosted on private servers, exposing the centralized exchanges and their clients to security vulnerabilities Should the exchange's servers become compromised, the entire system may become paralyzed, halting trade, and leaking vital user information. Hence, decentralized exchanges are less susceptible to attacks from hackers. Moreover, decentralized exchanges are difficult to regulate because no single individual, organization, or group controls the system. This means that those trading on decentralized exchanges are generally free to transact without any reguiatory scrutiny. However, some [centralizedj exchanges are regulated, and depending on jurisdiction, these exchanges may be regulated as financial exchanges or other types of financial intermediaries. Hence, decentralized exchanges are less likely to be regulated."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because decentralized exchanges lack a centralized control mechanism and operate on a distributed platform without central coordination or control. This comes with the benefit that should one of the computers on the network be attacked, the exchange remains operational since there are numerous other computers that continue to operate on the network. That is why attacking decentralized exchanges is substantially more difficult. rendering such attacks almost certain to failL. However, for a centralized exchange, trading is hosted on private servers, exposing the centralized exchanges and their clients to security vulnerabilities. Should the exchange's servers become compromised, the entire system may become paralyzed, halting trade, and leaking vital user information. Hence, decentralized exchanges are less (not more) susceptible to attacks from hackers."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because decentralized exchanges are difficult to regulate because no single individual, organization, or group controls the system. This means that those trading on decentralized exchanges are generally free to transact without any regulatory scrutiny. However, some [centralized] exchanges are regulated, and depending on jurisdiction, these exchanges may be regulated as financial exchanges or other types of financial intermediaries. Hence, decentralized exchanges are less (not more) likely to be regulated."
+      }
+    ],
+    "note": "Alternative Investments: describe investment forms and vehicles used in digital asset investments."
+  },
+  {
+    "id": "ALT-2",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because digital asset investment can take the form of direct investment on the blockchain or indirect investments. Direct ownership of bitcoin and other cryptocurrencies involves the use of a cryptocurrency wallet, which stores the (public dad private) digkal codes required to access the asser on a computer website or mobie device application."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because an increasing number of exchangeAraded products, such as ETFs, seek to repticate digital assetievestinent returns. These ETFS typically do not directly invest in cryptocuencies and gain exposure to the vahue of cryptocurrencies using cash anacyptocurency deavatives, Since as direct investinent is mate a elyptocurrency wallet Is.nol tsqused"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because cryptocurrency coin trusts allow investors to trade shares in trusts holding large pools of a cryptocurency and that trade over the counter (OTC) and behave like closed-end funds. For an investor in a coin Inust, there is no need to ceate a digital wallet and use encryption keys to invest in cryptocurtencies."
+      }
+    ],
+    "note": "Alternative Investments: describe investment forms and vehicles used in digital asset investments."
+  },
+  {
+    "id": "ALT-3",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the corelation of cryptocurrencies with traditional assets is on the rise."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the corelation of cryptocurrencies with traditional assets is on the rise."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the correlation of cryptocurrencies with traditional assets is on the rise."
+      }
+    ],
+    "note": "Alternative Investments: analyze sources of risk, return, and diversification among digital asset investments"
+  },
+  {
+    "id": "ALT-4",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because in practice, prices (or returns) of cryptocurrencies are driven more by market adoption, networ effects, technological advancement, regulatory development, and general market risk appetite."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because bitcoin and other cryptocurrency values are based solely on asset appreciation, with no underlying cash flows."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because since its launch in 2009, bitcoin's performance has been characterized by high return, high volatility, and low corelations with traditional asset classes. The fact that the correlation of cryptocurrencies with traditional assets is on the rise does not imply that the\ncorrelation of bitcoin and other cryptocurrencies has reached a high level yet, nor would a high level necessarily be a desirable feature."
+      }
+    ],
+    "note": "Alternative Investments: analyze sources of risk, return, and diversification among digital asset investments"
+  },
+  {
+    "id": "ALT-5",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because cryptocurrencies are not only issued by individuals but also by corporations and organizations. While there were around 70 cryptocurrencies recorded in 2013, by early 2022, there were close to 10,000 different cryptocurrencies issued by corporations, organizations, and in many cases, individuals."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because cryptocurrencies are not only issued by corporations and organizations but also by individuals. While there were around 70 cryptocurencies recorded in 2013, by early 2022, there were close to 10,000 different cryptocurrencies issued by corporations, organizations, and in many cases, individuals."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because while there were around 70 cryptocurrencies recorded in 2013, by early 2022, there were close to 10,000 different cryptocurrencies issued by corporations, organizations, and in many cases, individuals."
+      }
+    ],
+    "note": "Alternative Investments: explain investment features of digital assets and contrast them with other asset classes"
+  },
+  {
+    "id": "ALT-6",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the main similarity [not difference] between these asset types is the emergence of indirect investment vehicles such as exchange-traded funds [ETFS] and hedge funds that invest both in traditional financial assets and in digital assets."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because one key dífference between digital assets and traditional financial instruments is that traditional [not digital] assets are generally recorded in private ledgers maintained by central intermediaries."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because, unlike financial assets, most digital assets do not have an inherent value based on underlying assets or on the potential cash flow."
+      }
+    ],
+    "note": "Alternative Investments: explain investment features of digital assets and contrast them with other asset classes"
+  },
+  {
+    "id": "ALT-7",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because in addition, funds sometimes impose a gate, which limits or restricts redemptions for a period of time. A gate is imposed by the hedge fund manager independent of any lockup period that may apply. A gate therefore applies to all investors for a finite period of time while a lockup period applies to new investors only."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because notice periods provide an opportunity for the hedge fund manager to liquidate a position in an orderly fashion without magnifying the losses. A notice period applies to all investors wanting to withdraw some or all of their capital from a hedge fund with the goal of providing the manager with advance warning of the withdrawal."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because lockup periods-time periods when investors cannot withdraw their capital- provide the hedge fund manager the required time to implement and potentially realize a strategy's expected results. LOckup periods apply to new investors in a hedge fund with the goal of allowing the hedge fund manager time to implement the fund's investment strategy."
+      }
+    ],
+    "note": "Alternative Investments: describe the performance appraisal of alternative investments"
+  },
+  {
+    "id": "ALT-8",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because real estate investments are made in buildings or land, either directly or indirectly. Although some venture capital investments may have a real estate component, venture capital is broadly considered a type of private equity investing, and is best classified as such."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because hedge funds are private investment vehicles that manage portfolios of securities and/or derivative positions using a variety of strategies. Although venture capital investments may be included in some hedge funds, venture capital is broadly considered a type of private equity investing, and is best classified as such."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because venture capital funds, a specialized form of private equity that typically involves investing in or providing financing to startup or early-stage companies with high growth potential, represent a small portion of the private equity market."
+      }
+    ],
+    "note": "Alternative Investments: describe features and categories of alternative investments"
+  },
+  {
+    "id": "ALT-9",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because a leveraged loan is a loan that is itself levered. Private debt firms that invest in leveraged loans first borrOW money to finance the debt and then extend it to another borrower. By using leverage, a private debt firm can enhance the return on its loan portfolio."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because involvement in distressed debt typically entails buying the debt of mature companies in financial difficulty. These companies may be in bankruptcy, have defaulted on debt, or seem likely to defaut on debt Some investors identify companies with a temporary cash-flow problem but a good business plan to heip the company survive and ultimately flourish. These investors buy the company's debt, expecting both the company and its debt to increase in value. Turnaround investors buy debt aiming to be more active in distressed company management and direction, seeking to restructure and revive them."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because mezzanine debt often comes with additional features, SUch as warrants or conversion rights. These provide equity participation to lenders/investors, conveying the option to convert their debt into equity or purchasing the equity of the underlying borrOwer under certain circumstances."
+      }
+    ],
+    "note": "Alternative Investments: explain features of private debt and its investment characteristics"
+  },
+  {
+    "id": "ALT-10",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because advantages of a SPAC exit include fixed valuation with lower volatility of share pricing."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because advantages of a SPAC exit include:\na. extended time for public disclosure on company prospects to build investor interest.\nb. fixed valuation with lower volatility of share pricing.\nc. flexibility of transaction structure to best suit the company's context, and\nd. association with potentially high-profile and seasoned sponsors and their extensive investor network."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because redemptions are allowed and increase the deal risk. Also, disadvantages include\na. potential higher costs of capital from sponsor dilution, warrants, and other fees,\nb. spread between the announced and true equity value because of the dilution,\nc. deal and capital risk due to potential redemptions, and\nd. significant stockholder overhang and churn over the number of months after the merger. Alternative Investments: explain features of private equity and its investment characteristics"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "ALT-11",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because venture capital is a different private equity strategy from growth capital. Venture capital (VC) entails investing in or providing financing to private companies with high growth potential. Typically these are start-ups or young companies, but venture capital can be provided at a variety of stages, ranging from the inception of an idea for a company to the point when the company is about to launch an IPO (initial public offering) or be acquired. Growth capital generally refers to minority equity investments, whereby the firm takes a less-than- controlling interest in more mature companies that are looking for capital to expand or restructure operations, enter new markets, or finance major acquisitions."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it is an exit strategy. Recapitalization in the context of private equity describes the steps a firm takes to increase or introduce leverage to its portfolio company and pay itself a dividend out of the new capital structure."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because among several other specialties, some private equity firms specialize in growth capital, also known as growth equity or minority equity investing. Growth capital generally refers to minority equity investments, whereby the firm takes a less-than-controlling interest in more mature companies that are looking for capital to expand or restructure operations, enter new markets, or finance major acquisitions."
+      }
+    ],
+    "note": "Alternative Investments: explain features of private equity and its investment characteristics"
+  },
+  {
+    "id": "ALT-12",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because Level 1 assets have an exchange-traded, publiciy traded price available that is mandated to be used for valuation purposes. The following is a methodology that involves the categorization of investments into three buckets Level 1, 2, and 3 asset pricing... u Level 1 assets have an exchange-traded, publicly traded price avallable that is mandated to be used for valuation purposes."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because Level 2 asset values use outside quotes from brokers when publicly traded (Level 1) prices are not available The following is a methodology that involves the categorization of investments into three buckets: Level 1, 2, and 3 asset pricing. Level 2 asset values use outside quotes from brokers when publicly traded (Level 1) prices are not available."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because any investment vehicle that is heavily involved with Level 3-priced assets deserves increased scrutiny and due diligence. The following is a methodology that involves the categorization of investments into three buckets: Level 1, 2, and 3 asset pricing... Level 3 asset values are computed using only internal models when outsider broker (Level 2) quotes are not available or not reliable."
+      }
+    ],
+    "note": "Alternative Investments: describe the performance appraisal of alternative investments"
+  },
+  {
+    "id": "ALT-13",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because alternative investments often have many of the following characteristics. Restrictions on redemptions (.e., 'ockups' and 'gates'). As such, restrictions on redemptions are typically imposed [by hedge funds]. Investors may be required to keep their money in the hedge fund for a minimum period (referred to as a lockup period) before they are allowed to make withdrawals or redeem shares. Investors may be required to give notice of their intent to redeem, the notice period is typically 30-90 days. To redeem shares, investors may be charged a fee, typicaly payable to the fund itself (rather than the manager) so as not to disadvantage remaining investors in the fund, particularly in circumstances where the redemption takes place during the lockup period."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because hedge funds are private investment vehicles that manage portfolios of securities and/or derivative positions using a variety of strategies. Although hedge funds may be invested entirely in traditional assets, these vehicles are considered alternative because of their private nature. Hedge funds typically have more leeway to pursue investments and strategies offering the potential for higher retuns, whether absolute or compared with a specific market benchmark, but these strategies may increase the risk of investment loss. They may involve long and short positions and may be highly leveraged Some aim to deliver investment performance that is independent of broader market performance."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because hedge funds are private investment vehicles that manage portfolios of securities and/or derivative positions using a variety of strategies. They may involve long and short positions and may be highly leveraged. Some aim to deliver investment performance that is independent of broader market performance. A contemporary hedge fund generally has the following characteristics: It is a creatively managed portfolio of investments involved in one or more asset classes (equities, credit, fixed income, commodities, futures, foreign exchange, and sometimes even hard assets, such as real estate), sometimes trading in different geographic regions, that is often leveraged, generally takes both long and short positions (when possible), and quite often uses derivatives to express a view or establish a hedge."
+      }
+    ],
+    "note": "Alternative Investments: explain investment features of hedge funds and contrast them with other asset classes"
+  },
+  {
+    "id": "ALT-14",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because oil is categorized as a hard, not a soft, commodity. Commodities are considered either 'hard' (those mined, such as copper, or extracted, such as oil) or 'soft (those grown over a period of time, such as livestock, grains, and cash crops, such as coffee)."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because commodities are considered either 'hard' (those mined, such as copper, or extracted, such as oil) or 'soft (those grown over a period of time, such as livestock, grains, and cash crops, such as coffee)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because oil is categorized as a hard, not a soft, commodity. Commodities are considered either 'hard (those mined, such as copper, or extracted, such as oil) or 'soft (those grown over a period of time, such as livestock, grains, and cash crops, such as coffee). Alternative Investments: describe features of commodities and their investment characteristics"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "ALT-15",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because co-investing offers reduced control over the investment selection process compared with direct investing."
+      },
+      {
+        "isCorrect": false,
+        "reason": "Incorect because co-investing offers reduced control over the investment selection process compared with direct investing."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because co-investing offers reduced control over the investment selection process compared with direct investing."
+      }
+    ],
+    "note": "Alternative Investments: Compare direct investment, co-investment, and fund investment methods for alternative investments"
+  },
+  {
+    "id": "ALT-16",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because direct investing provides the greatest amount of flexibility for the investor and grants the highest level of control over how the asset is managed."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because direct investing provides the greatest amount of flexibility for the investor and grants the highest level of control over how the asset is managed."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because direct investing allows the investor to build a portfolio of investments to her exact requirements. Direct investing provides the greatest amount of flexibility for the investor and grants the highest level of control over how the asset is managed."
+      }
+    ],
+    "note": "Alternative Investments: compare direct investment, co-investment, and fund investment methods for alternative investments"
+  },
+  {
+    "id": "ALT-17",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because commodity investments may involve investing in actual physical commodities or in producers of commodities. Commodities are considered either 'hard' (those mined, such as copper, or extracted, such as oil) , such as livestock, grains, and cash crops, such as coffee). or 'soft' (those grown over a period of time"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because timberland is a separate component of natural resources, not a commodity. Natural resources include commodities (hard and soft), agricultural land (farmland), and timberland."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because resources include agricultural land is a separate component of natural resources, not a commodity. Natural commodities (hard and soft), agricultural land (farmland), and timberland."
+      }
+    ],
+    "note": "Alternative Investments: describe features of commodities and their investment characteristics"
+  },
+  {
+    "id": "ALT-18",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it is for brownfield, not greenfield, typically invest alongside strategic investors or developers who specialize infrastructure assets that are to be constructed is generally referred to as higher development and construction risks compared to investors that, typically, some of the assets' financial and greenfield investment. Thus, greenfield investors face brownfield investors, and may expect capital appreciation to reflect the construction and commissioning risk. operating history is available."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because greenfield investors in developing the underlying assets."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because investing in infrastructure assets that are to be constructed is generally referred to as greenfield investment Thus, greenfield investors face higher development and construction risks compared to brownfield investors, and may expect capital appreciation to reflect the construction and commissioning risk"
+      }
+    ],
+    "note": "Alternative Investments: explain features and characteristics of infrastructure"
+  },
+  {
+    "id": "ALT-19",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because End-of-year AUM = $500 million x 22% = $610 million.\nManagement fee = $610 million x 2% = $12.2 million.\nThe hurdle rate is a minimum rate of return. typically 8%, that the GP must exceed in order to earn the performance fee. GPs typically receive 20% of the total profit of the private equity fund net of any hard hurdle rate, in which case the GP earns fees on annual returns in excess of the hurdle rate, or net of the soft hurdle rate, in which case the fee is calculated on the entire annual gross return as long as the set hurdle is exceeded.\nHard hurdle = $500 million x 10% $50 million.\nIncentive fee (based on returns net of management fees) = ($610 million - $500 million - $50 million - $12.2 million) x 15% = $47.8 million x 15% = $7.17 million $7.2 million"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it calculates the hurdle rate on the annual return before fees (instead of the Beginning-of-year AUM).\nEnd-of-year AUM = $500 million x 22% = $610 million.\nManagement fee = $610 million x 2% = $12.2 million.\nHard hurdle = ($610 million - $500 million) x 10% = $110 million x 10% = $11.0 million.\nIncentive fee (calculated net of management fees) = ($610 million - $500 million - $11.0 million - $12.2 million) x\n15% $86.8 million x 15% = $13.02 million $13.0 million."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it assumes a soft hurdle rate (instead of a hard hurdle rate) of 10%.\nEnd-of-year AUM = $500 million x 22% = $610 million.\nManagement fee = $610 million x 2% = $12.2 million.\nGross annual return> soft hurdle rate, hence the hurdle rate is not deducted from the calculation of the incentive fee.\nIncentive fee (calculated net of management fees) = ($610 million - $500 million - $12.2 million) x 15% = $97.8 million * 15% = $14.67 million $14.7 million."
+      }
+    ],
+    "note": "Alternative Investments: calculate and interpret alternative investment returns both before and after fees"
+  },
+  {
+    "id": "ALT-20",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because event-driven strategies seek to profit from defined catalyst events, typically those that involve changes in corporate structure, such as an acquisition or restructuring. Further subdivisions of this category by HFR include the following: Activist. The term \"activist\" is short for \"activist shareholder.\" Here, managers secure sufficient equity holdings to allow them to influence a company's policies or direction. The hedge fund manager thus tries to create his or her own catalyst, influencing the investment's ultimate destiny by creating a desired corporate outcome."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because equity hedge strategies are focused on public equity markets and take long and short positions in equity and equity derivative securities. Examples of equity hedge strategies include the in equity and equity derivative securities. Examples of equity hedge strategies include the following: Market neutral. These strategies use quantitative (technical) and fundamental analysis to identify under- and overvalued equity securities. The hedge fund takes long positions in securities it has identified as undervalued and short positions in securities it has identified as overvalued. The hedge fund tries to maintain a net position that is neutral with respect to market risk and other risk factors (size, industry, momentum, value, etc.) ideally, the portfolio has an overall beta of approximately zero."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because event-driven strategies seek to profit from defined catalyst events, typically those that involve changes in corporate structure, such as an acquisition or restructuring Further subdivisions of this category by HFR include the following. Merger arbitrage. Generally, these strategies involve going long (buying) the stock of the company being acquired at a discount to its announced takeover price and going short (selling) the stock of the acquiring company when the merger or acquisition is announced. The manager may expect to profit once the initial deal spread narrows to the closing value of the transaction after it is fully consummated. The spread exists because there is always some uncertainty over whether the deal will actually close in the face of legal and regulatory hurdles"
+      }
+    ],
+    "note": "Alternative Investments: explain investment features of hedge funds and contrast them with other asset classes"
+  },
+  {
+    "id": "ALT-21",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because event-driven strategies tend to be long biased, with merger arbitrage having the least bias."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because event-driven strategies seek to profit from defined catalyst events, typically involving changes in corporate structure, such as an acquisition or restructuring. They are considered to be based on bottom-up security-specific analysis, as opposed to top-down analysis."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because event-driven strategies seek to profit from defined catalyst events, typically involving changes in corporate structure, such as an acquisition or restructuring. It is relative value funds that seek to profit from a pricing discrepancy between related securities based on an unusual short-term relationship."
+      }
+    ],
+    "note": "Alternative Investments: explain investment features of hedge funds and contrast them with other asset classes"
+  },
+  {
+    "id": "ALT-22",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because infrastructure investments are frequently categorized on the basis of the underlying assets. The broadest categorization organizes investments into economic and social infrastructure assets. Economic infrastructure assets support economic activity and include three broad types of assets: transportation assets, information and communication technology (ICT) assets, and utility and energy assets. Transportation assets include roads, bridges, tunnels, airports, seaports, and heavy and light/urban railway systems."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because infrastructure investments are frequently categorized on the basis of the underlying assets The broadest categorization organizes investments into economic and social infrastructure assets.... Social Infrastructure assets are directed toward human activities and include such assets as educational, health care, social housing, and Correct ional facilities, with the focus on providing, operating, and maintaining the asset infrastructure."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because infrastructure investments are frequently categorized on the basis of the underlying assets. The broadest categorization organizes investments into economic and social infrastructure assets. Economic infrastructure assets support economic activity and include three broad types of assets: transportation assets, information and communication technology (ICT) assets, and utility and energy assets.... ICT assets include infrastructure that stores, broadcasts, and transmits information or data, such as telecommunication towers and data centers."
+      }
+    ],
+    "note": "Alternative Investments: explain features and characteristics of infrastructure"
+  },
+  {
+    "id": "ALT-23",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because alternative assets, by their very nature, tend to be less efficiently priced than traditional marketable securities, providing an opportunity to exploit market inefficiencies through active management."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because investing in alternative assets can require handling illiquidity, transacting on private markets, operating sophisticated investment strategies, or risk-return profiles that are very different from those of traditional long-only investments."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because alternative investments often have Relatively low correlation of returns with those of traditional investments."
+      }
+    ],
+    "note": "Alternative Investments: describe features and categories of alternative investments"
+  },
+  {
+    "id": "ALT-24",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it is the amount if the sum of the incentive and management fees based on the dollar returns for the year ($250 million less $200 million). That is, the sum of the management fee of $1 million ($50 million times 0.02) and the incentive fee of $10 million ($50 million times 0.20), which is $11 million."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because it calculates the incentive fee net of the management fee. That is, the total fee is the sum of the management fee of $5 million ($250 million AUM times 0.02) and the incentive fee of $9 million ($250 million less $200 million less the $5 million incentive times 0.20), which is $14 million."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it is the amount if the incentive and management fees are calculated independently (rather than if the incentive fee is calculated net of the management fee). That is, the sum of the management fee of $5 million ($250 million AUM times 0.02) and the incentive fee of $10 million ($250 million less $200 million for at profit of $50 million times 0.20), which is $15 million."
+      }
+    ],
+    "note": "Alternative Investments: calculate and interpret alternative investment returns both before and after fees"
+  },
+  {
+    "id": "ALT-25",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because funds are generally structured with a management fee typically ranging from 1% to 2% of assets under management (e.g. for hedge funds) or committed capital (e.g. private equity funds), which is how much money in total that LP's have committed to the fund's future investments."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because funds are generally structured with a management fee typically ranging from 1% to 2% of assets under management (e.g. for hedge funds) or committed capital (e.g. private equity funds), which is how much money in total that LP's have committed to the fund's future investments."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because funds are generally structured with a management fee typically ranging from 1% to 2% of assets under management (e.g. for hedge funds) or committed capital (e.g. private equity funds), which is how much money in total that LP's have committed to the fund's future investments."
+      }
+    ],
+    "note": "Alternative Investments: describe investment ownership and compensation structures commonly used in alternative investments"
+  },
+  {
+    "id": "ALT-26",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because hedge funds are private investment vehicles that manage portfolios of securities and/or derivative positions using a variety of strategies. Although hedge funds may be invested entirely in traditional assets, these vehicles are considered alternative because of their private nature. Hedge funds typically have more leeway to pursue investments and strategies offering the potential for higher returns, whether absolute or compared with a specific market benchmark, but these strategies may increase the risk of investment loss. They may involve long and short positions and may be highly leveraged. because private equity funds generally invest in companies, whether startups or established firms, that listed on a public exchange, or they invest in public companies with the intent to take them private."
+      },
+      {
+        "isCorrect": false,
+        "reason": ""
+      },
+      {
+        "isCorrect": false,
+        "reason": "are not Incorrect because venture capital typically involves investing in or providing financing to startup or early-stage companies with high growth potential, represent a small portion of the private equity market."
+      }
+    ],
+    "note": "Alternative Investments: describe features and categories of alternative investments"
+  },
+  {
+    "id": "ALT-27",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because hedge fund managers may discount their fees for larger investors or for placement agents who introduced these investors. However, a rebate does not, in isolation, protect clients from paying twice for the same performance."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the partnership agreement usually specifies that the performance fee is earned only after the fund achieves a return known as a hurdle rate. The hurdle rate is a minimum rate of return, typically 8%, that the GP must exceed in order to eam the performance fee GPs typically receive 20% of the total profit of the private equity fund net of any hard hurdle rate, in which case the GP earns fees on annual returns in excess of the hurdle rate, or net of the soft hurdle rate, in which case the fee is calculated on the entire annual gross return as long as the set hurdle is exceeded."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because in hedge funds, fee calculations also take into account a high-water mark, which reflects the highest value used to calculate an incentive fee. A high-water mark is the highest value of the fund investment ever achieved at a performance fee crystallization date, net of fees, by the individual LP. A high-water mark clause states that a hedge fund manager must recuperate declines in value from the high-water mark before performance fees can be charged on newly generated profits. The use of high-water marks protects clients from paying twice for the same performance."
+      }
+    ],
+    "note": "Alternative Investments: describe investment ownership and compensation structures commonly used in alternative investments"
+  },
+  {
+    "id": "ALT-28",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because for example, infrastructure investors frequently enter into public-private partnerships (PPP). which are agreements between the public sector and the private sector to finance, build, and operate public Infrastructure, such as hospitals and toll roads."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because many alternative investments, such as hedge and private equity funds, use a partnership structure with a general partner that manages the business and limited partners (investors) who own fractional Interests in the partnership. Correct because in real estate fund investing, investors may be classified as unitholders, and joint ventures are a partnership structure common in real estate direct investing. Alternative Investments describe investment ownership and compensation structures commonly used in alternative investments"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because in real estate fund investing, investors may be classified as unitholders, and joint ventures are a partnership structure common in real estate"
+      }
+    ],
+    "note": "Alternative Investments: describe investment ownership and direct investing. compensation structures commonly used in alternative investments"
+  },
+  {
+    "id": "ALT-29",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because there are two types of waterfalls: deal-by-deal (American) waterfalls and whole-of-fund (European) waterfalls. Deal-by-deal waterfalls are more advantageous to the GP because performance fees are collected on a per-deat basis, allowing the GP to get paid before LPs receive both their initial investment and their preferred rate of return ( e, the hurdle rate) on the entire fund"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because there are two types of waterfalls deal-by-deal (American) waterfalls and where-of-fond (European) waterfalls. Deal-by-deal waterfalls are more advantageous to the GP because performance fees are collected on a per-deal basis, allowing the GP to get paid before\nLPs receive both their initial investment and their preferred rate ef return (ie, the hurdle rate) on the entire fund"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because in whole-of-fuhu (European) waterfalls, all distributions go to the LPs as deals are exited and the GP does not participate in any profits until the LPs receive their initial investment and the hurdle rate has been met. In contrast to deal-by-deal (American) waterfalls, whole-of-fund waterfalls occur at the aggregate fund level and are more advantageous to the LPS."
+      }
+    ],
+    "note": "Alternative Investments: describe investment ownership and compensation structures commonly used in alternative investments"
+  },
+  {
+    "id": "ALT-30",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because in addition to lockup periods, funds sometimes impose a gate, which limits or restricts redemptions for a period of time."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because notice periods provide an opportunity for the hedge fund manager to liquidate a position in an orderly fashion without magnifying the losses."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because lockup periods-time periods when investors cannot withdraw their capital- provide the hedge fund manager the required time to implement and potentially realize a strategy's expected results. If the hedge fund receives a drawdown request shortly after a new investment, the lockup period forces the investors who made the request to stay in the fund for a period of time rather than be allowed to immediately withdraw. Thus, a lockup period imposes restrictions on redemptions from the start of a new investment in the fund, and not later on, e.g. some time after the new investment."
+      }
+    ],
+    "note": "Alternative Investments: describe the performance appraisal of alternative investments"
+  },
+  {
+    "id": "ALT-31",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because infrastructure funds with a lower-risk profile invest in Brownfield assets with mitigated risks and with high weighting to current yield. Investing in existing infrastructure assets may be referred to as Incorrect because infrastructure funds with a medium-risk profile invest in mostly brownfield assets (with some"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because infrastructure funds with a medium-risk profile invest in mostly brownfield assets (with some capital expenditure requirements) and with a mix of yield and capital appreciation. Investing in existing infrastructure assets may be referred to as brownfield investment. Even if a brownfield investment had the majority of its return derived from capital appreciation, it would still be less risky than a greenfield investment. Brownfield investments\nare mid-stage or late-stage investments, still delivering prospects for return through capital gain & yield (albeit generally at relatively lower level than early stage investments)."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because infrastructure funds with a higher-risk profile invest in Greenfield projects without guarantees of demand upon completion and with high weighting to capital appreciation. Investing in infrastructure assets that are to be constructed is generally referred to as greenfield investment. Greenfield investments are early-stage Investments with a higher-risk profile."
+      }
+    ],
+    "note": "Alternative Investments: explain the investment characteristics of infrastructure investments"
+  },
+  {
+    "id": "ALT-32",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because one of the advantages of fund investing is that it provides access to alternative investments without possessing a high degree of investment expertise. On the other hand, co-investing requires more active involvement compared with fund investing, which can be challenging if resources and due diligence experience are limited. Co-investing requires more active involvement from the investor, who must evaluate both investment opportunities and the fund manager, which demands more resources, concentration, and expertise."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because one of the advantages of fund investing is that it provides access to alternative investments without possessing a high degree of investment expertise."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because one of the advantages of fund investing is that it provides access to alternative investments without possessing a high degree of investment expertise, whereas direct investing requires more investment expertise and a higher level of financial sophistication compared with fund investing and co-investing."
+      }
+    ],
+    "note": "Alternative Investments: compare direct investment, co-investment, and fund investment methods for alternative investments"
+  },
+  {
+    "id": "ALT-33",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because investing in infrastructure may add an income stream, increase portfolio diversification by adding an asset class with typically low correlation with existing investments, and offer some protection against inflation. Low exposure to short-term GDP growth issues may also be a factor."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because investing in infrastructure may add an income stream, increase portfolio diversification by adding an asset class with typically low correlation with existing investments, and offer some protection against inflation. Low exposure to short-term GDP growth issues may also be a factor."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because investing in infrastructure may add an income stream, increase portfolio diversification by adding an asset class with typically low correlation with existing investments, and offer some protection against inflation. Low exposure to short-term GDP growth issues may also be a factor."
+      }
+    ],
+    "note": "Alternative Investments: explain the investment characteristics of infrastructure investments"
+  },
+  {
+    "id": "ALT-34",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because in co-investing, the investor invests in assets indirectly through the fund but also possesses rights (known as co-investment rights) to invest directly in the same assets. Through co-investing, an investor is able to make an investment alongside a fund when the fund identifies deals; the investor is not limited to participating in the deal solely by investing in the fund."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because in co-investing, the investor invests in assets indirectly through the fund but also possesses rights (known as co-investment rights) to invest directly in the same assets. However, there is no obligation to invest"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because in co-investing, the investor invests in assets indirectly through the fund but also possesses rights (known as co-investment rights) to invest directly in the same assets, not in the general partner's fund management company."
+      }
+    ],
+    "note": "Alternative Investments: compare direct investment, co-investment, and fund investment methods for alternative investments"
+  },
+  {
+    "id": "ALT-35",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because this is a benefit of direct investing. There are distinct benefits to owning real estate directly. Control: Only the owner decides when to buy or sell, when and how much to spend on capital projects (subject to lease terms and regulatory requirements), whom to select as tenants based on credit quality preference and tenant mix, and what types of lease terms to offer."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this is a benefit of direct investing. Tax benefits: Property investors in many developed markets can use non-cash property depreciation expenses and interest expense, with some limitations, to reduce taxable income and lower their income tax bills."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because major disadvantages to investing directly [in real estate] include extensive time required to manage the property. The owner may choose to handle all aspects of investing in and operating the property. including property selection, asset management, property management, leasing, and administration."
+      }
+    ],
+    "note": "Alternative Investments: explain features and characteristics of real estate"
+  },
+  {
+    "id": "ALT-36",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because in private debt, mezzanine debt refers to private credit that is subordinated to senior secured debt but is senior to equity in the borrower's capital structure."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because mezzanine debt is more risky, not less, than senior secured debt. Because of its typically Junior ranking and the fact that it is usually unsecured, mezzanine debt is riskier than senior secured debt; to compensate investors for this heightened risk profile, investors commonly demand higher interest rates and may require options for equity participation."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because mezzanine debt often comes with additional features, such as warrants or conversion rights, which provide equity participation to lenders/investors, meaning they have the option of converting their debt into equity or purchasing the equity of the underlying borrower under certain circumstances."
+      }
+    ],
+    "note": "Alternative Investments: explain features of private debt and its investment characteristics"
+  },
+  {
+    "id": "ALT-37",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because private equity includes a substantive initial capital commitment promise, followed by high initial fee drag (calculated on total committed capital, not the capital actually called), followed by the identification longer-term growth or turnaround opportunities, and an eventual positive expected return when the staggered returns of the fund are realized. generally involve an initial capital commitment, but actual capital periods of time. Private of"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because private equity investments flows often lag that commitment because capital 'calls' are staggered over substantive equity returns are frequently described in terms of the J- curve effect."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because in an independent, fixed-life private equity fund, the decisions to raise money, take money in the form of capital calls, and distribute proceeds are all at the discretion\nof the private equity manager. Timing of cash flows is an important part of the investment decision process. The private equity manager should thus be rewarded or penalized for the results of those timing decisions, and the calculation of an IRR is key for doing so."
+      }
+    ],
+    "note": "Alternative Investments: describe the performance appraisal of alternative investments"
+  },
+  {
+    "id": "ALT-38",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because key private equity investment strategies include leveraged buyouts (e.g., MBOS and MBIS) and venture capital. Primary exit strategies include trade sale, IPO, and recapitalization."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because key private equity investment strategies include leveraged buyouts (e.g., MBOS and MBIS) and venture capital. Primary exit strategies include trade sale, IPO, and recapitalization."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because key private equity investment strategies include leveraged buyouts (e.g., MBOS and MBIS) and venture capital. Primary exit strategies include trade sale, IPO, and recapitalization."
+      }
+    ],
+    "note": "Alternative Investments: explain features of private equity and its investment characteristics"
+  },
+  {
+    "id": "ALT-39",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because macro hedge funds use long and short positions to profit from a view on the overall direction of the market as it is influenced by major economic trends and events."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a multi-strategy hedge fund is an example of a relative value strategy, which seeks to profit from a pricing discrepancy, an unusual short-term relationship, between related securities. The expectation is that the pricing discrepancy will be resolved over time. Strategies of a multi-strategy hedge fund trade relative value within and across asset classes or instruments. Rather than focusing on one type of trade (e.g.. convertible arbitrage), a single basis for trade (e.g., volatility), or a particular asset class (e.g., fixed income), this strategy instead looks for investment opportunities wherever they might exist, often with different pods of managers approaches."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because market-neutral hedge funds use quantitative (technical) and fundamental analysis to identify under- and over-valued equity securities. The hedge fund takes long positions in securities it has identified as undervalued and short positions in securities it has identified as overvalued. The hedge fund tries to maintain a net position that is neutral with respect to market risk and other risk factors (size, industry, momentum, value, etc.). Ideally, the\nportfolio has an overall beta of approximately zero. The intent is to profit from the movements of individual securities while remaining largely indifferent to market risk."
+      }
+    ],
+    "note": "Alternative Investments: explain investment features of hedge funds and contrast them with other asset classes"
+  },
+  {
+    "id": "ALT-40",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because core real estate is characterized by well-leased, high-quality institutional real estate in the best markets."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because core real estate is characterized by well-leased, high-quality institutional real estate in the best markets."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because open-end funds generally offer exposure to core real estate, characterized by well-leased, high- quality institutional real estate in the best markets. Investors expect core real estate to deliver stable returns, primarily from income."
+      }
+    ],
+    "note": "Alternative Investments: explain features and characteristics of real estate"
+  },
+  {
+    "id": "ALT-41",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because one of the advantages of co-investing is that it has reduced management fees. In co-investing. investors co-invest an additional amount into that same investment often without paying management fees on the capital they used for the direct investment (a co- investment, in this case)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because one of the advantages of co-investing is that it has reduced management fees compared with the fund investing method."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because one of the advantages of co-investing is that it has reduced management fees compared with the fund investing method."
+      }
+    ],
+    "note": "Alternative Investments: compare direct investment, co-investment, and fund investment methods for alternative investments"
+  },
+  {
+    "id": "ALT-42",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because equity hedge strategies can be considered the original hedge fund category. They focus on public equity markets and take long and short positions in equity and equity derivative securities. Examples of equity hedge strategies include the following Short\nbiased. These strategies use quantitative (technical) and fundamental analysis to focus the bulk of their portfolio on shorting overvalued equity securities. (against limited or no long-side exposures). Managers are often more forensic in their fundamental analysis and sometimes are activist in trying to expose previously unrecognized accounting or business flaws and improve their portfolio's chance for profits."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because event-driven strategies seek to profit from defined catalyst events, typically involving changes in corporate structure, such as an acquisition or restructuring Further subdivisions of this category by HFR include the following. Special situations. These strategies focus on opportunities to buy equity of companies engaged in restructuring activities other than mergers, acquisitions or bankruptcy. These activities include security issuance or repurchase, special capital distributions, rescue finance, and asset sales/spin-offs."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because relative value funds seek to profit from a pricing discrepancy between related securities based on an unusual short-term relationship. The expectation is that the discrepancy will be resolved over time. Examples of relative value strategies include the following: Convertible bond arbitrage. This conceptually market- neutral investment strategy seeks to exploit a perceived mispricing between a convertible bond and its component parts- namely, the underlying bond and the embedded stock option-relative to the pricing of a reference equity into which the bond may someday convert. The strategy typically involves buying convertible debt securities and simultaneously selling a certain amount of the same issuer's common stock. As this type of strategy seeks to profit from a pricing discrepancy (an unusual short-term relationship) between related securities, it is best described as a relative value strategy."
+      }
+    ],
+    "note": "Alternative Investments: explain investment features of hedge funds and contrast them with other asset classes"
+  },
+  {
+    "id": "ALT-43",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because real estate property has some unique features, including heterogeneity (no two properties are identical) and fixed location."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because real estate includes two major sectors: residential and commercial. Residential [not commercial] real estate is the largest sector, totaling 75% of the global market. C. Incorrect because the key reasons for investing in real estate include the following potential benefits:... Historically low [not high] correlations with other asset classes."
+      },
+      {
+        "isCorrect": false,
+        "reason": ""
+      }
+    ],
+    "note": "Alternative Investments: explain features and characteristics of real estate"
+  },
+  {
+    "id": "ALT-44",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the beta in these types of funds is most often negative given the short bias. These strategies use quantitative (technical) and fundamental analysis to focus the bulk of their portfolio on shorting overvalued equity securities (against limited or no long-side exposures)."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the hedge fund takes long positions in securities identified as undervalued and short positions in overvalued securities. The hedge fund tries to maintain a net position that is neutral with respect to market risk and other risk factors (size, industry, momentum, value, etc.). Ideally, the portfolio has an overall beta of approximately zero."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because, although these funds do hedge long positions with short positions, market neutrality is not necessarily a goal. The hedge fund takes long positions in these companies while shorting companies with business models being disintermediated or under downward pressure-where continued revenue growth is deemed unlikely. Portfolios tend to end up long biased."
+      }
+    ],
+    "note": "Alternative Investments: explain investment features of hedge funds and contrast them with other asset classes"
+  },
+  {
+    "id": "ALT-45",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the performance fee is not calculated net of the management fee: Management fee = $100 million × 120% × 1% = $1.200 million. Performance fee = [($100 million × 20%) - ($100 million × 3%)] × 15% = $2.550 million. Total fee = $1.200 million + $2.550 million = $3.750 million. Investor return = ($20-$3.750)/$100 = 16.250% 16.3%."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the hurdle rate is a minimum rate of return, typically 8%, that the GP must exceed in order to earn the performance fee. GPs typically receive 20% of the total profit of the private equity fund net of any hard hurdle rate, in which case the GP earns fees on annual returns in excess of the hurdle rate, or net of the soft hurdle rate, in which case the fee is calculated on the entire annual gross return as long as the set hurdle is exceeded\nManagement fee = $100 million × 120% × 1% = $1.200 million. Performance fee = [($100 million × 20%) - ($100 million × 3%) - $1.200 million)] × 15% = $2.370 million. Total fee = $1.200 million + $2.370 million = $3.570 million. Investor return = ($20-$3.570)/$100 = 16.430% 16.4%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the hurdle rate is deducted from the performance fee rate rather than the rate of return: Management fee = $100 million × 120% × 1% = $1.200 million. Performance fee = [($100 million × 20%) - $1.200 million)] x (15%-3%) = $2.256 million. Total fee = $1.200 million + $2.256 million = $3.456 million. Investor return = ($20-$3.456) / $100 = 16.544% ~~ 16.5%."
+      }
+    ],
+    "note": "Alternative Investments: calculate and interpret alternative investment returns both before and after fees"
+  },
+  {
+    "id": "ALT-46",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it fails to add the management fee to the incentive fee. The incentive fee is calculated as [$ earn the hurdle rate, in exceeded. A. Incorrect because 1,800,000,000- $1,500,000,000 - ($1,500,000,000 × 6%) - $36,000,000] x 20% = $34,800,000."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the hurdle rate is a minimum rate of return, typically 8%, that the GP must exceed in order to performance fee. GPS typically receive 20% of the total profit of the private equity fund net of any hard which case the GP earns fees on annual returns in excess of the hurdle rate, or net of the soft hurdle rate, in which case the fee is calculated on the entire annual gross return as long as the set hurdle is exceeded\nThe management fee is calculated as $1,500,000,000 x (1+20%) × 2% = $36,000,000 and the incentive fee is calculated as ($1,800,000,000 - $1,500,000,000 - ($1,500,000,000 × 6%) - $36,000,000] x 20% = $34,800,000. Therefore, the total fees earned by the manager are $36,000,000 + $34,800,000 = $70,800,000."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it fails to net the management fee from the incentive fee. The incentive fee is calculated as [$1,800,000,000 - $1,500,000,000 - ($1,500,000,000 × 6%)] x 20% = $42,000,000. Therefore, the total fees earned by the manager are $36,000,000 + $42,000,000 = $78,000,000."
+      }
+    ],
+    "note": "Alternative Investments: calculate and interpret alternative investment returns both before and after fees"
+  },
+  {
+    "id": "ALT-47",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the fee increases [not decreases] the value of the hedge fund by the fee amount. A redemption fee may be charged, typically payable to the fund itself (rather than the manager). This is to protect remaining investors in the fund, particularly in circumstances where the redemption takes place during the lockup period."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the fee increases the value of the hedge fund by the fee amount. A redemption fee may be charged, typically payable to the fund itself (rather than the manager). This is to protect remaining investors in the fund, particularly in circumstances where the redemption takes place during the lockup period."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the fee increases the value of the hedge fund by the fee amount. A redemption fee may be charged, typically payable to the fund itself (rather than the manager).\nThis is to protect remaining investors in fund, particularly the in circumstances where the redemption takes place during the lockup period. This characteristic is called a soft lockup, and it offers a path (albeit an expensive one) to redeem early."
+      }
+    ],
+    "note": "Alternative Investments: explain investment features of hedge funds and contrast them with other asset classes"
+  },
+  {
+    "id": "ALT-48",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the futures price can be formalized in the following form: Futures price Spot price(1+r) + Storage costs - Convenience yield, where is the period's short-term risk-free interest rate. Thus, if Storage costs = Convenience yield, then Futures price Spot price (1+r). If r < 0, then Futures price < Spot price, not Futures price > Spot price."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the futures price can be formalized in the following form: Futures price Spot price(1 + r) + Storage costs - Convenience yield, where r is the period's short-term risk-free interest rate. Thus, if Storage costs = Convenience yield, then Futures price Spot price(1+r). If r = 0, then Futures price Spot price, not Futures price > Spot price."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the futures price can be formalized in the following form: Futures price Spot price(1 + r) + Storage costs - Convenience yield, where is the period's short-term risk-free interest rate. Thus, if Storage costs = Convenience yield, then Futures price Spot price(1+r), from which Futures price > Spot price if r > 0."
+      }
+    ],
+    "note": "Alternative Investments: describe features of commodities and their investment characteristics"
+  },
+  {
+    "id": "ALT-49",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the partnership agreement usually specifies that the performance fee is earned only after the fund achieves a return known as a hurdle rate. The hurdle rate is a minimum rate of return, typically 8%, that the GP must exceed in order to earn the performance fee. GPs typically receive 20% of the total profit of the private equity fund net of any hard hurdle rate, in which case the GP earns fees on annual returns in excess of the hurdle rate, or net of the soft hurdle rate, in which case the fee is calculated on the entire annual gross return as long as the set hurdle is exceeded."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it calculates incentive fees gross of management fees. That is: AUM at year- end = €200 million x 115% = €230 million. Management fee = €230 million x 1.5% = €3.45 million. Incentive fee = (€230 million €200 million - €10 million) x 20% = €20 million x 20% = €4.00 million, where hard hurdle = €200 million x 5% = €10 million. Thus, total fees = €3.45 million + €4.00 million = €7.45 million €7.5 million."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it excludes the hard hurdle rate in the calculation of incentive fees. That is: AUM at year-end = €200 million x 115% = €230 million. Management fee = €230 million x 1.5% = €3.45 million. Incentive fee = (€230 million - €200 million - €3.45 million) x 20% = €26.55 million x 20% = €5.31 million. Thus, total fees = €3.45 million + €5.31 million = €8.76 million €8.8 million."
+      }
+    ],
+    "note": "Alternative Investments: calculate and interpret alternative investment returns both before and after fees"
+  },
+  {
+    "id": "ALT-50",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because this refers to distressed debt. Involvement in distressed debt typically entails buying the debt of"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because this is the definition of venture mature companies in financial difficulty. debt. Venture debt is private debt funding that provides venture to start-up or early-stage companies that may be generating little or negative cash flow. capital backing because the first part of the answer is not correct, as indicated in the correct response, venture debt funding to start-up or early-stage companies not mature companies."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the first part of the answer is not correct, as indicated in the correct response, venture debt provides funding to start-up or early-stage companies not mature companies."
+      }
+    ],
+    "note": "Alternative Investments: explain features of private debt and its investment characteristics"
+  },
+  {
+    "id": "ALT-51",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because timberland investment involves ownership of raw land and the harvesting of its trees for lumber, thus generating an income stream and the potential for capital gain."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because timberland investment involves ownership of raw land and the harvesting of its trees for lumber, thus generating an income stream and the potential for capital gain."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because timberland investment involves ownership of raw land and the harvesting of its trees for lumber, thus generating an income stream and the potential for capital gain."
+      }
+    ],
+    "note": "Alternative Investments: explain features of raw land, timberland, and farmland and their investment characteristics"
+  },
+  {
+    "id": "ALT-52",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because core-plus strategies will also accept slightly higher risks derived from non- core markets and sectors or properties with slightly more leasing risk. Non-core properties include large sectors with different risk profiles, such as hotels and nursing homes. Assets in secondary and tertiary markets and such niches as student housing, self-storage, and data centers are also considered non-core."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because value-add investments may require modest redevelopment or upgrades, the leasing of vacant space, or repositioning the underlying properties to earn a higher return than core properties."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because opportunistic investing accepts the much higher risks of development, major redevelopment, repurposing of assets, taking on large vacancies, and speculating on significant improvement in market conditions."
+      }
+    ],
+    "note": "Alternative Investments: explain features and characteristics of real estate"
+  },
+  {
+    "id": "ALT-53",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because when the futures market is trading in backwardation, the futures prices are lower than the spot price, [and] the commodity forward curve is downward sloping. A market in contango assumes futures prices are higher than the spot price."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because when futures prices are higher than the spot price, the commodity forward curve is upward sloping, and the prices are referred to as being in contango. A flat forward curve can't be associated with a market in contango because a flat curve implies that all future prices are equal to the spot price while a market in contango assumes futures prices are higher than the spot price."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because when futures prices are higher than the spot price, the commodity forward curve is upward sloping, and the prices are referred to as being in contango. Alternative Investments describe features of commodities and their investment characteristics"
+      }
+    ],
+    "note": "Alternative Investments: describe features of commodities and their investment characteristics"
+  },
+  {
+    "id": "ALT-54",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because take-or-pay arrangements, where payments are based upon the availability rather than the use of an asset, are used to mitigate demand/volume risk."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because take-or-pay arrangements, where payments are based upon the availability rather than the use of an asset, are used to mitigate demand/volume risk, not operational risk."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because take-or-pay arrangements, where payments are based upon the availability rather than the use asset, are used to mitigate demand/volume risk, not construction risk. of an"
+      }
+    ],
+    "note": "Alternative Investments: explain the investment characteristics of infrastructure investments"
+  },
+  {
+    "id": "ALT-55",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because alternative investments include such assets as real estate and commodities (including gold), which are arguably two of the oldest types of investments."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because alternative investments' is a label for a disparate group of investments that are distinguished from long-only, publicly traded investments in stocks, bonds, and cash (often referred to as traditional investments)"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because alternative investments include such assets as real estate and commodities, which are arguably two of the oldest types of investments."
+      }
+    ],
+    "note": "Alternative Investments: describe features and categories of alternative investments"
+  },
+  {
+    "id": "ALT-56",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because, for private real estate markets, transaction costs are high."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because private market indexes are not investable, and property typically requires professional operational management."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it may be difficult for small investors to establish a diversified portfolio of wholly owned properties."
+      }
+    ],
+    "note": "Alternative Investments: explain features and characteristics of real estate"
+  },
+  {
+    "id": "ALT-57",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because alternative Investments into three categories and several subcategories as follows: 1. Private Capital 2. Real Assets 3. Hedge Funds. Other 'real asset\" investments may include tangible assets, such as fine wine, art, antique furniture and automobiles, stamps, coins, and other collectibles, and intangible assets, such as patents and litigation actions ."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because alternative Investments into three categories and several subcategories as follows: 1. Private Capital 2. Real Assets 3. Hedge Funds. Other \"real asset\" investments may include tangible assets, such as fine wine, art, antique furniture and automobiles, stamps, coins, and other collectibles, and intangible assets, such as patents and litigation actions."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because alternative Investments into three categories and several subcategories as follows: 1. Private Capital 2. Real Assets 3. Hedge Funds. Other \"real asset\" investments may include tangible assets, such as fine wine, art, antique furniture and automobiles, stamps, coins, and other collectibles, and intangible assets, such as patents and litigation actions."
+      }
+    ],
+    "note": "Alternative Investments: describe features and categories of alternative investments"
+  },
+  {
+    "id": "ALT-58",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because a clawback provision refers to reclaiming performance fees, not performance losses themselves. If a general partner (GP) accrues an incentive fee on gains not yet fully realized and then subsequently gives back those gains, limited partner (LPs) may claw back prior incentive fee payments. A clawback provision reflects the right of LPs to reclaim part of the GP's performance fee."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a clawback provision confers rights on the limited partners (LPs), not the general partner (GP). A clawback provision reflects the right of LPs to reclaim part of the GP's performance fee."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because if a general partner (GP) accrues an incentive fee on gains not yet fully realized and then subsequently gives back those gains, a limited partner (LP) may claw back prior incentive fee payments. A clawback provision reflects the right of LPs to reclaim part of the GP's performance fee."
+      }
+    ],
+    "note": "Alternative Investments: describe investment ownership and compensation structures commonly used in alternative investments"
+  },
+  {
+    "id": "ALT-59",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because, when market prices or quotes are used for valuation, funds may differ in which price or quote they use (bid price, ask price, average quote, or median quote). A more conservative and accurate approach is to use bid prices for long positions and ask prices for short positions because these are more realistic prices at which the positions could be closed. However, some managers use a simplifying approach whereby they take the average of the bid and the ask, this approach is not as accurate and could be misleading."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because, when market prices or quotes are used for valuation, funds may differ in which price or quote they use (bid price, ask price, average quote, or median quote). A more conservative and accurate approach is to use bid prices for long positions and ask prices for short positions because these are more realistic prices at which the positions could be closed.\nHowever, some managers use a simplifying approach whereby they take the average of the bid and the ask; this approach is not as accurate and could be misleading."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because, when market prices or quotes are used for valuation, funds may differ in which price or quote they use (bid price, ask price, average quote, or median quote). A more conservative and accurate approach is to use bid prices for long positions and ask prices for short positions because these are more realistic prices at which the positions could be closed. However, some managers use a simplifying approach whereby they take the average of the bid and the ask; this approach is not as accurate and could be misleading."
+      }
+    ],
+    "note": "Alternative Investments: explain features of private debt and its investment characteristics"
+  },
+  {
+    "id": "ALT-60",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because, private debt investments vary in risk and return, with senior private debt providing a steadier yield and moderate risk and mezzanine private debt carrying higher growth potential, equity upside, and higher risk."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because, unitranche debt is a blend of secured and unsecured debt. The unitranche loan will usually be structured between senior and subordinated debt in priority ranking. As mezzanine debt refers to private credit subordinated to senior secured debt but senior to equity in the borrower's capital structure, mezzanine debt has more risk than unitranched debt."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because, as a junior form of subordinated debt, mezzanine private debt offers higher growth potential, equity upside, and higher risk, with the comparatively highest returns. Infrastructure debt is senior and poses the lowest risk, as compared to unitranche debt and mezzanine debt."
+      }
+    ],
+    "note": "Alternative Investments: explain features of private debt and its investment characteristics"
+  },
+  {
+    "id": "ALT-61",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it fails to adjust the incentive fee for the management fee: $60 million x 2% = $1.2 million management fee. ($60-$50) million x 20% = $2.0 million incentive fee. Total fees = $3.2 million. Investor return = ($60-$50-$3.2)/$50 million = 13.60%."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because: $60 million x 2% = $1.2 million management fee. ($60-$50-$1.2) million x 20% = $1.76 million incentive fee. Total fees = $2.96 million. Investor return = ($60-$50- $2.96)/$50 million = 14.08%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it calculates the management fee based on beginning-of-year AUM as opposed to end-of-year AUM: $50 million x 2% = $1.0 million management fee. ($60-$50-$1) million x 20% = $1.8 million incentive fee. Total fees = $2.8 million. Investor return = ($60-$50- $2.8)/$50 million = 14.40%."
+      }
+    ],
+    "note": "Alternative Investments: calculate and interpret alternative investment returns both before and after fees"
+  }
+]

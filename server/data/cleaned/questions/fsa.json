@@ -1,0 +1,1952 @@
+[
+  {
+    "id": "FSA-1",
+    "question": "Which of the following companies would most likely be considered to have the lowest financial reporting quality other things equal?",
+    "solutions": [
+      {
+        "answer": "A company that provides high quality, decision useful information under GAAP but delays its reports"
+      },
+      {
+        "answer": "A company that reports significant profits due to a favorable exchange rate movement"
+      },
+      {
+        "answer": "A company that reports the results from two different segments as a combined entity"
+      }
+    ]
+  },
+  {
+    "id": "FSA-2",
+    "question": "Which of the following is lowest quality on the spectrum of GAAP conforming financial reports?",
+    "solutions": [
+      {
+        "answer": "Aggressive accounting choices"
+      },
+      {
+        "answer": "Earnings management"
+      },
+      {
+        "answer": "Conservative accounting choices"
+      }
+    ]
+  },
+  {
+    "id": "FSA-3",
+    "question": "Analyst would mostly conduct additional analysis i en laced will which of the following Trancel presentations?",
+    "solutions": [
+      {
+        "answer": "A non-GAAP financial measure that excludes an expense that is likely to recur"
+      },
+      {
+        "answer": "Reporting a non-GAAP financial measure in an SEC filing"
+      },
+      {
+        "answer": "A change from LIFO inventory accounting to FIFO"
+      }
+    ]
+  },
+  {
+    "id": "FSA-4",
+    "question": "Under International Financial Reporting Standards (IFRS) reported operating cash flows are most likely to be increased by the classification choice made for",
+    "solutions": [
+      {
+        "answer": "impairment losses on fixed assets"
+      },
+      {
+        "answer": "dividends paid"
+      },
+      {
+        "answer": "Interest expense"
+      }
+    ]
+  },
+  {
+    "id": "FSA-5",
+    "question": "In the Porter's five forces framework a company is most likely to have the greatest profitability if",
+    "solutions": [
+      {
+        "answer": "the threat of substitutes is low and the bargaining power of buyers is low"
+      },
+      {
+        "answer": "the threat of substitutes is low and the bargaining power of buyers is high"
+      },
+      {
+        "answer": "The threat of substitutes is high and the bargaining power of buyers is low"
+      }
+    ]
+  },
+  {
+    "id": "FSA-6",
+    "question": "Which of the following conditions conducive to issuing low-quality financial reports is most likely a result of poor internal controls",
+    "solutions": [
+      {
+        "answer": "Rationalization"
+      },
+      {
+        "answer": "Opportunity"
+      },
+      {
+        "answer": "Motivation"
+      }
+    ]
+  },
+  {
+    "id": "FSA-7",
+    "question": "Maintaining prior views or forecasts by inadequately incorporating new information best describes",
+    "solutions": [
+      {
+        "answer": "conservatism bias"
+      },
+      {
+        "answer": "overconfidence blas"
+      },
+      {
+        "answer": "representativeness bas"
+      }
+    ]
+  },
+  {
+    "id": "FSA-8",
+    "question": "For a company in a cyclical industry, normalized earnings are best described as",
+    "solutions": [
+      {
+        "answer": "current carnings that include the impact of acquisitions"
+      },
+      {
+        "answer": "mid-cycle eamings in the absence of temporary factors"
+      },
+      {
+        "answer": "earnings from the peak years excluding temporary factors"
+      }
+    ]
+  },
+  {
+    "id": "FSA-9",
+    "question": "Porter's five forces anslyss is used to estimate a company's future profit margin relate to.",
+    "solutions": [
+      {
+        "answer": "only its compothors"
+      },
+      {
+        "answer": "only its historic margins"
+      },
+      {
+        "answer": "both its competitors and its historic margins"
+      }
+    ]
+  },
+  {
+    "id": "FSA-10",
+    "question": "An analyst uses the following information to forecast a company's gross profit margin:\nThe analysts forecasted gross profit margin should be closest to a(n)",
+    "solutions": [
+      {
+        "answer": "decrease of 1%"
+      },
+      {
+        "answer": "increase of 1%"
+      },
+      {
+        "answer": "increase of 4%"
+      }
+    ]
+  },
+  {
+    "id": "FSA-11",
+    "question": "The price esticity of demand for a product is 0.5 and its cost remains constant, a 10% increase is selling price will most likely result in.",
+    "solutions": [
+      {
+        "answer": "no change in cost of sales"
+      },
+      {
+        "answer": "a decrease in volume of 5%"
+      },
+      {
+        "answer": "an increase in revenue of 5%"
+      }
+    ]
+  },
+  {
+    "id": "FSA-12",
+    "question": "All else being equal, forecasting an increase in which of the following will most likely increase forecasted EPS for a company?",
+    "solutions": [
+      {
+        "answer": "Share repurchases"
+      },
+      {
+        "answer": "Secondary stock issuances"
+      },
+      {
+        "answer": "Equity based compensation of employees"
+      }
+    ]
+  },
+  {
+    "id": "FSA-13",
+    "question": "Analyst gathers the following information (in € millions) relating to a company's merchandise inventory as of 31 December of Year 1.\nOn 31 December of Year 2, the nel realizable value of the inventory is € 7 higher than iít carying value. Under US GAAP, the amount (in millions) of the reversal of the prior write down is",
+    "solutions": [
+      {
+        "answer": "0"
+      },
+      {
+        "answer": "5"
+      },
+      {
+        "answer": "7"
+      }
+    ]
+  },
+  {
+    "id": "FSA-14",
+    "question": "An analyst gathers the following year-end information from a company's financial statements\nBased only on this information, if Year 2 net income is €3 million and the Year 1 ending cash balance is €10 million the Year 2 ending cash balance is:",
+    "solutions": [
+      {
+        "answer": "€8 million"
+      },
+      {
+        "answer": "€12 million"
+      },
+      {
+        "answer": "€15 million"
+      }
+    ]
+  },
+  {
+    "id": "FSA-15",
+    "question": "A company Incurred the following expenditures (in € milions) to internally develop Intangible asset:\nIf the recognition criteria for an intangible asset have been met, the maximum amount of capitalized costs (in millions) is",
+    "solutions": [
+      {
+        "answer": "600"
+      },
+      {
+        "answer": "900"
+      },
+      {
+        "answer": "1,500"
+      }
+    ]
+  },
+  {
+    "id": "FSA-16",
+    "question": "Compared to the industry average, which of the following financial ratio most likely indicates a company has a highly efficient credit and collection process? A relatively low.",
+    "solutions": [
+      {
+        "answer": "receivables turnover ratio"
+      },
+      {
+        "answer": "number of days sales outstanding"
+      },
+      {
+        "answer": "number of days of inventory on hand"
+      }
+    ]
+  },
+  {
+    "id": "FSA-17",
+    "question": "Under the indirect method of reporting cash flow from operating actives, a decrease deferred income tax liabilities is",
+    "solutions": [
+      {
+        "answer": "ignored"
+      },
+      {
+        "answer": "added back to net income"
+      },
+      {
+        "answer": "subtracted from net income"
+      }
+    ]
+  },
+  {
+    "id": "FSA-18",
+    "question": "With respect to company analysis, measures of inventory management are best described at.",
+    "solutions": [
+      {
+        "answer": "activity ratios"
+      },
+      {
+        "answer": "solvency ratios"
+      },
+      {
+        "answer": "profitability ratios"
+      }
+    ]
+  },
+  {
+    "id": "FSA-19",
+    "question": "A disclamer of opinion is issued when an auditor",
+    "solutions": [
+      {
+        "answer": "is unable to issue an opinion"
+      },
+      {
+        "answer": "notes an exception to accounting standards"
+      },
+      {
+        "answer": "finds a material departure from accounting standards"
+      }
+    ]
+  },
+  {
+    "id": "FSA-20",
+    "question": "Which of the following most likely indicates improved efficiency of a company’s credit, and collection policy? An increase in",
+    "solutions": [
+      {
+        "answer": "receivables tumover ratio"
+      },
+      {
+        "answer": "days of sales outstanding"
+      },
+      {
+        "answer": "number of days of payables"
+      }
+    ]
+  },
+  {
+    "id": "FSA-21",
+    "question": "An analyst gathers the following information (in € millions) about a manufacturing company\nBased only on this information, applying vertical common size analysis to the income statement, selling, general and administrative expenses are:",
+    "solutions": [
+      {
+        "answer": "12%"
+      },
+      {
+        "answer": "20%"
+      },
+      {
+        "answer": "30%"
+      }
+    ]
+  },
+  {
+    "id": "FSA-22",
+    "question": "Which of the following is most likely added back to net income when preparing a cash flow statement under the Indirect method?",
+    "solutions": [
+      {
+        "answer": "Gains on sale of assets"
+      },
+      {
+        "answer": "Amortization of bond discount"
+      },
+      {
+        "answer": "Decrease in deferred tax liability"
+      }
+    ]
+  },
+  {
+    "id": "FSA-23",
+    "question": "With respect to the statement of cash flows under the indrect method, which of the Following will increase net cash provided by operating activities compared to net income? An increase in",
+    "solutions": [
+      {
+        "answer": "inventory"
+      },
+      {
+        "answer": "accounts payable"
+      },
+      {
+        "answer": "accounts receivable"
+      }
+    ]
+  },
+  {
+    "id": "FSA-24",
+    "question": "Ignoring income taxes, acquiring an intangiable asset would most likely result in",
+    "solutions": [
+      {
+        "answer": "a lower net operating cash flow than intemally developing the intangible asset"
+      },
+      {
+        "answer": "the same net operating cash flow than internally developing the intangible asset"
+      },
+      {
+        "answer": "a higher net operating cash flow than internally developing the intangible asset"
+      }
+    ]
+  },
+  {
+    "id": "FSA-25",
+    "question": "Which of the following is most accurate with respect to inherent limitations of audit?",
+    "solutions": [
+      {
+        "answer": "An audit opinion is based on review of information only prepared by the auditor"
+      },
+      {
+        "answer": "An audit is based on an exhaustive review of all transactions during a financial year"
+      },
+      {
+        "answer": "An expectations gap may exist between the auditor's rule and the public's expectation of auditors"
+      }
+    ]
+  },
+  {
+    "id": "FSA-26",
+    "question": "An analyst gathers the following Information about a company for its fiscal year ended 31 December\nBasic EFS is closest to",
+    "solutions": [
+      {
+        "answer": "€0.36"
+      },
+      {
+        "answer": "€0.47"
+      },
+      {
+        "answer": "€0.54"
+      }
+    ]
+  },
+  {
+    "id": "FSA-27",
+    "question": "Which of the following opinions is the best indication that the auditor believes that the financial statements depart materially from accounting standards and are not fairly presented?",
+    "solutions": [
+      {
+        "answer": "Adverse opinion"
+      },
+      {
+        "answer": "Qualified opinion"
+      },
+      {
+        "answer": "Disclaimer of opinion"
+      }
+    ]
+  },
+  {
+    "id": "FSA-28",
+    "question": "An analyst gathers the following information about a company.\nIf all purchases and sales were made on credit, the cash conversion cyce (based on a 360-day year) is",
+    "solutions": [
+      {
+        "answer": "99 days"
+      },
+      {
+        "answer": "171 days"
+      },
+      {
+        "answer": "251 days"
+      }
+    ]
+  },
+  {
+    "id": "FSA-29",
+    "question": "An analyst gathers the following information (in $ thousands) about a company\nCash flow from operating activities (in $ thousands) is",
+    "solutions": [
+      {
+        "answer": "8.500"
+      },
+      {
+        "answer": "11,500"
+      },
+      {
+        "answer": "12.000"
+      }
+    ]
+  },
+  {
+    "id": "FSA-30",
+    "question": "Which of the following may be reported using the modified retrospective method?",
+    "solutions": [
+      {
+        "answer": "Comections of prior period errors"
+      },
+      {
+        "answer": "Changes in estimated useful life of PP&E"
+      },
+      {
+        "answer": "Changes in accounting policies based on the new revenue recognition standard"
+      }
+    ]
+  },
+  {
+    "id": "FSA-31",
+    "question": "An analyst gathers the following information (in millions) about a company before any revaluations:\nAn initial revaluation increases the carrying value of the asset valued under the revaluation model. Ignoring taxes, the financial leverage rato most way",
+    "solutions": [
+      {
+        "answer": "decreases"
+      },
+      {
+        "answer": "remains the same"
+      },
+      {
+        "answer": "increases"
+      }
+    ]
+  },
+  {
+    "id": "FSA-32",
+    "question": "An analyst gathers the following information (in € thousands) about a company\nCash flow from operating activities (in € thousands) is",
+    "solutions": [
+      {
+        "answer": "85"
+      },
+      {
+        "answer": "161"
+      },
+      {
+        "answer": "201"
+      }
+    ]
+  },
+  {
+    "id": "FSA-33",
+    "question": "Under US GAAP and all else being equal in a period of stable inventory quantities and rising inventory unit costs. Which inventory valuation method is least likely to incur inventory write downs?",
+    "solutions": [
+      {
+        "answer": "FIFO"
+      },
+      {
+        "answer": "LIFO"
+      },
+      {
+        "answer": "Weighted average cost"
+      }
+    ]
+  },
+  {
+    "id": "FSA-34",
+    "question": "Which of the following analyses can be used to compare a company's financial ratios with those of its major competitors?",
+    "solutions": [
+      {
+        "answer": "Trend only"
+      },
+      {
+        "answer": "Cross-sectional only"
+      },
+      {
+        "answer": "Both trend and cross sectional"
+      }
+    ]
+  },
+  {
+    "id": "FSA-35",
+    "question": "An analyst gathers the following information about a company's Iscal year ended 31 December\nIf a 2-for-1 stock split took effect on 1 July, basic EPS for the year is",
+    "solutions": [
+      {
+        "answer": "$3.00"
+      },
+      {
+        "answer": "$3.50"
+      },
+      {
+        "answer": "54.20"
+      }
+    ]
+  },
+  {
+    "id": "FSA-36",
+    "question": "An analyst gathers the following information about two companies in thousands)\nBased only on the companies' common size income statements, it appears that",
+    "solutions": [
+      {
+        "answer": "Company 1 spent more on advertising than Company 2"
+      },
+      {
+        "answer": "both companies spent equally on research and development"
+      },
+      {
+        "answer": "Company 1 has a higher gross profit margin than Company 2"
+      }
+    ]
+  },
+  {
+    "id": "FSA-37",
+    "question": "A deferred tax liability could arise when",
+    "solutions": [
+      {
+        "answer": "the tax base of an asset is greater than its carrying amount"
+      },
+      {
+        "answer": "the carrying amount of a liability is greater than its tax base"
+      },
+      {
+        "answer": "financial accouting income tax expense exceeds income tax payable"
+      }
+    ]
+  },
+  {
+    "id": "FSA-38",
+    "question": "An analyst gathers the following information (in € millions) about a company's fiscal year:\nCase paid to supplers (in € millions) is",
+    "solutions": [
+      {
+        "answer": "6,500"
+      },
+      {
+        "answer": "9,000"
+      },
+      {
+        "answer": "11,500"
+      }
+    ]
+  },
+  {
+    "id": "FSA-39",
+    "question": "An analyst gathers the following information about a company for its fiscal year ended 31 December:\nEach convertible preferred share is convertible into two common shares, if there are no other potentially dilutive securities outstanding, reported diluted EPS is closest to",
+    "solutions": [
+      {
+        "answer": "€0.51"
+      },
+      {
+        "answer": "€0.57"
+      },
+      {
+        "answer": "€0.59"
+      }
+    ]
+  },
+  {
+    "id": "FSA-40",
+    "question": "An analyst gathers the following Information (in thousands) about a company.\nIf interest paid is classifed as a cash flow from operating activities and the income tax rate is 20%, FCFF (in € thousands) is:",
+    "solutions": [
+      {
+        "answer": "57"
+      },
+      {
+        "answer": "65"
+      },
+      {
+        "answer": "73"
+      }
+    ]
+  },
+  {
+    "id": "FSA-41",
+    "question": "A qualified audit opinion is most likely iussued when financial statements are prepared",
+    "solutions": [
+      {
+        "answer": "In compliance with accounting standards"
+      },
+      {
+        "answer": "with material departures from accounting standards"
+      },
+      {
+        "answer": "with some Iimitation or exception to accounting standards"
+      }
+    ]
+  },
+  {
+    "id": "FSA-42",
+    "question": "Common size statements are most likely the output of which of the following phases of the financal statement analysis framework?",
+    "solutions": [
+      {
+        "answer": "Process data"
+      },
+      {
+        "answer": "Analyze interpret the processed data"
+      },
+      {
+        "answer": "Develop and communicate conclusions and recommendations"
+      }
+    ]
+  },
+  {
+    "id": "FSA-43",
+    "question": "An analyst gathers the following information about a company's fiscal year ended 31 December\nInterest payable on 31 December is:",
+    "solutions": [
+      {
+        "answer": "€30,000"
+      },
+      {
+        "answer": "€80,000"
+      },
+      {
+        "answer": "€95,000"
+      }
+    ]
+  },
+  {
+    "id": "FSA-44",
+    "question": "An analyst gathers the following Information (in € thousands) about a company:\nIf Interest paid is classifed as a cash flow from operating activities and the income tax rate is 40%, net debt repayment (in € thousands) is closest to",
+    "solutions": [
+      {
+        "answer": "940"
+      },
+      {
+        "answer": "1,044"
+      },
+      {
+        "answer": "1,200"
+      }
+    ]
+  },
+  {
+    "id": "FSA-45",
+    "question": "Deferred tax assets could arise when",
+    "solutions": [
+      {
+        "answer": "taxable income exceeds accounting profit"
+      },
+      {
+        "answer": "the carrying amount of assets exceeds their tax base"
+      },
+      {
+        "answer": "accounting income tax expense exceeds income taxes payable"
+      }
+    ]
+  },
+  {
+    "id": "FSA-46",
+    "question": "Under US GAAP, in Ihe second year of a multi-year lease, a lessee with an operating lease most liikely reports a",
+    "solutions": [
+      {
+        "answer": "higher interest expense than it would if the leasewere a finance lease"
+      },
+      {
+        "answer": "lower deprecation expense than it would if the lease were a finance lease"
+      },
+      {
+        "answer": "greater financing cash outflow that would if the lease were a finance lease"
+      }
+    ]
+  },
+  {
+    "id": "FSA-47",
+    "question": "In common-size analysis of the cash flow stateement, each line item of cash inflow may be stated as a percentage of",
+    "solutions": [
+      {
+        "answer": "total assets"
+      },
+      {
+        "answer": "net revenue"
+      },
+      {
+        "answer": "net cash flow"
+      }
+    ]
+  },
+  {
+    "id": "FSA-48",
+    "question": "Under US GAAP, which of the following is a required financial statement disclosure concerning inventory?",
+    "solutions": [
+      {
+        "answer": "Only the material amount of income resulting from the liquidation of LIFO inventory"
+      },
+      {
+        "answer": "Only the amount of any reversal of any write down that is recognized as a reduction in cost of goods sold in the period"
+      },
+      {
+        "answer": "Both the material amount of income resulting from the liquidation of LIFO inventory, and the amount of any reversal of any write down that is recognized as a reduction in cost of goods sold in the period"
+      }
+    ]
+  },
+  {
+    "id": "FSA-49",
+    "question": "An analyst gathers the following Information about a company's non-depreciable asset reported under the revaluation model\nThe revaluation surplus after the second revaluation is:",
+    "solutions": [
+      {
+        "answer": "€2,500"
+      },
+      {
+        "answer": "€0"
+      },
+      {
+        "answer": "€2.600"
+      }
+    ]
+  },
+  {
+    "id": "FSA-50",
+    "question": "An analyst gathers the following Information about an electronics manufacturing company's inventory.\nAs a result of the reversal of the write-down, the company's Year 2 financial statements should report a decrease in cost of sales of",
+    "solutions": [
+      {
+        "answer": "€0"
+      },
+      {
+        "answer": "€3.000"
+      },
+      {
+        "answer": "€6.000"
+      }
+    ]
+  },
+  {
+    "id": "FSA-51",
+    "question": "An analyst gathers the following Information about a company.\nROE 10%\nFinancial leverage 2.0\nNet profit margin 4%\nEBIT margin 5%\nInterest burden 85%\nThe total asset turnover ratio is closet to",
+    "solutions": [
+      {
+        "answer": "1.0"
+      },
+      {
+        "answer": "1.3"
+      },
+      {
+        "answer": "1.5"
+      }
+    ]
+  },
+  {
+    "id": "FSA-52",
+    "question": "All else being equal, in a period of stable inventory quanties and declining inventory unit costs, using the LIFO Inventory valuation method will result in a lower:",
+    "solutions": [
+      {
+        "answer": "gross profit than if the FIFO inventory valuation method had been used"
+      },
+      {
+        "answer": "current ratio than if the FIFO Inventory valuation method had been used"
+      },
+      {
+        "answer": "Inventory turnover ratio than if the FIFO inventory valuation method had been used"
+      }
+    ]
+  },
+  {
+    "id": "FSA-53",
+    "question": "An analyst collects the following informanon (in € milions) about a manufacturing company's inventory\nAt the end of Year 2, thee balance sheet should reflect inventory (in € millions) of",
+    "solutions": [
+      {
+        "answer": "1,700"
+      },
+      {
+        "answer": "2,000"
+      },
+      {
+        "answer": "2,500"
+      }
+    ]
+  },
+  {
+    "id": "FSA-54",
+    "question": "In an environment of steadily increasing prices and quantities reported, ending inventory most closely reflects current replacement value under the",
+    "solutions": [
+      {
+        "answer": "FIFO method using a periodic inventory system"
+      },
+      {
+        "answer": "LIFO method using a periodic inventory system"
+      },
+      {
+        "answer": "LIFO method using a perpetual inventory system"
+      }
+    ]
+  },
+  {
+    "id": "FSA-55",
+    "question": "An analyst gathers the following information (in € thousands) abouta company's non- depreciable asset\nHistorical cost 50\nCarrying value after impairment, 31 December of Year 1 40\nRecoverable amount, 31 December of Year 2 60\nThe maximum allowable carrying amount (in € thousands) on the Year 2 balance sheet is",
+    "solutions": [
+      {
+        "answer": "40"
+      },
+      {
+        "answer": "50"
+      },
+      {
+        "answer": "60"
+      }
+    ]
+  },
+  {
+    "id": "FSA-56",
+    "question": "All else being equal, a write down of inventory by a manufacturing company most likely results in a",
+    "solutions": [
+      {
+        "answer": "lower total asset turnover ratio and a lower current ratio"
+      },
+      {
+        "answer": "higher total asset turnover ratio and a lower current ratio"
+      },
+      {
+        "answer": "lower total asset turnover ratio and a higher current ratio"
+      }
+    ]
+  },
+  {
+    "id": "FSA-57",
+    "question": "On the statement of cash flows, interest paid should be classified as",
+    "solutions": [
+      {
+        "answer": "a financing cash flow only"
+      },
+      {
+        "answer": "an operating cash flow only"
+      },
+      {
+        "answer": "ether a financing or an operating cash flow"
+      }
+    ]
+  },
+  {
+    "id": "FSA-58",
+    "question": "An analyst gathers the following information (in millions) about an automobile manufacturer's inventory:\nThe Inventory tumover (calculated using average inventory in Year 2) is closest to:",
+    "solutions": [
+      {
+        "answer": "6.0"
+      },
+      {
+        "answer": "6.3"
+      },
+      {
+        "answer": "6.7"
+      }
+    ]
+  },
+  {
+    "id": "FSA-59",
+    "question": "An analyst gathers the following Information (in € thousands) about an electronics manufacturing company's inventory.\nThe Inventory (in € thousands) is carried on the balance sheet at",
+    "solutions": [
+      {
+        "answer": "3,100"
+      },
+      {
+        "answer": "3,200"
+      },
+      {
+        "answer": "3,300"
+      }
+    ]
+  },
+  {
+    "id": "FSA-60",
+    "question": "For leases with a term of twelve months or less, the lessee",
+    "solutions": [
+      {
+        "answer": "may recognize lease payments on a straight-line"
+      },
+      {
+        "answer": "must report at lease inception a \"right-of-use” asset and a lease liability, which are both equal to the present value of future lease payments"
+      },
+      {
+        "answer": "must report at lease inception a right-of-use asset and a lease liability, which are both equal to the undiscounted value of future lease payments"
+      }
+    ]
+  },
+  {
+    "id": "FSA-61",
+    "question": "According to the converged standards for revenue recognition, a receivable is recognized on the seller's balance sheet when",
+    "solutions": [
+      {
+        "answer": "a contract is signed"
+      },
+      {
+        "answer": "all performance obligations have been met except for payment"
+      },
+      {
+        "answer": "consideration is received in advance of transfering goods or services"
+      }
+    ]
+  },
+  {
+    "id": "FSA-62",
+    "question": "An analyst gathers the following Information about a company's equipment\nThe carrying value of the equipment should be",
+    "solutions": [
+      {
+        "answer": "€17,200"
+      },
+      {
+        "answer": "€17,400"
+      },
+      {
+        "answer": "€20,000"
+      }
+    ]
+  },
+  {
+    "id": "FSA-63",
+    "question": "Which of the following ratios would most likely be positively affected by an inventory write-down compared to the value absent the write down?",
+    "solutions": [
+      {
+        "answer": "Activity"
+      },
+      {
+        "answer": "Liquidity"
+      },
+      {
+        "answer": "Solvency"
+      }
+    ]
+  },
+  {
+    "id": "FSA-64",
+    "question": "A deferred tax asset has been previously recognized. At the current balance sheet date, the criteria for economic benefits are not met but the tax differences are still expected to be temporary. As a result:",
+    "solutions": [
+      {
+        "answer": "The existing deferred tax asset should be reversed"
+      },
+      {
+        "answer": "a valuation allowance account should be established"
+      },
+      {
+        "answer": "the existing deferred tax asset should be reclassified as equity"
+      }
+    ]
+  },
+  {
+    "id": "FSA-65",
+    "question": "An analyst gathers the following information (in € thousands) about a company\nCash received from customers (in € thousands) is:",
+    "solutions": [
+      {
+        "answer": "3,800"
+      },
+      {
+        "answer": "5,000"
+      },
+      {
+        "answer": "6,200"
+      }
+    ]
+  },
+  {
+    "id": "FSA-66",
+    "question": "Which of the following is an inventory related financial statement disclosure required under US GAAP?",
+    "solutions": [
+      {
+        "answer": "The carrying amount of inventories carried at fair value less costs to sell"
+      },
+      {
+        "answer": "The circumstances or events that led to the reversal of a prior-year write-down of inventories"
+      },
+      {
+        "answer": "The amount of reversal of any prior year write-down of inventories that is recognized as a reduction in cost of sales in the current period"
+      }
+    ]
+  },
+  {
+    "id": "FSA-67",
+    "question": "All else being equal in a period of declining inventory unit costs and constant inventory quantities, which of the following inventory valuation methods most likely allocates a higher amount of the total cost of goods avalable available for sale to cost of sales on the income statement?",
+    "solutions": [
+      {
+        "answer": "FIFO"
+      },
+      {
+        "answer": "LIFO"
+      },
+      {
+        "answer": "Weighted average cost"
+      }
+    ]
+  },
+  {
+    "id": "FSA-68",
+    "question": "The adjustments related to changes in the estimated residual value of a long-lived asset should be",
+    "solutions": [
+      {
+        "answer": "handled prospectively"
+      },
+      {
+        "answer": "shown separately on the income statement"
+      },
+      {
+        "answer": "handled retrospectively unless impractical to do so"
+      }
+    ]
+  },
+  {
+    "id": "FSA-69",
+    "question": "Which of the following might indicate that a company uses aggressive accounting choices to increase its reported performance and financial position in the current period?",
+    "solutions": [
+      {
+        "answer": "Increasing the estimated salvage values of PPSE"
+      },
+      {
+        "answer": "Changing the depreciation method from straight-line to double-declining balance"
+      },
+      {
+        "answer": "Changing from weighted average to FIFO Inventory valuation method in a period of declining inventory prices and constant inventory quantities"
+      }
+    ]
+  },
+  {
+    "id": "FSA-70",
+    "question": "An analyst gathers she following information about a company's equipment base:\nThe company sold equipment having a historical cost of €5,000,000 and reported a loss on sale of €250,000. The cash received from the sale of equipment is",
+    "solutions": [
+      {
+        "answer": "€750,000"
+      },
+      {
+        "answer": "€1,750.000"
+      },
+      {
+        "answer": "€4,700.000"
+      }
+    ]
+  },
+  {
+    "id": "FSA-71",
+    "question": "An analyst gathers the following information (in millions) about a company.\nROA is",
+    "solutions": [
+      {
+        "answer": "11%"
+      },
+      {
+        "answer": "13%"
+      },
+      {
+        "answer": "15%"
+      }
+    ]
+  },
+  {
+    "id": "FSA-72",
+    "question": "In calculating basic and basic EPS, the numerators are the same but the denominators are different, the company.",
+    "solutions": [
+      {
+        "answer": "split its stock during the year"
+      },
+      {
+        "answer": "had stock options outstanding at year end"
+      },
+      {
+        "answer": "had converable debt outstanding at year end"
+      }
+    ]
+  },
+  {
+    "id": "FSA-73",
+    "question": "An analyst gathers the following Information about a company's given fiscal year ended 31 December.\nthe bonds are convertible into 200,000 common shares and there are no other potentially dilutive securities outstanding, The company's reported diluted EPS is closest to",
+    "solutions": [
+      {
+        "answer": "$1.01"
+      },
+      {
+        "answer": "$1.03"
+      },
+      {
+        "answer": "$1.07"
+      }
+    ]
+  },
+  {
+    "id": "FSA-74",
+    "question": "An analyst gathers the following information about a company.\nROE is closest to",
+    "solutions": [
+      {
+        "answer": "5.4%"
+      },
+      {
+        "answer": "6.9%"
+      },
+      {
+        "answer": "8.1%"
+      }
+    ]
+  },
+  {
+    "id": "FSA-75",
+    "question": "An analyst gathers the following Information (in € thousands) about equipment.\nThe equipments carrying amount (in € thousands) after Impairment is",
+    "solutions": [
+      {
+        "answer": "7,000"
+      },
+      {
+        "answer": "8,800"
+      },
+      {
+        "answer": "9,000"
+      }
+    ]
+  },
+  {
+    "id": "FSA-76",
+    "question": "Which of the following ratios is most appropriate in measuring a company's ability to cover its debt payment",
+    "solutions": [
+      {
+        "answer": "Return on equity"
+      },
+      {
+        "answer": "Fixed asset turnover"
+      },
+      {
+        "answer": "Fixed charge coverage"
+      }
+    ]
+  },
+  {
+    "id": "FSA-77",
+    "question": "Under which of the following classifications of leases will a lessor derecognize the leased asset and recognize a lease receivable on the balance sheet at lease inception",
+    "solutions": [
+      {
+        "answer": "Only a finance lease under IFRS"
+      },
+      {
+        "answer": "Only an operating lease under US GAAP"
+      },
+      {
+        "answer": "Both a finance lease under IFRS and an operating lease under US GAAP"
+      }
+    ]
+  },
+  {
+    "id": "FSA-78",
+    "question": "Ignoring income taxes, which of the following ratios decreases as a result of an impairment change",
+    "solutions": [
+      {
+        "answer": "Net profit margin"
+      },
+      {
+        "answer": "Debt-to-equity ratio"
+      },
+      {
+        "answer": "Working capital turnover"
+      }
+    ]
+  },
+  {
+    "id": "FSA-79",
+    "question": "An analyst gathers the following information about a company:\nBased only on this information, the company's debt to capital ratio is closest to:",
+    "solutions": [
+      {
+        "answer": "17%"
+      },
+      {
+        "answer": "21%"
+      },
+      {
+        "answer": "27%"
+      }
+    ]
+  },
+  {
+    "id": "FSA-80",
+    "question": "According to the converged standards for revenue recognon, which of the following might indicate that a seller has transferred control of an asset to a buyer at a point in time? The seller has",
+    "solutions": [
+      {
+        "answer": "legal title of the asset"
+      },
+      {
+        "answer": "a present right to payment for the asset"
+      },
+      {
+        "answer": "significant risks and rewards of ownership related to the asset"
+      }
+    ]
+  },
+  {
+    "id": "FSA-81",
+    "question": "A company incurred research costs which were all expened in the current fiscal year for financal reporting purposes. Applicable tax laws require research costs to be expensed over a 5 year period if taxable profit will be available against which the deductible temporary differences can be utilized, in the current fiscal year the company will most likely record",
+    "solutions": [
+      {
+        "answer": "a deferred tax asset"
+      },
+      {
+        "answer": "a deferred tax liability"
+      },
+      {
+        "answer": "neither a deferred tax asset nor a deferred tax liability"
+      }
+    ]
+  },
+  {
+    "id": "FSA-82",
+    "question": "All else being equal, the cash conversion cycle most likely shortens if",
+    "solutions": [
+      {
+        "answer": "payables turnover decreases"
+      },
+      {
+        "answer": "Inventory turnover decreases"
+      },
+      {
+        "answer": "days of sales outstanding increases"
+      }
+    ]
+  },
+  {
+    "id": "FSA-83",
+    "question": "On the statement of cash flows, interest payments may be classifieded as a financing cash flow under",
+    "solutions": [
+      {
+        "answer": "IFRS only"
+      },
+      {
+        "answer": "US GAAP only"
+      },
+      {
+        "answer": "both IFRS and US GAAP"
+      }
+    ]
+  },
+  {
+    "id": "FSA-84",
+    "question": "An analyst gathers The following information (in € thousands) about a company whose fiscal year ends on 31 December\nThe company's trailing 12 months (in € thousands) for the period ended 30 one of Year 2 is",
+    "solutions": [
+      {
+        "answer": "1,700"
+      },
+      {
+        "answer": "3,700"
+      },
+      {
+        "answer": "4,200"
+      }
+    ]
+  },
+  {
+    "id": "FSA-85",
+    "question": "An analyst gathers the following information about three companies (In € millons)\nCompany 1 Company 2 Company 3 Total assets 100 200 400 Total debt 20 50 60 Total equity 80 150 320 Earnings before interest and taxes (EBIT) 8 10 12 Interest payments 4 4 4\nBased on this information, which company is most solvent?",
+    "solutions": [
+      {
+        "answer": "Company 1"
+      },
+      {
+        "answer": "Company 2"
+      },
+      {
+        "answer": "Company 3"
+      }
+    ]
+  },
+  {
+    "id": "FSA-86",
+    "question": "The carrying amount of an asset being higher than its tax base may be considered a",
+    "solutions": [
+      {
+        "answer": "temporary diference resulting in a deferred tax asset"
+      },
+      {
+        "answer": "permanent difference resulting in a deferred tax asset"
+      },
+      {
+        "answer": "temporary difference resulting in a deferred tax ability"
+      }
+    ]
+  },
+  {
+    "id": "FSA-87",
+    "question": "A debt-to-equity of 1.0 most likely results in a debt-to-capital ratio of.",
+    "solutions": [
+      {
+        "answer": "0.5"
+      },
+      {
+        "answer": "1.0"
+      },
+      {
+        "answer": "2.0"
+      }
+    ]
+  },
+  {
+    "id": "FSA-88",
+    "question": "Which of the following financial statement disclosures conceming PP&E is required under US GAAP?",
+    "solutions": [
+      {
+        "answer": "The balances of major classes of depreciable assets"
+      },
+      {
+        "answer": "The date of revaluation under the revaluation model"
+      },
+      {
+        "answer": "A reconcilation of carrying amount at the beginning and end of the period"
+      }
+    ]
+  },
+  {
+    "id": "FSA-89",
+    "question": "All else being equal, a company with older assets has a fixed asset turnover ratio that is",
+    "solutions": [
+      {
+        "answer": "lower compared to a company with nnew assets"
+      },
+      {
+        "answer": "the same compared to a company with newer assets"
+      },
+      {
+        "answer": "higher compared to a company with newer assets"
+      }
+    ]
+  },
+  {
+    "id": "FSA-90",
+    "question": "An analyst gathers the following Information (in thousands) about a manufacturing compens\nBased only on this information, which of the following ratios(s) may indicate improved solvency from Year 1 to Year 2?",
+    "solutions": [
+      {
+        "answer": "Interest coverage ratio only"
+      },
+      {
+        "answer": "Financial leverage ratio only"
+      },
+      {
+        "answer": "Both interest coverage ratio and financial leverage ratio"
+      }
+    ]
+  },
+  {
+    "id": "FSA-91",
+    "question": "If a company sell PP&E with a carrying amount of €75,000 and reported a gain of €2,000 cash flow from investing activities",
+    "solutions": [
+      {
+        "answer": "€0"
+      },
+      {
+        "answer": "€73,000"
+      },
+      {
+        "answer": "€77.000"
+      }
+    ]
+  },
+  {
+    "id": "FSA-92",
+    "question": "A company acquires a 5-year t license for product it plans to continue selling for the foreseeable future. The license can be renewed at minimal cost. The license should be.",
+    "solutions": [
+      {
+        "answer": "carried on the balance sheet at historical cost"
+      },
+      {
+        "answer": "amortised using the straight-line method over its estimated useful life"
+      },
+      {
+        "answer": "amortised using the units of production method over its estimated useful life"
+      }
+    ]
+  },
+  {
+    "id": "FSA-93",
+    "question": "An analyst gathers the following information (in € thousands) about a company's sale of equipment.\nSelling price 58\nHistorical cost 50\nAccumulated depreciation 5\nThe gain on the sale (in € thousands) is",
+    "solutions": [
+      {
+        "answer": "3"
+      },
+      {
+        "answer": "8"
+      },
+      {
+        "answer": "13"
+      }
+    ]
+  },
+  {
+    "id": "FSA-94",
+    "question": "An analyst gathers the following information (in € thousands) about a manufacturing company's inventory.\nThe net realizable value of the inventory (in € thousands) is",
+    "solutions": [
+      {
+        "answer": "750"
+      },
+      {
+        "answer": "850"
+      },
+      {
+        "answer": "1,000"
+      }
+    ]
+  },
+  {
+    "id": "FSA-95",
+    "question": "Which of the following is most likely a measure of a company's ability to meet its short- term obligations?",
+    "solutions": [
+      {
+        "answer": "Quick ratio"
+      },
+      {
+        "answer": "Operating profit margin"
+      },
+      {
+        "answer": "Days of payables outstanding"
+      }
+    ]
+  },
+  {
+    "id": "FSA-96",
+    "question": "An analyst gathers the following information (in thousands) about a company's current assets and liabilities:\nThe company's quick ratio is",
+    "solutions": [
+      {
+        "answer": "0.13"
+      },
+      {
+        "answer": "0.33"
+      },
+      {
+        "answer": "0.40"
+      }
+    ]
+  },
+  {
+    "id": "FSA-97",
+    "question": "An analyst gathers the following Information (in millions) about a company!\nThe total debt ratio is:",
+    "solutions": [
+      {
+        "answer": "0.25"
+      },
+      {
+        "answer": "0.50"
+      },
+      {
+        "answer": "2.00"
+      }
+    ]
+  },
+  {
+    "id": "FSA-98",
+    "question": "For a mature company. The primary source of cash flows is most likely from",
+    "solutions": [
+      {
+        "answer": "operating activities"
+      },
+      {
+        "answer": "investing activities"
+      },
+      {
+        "answer": "financing activities"
+      }
+    ]
+  },
+  {
+    "id": "FSA-99",
+    "question": "A company entered into a 5 year construction contract with a total sales price of €3.000.000. The estimated total costs are €2,000,000 and the company incurred €500,000 actual costs in the first year. The company has extensive experience with similar types of contracts. Costs incurred provide an appropriate measure of progress toward completing the contract. Assuming it is highly probable that revenue will not be subsequently reversed, revenue recognized under the contract in Year 1 is most liklely",
+    "solutions": [
+      {
+        "answer": "€500,000"
+      },
+      {
+        "answer": "€600,000"
+      },
+      {
+        "answer": "€750,000"
+      }
+    ]
+  },
+  {
+    "id": "FSA-100",
+    "question": "Which of the following could motivate a lessee to lease a high-value, long-lived asset rather than to purchase Lease contracts",
+    "solutions": [
+      {
+        "answer": "usually require little, if any, down payment"
+      },
+      {
+        "answer": "are reported as off-balance sheet financing structures"
+      },
+      {
+        "answer": "do not require the recognition of a liability on the balance sheet"
+      }
+    ]
+  },
+  {
+    "id": "FSA-101",
+    "question": "An analyst gathers the following information (in millions) about a company:\nCash paid for other operating expenses (in € millions) is:",
+    "solutions": [
+      {
+        "answer": "4,000"
+      },
+      {
+        "answer": "4,400"
+      },
+      {
+        "answer": "4,600"
+      }
+    ]
+  },
+  {
+    "id": "FSA-102",
+    "question": "An analyst gathers the forkwing information (in thousands) acut a company's equipment\nIgnoring taxes, proceeds from sale of the equipment (in € thousands) is",
+    "solutions": [
+      {
+        "answer": "750"
+      },
+      {
+        "answer": "1,150"
+      },
+      {
+        "answer": "1,400"
+      }
+    ]
+  },
+  {
+    "id": "FSA-103",
+    "question": "For a company reporting on a calendar year basis. The recepit of a payment from a client in Year 1 for the delivery of services in Year 2 most likely increases",
+    "solutions": [
+      {
+        "answer": "net income for Year 1"
+      },
+      {
+        "answer": "liabilities as of 31 December of Year 1"
+      },
+      {
+        "answer": "cash flow from operating activities for Year 2"
+      }
+    ]
+  },
+  {
+    "id": "FSA-104",
+    "question": "An analyst gathers the following Information (in € millions) about a manufacturing company's land reported under the revaluation model\nAll elsebeing equal and ignoring taxes, the revaluation at 31 December Year 1 leads in a",
+    "solutions": [
+      {
+        "answer": "higher quick ratio"
+      },
+      {
+        "answer": "higher total asset turnover"
+      },
+      {
+        "answer": "lower debt-to-assets ratio"
+      }
+    ]
+  },
+  {
+    "id": "FSA-105",
+    "question": "On the statement of cash flows cash dividends paid may be classified as an operating activity under",
+    "solutions": [
+      {
+        "answer": "IFRS only"
+      },
+      {
+        "answer": "US GAAP only"
+      },
+      {
+        "answer": "Both IFRS and US GAAP"
+      }
+    ]
+  },
+  {
+    "id": "FSA-106",
+    "question": "According to the converged accounting standards for reverse recognition, which of the following is the first of five steps in recognizing revenue?",
+    "solutions": [
+      {
+        "answer": "Determine the transaction price"
+      },
+      {
+        "answer": "Identify the contract with the customer"
+      },
+      {
+        "answer": "Identify the distinct performance obligations in the contract"
+      }
+    ]
+  },
+  {
+    "id": "FSA-107",
+    "question": "The financial leverage ratio may be calculated as:",
+    "solutions": [
+      {
+        "answer": "EBIT divided by interest payments"
+      },
+      {
+        "answer": "total debt divided by total shareholders equity"
+      },
+      {
+        "answer": "average total assets divided by average shareholders' equity"
+      }
+    ]
+  },
+  {
+    "id": "FSA-108",
+    "question": "Which of the following is defined as how long a company can continue to pay as daily cash expenditures from its existing liquid assets without receiving additional cash inflow?",
+    "solutions": [
+      {
+        "answer": "Cash conversion cycle"
+      },
+      {
+        "answer": "Defensive interval ratito"
+      },
+      {
+        "answer": "Fixed charge coverage"
+      }
+    ]
+  },
+  {
+    "id": "FSA-109",
+    "question": "Accounting goodwill arising from acquisitions is",
+    "solutions": [
+      {
+        "answer": "expensed in the period it arises"
+      },
+      {
+        "answer": "capitalized and amortized over a finite period"
+      },
+      {
+        "answer": "capitalized and tested for impairment annually"
+      }
+    ]
+  },
+  {
+    "id": "FSA-110",
+    "question": "An analyst gathers the following Information (in millions) about a company:\nOn a common-sze statement of cash flows presented using the indirect method, net operating cash flow is:",
+    "solutions": [
+      {
+        "answer": "30%"
+      },
+      {
+        "answer": "50%"
+      },
+      {
+        "answer": "75%"
+      }
+    ]
+  },
+  {
+    "id": "FSA-111",
+    "question": "A company establishes a plan dispose of one of its material lines of business and will have no further involvement in its operation. The income statement most likely reports the results of this line of business as",
+    "solutions": [
+      {
+        "answer": "discountinued operations"
+      },
+      {
+        "answer": "unusual or infrequent items"
+      },
+      {
+        "answer": "continuing operations unit the actual sale is performed"
+      }
+    ]
+  },
+  {
+    "id": "FSA-112",
+    "question": "An analyst gathers the following information (in € thousands) about a company's equipment reported under the cost model\nThe impairment loss (in € thousands) is",
+    "solutions": [
+      {
+        "answer": "300"
+      },
+      {
+        "answer": "350"
+      },
+      {
+        "answer": "500"
+      }
+    ]
+  },
+  {
+    "id": "FSA-113",
+    "question": "An analyst gathers the following information about PP&E that is abandonned and accumulated for using the cost model\nAssuming no impairment, the abandonment of PP&E on the financial statements will result in a",
+    "solutions": [
+      {
+        "answer": "decrease of €10 million in PP&E"
+      },
+      {
+        "answer": "loss of €1 million on the income statement"
+      },
+      {
+        "answer": "decrease of €1 milion on the cash flow statement"
+      }
+    ]
+  },
+  {
+    "id": "FSA-114",
+    "question": "An analyst gathers the following information about a company.\nThe average tax rate is closest to",
+    "solutions": [
+      {
+        "answer": "43%"
+      },
+      {
+        "answer": "47%"
+      },
+      {
+        "answer": "57%"
+      }
+    ]
+  },
+  {
+    "id": "FSA-115",
+    "question": "Which of the following disclosures as required for each class of PP&E carried under the cost model?",
+    "solutions": [
+      {
+        "answer": "Remaining useful life"
+      },
+      {
+        "answer": "Gross carrying amount"
+      },
+      {
+        "answer": "Fair value and details of how it was obtained"
+      }
+    ]
+  },
+  {
+    "id": "FSA-116",
+    "question": "Which of the following components of change in the net pension asset or liability of a defined-beneft pension plan is recognized in other comprehensive income?",
+    "solutions": [
+      {
+        "answer": "Employees' service costs"
+      },
+      {
+        "answer": "Actuarial gains and losses"
+      },
+      {
+        "answer": "Net interest expense of income accrued on the beginning net pension asset or liability"
+      }
+    ]
+  },
+  {
+    "id": "FSA-117",
+    "question": "An analyst gathers the following information about a company\nUnder US GAAP free cash flow to equity is most likely:",
+    "solutions": [
+      {
+        "answer": "less than free cash flow to the firm"
+      },
+      {
+        "answer": "equal to free cash flow to the firm"
+      },
+      {
+        "answer": "greater than free cash flow to the firm"
+      }
+    ]
+  },
+  {
+    "id": "FSA-118",
+    "question": "A manufacturing company reporting under US GAAP using the FIFO inventory valuation method should measure its finished goods' inventory at the lower of",
+    "solutions": [
+      {
+        "answer": "cost and market value"
+      },
+      {
+        "answer": "cost and net realizable value"
+      },
+      {
+        "answer": "market value and net resizable value"
+      }
+    ]
+  },
+  {
+    "id": "FSA-119",
+    "question": "A company reporting under US GAAP purchases an equity security issued by another company. If the equity security represents less than 1% of the outstanding equity of the issuing company and the acquiring company owns no other equity stake in the issuing company, the investment is most likely earned on the acquiring company's balance sheet as",
+    "solutions": [
+      {
+        "answer": "amortized cost"
+      },
+      {
+        "answer": "fair value with any unrealized holding gains/lossesrecognized in the income statement"
+      },
+      {
+        "answer": "fair value with any unrealized holding gains/lossesrecognized in other comprehensive income"
+      }
+    ]
+  },
+  {
+    "id": "FSA-120",
+    "question": "An analyst gathers the following information about a company's fiscal year ended 31 December\nOne convertible preferred share is convertible into two common shares if the tax rate is 40% and there are no other potentially dilutive securities outstanding, reported diluted EPS is closest to",
+    "solutions": [
+      {
+        "answer": "€0.38"
+      },
+      {
+        "answer": "€0.48"
+      },
+      {
+        "answer": "€0.63"
+      }
+    ]
+  },
+  {
+    "id": "FSA-121",
+    "question": "An analyst gathers the following information about a company's fiscal year ended 31 December\nOne convertible preferred share is convertible into six common shares. If there are no other potentially dilutive securities outstanding, reported diluted EPS should be closest to",
+    "solutions": [
+      {
+        "answer": "$0.95"
+      },
+      {
+        "answer": "$1.02"
+      },
+      {
+        "answer": "$1.14"
+      }
+    ]
+  },
+  {
+    "id": "FSA-122",
+    "question": "An analyst gathers the following information (in € millions) about a company\nApplying vertical common-size analysis to the company's balance sheet, cash and cash equivalents are",
+    "solutions": [
+      {
+        "answer": "20%"
+      },
+      {
+        "answer": "25%"
+      },
+      {
+        "answer": "32%"
+      }
+    ]
+  },
+  {
+    "id": "FSA-123",
+    "question": "An analyst gathers the following information (in € thousands) about a company\nBased only on this information, the payables tumover ratio for Year 2 is",
+    "solutions": [
+      {
+        "answer": "9"
+      },
+      {
+        "answer": "10"
+      },
+      {
+        "answer": "12"
+      }
+    ]
+  },
+  {
+    "id": "FSA-124",
+    "question": "An analyst gathers the following information about a company\nBased only on the cash conversion cycle, the company's liquidity position from Year 1 to Year 2 has",
+    "solutions": [
+      {
+        "answer": "deteriorated"
+      },
+      {
+        "answer": "remained the same"
+      },
+      {
+        "answer": "improved"
+      }
+    ]
+  },
+  {
+    "id": "FSA-125",
+    "question": "The role of financial reporting is best described as",
+    "solutions": [
+      {
+        "answer": "making operating investing and financial decisions"
+      },
+      {
+        "answer": "providing information about a company's performance, financial position, and change in financial position"
+      },
+      {
+        "answer": "evaluating a company's past, current, and potential performance for the purpose of making economic decisions"
+      }
+    ]
+  },
+  {
+    "id": "FSA-126",
+    "question": "An analyst gathers the following information (in E milions) about a company\nThe fixed charge coverage ratio is closest to",
+    "solutions": [
+      {
+        "answer": "1.2"
+      },
+      {
+        "answer": "1.8"
+      },
+      {
+        "answer": "2.0"
+      }
+    ]
+  },
+  {
+    "id": "FSA-127",
+    "question": "Under US GAAP the recognition of a valuation allowance for deferred tax assets impacts",
+    "solutions": [
+      {
+        "answer": "the effective tax rate only"
+      },
+      {
+        "answer": "the statutory tax rate only"
+      },
+      {
+        "answer": "both the effective tax rate and statutory lax rate"
+      }
+    ]
+  },
+  {
+    "id": "FSA-128",
+    "question": "A copyright, for which an active market exists, has a set finite life and is used in a company’s operations over more than one fiscal period. Under US GAAP, this copyright is reported using:",
+    "solutions": [
+      {
+        "answer": "only the cost model"
+      },
+      {
+        "answer": "only the revaluation model"
+      },
+      {
+        "answer": "either the cost or the revaluation model"
+      }
+    ]
+  },
+  {
+    "id": "FSA-129",
+    "question": "Compared to purchasing an asset using debt, leasing an asset is most likely to",
+    "solutions": [
+      {
+        "answer": "have a higher financing cost"
+      },
+      {
+        "answer": "require a greater down payment"
+      },
+      {
+        "answer": "reduce lessee's exposure to obsolescence"
+      }
+    ]
+  },
+  {
+    "id": "FSA-130",
+    "question": "An analyst gathers the following information (in € millions) about a company\nCash received from customers (in € milions) in Year 2 is:",
+    "solutions": [
+      {
+        "answer": "2,070"
+      },
+      {
+        "answer": "2,120"
+      },
+      {
+        "answer": "2,130"
+      }
+    ]
+  }
+]

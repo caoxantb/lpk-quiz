@@ -1,0 +1,2222 @@
+[
+  {
+    "id": "ETH-1",
+    "question": "Which of the following statements most likely reflects one of the six components of the CFA Code of Ethics? Candidates must:",
+    "solutions": [
+      {
+        "answer": "place the integrity of the investment profession above their own interests"
+      },
+      {
+        "answer": "promote the viability of the global capital markets for their employer's benefit"
+      },
+      {
+        "answer": "ignore unprofessional conduct displayed by others within the profession"
+      }
+    ]
+  },
+  {
+    "id": "ETH-2",
+    "question": "A profession is most likely described as a group of people that:",
+    "solutions": [
+      {
+        "answer": "has a common level of basic knowledge about a particular subject"
+      },
+      {
+        "answer": "monitors its members based on an agreed-oncode of ethics"
+      },
+      {
+        "answer": "puts the interests of its members first"
+      }
+    ]
+  },
+  {
+    "id": "ETH-3",
+    "question": "Most societies would least likely consider ethical principles to include:",
+    "solutions": [
+      {
+        "answer": "justice"
+      },
+      {
+        "answer": "duplicity"
+      },
+      {
+        "answer": "diligence"
+      }
+    ]
+  },
+  {
+    "id": "ETH-4",
+    "question": "Tibor Figeczky, CFA, is an equity trader at Global Investment Bank (GB). Figeczky traded the bank's investment portfolio profitably for the past three years and earned significant bonuses for his efforts. Subsequently, internal auditors of GB formally accused Figeczky of exceeding his trading authority and engaging in unauthorized trades. According to the CFA Institute Code of Ethics and Standards of Professional Conduct, Figeczky should most likely",
+    "solutions": [
+      {
+        "answer": "disclose the complaint to CFA Institute"
+      },
+      {
+        "answer": "refuse further bonuses until the issue is resolved"
+      },
+      {
+        "answer": "request a temporary suspension of his CFA Institute membership"
+      }
+    ]
+  },
+  {
+    "id": "ETH-5",
+    "question": "Lisa Hajak, CFA, specialized in research on real estate companies at Cornerstone Country Bank for the past twenty years. Hajak recently started her own investment research firm, Hajak Investment Advisory. One of her former clients at Cornerstone asks Hajak to update a research report she wrote on a real estate company when she was at Cornerstone. Hajak updates the report, which she had copied to her personal computer without the bank's knowledge, and replaces references to the bank with her new firm, Hajak Investment Advisory. Hajak also incorporates the conclusions of a real estate study conducted by the Realtors Association that appeared in the Wall Street Journal. She references the Journal as her source in her report. She provides the revised report free of charge along with a cover letter for the bank's client to become a client of her firm. Concerning the reissued research report, Hajak least likely violated the CFA Institute Standards of Professional Conduct because she:",
+    "solutions": [
+      {
+        "answer": "solicited the bank's client"
+      },
+      {
+        "answer": "did not obtain consent to use the bank report"
+      },
+      {
+        "answer": "did not cite the actual source of the real estate study"
+      }
+    ]
+  },
+  {
+    "id": "ETH-6",
+    "question": "Dennis Kim, CFA, works at Century Growth Partners (CGP) where he manages an investment account for his client Amelia Frost. Frost tells Kim to invest one percent of her portfolio in biotech stocks. Kim believes such an investment is inconsistent with Frost's investment policy statement. CGP has no policy regarding execution of unsolicited trading requests. Kim discusses his concerns with Frost, but she does not change her instruction. Without amending Frost's investment policy statement, Kim executes the trade afterward. Has Kim violated the Standards?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, because Kim executes an unsuitable trade for Frost"
+      },
+      {
+        "answer": "Yes , because Kim does not change Frost's investment policy statement before executing the trade"
+      }
+    ]
+  },
+  {
+    "id": "ETH-7",
+    "question": "Which of the following and care? Members should: is a recommended procedure for compliance with the Standard relating to loyalty, prudence,",
+    "solutions": [
+      {
+        "answer": "eliminate all actual and potential conflicts of interest"
+      },
+      {
+        "answer": "make their clients aware of all forms of manager compensation"
+      },
+      {
+        "answer": "submit to each client, at least annually, an itemized statement showing the funds and securities in custody"
+      }
+    ]
+  },
+  {
+    "id": "ETH-8",
+    "question": "According to the Standards, a member who is asked to produce an issuer-paid research report is required to:",
+    "solutions": [
+      {
+        "answer": "avoid cash compensation"
+      },
+      {
+        "answer": "disclose the nature of their compensation in the report"
+      },
+      {
+        "answer": "decline to write the report if the member's firm provides investment banking services to the issuer"
+      }
+    ]
+  },
+  {
+    "id": "ETH-9",
+    "question": "Ann Jules, CFA, discovered that her employer, Plutus Investments Inc. (PII), inflates investment performance in PII's marketing brochure. In accordance with firm policy, Jules uses PII's marketing brochure to present to prospective clients. In addition, Jules emails stock recommendations to her clients in capsule form and offers additional information only upon request. Jules has most likely violated the Standards:",
+    "solutions": [
+      {
+        "answer": "by emailing stock recommendations to her clients in capsule form"
+      },
+      {
+        "answer": "only by using Pil's marketing brochure to present to prospective clients"
+      },
+      {
+        "answer": "both by emailing stock recommendations to her clients in capsule form and by using PII's marketing brochure to present to prospective clients"
+      }
+    ]
+  },
+  {
+    "id": "ETH-10",
+    "question": "Maria Jennings, CFA, overhears the CEO of United Retail saying that the quarterly report to be released next week will miss analysts' expectations. Jennings immediately calls her brother who owns the stock to tell him what she overheard. One week later, Jennings writes a report on another company, KTD retail. She uses public and nonmaterial nonpublic information for her analysis to issue a \"buy\" recommendation. Has Jennings most likely violated the Standards?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, by calling her brother to tell him what she overheard"
+      },
+      {
+        "answer": "Yes, by using public and nonmaterial nonpublic information for her analysis to issue a \"buy\" recommendation"
+      }
+    ]
+  },
+  {
+    "id": "ETH-11",
+    "question": "According to the Standards, which of the following is most likely considered material nonpublic information?",
+    "solutions": [
+      {
+        "answer": "The recent execution of a large buy order from a hedge fund"
+      },
+      {
+        "answer": "Significant legal challenges revealed at an internal meeting of the company's management"
+      },
+      {
+        "answer": "Recent increases in a company's board remuneration discussed at the annual general meeting"
+      }
+    ]
+  },
+  {
+    "id": "ETH-12",
+    "question": "According to the Standard relating to fair dealing, when members disseminate investment recommendations, they are most likely required to make every effort to treat individual clients in a(n):",
+    "solutions": [
+      {
+        "answer": "fair and equal manner"
+      },
+      {
+        "answer": "fair and impartial manner"
+      },
+      {
+        "answer": "equal and impartial manner"
+      }
+    ]
+  },
+  {
+    "id": "ETH-13",
+    "question": "According to the recommended procedure for compliance with the Standard relating to fair dealing, a member who works in a large firm should:",
+    "solutions": [
+      {
+        "answer": "offer different levels of service to clients selectively based on the clients'"
+      },
+      {
+        "answer": "disclose to clients and prospective clients how she selects accounts to participate in an order"
+      },
+      {
+        "answer": "inform all firm staff of the content of upcoming investment needs. investment recommendations to assure that all clients' investment needs are met"
+      }
+    ]
+  },
+  {
+    "id": "ETH-14",
+    "question": "Which of the following statements is accurate according to the Standards?\n● Statement 1 :A member, prior to leaving his current employer, may contact potential\nclients for purposes of soliciting their business for their new employer. outside of normal working hours to ● Statement 2: A member, while still employed, is free to make arrangements apply for\na license with the local regulator to set up a competing business.",
+    "solutions": [
+      {
+        "answer": "Statement 1 only"
+      },
+      {
+        "answer": "Statement 2 only"
+      },
+      {
+        "answer": "Both Statement 1 and Statement 2"
+      }
+    ]
+  },
+  {
+    "id": "ETH-15",
+    "question": "According to the Standard relating to disclosure of conflicts, buy-side members should disclose to clients their:",
+    "solutions": [
+      {
+        "answer": "beneficial ownership in any security"
+      },
+      {
+        "answer": "firm's procedures for reporting requirements for personal transactions"
+      },
+      {
+        "answer": "firm's policies on blackout periods during which the member cannot trade for clients"
+      }
+    ]
+  },
+  {
+    "id": "ETH-16",
+    "question": "Michael Mak, CFA, is a portfolio manager at an investment firm. After comprehensive research, Mak buys Advance One Tech's (AOT) stock for all his clients for whom the investment is suitable. He then buys AOT shares for his brother's fee-paying account, in which Mak has beneficial ownership. AOT's stock price declines significantly after a month, resulting in substantial losses for all his clients. Are Mak's actions consistent with the Standards?",
+    "solutions": [
+      {
+        "answer": "Yes"
+      },
+      {
+        "answer": "No, Mak's actions are not consistent with the Standard relating to priority of transactions"
+      },
+      {
+        "answer": "No, Mak's actions are not consistent with the Standard relating to diligence and reasonable basis"
+      }
+    ]
+  },
+  {
+    "id": "ETH-17",
+    "question": "With respect to the GIPS standards, which of the following statements is most accurate? Verification:",
+    "solutions": [
+      {
+        "answer": "of GIPS compliance is mandatory if the firm claims GIPS compliance"
+      },
+      {
+        "answer": "is performed by the firm when self-regulating and certifying its claim of compliance"
+      },
+      {
+        "answer": "tests whether the firm's processes are designed to present performance results in compliance with the GIPS standards"
+      }
+    ]
+  },
+  {
+    "id": "ETH-18",
+    "question": "Which of the following is a violation of the Standard relating to conduct as participants in CFA Institute Programs? A candidate:",
+    "solutions": [
+      {
+        "answer": "discusses broad topic areas covered in the curriculum in an online forum"
+      },
+      {
+        "answer": "tells her brother, after taking the exam, how glad she was that no questions about the binomial model were asked"
+      },
+      {
+        "answer": "publishes on a social media website her disappointment about what she thinks is an overly academic CFA Program"
+      }
+    ]
+  },
+  {
+    "id": "ETH-19",
+    "question": "Johny Lumunon, CFA, shows prospective clients the investment performance of an account with \"balanced\" investment objectives and highlights how account has outperformed the benchmark in the last 10 years. He does not disclose that this is the best performing account, and that half of the accounts with \"balanced\" investment objectives managed by his firm underperformed the benchmark during the same period. Lumunon has most likely violated the Standard(s) relating to:",
+    "solutions": [
+      {
+        "answer": "only misrepresentation"
+      },
+      {
+        "answer": "only performance presentation"
+      },
+      {
+        "answer": "both misrepresentation and performance presentation"
+      }
+    ]
+  },
+  {
+    "id": "ETH-20",
+    "question": "Jordan Kope, CFA, is an analyst with a hedge fund and works closely with Deepa Bose who earned her CFA designation 15 years ago. Kope becomes aware that Bose uses her CFA designation even though she no longer pays her membership dues. During several meetings that Bose and Kope have with the firm's clients, Bose emphasizes that all her team members, including herself, are CFA charterholders. To be consistent with the Standards, Kope should:",
+    "solutions": [
+      {
+        "answer": "only dissociate himself from activities involving Bose"
+      },
+      {
+        "answer": "only report Bose's conduct to the fund's compliance department"
+      },
+      {
+        "answer": "dissociate himself from activities involving Bose and report Bose's conduct to the fund's compliance department"
+      }
+    ]
+  },
+  {
+    "id": "ETH-21",
+    "question": "According to the recommended procedures for compliance with the Standard relating to responsibilities of supervisors, a firm's code of ethics should:",
+    "solutions": [
+      {
+        "answer": "only be written in plain language"
+      },
+      {
+        "answer": "only be integrated in the firm's compliance procedures"
+      },
+      {
+        "answer": "both be be written in plain language and be integrated in the firm's compliance procedures"
+      }
+    ]
+  },
+  {
+    "id": "ETH-22",
+    "question": "According to the Standard relating to diligence and reasonable basis, a member is required to:",
+    "solutions": [
+      {
+        "answer": "exercise diligence, independence, and thoroughness in analyzing investments"
+      },
+      {
+        "answer": "become an expert in the technical aspects of the models used for investment recommendations"
+      },
+      {
+        "answer": "dissociate and remove her name from a company group report if the report does not reflect her opinion"
+      }
+    ]
+  },
+  {
+    "id": "ETH-23",
+    "question": "After completing Level II of the CFA exam, Aashi Banerjee posts several comments on an online chatroom for CFA program candidates. Which of the following comments violate the Standard relating to conduct as participants in CFA Institute programs?\nComment 1 CFA Institute must revise the topic area weights on the exam.\nComment 2 There were no questions on GIPS standards.",
+    "solutions": [
+      {
+        "answer": "Comment 1 only"
+      },
+      {
+        "answer": "Comment 2 only"
+      },
+      {
+        "answer": "Both Comment 1 and Comment 2"
+      }
+    ]
+  },
+  {
+    "id": "ETH-24",
+    "question": "Which of the following activities violates the Standard relating to market manipulation?\nActivity 1: A member secures a dominant position in futures contracts to influence the price of the underlying. The results in large losses for the member. transaction\nActivity 2: A member frequently trades a stock in multiple client stock. The transactions result in large gains for the clients. accounts with an intent to increase the volume of the",
+    "solutions": [
+      {
+        "answer": "Activity 1 only"
+      },
+      {
+        "answer": "Activity 2 only"
+      },
+      {
+        "answer": "Both Activity 1 and Activity 2"
+      }
+    ]
+  },
+  {
+    "id": "ETH-25",
+    "question": "Which of the following statements regarding the GIPS standards is accurate?",
+    "solutions": [
+      {
+        "answer": "All fee-paying client portfolios must be included in at least one composite"
+      },
+      {
+        "answer": "All portfolios with the same investment mandate are aggregated into a composite"
+      },
+      {
+        "answer": "Aggregation of portfolios into composites is based on the actual performance of the portfolios every year"
+      }
+    ]
+  },
+  {
+    "id": "ETH-26",
+    "question": "Claus Holm, CFA, directs most of his clients' trades to RRT Company (RRT), despite RRT's higher-than-average commissions. In return, RRT refers individual clients to Holm for asset management services. Holm does not disclose the arrangement to his clients or prospective clients. Holm has most likely violated the Standard(s) relating:",
+    "solutions": [
+      {
+        "answer": "only to referral fees"
+      },
+      {
+        "answer": "only to loyalty, prudence, and care"
+      },
+      {
+        "answer": "both to referral fees and to loyalty, prudence, and care"
+      }
+    ]
+  },
+  {
+    "id": "ETH-27",
+    "question": "Emma Fischer, CFA, is an analyst covering the banking sector. She has declared bankruptcy due to large unpaid personal medical bills. On weekends, she participates in public protests for climate protection. She was recently arrested for trespassing during a protest, which is an act of civil disobedience in her country. Has Fischer violated the Standards?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, she has violated the Standard relating to misconduct"
+      },
+      {
+        "answer": "Yes, she has violated the Standard relating to loyalty, prudence and care"
+      }
+    ]
+  },
+  {
+    "id": "ETH-28",
+    "question": "Which of the following is a recommended procedure for compliance with the Standard relating to independence and objectivity? Members should encourage their firms to:",
+    "solutions": [
+      {
+        "answer": "prohibit any employee participation in equity-related IPOS"
+      },
+      {
+        "answer": "remove a corporate client company from the research universe and put it on a restricted list if the firm is unwilling to disseminate adverse opinions about the company"
+      },
+      {
+        "answer": "provide every client with the procedures and policies for reporting potentially unethical behaviour, violations of regulations, or other activities that may harm the firm's reputation"
+      }
+    ]
+  },
+  {
+    "id": "ETH-29",
+    "question": "According to the recommended procedure for compliance with the Standard relating to misconduct, members should encourage their firms to disseminate a list of potential violations and associated disciplinary sanctions to:",
+    "solutions": [
+      {
+        "answer": "all clients only"
+      },
+      {
+        "answer": "all employees only"
+      },
+      {
+        "answer": "both all clients and all employees"
+      }
+    ]
+  },
+  {
+    "id": "ETH-30",
+    "question": "According to the recommended procedures for compliance with the Standard relating to misconduct, members should encourage their firms to:",
+    "solutions": [
+      {
+        "answer": "conduct background checks of all employees at least annually"
+      },
+      {
+        "answer": "develop and adopt a code of ethics to which every employee must subscribe"
+      },
+      {
+        "answer": "check references of potential clients to ensure that they are of good character"
+      }
+    ]
+  },
+  {
+    "id": "ETH-31",
+    "question": "According to the guidance for the Standard relating to loyalty, prudence, and care, which of the following statements is most accurate?",
+    "solutions": [
+      {
+        "answer": "Voting proxies is necessary in all instances"
+      },
+      {
+        "answer": "Members must maximize the economic value of proxies for clients"
+      },
+      {
+        "answer": "Consistent application of proxy policies includes voting with management on all nonroutine governance matters"
+      }
+    ]
+  },
+  {
+    "id": "ETH-32",
+    "question": "According to the guidance for the Standards, which of the following statements are accurate?\n● Statement 1: Employees must place employer interests ahead of personal interests in\nall matters. ● Statement 2: Senior management of a member's firm should create financial\ncompensation structures that do not 2 drive unethical behavior.",
+    "solutions": [
+      {
+        "answer": "Statement 1 only"
+      },
+      {
+        "answer": "Statement 2 only"
+      },
+      {
+        "answer": "Both Statement 1 and Statement 2"
+      }
+    ]
+  },
+  {
+    "id": "ETH-33",
+    "question": "A member himself from believes a colleague is participating in unethical activities at work. The member does not disassociate the activities of his colleague. The member has most likely violated:",
+    "solutions": [
+      {
+        "answer": "only the Standard relating to knowledge of the law"
+      },
+      {
+        "answer": "only the Standard relating to disclosure of conflicts"
+      },
+      {
+        "answer": "both the Standard relating to knowledge of the law and the Standard relating to disclosure of conflicts"
+      }
+    ]
+  },
+  {
+    "id": "ETH-34",
+    "question": "According to the Standard relating to loyalty, members must:",
+    "solutions": [
+      {
+        "answer": "place their employer's interest above their personal interests in all matters"
+      },
+      {
+        "answer": "notify their employer before engaging in an independent practice while still employed"
+      },
+      {
+        "answer": "never act against their employer's interests when complying with their duties to clients"
+      }
+    ]
+  },
+  {
+    "id": "ETH-35",
+    "question": "Andrew Milton, CFA, is an advisor working with individual clients. Milton is careful to recommend investments for his clients that are consistent with their overall objectives and risk tolerance. His firm gives its advisors a bonus for recommending the firm's proprietary products. If all other variables are equal in an investment choice, Milton uses the proprietary products Milton does not inform the clients of this bonus. Has Milton most likely violated the Standards?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, the Standard relating to suitability"
+      },
+      {
+        "answer": "Yes, the Standard relating to loyalty, prudence, and care"
+      }
+    ]
+  },
+  {
+    "id": "ETH-36",
+    "question": "Which of the following are among the recommended procedures for compliance with the Standard relating to independence and objectivity?\nProcedure 1: Impose limits on investment personnel acquiring securities in private placements.\nProcedure 2: Prohibit employees from receiving reimbursement from corporate issuers for air transportation when attending meetings at the issuers' headquarters.\nProcedure 3: Remove a company from the restricted list if the firm is unwilling to permit dissemination of adverse opinions about the company.",
+    "solutions": [
+      {
+        "answer": "Procedure 1 and Procedure 2"
+      },
+      {
+        "answer": "Procedure 1 and Procedure 3"
+      },
+      {
+        "answer": "Procedure 2 and Procedure"
+      }
+    ]
+  },
+  {
+    "id": "ETH-37",
+    "question": "Vinod Shah, CFA, is a fund manager for the employee pension plan of Jupiter Corporation, a publicly traded company. Shah owes a primary duty of loyalty, prudence, and care to the:",
+    "solutions": [
+      {
+        "answer": "shareholders of Jupiter"
+      },
+      {
+        "answer": "management of Jupiter"
+      },
+      {
+        "answer": "beneficiaries of the pension fund"
+      }
+    ]
+  },
+  {
+    "id": "ETH-38",
+    "question": "Min Joon, CFA, works in the client services department at an investment firm. Joon has been short-selling stocks on his personal account in anticipation of a significant decline in the market. His transactions do not disadvantage his firm's clients. Following a dramatic rise in the markets, Joon is unable to cover his short positions and is forced to declare personal bankruptcy. Has Joon violated the Standards?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, the Standard relating to misconduct"
+      },
+      {
+        "answer": "Yes, the Standard relating to loyalty, prudence, and care"
+      }
+    ]
+  },
+  {
+    "id": "ETH-39",
+    "question": "A member secures a controlling, dominant position in an option on a stock in order to benefit from trading the stock. The option trades are reported by the exchange and the increased option trading volume leads other traders to take positions in the option and in the underlying stock. The member has violated the Standards:",
+    "solutions": [
+      {
+        "answer": "by engaging in transaction-based manipulation only"
+      },
+      {
+        "answer": "by engaging in information-based manipulation only"
+      },
+      {
+        "answer": "by engaging in both transaction-based manipulation and information-based manipulation"
+      }
+    ]
+  },
+  {
+    "id": "ETH-40",
+    "question": "Which of the following is a recommended procedure for compliance with the Standard relating to performance presentation? When presenting performance, members should:",
+    "solutions": [
+      {
+        "answer": "exclude terminated accounts"
+      },
+      {
+        "answer": "use a single representative account for each investment mandate"
+      },
+      {
+        "answer": "disclose that investment results are simulated when model results are used"
+      }
+    ]
+  },
+  {
+    "id": "ETH-41",
+    "question": "Mary Rein, CFA, makes a brief presentation about her firm's performance to a group of current and prospective clients. According to the Standard relating to performance presentation, is Rein required to make available the detailed information supporting her presentation to clients upon request?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, only to current clients"
+      },
+      {
+        "answer": "Yes, both to current clients and to prospective clients"
+      }
+    ]
+  },
+  {
+    "id": "ETH-42",
+    "question": "According to the Standard relating to suitability, a member who manages a mutual fund is required: fund's stated mandate.",
+    "solutions": [
+      {
+        "answer": "only to invest in a manner consistent with the"
+      },
+      {
+        "answer": "only to determine the suitability of the fund for investors who may be purchasing shares in the fund"
+      },
+      {
+        "answer": "both to invest in a manner consistent with the fund's stated mandate and to determine the suitability of the fund for investors who may be purchasing shares in the fund"
+      }
+    ]
+  },
+  {
+    "id": "ETH-43",
+    "question": "Richard Hicks, CFA, is an investment advisor. A friend asks Hicks to share client contacts in order to solicit charitable donations. Hicks responds that he is unable to share current clients' contact details and instead provides e- mail addresses of several former clients. The next day, Hicks finds out that one of his colleagues, Claudia Moll, a Level III candidate in the CFA Program, has failed to inform her supervisor about her personal bankruptcy resulting from large medical bills. Have the Standards most likely been violated?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, by Moll"
+      },
+      {
+        "answer": "Yes, by Hicks"
+      }
+    ]
+  },
+  {
+    "id": "ETH-44",
+    "question": "Tom Dixon, CFA, provides a brief summary of his investment performance to his clients. He indicates that further information is available upon request. He tells his clients they can expect a return of 5% in the next three years based on his strong track record. Has Dixon most likely violated the Standards?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, by indicating that further information is available upon request"
+      },
+      {
+        "answer": "Yes, by telling his clients they can expect a return of 5% in the next three years"
+      }
+    ]
+  },
+  {
+    "id": "ETH-45",
+    "question": "According to the Standard relating to additional compensation arrangements, a member who is offered additional compensation from a third party for services that conflict with his employer's interest",
+    "solutions": [
+      {
+        "answer": "is prohibited from accepting the additional compensation in all cases"
+      },
+      {
+        "answer": "is required to notify his employer about compensation from the third party immediately after receiving it"
+      },
+      {
+        "answer": "must obtain written consent from his employer and the third party offering fees to the member before accepting the compensation"
+      }
+    ]
+  },
+  {
+    "id": "ETH-46",
+    "question": "John Run, CFA, manages client accounts for an investment firm. A client says to Run: \"For every year my portfolio beats the benchmark by 5%, you can use my beach home for a week.\" Run also serves on the board of Core Air Ltd. (Core). He does not receive cash payments from Core for board services but Core sends Run a family voucher for a flight. Run accepts both offers and does not inform his firm about the beach home offer or the flight voucher. Has Run most likely violated the Standard relating to additional compensation arrangements?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, only because Run accepts the beach home offer without informing his employer"
+      },
+      {
+        "answer": "Yes, both because Run accepts the beach home offer and the family flight voucher without informing his employer"
+      }
+    ]
+  },
+  {
+    "id": "ETH-47",
+    "question": "Johanna Ayers, CFA, is a portfolio manager. She has a new client and develops an investment policy statement (IPS) that addresses the client's risk and return objectives and constraints. The client does not disclose assets managed by other firms and Ayers agrees to only manage the portion of the client's assets disclosed to her. In a separate document, Ayers\ndevelops an investment program and strategic asset allocation for the portion of client assets she manages. Has Ayers most likely violated the Standard relating to suitability?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, by keeping the investment program and strategic asset allocation in a document that is separate from the IPS"
+      },
+      {
+        "answer": "Yes, by agreeing to manage a portion of the client's assets without knowledge of the client's assets managed by other firms"
+      }
+    ]
+  },
+  {
+    "id": "ETH-48",
+    "question": "A member most likely violates the Standard relating to responsibilities of supervisors if she:",
+    "solutions": [
+      {
+        "answer": "accepts supervisory duties before ensuring the firm has adopted a codes of ethics"
+      },
+      {
+        "answer": "delegates supervisory duties to subordinates who have no prior compliance experience"
+      },
+      {
+        "answer": "relies on a subordinate's statements without initiating an assessment about the extent of a potential violation of the Standards"
+      }
+    ]
+  },
+  {
+    "id": "ETH-49",
+    "question": "According to the Standard relating to loyalty, in the absence of a noncompete agreement and without employer consent, a member is permitted to: employer.",
+    "solutions": [
+      {
+        "answer": "email himself a list of his clients when leaving his"
+      },
+      {
+        "answer": "enter into an independent competitive business while"
+      },
+      {
+        "answer": "contact clients from his previous still employed. employer using public information to solicit business at his new firm"
+      }
+    ]
+  },
+  {
+    "id": "ETH-50",
+    "question": "To use a quantitative model in her investment research, a member is required by the Standards to:",
+    "solutions": [
+      {
+        "answer": "have developed or co-developed the model"
+      },
+      {
+        "answer": "become an expert in every technical aspect of the model developed by others"
+      },
+      {
+        "answer": "understand the assumptions and limitations inherent in the model developed by others"
+      }
+    ]
+  },
+  {
+    "id": "ETH-51",
+    "question": "Tim Newman, CFA, is an investment manager. One of his clients directs Newman to use Mercer brokerage to execute trades. Newman believes Mercer does not offer best execution,\nbut uses the brokerage commissions to purchase research services for his client. Newman informs the client that he may not be getting best execution. Are Newman's actions consistent with the Standard relating to loyalty, prudence, and care?",
+    "solutions": [
+      {
+        "answer": "Yes"
+      },
+      {
+        "answer": "No, because he used commissions to purchase research"
+      },
+      {
+        "answer": "No, because he failed to achieve best execution for the client"
+      }
+    ]
+  },
+  {
+    "id": "ETH-52",
+    "question": "After thorough analysis, Algiris Vasilis, CFA, prepares a \"buy\" recommendation on a company's stock. In the report he writes: \"The company will beat analysts' earnings projections next month.\" Vasilis first shares the recommendation with all clients by email. He then calls each of his clients by phone to present the recommendation. Has Vasilis violated the Standards?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, by calling each of his clients by phone to present the recommendation"
+      },
+      {
+        "answer": "Yes, by writing in the report, \"The company will beat analysts' earnings projections next month\""
+      }
+    ]
+  },
+  {
+    "id": "ETH-53",
+    "question": "Melissa Kon, CFA, is an equity analyst. She recently left her job at Hamm Capital (HC) to join Eagle Investments (EI). Kon obtains the express consent of HC to take one of her historical research reports with her. At El, she diligently updates and publishes the report. Afterwards, she re-creates supporting records from memory for record keeping purposes. Has Kon violated the Standards?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, by publishing the updated research report"
+      },
+      {
+        "answer": "Yes, by re-creating supporting records from memory"
+      }
+    ]
+  },
+  {
+    "id": "ETH-54",
+    "question": "Amy Joy, CFA, works at Parklane Investments Ltd. (PIL). When presenting to PIL's prospective clients, Joy uses a brief investment performance summary and makes available detailed supporting information only upon client request. Has Joy violated the Standards?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, the Standard relating to fair dealing"
+      },
+      {
+        "answer": "Yes, the Standard relating to performance presentation"
+      }
+    ]
+  },
+  {
+    "id": "ETH-55",
+    "question": "Hannah Hostettler, CFA, is a portfolio manager at a wealth management firm. Hostettler has an arrangement with a lawyer, whereby she refers clients who need legal advice to the lawyer, who in turn refers clients to Hostettler. Because no referral fees are involved, Hostettler does not disclose this arrangement to her existing or prospective clients. Has Hostettler most likely violated the Standards?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, both by failing to disclose the arrangement to existing clients"
+      },
+      {
+        "answer": "Yes, only by failing to disclose the arrangement to existing clients and to prospective clients"
+      }
+    ]
+  },
+  {
+    "id": "ETH-56",
+    "question": "Thomas Huang, CFA, is an investment advisor for Newline Partners (NP). NP has an agreement with brokerage firm Ridge Capital (RC). Huang refers clients to RC in exchange for compensation. RC pays a cash fee to NP for referrals. Before entering into formal agreements for services. Huang makes the following disclosure to NP's clients: \"Please note that Newline Partners receives an annual cash percentage fee from Ridge Capital for the referral of clients.\" Huang omits disclosure of the estimated dollar value of the referrals. Has Huang violated the Standards?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, by accepting a cash fee for referral of clients"
+      },
+      {
+        "answer": "Yes, by not disclosing the estimated dollar value of the fee"
+      }
+    ]
+  },
+  {
+    "id": "ETH-57",
+    "question": "Which of the following is a recommended procedure for compliance with the Standard relating to preservation of confidentiality?\nProcedure 1: Members should convey to clients that not all firm-sponsored communication methods may be suitable for transmitting confidential information.\nProcedure 2: Members should encourage their firms to provide periodic training on confidentiality procedures to all clients.\nProcedure 3: Members should become experts in information technology security in order to protect client confidentiality.",
+    "solutions": [
+      {
+        "answer": "Procedure 1"
+      },
+      {
+        "answer": "Procedure 2"
+      },
+      {
+        "answer": "Procedure 3"
+      }
+    ]
+  },
+  {
+    "id": "ETH-58",
+    "question": "Marianne Lynn is registered for the CFA Level I exam. A few weeks after registration, she realizes that she is unable to prepare for the exam due to work commitments, so she informs CFA Institute that she declines to sit for the exam. Afterwards, shortly before the exam date, she posts on social media that she is a CFA candidate. Separately, Thomas Petrov, CFA, posts his investment views anonymously on social media and tags his post using \"#CFAcharter.\" Who has violated the Standards?",
+    "solutions": [
+      {
+        "answer": "Lynn only"
+      },
+      {
+        "answer": "Petrov only"
+      },
+      {
+        "answer": "Both Lynn and Petrov"
+      }
+    ]
+  },
+  {
+    "id": "ETH-59",
+    "question": "Melinda Jacobs, CFA, is a portfolio manager with SFM Asset Managers (SFM). Jacobs teaches an investment course at a business school on weekends for a fee. Jacobs is planning to leave SFM and has begun to develop marketing materials for a new business that will compete with SFM. Has Jacobs most likely violated the Standards?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, by accepting a fee from the business school"
+      },
+      {
+        "answer": "Yes, by developing marketing materials for her new business that will compete with SFM"
+      }
+    ]
+  },
+  {
+    "id": "ETH-60",
+    "question": "Which of the following individuals can refer to themselves as a candidate in the CFA Program?\nIndividual 1: Has passed Level II and expects to register for Level III in a couple of months\nIndividual 2: Has failed Level I and expects to retake the exam in its next administration\nIndividual 3: Is awaiting results of the Level III exam",
+    "solutions": [
+      {
+        "answer": "Individual 1"
+      },
+      {
+        "answer": "Individual 2"
+      },
+      {
+        "answer": "Individual 3"
+      }
+    ]
+  },
+  {
+    "id": "ETH-61",
+    "question": "Kelvin Lee, CFA, is a portfolio manager at an investment firm. His social media profile reads: \"Kelvin Lee passed all three CFA examinations in three consecutive years. As a CFA charterholder, Lee achieves better investment performance results.\" Has Lee violated the Standards?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, by stating that he passed all three CFA Program examinations in three consecutive years"
+      },
+      {
+        "answer": "Yes, by stating that he achieves better investment performance results as a CFA charterholder"
+      }
+    ]
+  },
+  {
+    "id": "ETH-62",
+    "question": "According to the Standards, which of the following statements relating to a member in a supervisory position is accurate?\nStatement 1: The member must make reasonable efforts to ensure that anyone subject to her supervision complies with the Code and Standards.\nStatement 2: The member must adopt the CFA Institute Code of Ethics to substitute for lack of compliance procedures until the firm adopts reasonable procedures to allow adequate exercise of supervisory responsibility.",
+    "solutions": [
+      {
+        "answer": "Statement 1 only"
+      },
+      {
+        "answer": "Statement 2 only"
+      },
+      {
+        "answer": "Both Statement 1 and Statement 2"
+      }
+    ]
+  },
+  {
+    "id": "ETH-63",
+    "question": "Emma Berkstein, CFA, uses third-party data to prepare a report on a company. Berkstein does not check the validity of this data herself, but instead relies on her senior colleagues to conduct due diligence. Another analyst at the same firm, Jimmy Brooks, CFA, prepares an industry report with a group of colleagues. After thorough research, the group agrees to issue a report with a positive outlook for the industry. Brooks disagrees with this conclusion, but leaves his name in the report. Has the Standard relating to diligence and reasonable basis most likely been violated?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, by Brooks"
+      },
+      {
+        "answer": "Yes, by Berkstein"
+      }
+    ]
+  },
+  {
+    "id": "ETH-64",
+    "question": "Tania Watt, CFA, issues \"buy\" recommendations for several bonds to her clients without providing further details. She notifies the clients that additional information is available upon request. One week later, the prices of all recommended bonds decline because of an unexpected increase in interest rates. Watt's clients suffer large losses as a result, Has Watt most likely violated the Standards?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, by issuing recommendations which result in large losses for her clients"
+      },
+      {
+        "answer": "Yes, by issuing \"buy\" recommendations for several bonds to her clients without providing further details"
+      }
+    ]
+  },
+  {
+    "id": "ETH-65",
+    "question": "According to the GIPS standards, a firm:",
+    "solutions": [
+      {
+        "answer": "must include non-discretionary portfolios in the firm's composites"
+      },
+      {
+        "answer": "may refer to its performance calculation methodology as being \"in accordance with the GIPS standards.\""
+      },
+      {
+        "answer": "may determine a portfolio is non-discretionary if client imposed restrictions interfere with the implementation of the intended strategy"
+      }
+    ]
+  },
+  {
+    "id": "ETH-66",
+    "question": "Which of the following is not a key concept of the GIPS standards? The GIPS standards for firms:",
+    "solutions": [
+      {
+        "answer": "require the use of composites"
+      },
+      {
+        "answer": "rely on the integrity of input data"
+      },
+      {
+        "answer": "address every aspect of performance measurement"
+      }
+    ]
+  },
+  {
+    "id": "ETH-67",
+    "question": "Jayson Kite, CFA, a senior analyst, is preparing a research report on a shipping company. Kite concludes that the stock of a company is a good investment and decides to put a \"buy\" recommendation on the stock. According to the recommended procedures for compliance, Kite should communicate the recommendation:",
+    "solutions": [
+      {
+        "answer": "within the firm first and then to customers"
+      },
+      {
+        "answer": "to customers first and then within the firm"
+      },
+      {
+        "answer": "simultaneously within the firm and to customers"
+      }
+    ]
+  },
+  {
+    "id": "ETH-68",
+    "question": "Hugh Matthew, CFA, covers several companies within a sector. After thorough analysis of each company, he issues \"buy\" recommendations for each company. In each report, Matthew discloses the assumptions, methodology and risk factors used in his research. Two weeks later, an unexpected event occurs that negatively impacts the sector. As a result, all the\ncompanies Matthew covers experience significant losses. Has Matthew most likely violated the Standards?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, the Standard relating to diligence and reasonable basis"
+      },
+      {
+        "answer": "Yes, the Standard relating to communication with clients and prospective clients"
+      }
+    ]
+  },
+  {
+    "id": "ETH-69",
+    "question": "According to the recommended procedures for compliance with the Standard relating to diligence and reasonable basis, members should encourage their firms to:",
+    "solutions": [
+      {
+        "answer": "evaluate the adequacy of external advisors by customizing the evaluation criteria for each advisor"
+      },
+      {
+        "answer": "establish maximum levels of scenario testing of all computer-based models used in evaluating financial instruments"
+      },
+      {
+        "answer": "appoint a supervisory analyst to determine whether research reports have a reasonable and adequate basis prior to external circulation"
+      }
+    ]
+  },
+  {
+    "id": "ETH-70",
+    "question": "A member works for an investment firm. There are no applicable laws relating to record retention. The firm's policy requires staff to retain records for five years. A local investment association recommends retaining records for eight years. At a recent client briefing, some of the firm's largest clients expressed a preference for the firm to retain records for at least ten years. To be consistent with the Standards, records should be retained for:",
+    "solutions": [
+      {
+        "answer": "5 years"
+      },
+      {
+        "answer": "8 years"
+      },
+      {
+        "answer": "10 years"
+      }
+    ]
+  },
+  {
+    "id": "ETH-71",
+    "question": "According to the recommended procedures for compliance with the Standard relating to priority of transactions, members should:",
+    "solutions": [
+      {
+        "answer": "discourage clients from trading during blackout periods"
+      },
+      {
+        "answer": "supply copies of their personal securities transactions to clients upon request"
+      },
+      {
+        "answer": "preclear their participation in IPOS even if there is no conflict of interest between their participation in an IPO and the client's interests"
+      }
+    ]
+  },
+  {
+    "id": "ETH-72",
+    "question": "A member keeps all records supporting his decisions to buy or sell securities, but discards the records not leading to changes in positions. The member keeps some records in hard copy but others in electronic form. The member has most likely violated the Standard relating to record retention:",
+    "solutions": [
+      {
+        "answer": "only by discarding the records not leading to changes in positions"
+      },
+      {
+        "answer": "only by keeping some records in hard copy but others in electronic form"
+      },
+      {
+        "answer": "both by discarding the records not leading to changes in positions and by keeping some records in hard copy but others in electronic form"
+      }
+    ]
+  },
+  {
+    "id": "ETH-73",
+    "question": "Mary Lorraine, CFA, is a portfolio manager. She adds new factors to her stock selection process which affects all existing clients. She omits providing her clients with a written update regarding this change. Instead, Lorraine explains the change to her clients over the phone. Has Lorraine violated the Standards?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, because she adds new factors to her stock selection process which affects all existing clients"
+      },
+      {
+        "answer": "Yes, because she fails to provide her clients with a written update about adding new factors to her stock selection process"
+      }
+    ]
+  },
+  {
+    "id": "ETH-74",
+    "question": "A member claims a professional designation she has not earned. This action most likely violates the Standard(s) relating to:",
+    "solutions": [
+      {
+        "answer": "loyalty only"
+      },
+      {
+        "answer": "misconduct only"
+      },
+      {
+        "answer": "both loyalty and misconduct"
+      }
+    ]
+  },
+  {
+    "id": "ETH-75",
+    "question": "Sharon Chan, CFA, is an analyst at an investment firm. Chan issues a \"buy\" rating on a company in which her brother holds shares. Chan does not disclose her brother's holdings in her report as she has no beneficial ownership in her brother's account. Has Chan violated the Standards?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, the Standard relating to disclosure of conflicts"
+      },
+      {
+        "answer": "Yes, the Standard relating to communication with clients and prospective clients"
+      }
+    ]
+  },
+  {
+    "id": "ETH-76",
+    "question": "Jane Macmara, CFA, has just passed Level III of the CFA exam. In her blog, Macmara shares her views: \"CFA exams are outrageously difficult,\" and \"Thankfully, the CAPM was not tested.\" Macmara has most likely violated the\nStandards:",
+    "solutions": [
+      {
+        "answer": "only by writing \"Thankfully, the CAPM was not tested.\""
+      },
+      {
+        "answer": "only by writing \"CFA exams are outrageously difficult.\""
+      },
+      {
+        "answer": "by writing both \"Thankfully, the CAPM was not tested\" and \"CFA exams are outrageously difficult.\""
+      }
+    ]
+  },
+  {
+    "id": "ETH-77",
+    "question": "Donovan Jones, CFA, works at Grae Investments (GI). Gl's main product invests in liquid and illiquid assets. Prices for its illiquid holdings are determined by an independent valuation firm. Jones markets performance of the GI product without providing a comparison benchmark. Jones also switches to a different independent valuation firm because of the firm's reputation for giving illiquid assets higher valuations. Jones has most likely violated the Standard relating to misrepresentation:",
+    "solutions": [
+      {
+        "answer": "only by switching valuation firms"
+      },
+      {
+        "answer": "only by marketing performance without abenchmark"
+      },
+      {
+        "answer": "both by switching valuation firms and by marketing performance without a benchmark"
+      }
+    ]
+  },
+  {
+    "id": "ETH-78",
+    "question": "Which of the following can claim compliance with the GIPS standards?",
+    "solutions": [
+      {
+        "answer": "Consultants who advise investment firms that manage discretionary client assets"
+      },
+      {
+        "answer": "Asset owners that do not compete for business but report their performance to oversight bodies"
+      },
+      {
+        "answer": "Vendors that provide software to assist investment firms in claiming compliance with the GIPS standards"
+      }
+    ]
+  },
+  {
+    "id": "ETH-79",
+    "question": "Which of the following statements is most accurate? In countries where regulations conflict with, or contradict, the GIPS standards, firms that claim compliance are required to comply with:",
+    "solutions": [
+      {
+        "answer": "local regulations with full disclosure of the conflict"
+      },
+      {
+        "answer": "the stricter of local regulations or the GIPS standards"
+      },
+      {
+        "answer": "local regulations with optional disclosure of the conflict"
+      }
+    ]
+  },
+  {
+    "id": "ETH-80",
+    "question": "According to the GIPS standards, a firm must include a terminated composite on the firm's list of composite descriptions for at least:",
+    "solutions": [
+      {
+        "answer": "5 years after the composite termination date"
+      },
+      {
+        "answer": "7 years after the composite termination date"
+      },
+      {
+        "answer": "10 years after the composite termination date"
+      }
+    ]
+  },
+  {
+    "id": "ETH-81",
+    "question": "According to the GIPS standards, verification is:",
+    "solutions": [
+      {
+        "answer": "performed with respect to an entire firm"
+      },
+      {
+        "answer": "performed by a firm's compliance department"
+      },
+      {
+        "answer": "mandatory for firms that claim compliance with the GIPS standards"
+      }
+    ]
+  },
+  {
+    "id": "ETH-82",
+    "question": "Which of the following is a recommended procedure for complying with the Standard relating to preservation of confidentiality?\nProcedure 1: Disclose to authorized fellow employees only information that will improve service to the client\nProcedure 2: Encourage the adoption of standard confidentiality procedures utilized by leading firms in the industry",
+    "solutions": [
+      {
+        "answer": "Procedure 1 only"
+      },
+      {
+        "answer": "Procedure 2 only"
+      },
+      {
+        "answer": "Both Procedure 1 and Procedure 2"
+      }
+    ]
+  },
+  {
+    "id": "ETH-83",
+    "question": "According to recommended procedures for compliance with the Standard relating to material nonpublic information,\nfirms should:",
+    "solutions": [
+      {
+        "answer": "review employee trading through the maintenance of watch lists"
+      },
+      {
+        "answer": "prohibit all types of proprietary activity when a firm comes into possession of material nonpublic information"
+      },
+      {
+        "answer": "permit regular interdepartmental communication of nonpublic information between the corporate finance and equity research departments of a firm"
+      }
+    ]
+  },
+  {
+    "id": "ETH-84",
+    "question": "Q . Tim Howley, CFA, \"pumps up\" the price of a security by spreading misleading information and later \"dumps\" the security after the price reaches an artificially high level. Howley has most likely violated the Standard relating to:",
+    "solutions": [
+      {
+        "answer": "market manipulation"
+      },
+      {
+        "answer": "independence and objectivity"
+      },
+      {
+        "answer": "material nonpublic information"
+      }
+    ]
+  },
+  {
+    "id": "ETH-85",
+    "question": "Which of the following entities can claim compliance with the GIPS standards?",
+    "solutions": [
+      {
+        "answer": "A pension fund that manages investments for its beneficiaries"
+      },
+      {
+        "answer": "An investment consulting firm that focuses on enabling clients to self-manage their investments"
+      },
+      {
+        "answer": "A vendor that offers software products designed to help firms achieve compliance with the GIPS standards"
+      }
+    ]
+  },
+  {
+    "id": "ETH-86",
+    "question": "Timothy Charles, CFA, applies for a role as an investment analyst. In his resume he states, \"CFA charterholders achieve better performance results.\" He adds, \"As a CFA charterholder, I am the most qualified to manage client investments.\" Charles has most likely violated the Standards:",
+    "solutions": [
+      {
+        "answer": "only by stating, \"CFA charterholders achieve better performance results.\""
+      },
+      {
+        "answer": "only by stating, \"As a CFA charterholder, I am the most qualified to manage client investments.\""
+      },
+      {
+        "answer": "both by stating, \"CFA charterholders achieve better performance results\" and by stating, \"As a CFA charterholder, I am the most qualified to manage client investments.\""
+      }
+    ]
+  },
+  {
+    "id": "ETH-87",
+    "question": "David Bravoria, CFA, is an independent financial advisor for a high-net-worth client with whom he had not had contact in more than two years. During a recent brief telephone\nconversation, the client states that he wants to increase his risk exposure. Bravoria subsequently recommends and invests in several high-risk venture capital funds on behalf of the client. Bravoría continues, as he has done in the past, to send to his client monthly, detailed, itemized investment statements. Did Bravoria most likely violate any CFA Standards?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, with regard to investment statements"
+      },
+      {
+        "answer": "Yes, with regard to purchasing venture capital funds"
+      }
+    ]
+  },
+  {
+    "id": "ETH-88",
+    "question": "Which of the following is most accurate? GIPS compliance:",
+    "solutions": [
+      {
+        "answer": "eliminates investors' need for in-depth due diligence of the GIPS-compliant firm only"
+      },
+      {
+        "answer": "enables the GIPS-compliant firm to participate in competitive bids against other GIPS- compliant firms only"
+      },
+      {
+        "answer": "both eliminates investors' need for in-depth due diligence of the GIPS-compliant firm and enables the GIPS- compliant firm to participate in competitive bids against other GIPS- compliant firms"
+      }
+    ]
+  },
+  {
+    "id": "ETH-89",
+    "question": "Which of the following statements is most accurate? Compliance with the GIPS standards:",
+    "solutions": [
+      {
+        "answer": "by firms eliminates the need for in-depth due diligence by investors"
+      },
+      {
+        "answer": "enables firms to participate in competitive bids against other GIPS-compliant firms"
+      },
+      {
+        "answer": "is mandatory for firms conducting business in countries that do not have regulations relating to investment performance presentation"
+      }
+    ]
+  },
+  {
+    "id": "ETH-90",
+    "question": "A firm claiming compliance with GIPS standards is required to:",
+    "solutions": [
+      {
+        "answer": "perform verification of the firm's claim of compliance"
+      },
+      {
+        "answer": "maintain its compliance even after the firm has been verified by an independent third party"
+      },
+      {
+        "answer": "determine selection criteria regarding which existing portfolios to include in a composite at the end of the reporting period"
+      }
+    ]
+  },
+  {
+    "id": "ETH-91",
+    "question": "Anita Delgado is a candidate in the CFA Program. After taking the Level II examination, Delgado posts on a social networking website that she found the exam to be very difficult and that in her opinion, the CFA Program and CFA Institute were losing credibility with the public. Has Delgado most likely violated the Standards?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, by posting information about the exam on a public website"
+      },
+      {
+        "answer": "Yes, by compromising the reputation or integrity of CFA Institute"
+      }
+    ]
+  },
+  {
+    "id": "ETH-92",
+    "question": "A member manages two fee-paying family accounts at her firm. The member has the power to vote on the shares held in Account 1 and the discretion to sell shares held in Account 2. According to the Standards, is the member considered a beneficial owner of the shares held in her family accounts?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, for Account 1 only"
+      },
+      {
+        "answer": "Yes, for both Account 1 and Account 2"
+      }
+    ]
+  },
+  {
+    "id": "ETH-93",
+    "question": "Which of the following comments concerning composites meeting the requirements of the GIPS standards is correct?\ncomposite.",
+    "solutions": [
+      {
+        "answer": "A firm's claim of compliance requires all fee-paying accounts managed by the firm be included in at least one"
+      },
+      {
+        "answer": "The requirement to create, use and maintain composites is designed to prevent firms using the best-performing accounts to represent an investment strategy"
+      },
+      {
+        "answer": "A composite must include all actual, fee-paying, discretionary and non-discretionary portfolios managed in accordance with the same investment mandate, objective, or strategy"
+      }
+    ]
+  },
+  {
+    "id": "ETH-94",
+    "question": "A member most likely violates the Standard relating to market manipulation if he:",
+    "solutions": [
+      {
+        "answer": "secures a dominant position in a stock to win a proxy vote"
+      },
+      {
+        "answer": "exploits market inefficiencies in a thinly traded penny stock"
+      },
+      {
+        "answer": "places both buy and sell orders of a stock at the same price to increase trading volume"
+      }
+    ]
+  },
+  {
+    "id": "ETH-95",
+    "question": "The objectives of the GIPS standards include:",
+    "solutions": [
+      {
+        "answer": "promoting financial regulators' interests"
+      },
+      {
+        "answer": "promoting industry self-regulation on a global basis"
+      },
+      {
+        "answer": "obtaining acceptance of multiple local standards for accurate performance presentation"
+      }
+    ]
+  },
+  {
+    "id": "ETH-96",
+    "question": "Which of the following is a recommended procedure for compliance with the Standard relating to knowledge of the law? Members should encourage their firms to:",
+    "solutions": [
+      {
+        "answer": "distribute summaries of applicable security laws to clients at least annually"
+      },
+      {
+        "answer": "provide written protocols for reporting suspected legal or regulatory violations"
+      },
+      {
+        "answer": "seek the advice of a regulatory agency when in doubt about which action to take regarding potential violations"
+      }
+    ]
+  },
+  {
+    "id": "ETH-97",
+    "question": "Stella Murphy, CFA, a portfolio manager, meets with a client who is concerned about a security recently added to the portfolio. Murphy reviews with the client the decision for buying the security and the risks associated with the company and stock. The following week, the company announces it is buying a company in a non-related industry and the stock falls sharply. The client accuses Murphy of not disclosing all the risks associated with holding the security. Murphy explains the company's acquisition was unexpected and not factored into the forecast. Has Murphy most likely violated the Standards?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, the Standard relating to communication with clients"
+      },
+      {
+        "answer": "Yes, the Standard relating to diligence and reasonable basis"
+      }
+    ]
+  },
+  {
+    "id": "ETH-98",
+    "question": "Which of the following member actions most likely violates the Standard relating to market manipulation?",
+    "solutions": [
+      {
+        "answer": "Selling one security and buying another to minimize tax liability"
+      },
+      {
+        "answer": "Writing misleading posts on social media about the development of a new product"
+      },
+      {
+        "answer": "Dividing a large block order into a series of smaller orders to achieve better execution"
+      }
+    ]
+  },
+  {
+    "id": "ETH-99",
+    "question": "Elana Paralova, a Level I CFA candidate working at an asset management firm, wants to make a good impression on a prospective client. She tells the prospect: \"Getting the CFA Charter will show I am serious about protecting the interests of my clients and it will boost my reputation. Once I get the Charter, I also hope to make more money by getting promoted!\" Her colleague, Jacob Klemmer, CFA, tells Paralova: \"Study all subjects for each exam, you never know what will be included. The three exams will be the most difficult exams you will ever take. Any promotion and pay raise will reflect your enhanced skills.\" Did either Paralova or Klemmer violate the Standards?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Only Paralova violates the Standards"
+      },
+      {
+        "answer": "Only Klemmer violates the Standards"
+      }
+    ]
+  },
+  {
+    "id": "ETH-100",
+    "question": "Amanda Covington, CFA, works for McJan Investment Management. McJan employees must receive prior clearance of their personal investments in accordance with McJan's compliance procedures. To obtain prior clearance, McJan employees must provide a written request identifying the security, the quantity of the security to be purchased, and the name of the broker through which the transaction will be made. Pre-cleared transactions are approved only for that trading day. As indicated below, Covington received prior clearance,\nTwo days after she received prior clearance, the price of Stock B had decreased, so Covington decided to purchase 250 shares of Stock B only. In her decision to purchase 250 shares of Stock B only, did Covington violate any CFA Institute Standards of Professional Conduct?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, relating to diligence and reasonable basis"
+      },
+      {
+        "answer": "Yes, relating to her employer's compliance procedures"
+      }
+    ]
+  },
+  {
+    "id": "ETH-101",
+    "question": "Cecilia Foster, CFA, starts a job as director of research for Sisyphus Investments (SI). In her new job, Foster oversees a small team analysts. Foster discovers the compliance system at SI is not up to her expectations and tells her supervisor the system needs improvement. The supervisor tells Foster that the firm will consider compliance system improvements in\nfour months, at the start of the next fiscal year. To comply with the Standards, Foster most likely should initially:",
+    "solutions": [
+      {
+        "answer": "resign her new position"
+      },
+      {
+        "answer": "decline in writing to accept supervisory"
+      },
+      {
+        "answer": "establish departmental procedures responsibility. to ensure fellow Charterholders comply with applicable regulations"
+      }
+    ]
+  },
+  {
+    "id": "ETH-102",
+    "question": "Wang Dazong, CFA, is a sole proprietor investment advisor. Dazong believes in putting his money at risk along with his clients and trades the same securities as his clients. In order to ensure fair treatment of all accounts, he rotates trade allocations so that each account has an equal likelihood of receiving a fill on their orders. This allocation procedure also applies to Dazong's own account. According to the CFA CFA Institute Code of Ethics and Standards of Professional Conduct, the allocation procedure used by Dazong:",
+    "solutions": [
+      {
+        "answer": "complies with the Standards"
+      },
+      {
+        "answer": "requires revision to ensure client trades take precedence"
+      },
+      {
+        "answer": "should be disclosed and written approval received from clients"
+      }
+    ]
+  },
+  {
+    "id": "ETH-103",
+    "question": "Ken Kawasaki, CFA, shares a building with a number of other professionals who are also involved in the investment management business. Kawasaki makes arrangements with several of these professionals, including accountants and lawyers, to refer clients to each other. An informal score is kept on the expectation the referrals will equal out over time, eliminating the need for any cash payments. Kawasaki never mentions this arrangement to clients or prospective clients. Does Kawasaki's agreement with the other building occupants most likely violate any CFA Institute Standards of Professional Conduct?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, related to referral fees"
+      },
+      {
+        "answer": "Yes, related to communication with clients"
+      }
+    ]
+  },
+  {
+    "id": "ETH-104",
+    "question": "François Bernod, CFA, wrote questions for the Level I CFA exam for several years. After leaving the exam writing team, Bernod issues new marketing material for his investment\nfirm, in which he states: \"As someone who helped write CFA exams, I have learned unique insights into portfolio management that will be valuable for my firm's clients.\" However, in his public blog, Bernod makes several negative statements about certain policies of CFA Institute. Bernod has most likely violated the Standards:",
+    "solutions": [
+      {
+        "answer": "only by expressing negative opinions regarding CFA Institute policies"
+      },
+      {
+        "answer": "only by using an association with CFA Institute to further professional goals"
+      },
+      {
+        "answer": "both by expressing negative opinions regarding CFA Institute policies and by using an association with CFA Institute to further professional goals"
+      }
+    ]
+  },
+  {
+    "id": "ETH-105",
+    "question": "Disclosure of confidential CFA exam information will most likely be detected by the Professional Conduct staff through:",
+    "solutions": [
+      {
+        "answer": "monitoring online and social media"
+      },
+      {
+        "answer": "analysis of Proctor Reports"
+      },
+      {
+        "answer": "annual Professional Conduct Statements"
+      }
+    ]
+  },
+  {
+    "id": "ETH-106",
+    "question": "According to the Standard relating to independence and objectivity.",
+    "solutions": [
+      {
+        "answer": "a gift from a client could be considered supplementary compensation"
+      },
+      {
+        "answer": "compensation arrangements should link analyst remuneration to investment banking assignments"
+      },
+      {
+        "answer": "portfolio managers may report sell-side analysts to covered companies if analysts' changes in recommendation adversely affect client portfolios"
+      }
+    ]
+  },
+  {
+    "id": "ETH-107",
+    "question": "Shirin Regali, CFA, is a well-respected, sell-side analyst covering the biotech sector. While researching the market prospects for a drug being trialed by BioHeal Inc., Regali interviews industry experts who are not affiliated with the trials or BioHeal. These experts express confidence that the drug will pass the trials and be a market success. After thorough analysis and based on these experts' insights, Regali issues a \"buy\" recommendation for BioHeal and distributes it to her clients and not to the public. Has Regali most likely violated the Standard relating to material nonpublic information?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, by distributing the recommendation to her clients and not to the public"
+      },
+      {
+        "answer": "Yes, by issuing a \"buy\" recommendation for BioHeal based on insights from industry experts"
+      }
+    ]
+  },
+  {
+    "id": "ETH-108",
+    "question": "Which of the following member actions most likely violates the Standard relating to material nonpublic information?\nAction 1: An analyst buys call options on a stock after learning from the company's CEO that the company will report earnings exceeding analyst expectations\nAction An analyst buys an oil company stock after speaking to a well-known industry expert who believes oil prices will rise due to geopolitical risk.",
+    "solutions": [
+      {
+        "answer": "Action 1 only"
+      },
+      {
+        "answer": "Action 2 only"
+      },
+      {
+        "answer": "both Action 1 and Action 2"
+      }
+    ]
+  },
+  {
+    "id": "ETH-109",
+    "question": "David Andrews, CFA, is an investment manager with Aldona Investments. Aldona secures a block of stock in an oversubscribed initial public offering. Andrews decides to prorate the issue to all fee-paying accounts for which it is appropriate, including the fee- paying accounts of his immediate family members. Has Andrews violated the Standard relating to fair dealing?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, by prorating the issue to all subscribers"
+      },
+      {
+        "answer": "Yes, by including immediate family members in the transaction"
+      }
+    ]
+  },
+  {
+    "id": "ETH-110",
+    "question": "John Lee, CFA, manages portfolios for several individuals, including his brother. All of Lee's clients are standard fee-paying clients. Lee subscribes to an IPO for only those clients for whom the IPO is suitable, which includes his brother. Lee does not receive the number of shares requested by his clients and allocates shares of the IPO pro-rata to those clients, including his brother. Are Lee's actions most likely consistent with the Standards?",
+    "solutions": [
+      {
+        "answer": "Yes"
+      },
+      {
+        "answer": "No, because he allocates the IPO shares to his brother"
+      },
+      {
+        "answer": "No, because he fails to allocate the IPO shares to all of his clients"
+      }
+    ]
+  },
+  {
+    "id": "ETH-111",
+    "question": "Which of the following most likely violates\nthe Standard relating to preservation of confidentiality?",
+    "solutions": [
+      {
+        "answer": "Recommending a former client as a potentialdonor for a local charity"
+      },
+      {
+        "answer": "Disclosing details of client activity to the CFA Institute Professional Conduct Program"
+      },
+      {
+        "answer": "Providing confidential information about a prospective client when permitted by the prospective client"
+      }
+    ]
+  },
+  {
+    "id": "ETH-112",
+    "question": "Linda Barr, CFA, a portfolio manager, receives an unsolicited stock order from a client. She discusses the order with her firm's analysts to determine how it will impact that client's portfolio. The analysts determine the stock to be highly undervalued and suitable for many of Barr's clients. Barr calls clients for whom the stock is suitable to recommend the stock. She then executes a single block trade for the original client as well as other clients for whom the stock is suitable. Barr most likely violated the Standards:",
+    "solutions": [
+      {
+        "answer": "only by executing the single block trade"
+      },
+      {
+        "answer": "only by discussing unsolicited client orders with her analysts"
+      },
+      {
+        "answer": "both by executing the single block trade and by discussing unsolicited client orders with her analysts"
+      }
+    ]
+  },
+  {
+    "id": "ETH-113",
+    "question": "A member works for a large investment firm. CFA Institute contacts the member to request support for a professional conduct investigation. In his response, the member discloses the requested information regarding client activities. Applicable law requires to maintain client confidentiality. Has the member most likely violated the Standards?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, the Standard relating to fair dealing"
+      },
+      {
+        "answer": "Yes, the Standard relating to knowledge of the law"
+      }
+    ]
+  },
+  {
+    "id": "ETH-114",
+    "question": "Iris Hadid, CFA, works as an investment banking analyst. She builds a financial model to value Ski Mountain Lodge (SML). Hadid's friend, Peter Jackson, CFA, works for a different advisory firm. Hadid shares with Jackson details about her analysis to receive his feedback on her valuation of SML. Based on this information, Jackson buys call options on SML. Who has violated the Standards?",
+    "solutions": [
+      {
+        "answer": "Hadid only"
+      },
+      {
+        "answer": "Jackson only"
+      },
+      {
+        "answer": "Both Hadid and Jackson"
+      }
+    ]
+  },
+  {
+    "id": "ETH-115",
+    "question": "Which statement regarding market manipulation is consistent with the Standards? Members must refrain from:",
+    "solutions": [
+      {
+        "answer": "inducing trading by disseminating verifiable information"
+      },
+      {
+        "answer": "engaging inpractices which exploit perceived market inefficiencies"
+      },
+      {
+        "answer": "securing a dominant position in a financial instrument to exploit the price of the underlying asset"
+      }
+    ]
+  },
+  {
+    "id": "ETH-116",
+    "question": "To comply with the Standards, if applicable law requires members to maintain confidentiality of client information, confidentiality must be maintained unless:",
+    "solutions": [
+      {
+        "answer": "the client has died"
+      },
+      {
+        "answer": "the client's information involves illegal activities"
+      },
+      {
+        "answer": "the client permits the disclosure of the information"
+      }
+    ]
+  },
+  {
+    "id": "ETH-117",
+    "question": "Grace Lee, CFA, is an investment advisor. The investment policy statement of one of her clients specifies an equal- weighted portfolio of consumer durables, clean energy, and technology stocks. Over time, the portfolio has become significantly over-weighted toward technology stocks due to their superior performance. Lee expects technology stocks to outperform for another year and decides not to rebalance the portfolio. Has Lee violated the Standards?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, only the Standard relating to suitability"
+      },
+      {
+        "answer": "Yes, both the Standard relating to suitability and the Standard relating to loyalty, prudence, and care"
+      }
+    ]
+  },
+  {
+    "id": "ETH-118",
+    "question": "According to the Standards, members are required to obtain permission from their employer before accepting additional compensation from:",
+    "solutions": [
+      {
+        "answer": "clients only"
+      },
+      {
+        "answer": "third parties only"
+      },
+      {
+        "answer": "both clients and third parties"
+      }
+    ]
+  },
+  {
+    "id": "ETH-119",
+    "question": "Frank Taylor, CFA, manages a portfolio for a football club. The club's chairman is pleased with Taylor's work and offers him a front-row ticket to an upcoming, sold-out match. Taylor accepts the ticket without informing his employer. The chairman also provides Taylor with a performance-based cash incentive for which he receives permission from his employer to accept. Has Taylor most likely violated the Standards?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, the Standard relating to loyalty, prudence, and care"
+      },
+      {
+        "answer": "Yes, the Standard relating to additional compensation arrangements"
+      }
+    ]
+  },
+  {
+    "id": "ETH-120",
+    "question": "Applying standardized criteria for the selection of external managers is a requirement of the Standard relating to:",
+    "solutions": [
+      {
+        "answer": "suitability"
+      },
+      {
+        "answer": "independence and objectivity"
+      },
+      {
+        "answer": "diligence and reasonable basis"
+      }
+    ]
+  },
+  {
+    "id": "ETH-121",
+    "question": "The Standard relating to disclosure of conflicts requires a member to",
+    "solutions": [
+      {
+        "answer": "avoid all actual and potential conflicts of interest"
+      },
+      {
+        "answer": "treat all clients equally when disseminating investment recommendations or taking investment action"
+      },
+      {
+        "answer": "provide clients and prospective clients with information needed to evaluate the objectivity of investment advice given by the member"
+      }
+    ]
+  },
+  {
+    "id": "ETH-122",
+    "question": "A member uses his firm's composite to show performance to a prospective client. The member states \"Our composite shows that we have outperformed the benchmark over the last five years, gross of fees.\" Has the member most likely violated the Standards?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, the Standard relating to misrepresentation"
+      },
+      {
+        "answer": "Yes, the Standard relating to performance presentation"
+      }
+    ]
+  },
+  {
+    "id": "ETH-123",
+    "question": "Belen Zapata, CFA, is the owner of Kawah Investments. Kawah promises investors returns of up to 12% per year and claims to achieve this by investing in non-investment-grade bonds and other fixed-income instruments. Over the next 12 months, bond market yields reach unprecedented lows, and Zapata finds it impossible to achieve the returns she expected. No investments are ever made by Kawah, and clients are completely paid back all of their original investment. Zapata most likely violated the CFA Institute Standards of Professional Conduct because of the:",
+    "solutions": [
+      {
+        "answer": "return of capital"
+      },
+      {
+        "answer": "promised returns"
+      },
+      {
+        "answer": "investment mandate"
+      }
+    ]
+  },
+  {
+    "id": "ETH-124",
+    "question": "The GIPS standards:",
+    "solutions": [
+      {
+        "answer": "allow the use of a representative account to present the firm's overall investment results"
+      },
+      {
+        "answer": "require firms to present performance history that only includes accounts remaining at the firm"
+      },
+      {
+        "answer": "establish a standardized approach to presenting historical investment results to prospective clients"
+      }
+    ]
+  },
+  {
+    "id": "ETH-125",
+    "question": "The GIPS standards were created to:",
+    "solutions": [
+      {
+        "answer": "promote fair, global competition among investment firms"
+      },
+      {
+        "answer": "eliminate the need for costly in-depth due diligence by investors"
+      },
+      {
+        "answer": "serve as a mandatory performance standard for asset management firms in countries without investment performance regulation"
+      }
+    ]
+  },
+  {
+    "id": "ETH-126",
+    "question": "Jan Loots, CFA, quit his job as a portfolio manager at an investment firm with which he had a non-solicitation agreement he signed several years ago. Loots received permission to take his investment performance history with him and also took a copy of the firm's software-trading platform. Subsequently, Loots sent out messages on social media sites announcing he was looking for clients for his new investment management firm. Access to Loots' social media sites is restricted to friends, family, and former clients. Loots least likely violated the CFA Institute Standards of Professional Conduct concerning his:",
+    "solutions": [
+      {
+        "answer": "trading software"
+      },
+      {
+        "answer": "non-solicitation agreement"
+      },
+      {
+        "answer": "investment performance history"
+      }
+    ]
+  },
+  {
+    "id": "ETH-127",
+    "question": "Which of the following is a recommended procedure for compliance with the Standard relating to help prevent misrepresentation by: misrepresentation? Firms can",
+    "solutions": [
+      {
+        "answer": "specifically designating which employees are authorized to speak on behalf of the firm"
+      },
+      {
+        "answer": "performing quarterly competence reviews of employees who deliver firm presentations to clients"
+      },
+      {
+        "answer": "ensuring that each employee develops procedures for verifying information of third-party firms provided to clients"
+      }
+    ]
+  },
+  {
+    "id": "ETH-128",
+    "question": "Which of the following is a recommended procedure for compliance with the Standard relating to priority of transactions? Investment personnel should:",
+    "solutions": [
+      {
+        "answer": "examine all personal trades for possible conflicts immediately after execution of the trades"
+      },
+      {
+        "answer": "direct their brokers to supply their firms with duplicate confirmations of all their personal securities transactions"
+      },
+      {
+        "answer": "make a one-time disclosure of holdings in which they have a beneficial interest to their firm upon commencement of the employment relationship"
+      }
+    ]
+  },
+  {
+    "id": "ETH-129",
+    "question": "Which of the following is a recommended procedure for compliance with the Standard relating to suitability?\nProcedure 1: An investor's objectives and constraints should be reviewed annually unless there is a reason that dictates more frequent review.\nProcedure 2: A member in an investment advisory relationship with clients should take into consideration performance measurement benchmarks in formulating an investment policy statement.",
+    "solutions": [
+      {
+        "answer": "Procedure 1 only"
+      },
+      {
+        "answer": "Procedure 2 only"
+      },
+      {
+        "answer": "Both Procedure 1 and Procedure 2"
+      }
+    ]
+  },
+  {
+    "id": "ETH-130",
+    "question": "According to the Standard related to independence and objectivity, a member must is conducted.",
+    "solutions": [
+      {
+        "answer": "refuse all business-related gifts"
+      },
+      {
+        "answer": "adhere to strict standards of conduct that govern how issuer-paid research"
+      },
+      {
+        "answer": "pay for transportation, hotel and meal expenses when attending meetings at an issuer's headquarters"
+      }
+    ]
+  },
+  {
+    "id": "ETH-131",
+    "question": "A member most likely violates the Standard relating to knowledge of the law if she fails to: conduct.",
+    "solutions": [
+      {
+        "answer": "dissociate from unethical"
+      },
+      {
+        "answer": "report illegal activity to the appropriate regulatory organization"
+      },
+      {
+        "answer": "have detailed knowledge of all the laws potentially governing her professional activities"
+      }
+    ]
+  },
+  {
+    "id": "ETH-132",
+    "question": "Recommended procedures for compliance with the Standard relating to responsibilities of supervisors include:",
+    "solutions": [
+      {
+        "answer": "encouraging employers to provide a copy of the firm's code of ethics to clients"
+      },
+      {
+        "answer": "requiring firms to adopt the CFA Code of Ethics and Standards of Professional Conduct"
+      },
+      {
+        "answer": "consolidating a code of ethics and specific policies and procedures to ensure compliance"
+      }
+    ]
+  },
+  {
+    "id": "ETH-133",
+    "question": "According to the GIPS standards, verification must be performed:",
+    "solutions": [
+      {
+        "answer": "with respect to an entire firm"
+      },
+      {
+        "answer": "on specific composites of a firm"
+      },
+      {
+        "answer": "by a firm's compliance department"
+      }
+    ]
+  },
+  {
+    "id": "ETH-134",
+    "question": "A member leaves her employer to start at a new firm. According to the Standards, at her new firm, the member is permitted to recreate supporting records of her work at her previous employer from:",
+    "solutions": [
+      {
+        "answer": "memory"
+      },
+      {
+        "answer": "sources obtained at the previous employer"
+      },
+      {
+        "answer": "information provided directly by the covered company"
+      }
+    ]
+  },
+  {
+    "id": "ETH-135",
+    "question": "According to the GIPS standards, verification:",
+    "solutions": [
+      {
+        "answer": "is performed on a firm-wide basis"
+      },
+      {
+        "answer": "must be performed by a firm's compliance department"
+      },
+      {
+        "answer": "ensures the accuracy of specific composite presentations"
+      }
+    ]
+  },
+  {
+    "id": "ETH-136",
+    "question": "Verification provides assurance that which of the following have been designed in compliance with the GIPS standards? and pooled fund maintenance.",
+    "solutions": [
+      {
+        "answer": "Only the calculation and presentation of the firm's performance"
+      },
+      {
+        "answer": "Only the firm's policies related to composite and pooled fund maintenance"
+      },
+      {
+        "answer": "Both the calculation and presentation of the firm's performance"
+      }
+    ]
+  },
+  {
+    "id": "ETH-137",
+    "question": "Sue Yong, CFA, is an analyst at a large investment firm. After thorough research, she issues a \"buy\" rating on a company and submits her report to her firm's investment committee for review. The committee disagrees with Yong's assumptions in the report. As a result, the report is changed to a \"neutral\" rating. The final report is issued and Yong agrees to leave her name on the report. Has Yong violated the Standards?",
+    "solutions": [
+      {
+        "answer": "No"
+      },
+      {
+        "answer": "Yes, the Standard relating to loyalty, prudence, and care"
+      },
+      {
+        "answer": "Yes, the Standard relating to diligence and reasonable basis"
+      }
+    ]
+  },
+  {
+    "id": "ETH-138",
+    "question": "According to the Standard relating to independence and objectivity, which of the following is accurate?\nStatement A member should encourage her firm to remove a covered company from a restricted list if the firm is unwilling to permit dissemination of an adverse opinion about the company.\nStatement A member is prohibited from accepting benefits from corporate issuers in the form of allocation of shares in oversubscribed IPOS suitable for firm's clients.",
+    "solutions": [
+      {
+        "answer": "Statement 1 only"
+      },
+      {
+        "answer": "Statement 2 only"
+      },
+      {
+        "answer": "Both Statement 1 and Statement 2"
+      }
+    ]
+  },
+  {
+    "id": "ETH-139",
+    "question": "Rita Melmo, CFA, is an analyst at a Greensky Investment (GI). On weekends, she works as a paid employee of a local charity where she negotiates purchase agreements. Melmo does not disclose the charity employment to GI. Melmo is asked to purchase a new truck for the charity and she negotiates a purchase agreement with a local truck dealership. In the purchase agreement, the charity is charged $500 more than the truck's normal sale price. In return, Melmo receives retail vouchers worth $500 from the dealership for her private use. Melmo has most likely violated the Standards:",
+    "solutions": [
+      {
+        "answer": "only by failing to disclose the charity employment to Gl"
+      },
+      {
+        "answer": "only by negotiating a purchase agreement in which the charity is charged more than the truck's normal sale price"
+      },
+      {
+        "answer": "both by failing to disclose the charity employment to Gl and by negotiating a purchase agreement in which the charity is charged more than the truck's normal sale price"
+      }
+    ]
+  },
+  {
+    "id": "ETH-140",
+    "question": "According to the Standard relating to disclosure of conflicts, a member should:",
+    "solutions": [
+      {
+        "answer": "reject a board position in a company on which the member's firm is planning to initiate a research report"
+      },
+      {
+        "answer": "ensure that her firm discloses to clients any rebates received from the service fee some classes of mutual funds charge to investors"
+      },
+      {
+        "answer": "place a company on a restricted list and issue factual information about the company if the member's firm holds options on the company's shares"
+      }
+    ]
+  },
+  {
+    "id": "ETH-141",
+    "question": "Which of the following is a recommended procedure for compliance with the Standard relating to priority of transactions?\nProcedure 1: Members should disclose personal transactions relating to shares in their firm's research universe to clients upon request.\nProcedure 2: Members should establish blackout periods prior to trades for clients.\nProcedure 3: Members should treat fee-paying family accounts in which they have beneficial ownership in the same manner as they would treat their personal accounts.",
+    "solutions": [
+      {
+        "answer": "Procedure 1"
+      },
+      {
+        "answer": "Procedure 2"
+      },
+      {
+        "answer": "Procedure 3"
+      }
+    ]
+  },
+  {
+    "id": "ETH-142",
+    "question": "Susana Garcia, CFA, is a widely respected analyst covering the transportation sector. She completes a new recommendation for a company. The next morning, she emails the recommendation to her firm's largest client. After lunch, she emails the recommendation to all other firm clients. One hour later, she calls the largest client to discuss the recommendation in detail. Garcia has violated the Standard relating to fair dealing:",
+    "solutions": [
+      {
+        "answer": "only by calling the largest client to discuss the recommendation in detail"
+      },
+      {
+        "answer": "only by emailing the recommendation to the largest client prior to sending it to all other clients"
+      },
+      {
+        "answer": "both by calling the largest client to discuss the recommendation in detail and by emailing the recommendation to the largest client prior to sending it to all other clients"
+      }
+    ]
+  },
+  {
+    "id": "ETH-143",
+    "question": "In the absence of regulatory guidance or firm policies, CFA Institute recommends maintaining records for at least:",
+    "solutions": [
+      {
+        "answer": "three years"
+      },
+      {
+        "answer": "five years"
+      },
+      {
+        "answer": "seven years"
+      }
+    ]
+  },
+  {
+    "id": "ETH-144",
+    "question": "The Standards require a member to inform which of the following parties of any benefit received for referrals of clients?",
+    "solutions": [
+      {
+        "answer": "Only his employer"
+      },
+      {
+        "answer": "Only his potential clients"
+      },
+      {
+        "answer": "Both his employer and his potential clients"
+      }
+    ]
+  },
+  {
+    "id": "ETH-145",
+    "question": "Asset managers are most likely required to do which of the following as part of their adherence to the GIPS standards?",
+    "solutions": [
+      {
+        "answer": "Adhere to certain calculation methodologies"
+      },
+      {
+        "answer": "Only follow the minimum GIPS requirements at the time of composite creation"
+      },
+      {
+        "answer": "Include all non-discretionary funds in at least one composite reflecting the investment mandate"
+      }
+    ]
+  },
+  {
+    "id": "ETH-146",
+    "question": "A member employed by an investment firm carries out research at the request of a client. The records of that research are the property of the:",
+    "solutions": [
+      {
+        "answer": "client"
+      },
+      {
+        "answer": "member"
+      },
+      {
+        "answer": "investment firm"
+      }
+    ]
+  },
+  {
+    "id": "ETH-147",
+    "question": "Ann Macharia, CFA, is an independent consultant hired by MK Investment (MKI) to review its proposal to manage a large pension fund. While reviewing a draft of the document, Macharia notices a large section of material has been added to the proposal by MKI's CIO. The additional material looks exactly like what Macharai wrote for a previous client, describing the client's proprietary investment process. Macharia is most likely required to:",
+    "solutions": [
+      {
+        "answer": "remove the added material and report her suspicions to MKI"
+      },
+      {
+        "answer": "wait to say anything until the proposal is submitted to meet the conditions of her consulting contract"
+      },
+      {
+        "answer": "confirm her client uses the same thorough investment process as described in the added material, and make a few minor changes"
+      }
+    ]
+  },
+  {
+    "id": "ETH-148",
+    "question": "Which of the following statements describe the key concepts of the GIPS standards?\nStatement 1: The GIPS standards are ethical standards to ensure full disclosure of investment performance.\nStatement 2: The GIPS standards require firms to maintain composites for all strategies for which the firm manages discretionary and nondiscretionary accounts.\nStatement 3: The GIPS standards address all aspects of performance measurement.",
+    "solutions": [
+      {
+        "answer": "Statement 1"
+      },
+      {
+        "answer": "Statement 2"
+      },
+      {
+        "answer": "Statement 3"
+      }
+    ]
+  }
+]

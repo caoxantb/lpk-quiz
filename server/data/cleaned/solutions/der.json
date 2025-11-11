@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "DER-1",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": ". The value of a European call option is directly related to the price of the underlying."
+      },
+      {
+        "isCorrect": false,
+        "reason": ". The value of a European call option is directly related to the volatility of the underlying."
+      },
+      {
+        "isCorrect": true,
+        "reason": ". The value of a European call option is directly related to time to expiration. That is, all else held equal, the value of a European call option is higher the longer the time to expiration."
+      }
+    ],
+    "note": "Derivatives: identify the factors that determine the value of an option and describe how each factor affects the value of an option"
+  },
+  {
+    "id": "DER-2",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the value of a European put option is directly related to the exercise price. Also, the value of a European put option can be either directly or inversely related to the time to expiration. The direct effect is more common. Option 1 and Option 2 have the same exercise price, but Option 2 has a longer time to expiration. So, Option 2 is more likely to have a higher value than Option 1. Option 2 and Option 3 have the same time to expiration, but Option 3 has a higher exercise price. So. Option 3 is most likely to have a higher value than Option 2."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the value of a European put option is directly related to the exercise price. Also, The value of a European put option can be either directly or inversely related to the time to expiration. The direct effect is more common. Option 1 and Option 2 have the same exercise price, but Option 2 has a longer time to expiration. So, Option 2 is more likely to have a higher value than Option 1. Option 2 and Option 3 have the same time to expiration, but Option 3 has a higher exercise price. So, Option 3 is most likely to have a higher value than Option 2."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the value of a European put option is directly related to the exercise price. Also, The value of a put option can be either directly or inversely related to the time to expiration. The direct effect is more Option 1 and Option 2 have the same exercise price, but Option 2 has a longer time to expiration. So, Option 2 is more likely to have a higher value than Option 1. Option 2 and Option 3 have the same time to, but Option 3 has a higher exercise price. So. Option 3 is most likely to have a higher value than Option 2"
+      }
+    ],
+    "note": "Derivatives: identify the factors that determine the value of an option and describe how each factor affects the value of an option"
+  },
+  {
+    "id": "DER-3",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because \"the value of a European put is inversely related to the risk-free interest rate.\""
+      },
+      {
+        "isCorrect": true,
+        "reason": "because \"the value of a European put option is directly related to the exercise price.\""
+      },
+      {
+        "isCorrect": false,
+        "reason": "because \"the value of a European put option is inversely related to the value of the underlying.\""
+      }
+    ],
+    "note": "Derivatives: identify the factors that determine the value of an option and describe how each factor affects the value of an option"
+  },
+  {
+    "id": "DER-4",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because -cT=-Max(0.ST-X) (payoff to the call seller), where- cT is the call value at expiration for the call seller, ST is the price of the underlying at expiration, and X is the strike price. Therefore, the Correct calculation yields: -$5=-Max(0,$30 - $25)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the call value at expiration for a call seller (-cT) is not-Max(0, ST-X) + Co. where ST, is the price of the underlying at expiration, X is the strike price, and co is the option premium. Therefore, the incorrect calculation yields: $0=-Max(0, $30-$25) + $5, which is the profit for the call option seller."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the call value at expiration for a call seller (-cT) is not Max(0,ST-X) + Co. where S, is the price of the underlying at expiration, X is the strike price, and co, is the option premium. Therefore, the incorrect calculation yields: $10 Max(0, $30 - $25) + $5.\nInstead, the correct formula is –cT= -Max(0.ST-X) (payoff [value] to the call seller), which yields: -$5=- Max(0,$30-$25)"
+      }
+    ],
+    "note": "Derivatives: determine the value at expiration and profit from a long or a short position in a call or put option"
+  },
+  {
+    "id": "DER-5",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because S0+p0=c0 + X/(1+r)T. This relationship is known as put-call parity. Here S0, is the spot price, Po is the put premium, X is the strike price and ris the interest rate.\nS0 + p0 = c0+X/(1+r)T\n40+ p0= 10+ 60/1.03\np0= 10+60/1.03-40\n=28.25242718 = 28.25"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because S0+p0=c0 + X/(1+r)T .This relationship is known as put-call parity. In this response, X was not divided by (1+r)T. Here S, is the spot price, p0 is the put premium, X is the strike price and r is the interest rate.\nS0 + p0=c0+X/(1+r)\n40+ po= 10 +60\np0= 10+60-40=30.00"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because S0+p0=c0 + X/(1+r)T. This relationship is known as put-call parity. In this response, S0 was incorrectly added instead of subtracted from c0 + X/(1+r)T to arrive at P0. Here S0 is the spot price. P0 is the put premium, X is the strike price and r is the interest rate.\nS0 + p0 = c0+X/(1+r)T\n40+ p0= 10 +60 / 1.03\np0= 10+60/1.03 +40\n= 108.252427 = 108.25."
+      }
+    ],
+    "note": "Derivatives: explain put-call parity for European options"
+  },
+  {
+    "id": "DER-6",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it calculates the equivalent zero rate as:\nZ₂ = (100-DF2)/2; or (100-96)/2 = 2.0000%\nZ3=(100-DF3)/3; or = (100-93)/3 = 2.3333%\nAccordingly,\n(1.020000)² x (1 + IFR₂,1)1 = (1.023333)3\n(1 + IFR2,1) = (1.023333)3/(1.020000)²\n(1+IFR2,1)= (1.071646/1.04040)\n1+IFR₂+= 1.030033\nIFR2,1= 1.030033-1=3.0033%≈ 3.00%."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because a discount factor may also be interpreted as the price of a zero-coupon cash flow or bond. The price equivalent of a zero rate is the present value of a currency unit on a future date, known as a discount factor. The discount factor for period i (DFi) is: DFi= 1/(1+zi). Accordingly, the equivalent zero rate is:\nDF2=0.96=1/(1+z2)²; and z₂ = 2.0621%\nDF3 = 0.93=1/(1+z3)³; and z3 = 2.4485%\nThe implied forward rate between period A and period B is denoted as IFRA,B-A It is a forward rate on a bond that starts in period A and ends in period B a general formula for the relationship between the two spot rates (ZA, ZB) and the implied forward rate (IFRA,B-A): (1+ZA)A × (1+ IFRA,B-A)B-A = (1 + ZB)B\n(1.020621)² x (1 + IFR2,3-2)3-2= (1.024485)³\n(1+IFR2,1)= (1.024485)3/(1.020621)2\n(1+IFR2,1) = (1.075269/1.041667)\n1+IFR2,1 = 1.032258\nIFR2,1 = 1.032258-13.2258% ≈3.23%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the implied forward rate is calculated as follows:\nDF2=0.96=1/(1+z2)², and z₂ = 2.0621%\nDF3 = 0.93=1/(1+ z3)3; and z3 = 2.4485%\nAccordingly,\nIFR2,1= (1.024485)³- (1.020621)2\nIFR2,1= (1.075269 - 1.041667)\nIFR2,1 = 0.033602 = 3.3602% ~~ 3.36%"
+      }
+    ],
+    "note": "Derivatives: Explain how forward rates are determined for interest rate forward contracts and describe the uses of these forward rates."
+  },
+  {
+    "id": "DER-7",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because according to put-call parity. P0=c0 – S0+X/(1+r)T, long put = long call, short asset, long bond. Therefore, the payoff of a European put option is not equal to a payoff of a portfolio consisting of a long asset, a short call and a long risk-free bond."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because according to put-call parity. P0=c0 – S0+X/(1+r)T , long put = long call, short asset, long bond. Therefore, the payoff of a European put option is equal to a payoff of a portfolio consisting of a short asset, a long call and a long risk-free bond."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because according to put-call parity. P0=c0 – S0+X/(1+r)T long put = long call, short asset, long bond. Therefore, the payoff of a European put option is not equal to a payoff of a portfolio consisting of a short asset, a short call and a short risk-free bond."
+      }
+    ],
+    "note": "Derivatives: explain put-call parity for European options"
+  },
+  {
+    "id": "DER-8",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because a long put and a short call are equivalent to a long risk-free bond and short forward position: p0 –c0=[X-F0(T)](1+r)-T as calculated below:\np0 –c0=[X-F0(T)](1+r)-T (4)\nRearranging for c0\np0 –c0=[X-F0(T)](1+r)-T\np0 = put = £4\nX = exercise price = £47\nF0(T) = forward = £50\nr = risk-free rate = 10%\np0 –c0=[X-F0(T)](1+r)-T = c0\nThus, c0 = £4-[£47-£50](1.10)-075 = £6.79"
+      },
+      {
+        "isCorrect": false,
+        "reason": "as calculated the exponent of * is mistakenly used without a negative sign.\np0 –c0=[X-F0(T)](1+r)+T\np0 –c0=[X-F0(T)](1+r)-T =c0\np0= put = £4\nX = exercise price = £47\nF0(T) = forward = £50\nr = risk-free rate = 10%\n£4-[£47-£50] (1.10)+0.75 = £7.22\np0 –c0=[X-F0(T)](1+r)-T (4)\np0 =[X-F0(T)](1+r)-T –c0\nc0=£4-[£47-£501](1.10)-0.75 = £6.79"
+      },
+      {
+        "isCorrect": false,
+        "reason": "as calculated the exponent of * is missed entirely.\np0 –c0=[X-F0(T)](1+r)\np0 –[X-F0(T)](1+r)+T = c0\np0 = put = £4\nX = exercise price = £47\nF0(T) = forward = £50\nr = risk-free rate = 10%\n£4-[£47-£50](1.10) = £7.30\np0 –c0=[X-F0(T)](1+r)-T (4)\np0 –[X-F0(T)](1+r)+T = c0\nc0=£4-[£47-£50](1.10)-0.75= £6.79"
+      }
+    ],
+    "note": "Derivatives: explain put-call forward parity for European options"
+  },
+  {
+    "id": "DER-9",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because this is a characteristic of a futures contract and not a forward contract. A futures contract is a standardized derivative contract created and traded on a futures exchange in which two parties agree that one party, the buyer, will purchase an underlying asset from the other party, the seller, at a later date and at a price agreed on by the two parties when the contract is initiated and in which there is a daily settling of gains and losses and a credit guarantee by the futures exchange through its clearinghouse."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it is actually the opposite and futures contracts are more transparent than forward contracts. Futures markets are far more transparent than forward makets."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because a forward contracts is an over-the-counter derivative contract in which two parties agree that one party, the buyer, will purchase an underlying asset from the other party, the seller, at a later date at a fixed price they agree on when the contract is signed.\nopposite and futures contracts are transparent than forward markets contract is signed."
+      }
+    ],
+    "note": "Derivatives: define forward contracts, futures contracts, swap, options (calls and puts), and credit derivatives and compare their basic characteristics"
+  },
+  {
+    "id": "DER-10",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because a fair value hedge designation applies when a derivative is deemed to offset the fluctuation in fair value of an asset or liability. A commodities producer might sell its inventory forward in anticipation of lower future prices."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because derivatives designated as absorbing the variable cash flow of a floating-rate asset or liability such as foreign exchange, interest rates, or commodities are referred to as cash flow hedges. A swap to a fixed rate for a floating-rate debt liability is another example of a cash flow hedge."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because net investment hedges occur when either a foreign currency bond or a derivative such as an FX swap or forward is used to offset the exchange rate risk of the equity of a foreign operation."
+      }
+    ],
+    "note": "Derivatives: compare the use of derivatives among issuers and investors"
+  },
+  {
+    "id": "DER-11",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because a put option buyer will exercise only if the spot price, ST is below X at maturity. The exercise price, X, therefore represents the upper bound on the put value. The lower bound is the present value of the exercise price minus the spot price or zero, whichever is greater."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this is the description of the lower bound of a put option. A call option buyer will exercise only if the spot price, ST exceeds the exercise price (X) at maturity. The lower bound of a call price is therefore the underlying's price minus the present value of its exercise price or zero, whichever is greater."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this is the description of the at maturity. The exercise price, X, therefore represents the upper bound on the put the spot price, ST is below X"
+      }
+    ],
+    "note": "Derivatives: contrast the use of arbitrage and replication concepts in pricing forward commitments and contingent claims"
+  },
+  {
+    "id": "DER-12",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because a stand-alone derivative, is a distinct derivative contract, such as a derivative on a stock or bond. A put option is therefore a stand-alone derivative not an embedded derivative."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because an embedded derivative is a derivative within an underlying, such as a callable, puttable, or convertible bond."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a stand-alone derivative, is a distinct derivative contract, such as a derivative on a stock or bond. A futures contract is also a distinct derivative contract as it is not embedded in the underlying asset."
+      }
+    ],
+    "note": "Derivatives: define a derivative and describe basic features of a derivative instrument"
+  },
+  {
+    "id": "DER-13",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because as with futures and forwards, no money changes hands at the start, thus, the value of a swap when initiated must be zero."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because an option is a derivative contract in which one party, the buyer, pays a sum of money to the other party, the seller or writer, and receives the right to either buy or sell an underlying asset at a fixed price either on a specific expiration date or at any time prior to the expiration date"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because as with futures and forwards, no money changes hands at the start, thus, the value of a swap when initiated must be zero."
+      }
+    ],
+    "note": "Derivatives: define forward contracts, futures contracts, swaps, options (calls and puts), and credit derivatives and compare their basic characteristics"
+  },
+  {
+    "id": "DER-14",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because a related risk that can arise for both hedgers and risk takers is liquidity risk, or a divergence in the cash flow timing of a derivative versus that of an underlying transaction. The daily settlement of gains and losses in the futures market can give rise to liquidity risk. If an investor or issuer using a futures contract to hedge an underlying transaction is unable to meet a margin call due to a lack of funds, the counterparty's position is closed out and the investor or issuer must cover any losses on the derivative trade"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because basis risk is the potential divergence between the expected value of a derivative instrument versus an underlying or hedged transaction."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a related risk that can arise for both hedgers and risk takers is liquidity risk, or a divergence in the cash flow timing of a derivative versus that of an underlying transaction."
+      }
+    ],
+    "note": "Derivatives: describe benefits and risks of derivative instruments"
+  },
+  {
+    "id": "DER-15",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because derivative contracts can be classified as either firm commitments or contingent claims.\nFirm commitments include forward contracts, futures contracts, and swaps involving a periodic exchange of cash flows and an option is the primary contingent claim."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because derivative contracts can be classified as either firm commitments or contingent claims.\nFirm commitments include forward contracts, futures contracts, and swaps involving a periodic exchange of cash flows\" and an option is the primary contingent claim."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because another type of derivative is a contingent claim, in which one of the counterparties determines whether and when the trade will settle. An option is the primary contingent claim."
+      }
+    ],
+    "note": "Derivatives: define a derivative and describe basic features of a derivative instrument"
+  },
+  {
+    "id": "DER-16",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it is the call buyer's profit, not the payoff. That is, П = Max(0, ST -X)-c0. where c0 is the premium, ST is the stock price at expiration, and X is the strike (or exercise) price. In this case, П= Max(0,$22 - $27) - $4= -$4, and thus negative."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because cT = Max(0,ST -X), where cT is the value of the call option, or the payoff to the call buyer, X is the strike (or exercise) price, and ST is the stock price at expiration. In this case, cT = Max(0.$22 - $27) = 0."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it is the payoff to the put option buyer. That is, pT Max(0,X- ST), where X is the strike (or exercise) price, and ST is the stock price at expiration. In this case, pT= Max(0,$27 - $22) = $5."
+      }
+    ],
+    "note": "Derivatives: determine the value at expiration and profit from a long or a short position in a call or put option"
+  },
+  {
+    "id": "DER-17",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because asymmetric payoff profile is a common feature of contingent claims, which are sometimes referred to as non-linear derivatives."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because since the derivative price is a linear function of the underlying, firm [forward] commitments are also referred to as linear derivatives."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because since the derivative price is a linear function of the underlying, firm [forward] commitments are also referred to as linear derivatives."
+      }
+    ],
+    "note": "Derivatives: contrast forward commitments with contingent claims"
+  },
+  {
+    "id": "DER-18",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because basis risk is the potential divergence between the expected value of a derivative instrument versus an underlying or hedged transaction."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because liquidity risk is the potential divergence between the cash flow timing of a derivative instrument versus an underlying or hedged transaction."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because systemic risk relates to excessive risk taking and use of leverage in derivative markets."
+      }
+    ],
+    "note": "Derivatives: Describe benefits and risks of derivative instruments"
+  },
+  {
+    "id": "DER-19",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because FX forward to hedge forecasted sales absorbs variable cash flow of floating-rate asset or liability (forecasted transaction) and is an example of a cash flow hedge."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because commodity futures used to hedge inventory offsets fluctuation in fair value of an asset or liability and is an example of a fair value hedge."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because currency forward designated as offsetting the FX risk of the equity of a foreign operation is an example of a net investment hedge."
+      }
+    ],
+    "note": "Derivatives: compare the use of derivatives among issuers and investors"
+  },
+  {
+    "id": "DER-20",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because derivative instrument prices serve a price discovery function beyond the underlying cash or spot market. For example, futures prices are often seen as revealing information about the direction of cash markets in the future, although they cannot be strictly considered an unbiased forecast of future spot prices. Therefore, derivatives improve. not reduce, the efficiency of price discovery for the underlying"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because when prices deviate from fundamental values, derivative markets offer less costly ways to exploit the mispricing. As noted earlier, less capital is required, transaction costs are lower, and short selling is easier. Also, derivatives offer the following Operational Advantages: Reduced cash outlay, lower transaction costs versus the underlying, increased liquidity and ability to 'short'"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because excessive risk taking and use of leverage in derivative markets may contribute to market stress, as in the 2008 financial crisis."
+      }
+    ],
+    "note": "Derivatives: describe benefits and risks of derivative instruments"
+  },
+  {
+    "id": "DER-21",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because convenience yield is a non-cash benefit associated with physical assets. In contrast to securities or cash stored electronically, commodities usually involve known costs associated with the storage insurance, transportation, and potential spoilage (in the case of soft commodities) of these physical assets. A non-cash benefit of holding a physical commodity versus a derivative is known as a convenience yield."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a convenience yield is a non-cash benefit associated with physical assets in contrast to securities or cash stored electronically, commodities usually involve known costs associated with the storageinsurance, transportation, and potential spoilage (in the case of soft\ncommodities) of these physical assets. A non-cash benefit of holding a physical commodity versus a derivative is known as a convenience yield."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a convenience yield is a non-cash benefit associated with physical assets. In contrast to securities or cash stored electronically, commodities usually involve known costs associated with the storage, insurance, transportation, and potential spollage (in the case of soft commodities) of these physical assets. A non- cash benefit of holding a physical commodity versus a derivative is known as a convenience yield."
+      }
+    ],
+    "note": "Derivatives: explain the difference between thespot and expected future price of an underlying and the cost of carry associated with holding the underlying asset"
+  },
+  {
+    "id": "DER-22",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because swap credit terms are privately negotiated between counterparties in an over- the-counter agreement and may range from uncollateralized exposure, where each counterparty bears the full default risk of the other. Therefore, swaps do not have the lowest counterparty default risk."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because exchange-traded derivatives (ETD) are standardized contracts traded on an organized exchange which requires collateral on deposit to protect against counterparty default and a futures contract is an exchange-traded derivative (ETD) with standardized terms set by the exchange. Therefore, futures has lowest counterparty default risk."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a forward contract is an over-the-counter (OTC) derivative and OTC instruments have less transparency, usually involve more counterparty risk. Therefore, forwards do not have the lowest counterparty risk."
+      }
+    ],
+    "note": "Derivatives: define forward contracts, futures contracts, swaps, options (calls and puts), and credit derivatives and compare their basic characteristics"
+  },
+  {
+    "id": "DER-23",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because for a call option, a lower exercise price has two benefits. One is that there are more values of the underlying at expiration that are above the exercise price, meaning that there are more outcomes in which the call expires in-the-money. Therefore, the likelihood is higher and not lower."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because for a call option, a lower exercise price has two benefits. One is that there are more values of the underlying at expiration that are above the exercise price, meaning that there are more outcomes in which the call expires in-the-money. Therefore, the likelihood is higher and not unchanged."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because for a call option, a lower exercise price has two benefits. One is that there are more values of the underlying at expiration that are above the exercise price, meaning that there are more outcomes in which the call expires in-the-money."
+      }
+    ],
+    "note": "Derivatives: explain the exercise value, moneyness, and time value of an option"
+  },
+  {
+    "id": "DER-24",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because Derivatives are typically priced by forming a hedge involving the underlying asset and a derivative such that the combination must pay the risk-free rate and do so for only one derivative price."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because Derivatives are typically priced by forming a hedge involving the underlying asset and a derivative such that the combination must pay the risk-free rate and do so for only one derivative price. Therefore, it is the risk-free rate and not the dividend yield a hedge involving the underlying asset and a derivative must pay."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because Derivatives are typically priced by forming a hedge involving the underlying asset and a derivative such that the combination must pay the risk-free rate and do so for only one derivative price. Also, some commodities generate a benefit that is somewhat opaque and difficult to measure. This benefit is called the convenience yield. It represents a nonmonetary advantage of holding the asset. Therefore, it is the risk- free rate and not the convenience yield a hedge involving the underlying asset and a derivative must pay"
+      }
+    ],
+    "note": "Derivatives: explain how the concepts of arbitrage and replication are used in pricing derivatives"
+  },
+  {
+    "id": "DER-25",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because basis risk is described as the potential divergence between the expected value of a derivative instrument versus an underlying or hedged transaction."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because liquidity risk is described as potential divergence between the cash flow timing of a derivative instrument versus an underlying or hedged transaction."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because systemic risk results from excessive risk taking and use of leverage in derivative markets that may contribute to market stress."
+      }
+    ],
+    "note": "Derivatives: describe benefits and risks of derivative instruments"
+  },
+  {
+    "id": "DER-26",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because if the underlying is equal to or worth more than the exercise price at expiration (S,2X), the put will simply expire with no value. So, the put is worth the greater of either zero or the exercise price minus the price of the underlying at expiration. Also, the time value of an option is the difference between the market price of the option and its intrinsic value. As the price of the underlying is above the exercise price the put has a zero exercise value and only a positive time value."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because if the underlying is equal to or worth more than the exercise price at expiration (S, 2X), me pot will simply expire with no value. So, the put is worth the greater of either zero or the exercise price minus the price of the underlying at expiration. Also, the time value of an option is the difference between the market price of the option and its intrinsic value. As the price of the underlying is above the exercise price the put has a zero intrinsic (or exercise) value and only a positive time value"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because if the underlying is equal to or worth more than the exercise price at expiration (S,>X), the put will simply expire with no value. So, the put is worth the greater of either zero or the exercise price minus the price of the underlying at expiration. Also, the time value of an option is the difference between the market price of the option and its intrinsic value. As the price of the underlying is above the exercise price the put has a zero exercise (or intrinsic) value and only a positive time value"
+      }
+    ],
+    "note": "Derivatives: explain the exercise value, moneyness, and time value of an option"
+  },
+  {
+    "id": "DER-27",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because recall our put-call parity discussion and assume that Investor A creates his protective put in a slightly different manner. Instead of buying the asset, he buys a forward contract and a risk-free bond in which the face value is the forward price. This strategy is a synthetic protective put. Because we showed that the fiduciary call is equivalent to the protective put, a fiduciary call has to be equivalent to a protective put with a forward contract. Therefore, the payoff on a fiduciary call is not equal to the payoff on a portfolio consisting of a long call and a short risk- free bond."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because recall our put-call parity discussion and assume that investor A creates riis protective put in a slightly different manner. Instead of buying the asset, he buys a forward contract and a risk-free bond in which the face value is the forward price. This strategy is a synthetic protective put Because we showed that the fiduciary call is equivalent to the protective put, a fiduciary call nas to be equivalent to a protective put with a forward contract Therefore, the payoff on a fiduciary call = the payoff on a synthetic protective put, fiduciary call = long call + long risk-free bond = long risk-free bond + long forward contract + long put"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because recall our put-call parity discussion and assume that Investor A creates his protective put in a slightly different manner. Instead of buying the asset, he buys a forward contract and a risk-free bond in which the face value is the forward price. This strategy is a synthetic protective put. Because we showed that the fiduciary call is equivalent to the protective put, a fiduciary call has to be equivalent to a protective put with a forward contract. Therefore, the payoff on a fiduciary call is not equal to the payoff on a portfolio consisting of a short call, a long forward contract and a long risk-free bond."
+      }
+    ],
+    "note": "Derivatives: explain put-call forward parity for European options"
+  },
+  {
+    "id": "DER-28",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because OTC and ETD markets differ in several ways, including that ETD contracts are more standardized."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because OTC and ETD markets differ in several ways, including that OTC instruments have less transparency, whereas ETD markets have transparency."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because OTC and ETD markets differ in several ways, including that ETD contracts have lower trading and transaction costs."
+      }
+    ],
+    "note": "Derivatives: describe the basic features of derivative markets, and contrast over-the-counter and exchange-traded derivative markets"
+  },
+  {
+    "id": "DER-29",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because different FRA fixed rates usually exist for different times to maturity. In contrast, a standard interest rate swap has a constant fixed rate over its life, which includes multiple periods."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because similarities between interest rate forwards and swaps include the symmetric payoff profile and exchanged upfront."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because different FRA fixed rates usually exist for different times to maturity. In contrast, a standard interest rate swap has a constant fixed rate over its life, which includes multiple periods and the FRA has a single settlement, which occurs at the beginning of an interest period, while a standard swap has periodic settlements. which occur at the end of each respective period."
+      }
+    ],
+    "note": "Derivatives: describe how swap contracts are similar to but different from a series of forward contracts"
+  },
+  {
+    "id": "DER-30",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because neither the long nor the short pays anything to the other at the initiation date of a forward contract when initiated is zero."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the value of a forward contract at expiration is the spot price of the underlying minus the forward price agreed to in the contract. Because neither the long nor the short pays anything to the other at the initiation date of a forward contract, the value of a forward contract when initiation is zero. Therefore, the value of a forward contract at initiation is not equal to the spot price minus the forward price."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the value of a forward contract at expiration is the spot price of the underlying minus the forward price agreed to in the contract. because neither the long nor the short pays anything to the other at the initiation date of a forward contract, the value of a forward contract when initiation is zero. Therefore, the value of a forward contract at initiation is not equal to the forward price minus the spot price."
+      }
+    ],
+    "note": "Derivatives: explain how the value and price of a forward contract are determined at initiation, during the life of the contract, and at expiration."
+  },
+  {
+    "id": "DER-31",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because short interest rate futures contracts also gain from a rising market reference rate."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because long forward rate agreements also gain from a rising market reference rate."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because realizing a gain on the FRA contract as rates rise. Note that this would be equivalent to taking a short position on a CNY MRR futures contract if one were available. A long FRA (ie., FRA floating-rate receiver (fixed-rate payer)) position realizes a gain as MRR rises. A short futures contract price is based on (100- yield). which gains as yield-to-maturity (MRR) rises."
+      }
+    ],
+    "note": "Derivatives: compare the value and price of forward and futures contracts"
+  },
+  {
+    "id": "DER-32",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because OTC (over-the-counter) derivative markets involve contracts entered between derivatives end users and dealers, or financial intermediaries, such as commercial banks or investment banks."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because end users do not generally trade with other end users. OTC derivative markets involve contracts entered between derivatives end users and dealers, or financial intermediaries, such as commercial banks or investment banks."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the central counterparty provides clearing and settlement functions rather than trading derivatives. A central counterparty (CCP) assumes the credit risk between derivative counterparties, one of which is typically a financial intermediary. CCPS provide clearing and settlement for most derivative contracts"
+      }
+    ],
+    "note": "Derivatives: describe the basic features of derivative markets, and contrast over-the-counter and exchange-traded derivative markets"
+  },
+  {
+    "id": "DER-33",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because other similarities between interest rate forwards and swaps include the symmetric payoff profile and the fact that no cash flow is exchanged upfront. The symmetric payoff profile of a swap has zero value to both parties means that the swap at contract inception."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because other similarities between interest rate forwards and swaps include the symmetric payoff profile and the fact that no cash flow is exchanged upfront."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because an FRA (forward rate agreement) has a single settlement, which occurs at the beginning of an interest period, while a standard swap has periodic settlements, which occur at the end of each respective period. So, while a standard swap does have periodic settlements, these occur at the end of the period, not the beginning."
+      }
+    ],
+    "note": "Derivatives: describe how swap contracts are similar to but different from a series of forward contracts"
+  },
+  {
+    "id": "DER-34",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because this distractor is the upper bound of a put value and not a call price. The exercise price, X, therefore represents the upper bound on the put value."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because call buyer will not pay more for the right to purchase an underlying than the price of that underlying, which is the upper bound."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this answer choice represents the lower bound of a call price and not the upper bound. The lower bound of a call price is therefore the underlying's price minus the present value of its exercise price or zero, whichever is greater."
+      }
+    ],
+    "note": "Derivatives: contrast the use of arbitrage and replication concepts in pricing forward commitments and contingent claims"
+  },
+  {
+    "id": "DER-35",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the buyer of a derivative enters a contract whose value changes in a way similar to a long position in the underlying. Thus a short futures position hedges the exposure to the underlying: Use of a derivative to offset or neutralize existing or anticipated exposure to an underlying is referred to as hedging, with the derivative itself commonly described as a hedge of the underlying transaction. In addition, a futures position is a firm commitment: Firm commitments include forward contracts, futures contracts, and swaps involving a periodic exchange of cash flows."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because an option is an example of a contingent claim rather than a firm commitment. Firm commitments include forward contracts, futures contracts, and swaps involving a periodic exchange of cash flows. Another type of derivative is a contingent claim, in which one of the counterparties determines whether and when the trade will settle. An option is the primary contingent claim"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a warrant is a type of option and an option is an example of a contingent claim rather than a firm commitment. Firm commitments include forward contracts, futures contracts, and swaps involving a periodic exchange of cash flows. Another type of derivative is a contingent claim, in which one of the counterparties determines whether and when the trade will settle. An option is the primary contingent claim, Companies may also issue warrants, which are options granted to employees or sold to the public that allow holders to purchase shares at a fixed price in the future directly from the issuer."
+      }
+    ],
+    "note": "Derivatives: define a derivative and describe basic features of a derivative instrument"
+  },
+  {
+    "id": "DER-36",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because forward (not future) contract MTM is not settled until maturity."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the forward price, F0(T), is constant until the contract matures, whereas the futures price, f0(T), fluctuates daily based upon market changes."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the daily settlement mechanism resets the futures MTM to zero, and variation margin is exchanged to settle the difference, reducing counterparty credit risk."
+      }
+    ],
+    "note": "Derivatives: compare the value and price of forward and futures contracts"
+  },
+  {
+    "id": "DER-37",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the risk-free rate and the dividend yield were reversed.\n≠ F0(T) = $50e(0.03-0.05)0.5\n= $49.50249 ≈$49.50"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the forward price is: F0(T) = S0e(f-i)T where r is the risk-free rate, is the dividend yield, and T is the time period.\nF0(T) = $50e(0.05 -0.03)0.5\n= $50.50251≈$50.50."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the dividend was excluded from the calculation.\n≠ F0(T) = $50e(0.05)0.5\n= $51.26576 ≈ $51.27."
+      }
+    ],
+    "note": "Derivatives: explain how the concepts of arbitrage and replication are used in pricing derivatives"
+  },
+  {
+    "id": "DER-38",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because when benefits exceed the costs, then the forward transaction would return less than the spot transaction. The formula adjusts the forward price downward by the expression -(𝛾- 𝜃)(1+r)T to reflect this net loss over the spot transaction. In other words, acquiring the asset in the forward market would be cheaper because it forgoes benefits that exceed the costs. Therefore, forward price of a commodity will be less than the commodity's spot price compounded at the risk- free rate over the life of the contract when net cost of carry (𝛾-𝜃),is positive, not when it is zero."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because The forward price of an asset with benefits and/or costs is the spot price compounded at the risk-free rate over the life of the contract minus the future value of those benefits and costs. That is. F0(T) = S0(1+r)T-(𝛾-𝜃)(1+r)T, where the net cost of carry consists of the benefits, denoted as 𝛾, (dividends or interest plus convenience yield), minus the costs, denoted as 𝜃 When net cost of carry is zero, the term (𝛾-𝜃) is zero, resulting in (𝛾-𝜃)(1+r)T being zero. Then, F0(T) = S0(1+r)T .Hence, the forward price of a commodity is equal to the commodity's spot price compounded at the risk-free rate over the life of the contract when the net cost of carry is zero"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because if the costs exceeded the benefits, the forward price would be higher because the forward contract avoids the costs at the expense of the lesser benefits. Then, the term (𝛾- 𝜃)(1+r)T will be negative. adding to S0(1+r)T in absolute terms (due to preceding negative sign), resulting in a forward price that is higher than the spot price compounded at the risk-free rate. Therefore, the forward price of a commodity will be greater than the commodity's spot price compounded at the risk-free rate over the life of the contract when the net cost of carry, (𝛾-𝜃), is negative, not when it is zero."
+      }
+    ],
+    "note": "Derivatives: explain the difference between the spot and expected future price of an underlying and the cost of carry associated with holding the underlying asset"
+  },
+  {
+    "id": "DER-39",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the different patterns of cash flows for forwards and futures can lead to a difference in the pricing of forwards versus futures and if futures prices are positively correlated with interest rates, long futures contracts are more attractive than long forward positions for the same underlying and maturity. The reason is because rising prices lead to futures profits that are reinvested in periods of rising interest rates, and falling prices lead to losses that occur in periods of falling interest rates the more desirable contract will tend to have the higher price."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the different patterns of cash flows for forwards and futures can lead to a difference in the pricing of forwards versus futures and if futures prices are positively correlated with interest rates, long futures contracts are more attractive than long forward positions for the same underlying and maturity. The reason is because rising prices lead to futures profits that are reinvested in periods of rising interest rates, and falling prices lead to losses that occur in periods of falling interest rates the more desirable contract will tend to have the higher price."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the different patterns of cash flows for forwards and futures can lead to a difference in the pricing of forwards versus futures and if futures prices are positively correlated with interest rates, long futures contracts are more attractive than long forward positions for the same underlying and maturity. The reason is because rising prices lead to futures profits that are reinvested in periods of rising interest rates, and falling prices lead to losses that occur in periods of falling interest rates the more desirable contract will tend to have the higher price"
+      }
+    ],
+    "note": "Derivatives: explain why forward and futures prices differ"
+  },
+  {
+    "id": "DER-40",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the differential between forward and futures prices is determined by both the correlation between futures prices and interest rates, and by interest rate volatility, as described in the response rationale for the correct answer."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the differential between forward and futures prices is determined by both the correlation between futures prices and interest rates, and by interest rate volatility, as described in the response rationale for the correct answer."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the different patterns of cash flows for forwards and futures can lead to a difference in the pricing of forwards versus futures. Forward and futures prices are identical under certain conditions, namely: if interest rates are constant, or if futures prices and interest rates are uncorrelated. On the other hand, violations of these assumptions can give rise to differences in pricing between these two contracts. For example, if futures prices are positively correlated with interest rates, long futures contracts are more attractive than long forward positions for the same underlying and maturity. The reason is because rising prices lead to futures profits that are reinvested in periods of rising interest rates, and falling prices lead to losses that occur in periods of falling interest rates. The price differential will also vary with the volatility of interest rates. Therefore, the differential between forward and futures prices is determined by both interest rate volatility and the correlation between futures prices and interest rates."
+      }
+    ],
+    "note": "Derivatives: explain why forward and futures prices differ"
+  },
+  {
+    "id": "DER-41",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the fixed-rate receiver pays the market reference rate and receives the par swap par rate. If the market reference rate increases, they are paying more and the value of the contract decreases to them. Another interpretation of an interest rate swap is that the fixed-rate payer (floating-rate receiver) is long a floating-rate note (FRN) priced at the MIRR and short a fixed-rate bond with a coupon aqual to the fixed swap rate. Similarly the fixed-rate receiver (floating-rate pavers is tong a fixed-rate bond with a coopon equal to the swap rate and short a floating-rate note\npriced at the MRR Anse the expected forward rates after inception will increase the present value of floating payments, while the fixed swap rate will remain the same"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the fixed-rate receiver pays the market reference rate and receives the swap par rate. If the market reference rate increases, they are paying more and the value of the contract decreases to them, not stays the same Another interpretation of an interest rate swap is that the fixed-rate payer (floating-rate receiver) is long a floating-rate note (FRN) priced at the MARR and short a fixed-rate bond with a coupon equal to the fixed swap rate SimBath, the fixed-rate receiver (floating rate payer is long a fixed-rate bond with a ocalpon equal to the swap rate and short a moating-rate note priced at the MRR A rise in the expected forward rates after inception will increase the present value of floating payments, while the fixed-swap rate wall remain the second"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the fixed-rate receiver pays the market reference rate and receives the swap par rate. If the market reference rate increases, they are paying more and the value of the contract decreases, not increases, to them. Another interpretation of an interest rate swap is that the fixed- rate payer (Bloating-rate receiver) is long a floating-rate note (FRN) priced at the MRR and short a fixed-rate bond with a coupon equal to the fored swap rate. Similarly, the fixed-rate receiver (floating rate payer) is long a fixed-rate bond with a coupon equal to the swap rate and short a floating rate note priced at the MRR. A rise in the expected forward rates after inception will increase the present value of floating payments, while the mixed-swap rate will remain the same."
+      }
+    ],
+    "note": "Derivatives: contrast the value and price of swaps"
+  },
+  {
+    "id": "DER-42",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the futures price for a commodity with known storage cost amounts may be determined [as ...]: f0(T) = [S0+ PV0(C)] × (1+r)T.\nPV0(C)=$5x(1+3%)-182/365\nF0(T) = [$120 + $5x(1+3%)-182/365]x(1 + 3%)182/365 = $126 781768 ≈ $126.78"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it doesn't discount the storage cost from settlement day to today to find its present value since the futures price for a commodity with known storage cost amounts may be determined as: f0(T) = [S0+ PV0(C)] × (1+r)T .\nIf no discounting is applied to the storage cost, it would be incorrectly assumed to be PV0(C) = $5. F0(T) = [$120 + $5] × (1+3%) 182/365 = $126.856008≈ $126.86."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it compounds the storage cost from today to settlement instead of discounting to find its present value since the futures price for a commodity with known storage cost amounts may be determined as: f0(T) = [S0+ PV0(C)] × (1+r)T\nIf compounding is applied to the storage cost, it would be incorrectly assumed to be PV0(C) = $5 x (1+3%)182/365\nf0(T) = [$120+ $5] x (1+3%)182/365 x (1+3%)182/365 =$126.931351 ≈$126.93"
+      }
+    ],
+    "note": "Derivatives: compare the value and price of forward and futures contracts"
+  },
+  {
+    "id": "DER-43",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the principle of no arbitrage and replication can be used to value and price derivatives. In other words, arbitrage opportunities can be exploited using derivatives, but for the pricing of derivatives the no-arbitrage condition is assumed to hold, ie, no arbitrage opportunities exist."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the law of one price can be used to value a derivative security since there is a one-to-one relationship between the derivative and its underlying asset at maturity. Therefore, there exists only one price for each derivative."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the law of one price can be used to value a derivative security since there is a one-to-one relationship between the derivative and its underlying asset at maturity. Further, the one-period binomial model determines the value of a derivative using the underlying's price at t = 0 as an input for the calculation. For example, the price of a call option is \"c0 = h x S0-V₁(1+r)-1,\" where c0 is the call option value at t = 0 and S0 is the price of the underlying at t=0. Therefore, the price of the underlying asset is not inferred when determining the derivative's price. Instead, the price of the underlying asset is considered a given and used as an input in the calculation."
+      }
+    ],
+    "note": "Derivatives: explain how to value a derivative using a one-period binomial model"
+  },
+  {
+    "id": "DER-44",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the non-linear payoff profile of an option requires that the replicating transaction be adjusted as this likelihood changes, while the replicating trades for a forward commitment remain constant. Also, as in the case of the call option, the asymmetric payoff profile requires adjustment over time based on the likelihood of exercise."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this is a put option replication strategy if exercised. A call option replication strategy if exercised, requires to sell the underlying and use the proceeds to repay the loan. In order to replicate the call option at contract inception (t = 0), we also must borrow at the risk-free rate, r, and use the proceeds to purchase the underlying at a price of S, At option expiration (t = T), unlike in the case of the forward commitment, there are two possible replication outcomes:\nExercise (ST>X): Sell the underlying for Stand use the proceeds to repay X.\nNo exercise (ST <X): No settlement is required.\nIn order to replicate the put option at contract inception (t = 0), we must sell the underlying short at a price of SO and lend the proceeds at the risk-free rate, r. At option expiration (t=T), unlike in the case of the forward commitment, there are two possible replication outcomes.\nExercise (ST <X): Purchase the underlying for ST from the proceeds of the risk-free loan.\nNo exercise (ST > X): No settlement is required."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a call option replication strategy does not require the long purchase of a forward contract. In order to replicate the call option at contract inception (t = 0), we also must borrow at the risk-free rate, r, and use the proceeds to purchase the underlying at a price of S0"
+      }
+    ],
+    "note": "Derivatives: contrast the use of arbitrage and replication concepts in pricing forward commitments and contingent claims"
+  },
+  {
+    "id": "DER-45",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the payoff of a put option following an up move is p1u= Max (0,X-S1u) where X is the exercise price and S1u is the price after an up move. In this case, S1u = €26(1.10)= €28.60. So, p1u = Max(0, €22 -€28.60)= €0, which is less than the payoff of a put option following a down move, as described in the response rationale for the correct answer."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the payoff of a put option following a down move is p1d= Max (0, X-S1d) where X is the exercise price and S1d is the price after a down move. In this case, S1d = €26(0.75)= €19.50. So, p₁d= Max (0, €22 - €19.50) = €2.50, which is greater than the payoffs of other two responses"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the payoff of a call option following an a down move is c₁d = Max (0, S1d -X) where X is the exercise price and S1d is the price after a down move. In this case, S1d = €26(0.75)= €19.50. So, c1d = Max (0,€19.50 - €22) = €0, which is less than the payoff of a put option following a down move, as described in the response rationale for the correct answer."
+      }
+    ],
+    "note": "Derivatives: explain how to value a derivative using a one-period binomial model"
+  },
+  {
+    "id": "DER-46",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because an average of the first 3 yearly settlement values is used:\n= (MRR-sN) x Notional amount x Period\n≠([0.0050 + 0.0115+0.0135]/3-0.0195) x $10,000,000 x 1\n= (0.0100-0.0195) x $10,000,000 × 1 = -$95,000."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the periodic settlement value = (MRR - sN) x Notional amount x Period. The market reference rate (MMR) for Year 3 is 1.35%, thus:\n= (0.0195-0.0135) x $10,000,000 x 1 = $60,000."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this is the periodic settlement value for the floating-rate payer, not the fixed- rate payer\n≠ (SN-MRR) x Notional amount x Period\n= (0.0195-0.0135) x $10,000,000 x 1 = $60,000."
+      }
+    ],
+    "note": "Derivatives: contrast the value and price of swaps"
+  },
+  {
+    "id": "DER-47",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the put price plus the underlying price equals the call price plus the present value of the exercise price. Rearranged, this is as follows: The present value of the exercise price plus the call price equals the put price plus the underlying price."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because, as described in the response rationale for the correct answer, the put-call- forward parity is described as follows: The put price plus the underlying price equals the call price plus the present value of the exercise price.\nThe verbal description of the equation in this answer choice is incorrect as it incorrectly rearranges terms of the put-call-forward parity"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because, as described in the response rationale for the correct answer, the put-call- forward parity is described as follows. The put price plus the underlying price equals the call price plus the present value of the exercise price.\nThe verbal description of the equation in this answer choice is incorrect as it incorrectly rearranges terms of the put-call-forward parity."
+      }
+    ],
+    "note": "Derivatives: explain put-call forward parity for European options"
+  },
+  {
+    "id": "DER-48",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because this is the put seller's profit. The put's value at expiration = -pT=-Max(0,X-ST), where p, is the value of the put at expiration, X is the exercise price, and S, is the price of the underlying at expiration. In this case, -Max(0,45-41)=-$4. The put seller's profit=П=-pT+p0, (where p, is the price of the put at time 0), or - 4+2=-$2."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the put's value at expiration = pT= Max(0,X-ST), where pT is the value of the put at expiration, X is the exercise price, and ST is the price of the underlying at expiration. In this case, Max(0,45-41) = $4. The put buyer's profit = П = -pT -p₁ (where p, is the price of the put at time 0), or 4 - 2 = $2."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this is the put's value at expiration. The put's value at expiration = -pT = Max(ST- 0,X), where pT is the value of the put at expiration, X is the exercise price, and ST is the price of the underlying at expiration. In this case, Max(0,45-41)= $4."
+      }
+    ],
+    "note": "Derivatives: determine the value at expiration and profit from a long or a short position in a call or put option"
+  },
+  {
+    "id": "DER-49",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because as described in the rationale for the correct answer, the payoff on a long asset can be mimicked using a long call, short put, and a long bond."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because as described in the rationale for the correct answer, the payoff on a long asset can be mimicked using a long call, short put, and a long bond."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the put-call parity relationship implies S0= c0-p0+X/(1+r)T which implies that a long asset = long call, short put, long bond."
+      }
+    ],
+    "note": "Derivatives: explain put-call parity for European options"
+  },
+  {
+    "id": "DER-50",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because this is the expected return of an upward price move, i.e. S1u/S0-1= $22/$16- 1=1.375-1 = 0.375 0.38. Instead, the risk neutral probability is equal to 0.46, as described in the response rationale for the correct answer."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the risk-neutral probability (𝜋) is the computed probability used in binomial option pricing by which the discounted weighted sum of expected values of the underlying, S1u =RuS0, and S1d= RdS0, equal the current option price. Specifically, this probability is computed using the risk- free rate and assumed up gross return and down gross return of the underlying as in Equation 7.\nπ=1+r-Rd/Ru-Rd\nMore specifically, π , is the risk-neutral probability of an increase in the underlying price to S1u =RuS0, and (1 - π) is that of a decrease, S1d= RdS0\nThus, An increase from $16 to $22 or a decrease from $16 to $12 corresponds to:\nRu=$22/$16=1.375 and Rd = $12/$16=0.75.\nUsing the risk-neutral probability (m) of a price increase:\nπ=1+r-Rd/Ru-Rd= (1+0.04 -0.75)/(1.375-0.75)=0.29/0.625 = 0.464≈0.45."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this is the risk-neutral probability of a price decrease (1 - π) = 1 -0.46 = 0.54. Instead, the risk neutral probability is equal to 0.46, as described in the response rationale for the correct answer."
+      }
+    ],
+    "note": "Derivatives: explain how to value a derivative using a one-period binomial model"
+  },
+  {
+    "id": "DER-51",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because 0.25 is simply the expected reduction in percent (down move) of the underlying after one year. Instead, the risk-neutral probability (𝜋) is the computed probability used in binomial option pricing with 𝜋 = (1+r-Rd)/(Ru-Rd), where π is the risk-neutral probability of an increase in the underlying price, r is the risk-free rate and Rd and Ru represent the underlying asset volatility, i.e., expected up and down moves of the underlying after the period. Here, r = 0.05, Ru is (1 +0.25)= 1.25 and Rd is (1-0.25)=0.75. Substituting in yields (1+0.05- 0.75)/(1.25-0.75) = 0.60. Since the risk-neutral probability of a decrease in the underlying price is 1 - π we get 1-0.60 = 0.40."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the risk-neutral probability (m) is the computed probability used in binomial option pricing with π =(1+r-Rd)/(Ru-Rd ),where π is the risk-neutral probability of an increase in the underlying price, r is the risk- free rate and R and R\" represent the underlying asset volatility. i.e., expected up and down moves of the underlying after the period. Here, r = 0.05, Ru is (1+0.25)=1.25 and Rd is (1-0.25)=0.75 Substituting in yields (1+0.05 -0.75)/(1.25-0.75)=0.60. Since the risk-neutral probability of a decrease in the underlying price is 1-π we get 1-0.60 = 0.40."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because 0.60 is the risk-neutral probability of an increase in the underlying price, not decrease. The risk- neutral probability (π) is the computed probability used in binomial option pricing with π =(1+r-Rd)/(Ru-Rd ), where π is the risk-neutral probability of an increase in the underlying price, r is the risk-free rate and R° and R° represent the underlying asset volatility. i.e., expected up and down moves of the underlying after the period. Here, r = 0.05, Ru is (1 +0.25)=1.25 and Rd is (1 -0.25)=0.75. Substituting in yields (1+0.05 -0.75)/(1.25- 0.75)=0.60. Since the risk-neutral probability of a decrease in the underlying price is 1-π we get 1 -0.60 = 0.40."
+      }
+    ],
+    "note": "Derivatives: describe the concept of risk neutrality in derivatives pricing"
+  },
+  {
+    "id": "DER-52",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the value of the call option today, c0, is computed as the expected value of the option at expiration, c1u and c1d discounted at the risk-free rate, r. Also, this no-arbitrage derivative value established separately from investor views on risk is referred to as risk-neutral pricing."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the value of the call option today, c0, is computed as the expected value of the option at expiration, c1u and c1d discounted at the risk-free rate, r. Also, this no-arbitrage derivative value established separately from investor views on risk is referred to as risk-neutral pricing."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the value of the call option today, c0, is computed as the expected value of the option at expiration, c1u and c1d ,discounted at the risk-free rate, r. Also, only the expected volatility—that is, gross returns Ru and Rd -and not the expected return are required to price an option."
+      }
+    ],
+    "note": "Derivatives: describe the concept of risk neutrality in derivatives pricing"
+  },
+  {
+    "id": "DER-53",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because futures contracts are forward contracts with standardized sizes, dates, and underlyings that trade on futures exchanges. Therefore, they are inappropriate for the non-standard size and settlement dates required by the end user."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the terms of OTC (over-the-counter) contracts can be customized to match a desired risk exposure profile. This flexibility is important to end users seeking to hedge a specific existing or anticipated underlying exposure based upon non-standard terms."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because ETD (exchange-traded derivative) contracts are more formal and standardized, which facilitates a more liquid and transparent market. Terms and conditions-such as the size of each contract, type, quality, and location of underlying for commodities and maturity date are set by the exchange."
+      }
+    ],
+    "note": "Derivatives: describe the basic features of derivative markets, and contrast over-the-counter and exchange-traded derivative markets"
+  },
+  {
+    "id": "DER-54",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the risk-neutral probability (𝜋) is the computed probability used in binomial option pricing by which the discounted weighted sum of expected values of the underlying, S1u= R0S0, and S1d= RdS0,. equal the current option price. Specifically, this probability is computed using the risk- free rate and assumed up gross return and down gross return of the underlying as in π= (1+r-Rd)/(Ru- Rd). So, if the up gross return increases in a one-period binomial model, the denominator will increase. Therefore, the risk-neutral probability of an upward price movement of the asset, (π), decreases."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the risk-neutral probability (π) is the computed probability used in binomial option pricing by which the discounted weighted sum of expected values of the underlying, S1u= RuS0 and S1d= RdS0, equal the current option price. Specifically, this probability is computed using the risk- free rate and assumed up gross return and down gross return of the underlying as in π= (1+r-Rd)/(Ru- Rd). So, if the up gross return increases in a one- period binomial model, the denominator will\nincrease. Therefore, the risk-neutral probability of an upward price movement of the asset, (π), decreases."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the risk-neutral probability (π) is the computed probability used in binomial option pricing by which the discounted weighted sum of expected values of the underlying, S1u= RuS0 and S1d= RdS0, equal the current option price. Specifically, this probability is computed using the risk- free rate and assumed up gross return and down gross return of the underlying as in π= (1+r-Rd)/(Ru- Rd). So, if the up gross return increases in a one- period binomial model, the denominator will increase. Therefore, the risk-neutral probability of an upward price movement of the asset, (π), decreases."
+      }
+    ],
+    "note": "Derivatives: describe the concept of risk neutrality in derivatives pricing"
+  },
+  {
+    "id": "DER-55",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because this is the value at expiration for the buyer.\n=ST-F0(T) = $282 - $285=-$3.\nHence total value is -$3 x 2,000 shares = -$6,000."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the value at expiration for the seller:\n= F0(T)-ST=$285 - $282 = $3.\nHence the total value is $3 x 2,000 shares = $6,000."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the spot price at inception is used instead of at settlement:\n≠ F0(T)-S0= $282 - $275 = $7.\nHence the total value is $7 x 2,000 shares = $14,000."
+      }
+    ],
+    "note": "Derivatives: Explain how the value and price of a forward contract are determined at initiation, during the life of the contract, and at expiration"
+  },
+  {
+    "id": "DER-56",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because this represents the value, not the profit, to the call seller, which is - Max(0,$2,450-$2,400)=- $50, as described in response rationale for the correct answer."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the writer of a call is the seller of the call: An option is a derivative contract in which one party. the the buyer, pays a sum of money to the other party, the seller or writer, and receives the right to either buy or sell an underlying asset at a fixed price either on a specific expiration date or at any time prior to the expiration date The profit to the seller of the call is - Max(0,ST-X) + C0. Where X is the exercise price, ST is the value of the underlying at expiration and C0 is the call premium received by the seller. Since one point is equal to one dollar the profit to the call seller is: -Max(0,$2,450-$2,400) + $25-$50 + $25 = -$25."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because $25 represents the profit to the buyer, not to the seller of the call option. The profit to a call buyer is defined as Max(0,ST -X)-co, where X is the exercise price, ,ST is the value of the\nunderlying at expiration and co is the call premium paid by the buyer. Therefore, Max(0,$2,450- $2,400)-$25 = $50-$25 = $25."
+      }
+    ],
+    "note": "Derivatives: determine the value at expiration and profit from a long or a short position in a call or put option"
+  },
+  {
+    "id": "DER-57",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because $112.20 is the value of the underlying assuming that this was a put option instead of a call option. The \"payoff to the put buyer\" at expiration is pT= Max(0, X-ST), where X is the exercise price and ST, is the price of the underlying at expiration. Given the information in the stem we get $17.80= Max(0,$130 - ST) which yields ST = $130-$17.80 $112.20. By contrast, the value or \"payoff to the call buyer\" at expiration is cT = Max(0,ST -X). Given the information in the stem we get $17.80= Max(0, ST -$130). (p. 407-408) Hence, ST = 130+ 17.80= 147.80, not $112.20."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because $142.05 is the profit from the option position added to the strike price. It is computed as (cT- c0) + X where cT is the value of the option at expiration, c0 is the purchase price of the option and X is the strike price. Given the information in the stem we get ($17.80 - $5.75)+ $130 = $142.05. By contrast, the value or \"payoff to the call buyer\" at expiration is cT = Max(0,ST -X) where X is the strike price, ST is the price of the underlying at expiration. Given the information in the stem we get $17.80= Max(0,ST -$130). Hence, ST =$ 130 +$17.80 = $147.80, not $142.05."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the value or \"payoff to the call buyer\" at expiration is c, = Max(0,ST -X) where X is the strike price, ,ST is the price of the underlying at expiration. Given the information in the stem we get $17.80= Max(0,ST - $130). Hence, S, $ 130 +$17.80 = $147.80."
+      }
+    ],
+    "note": "Derivatives: determine the value at expiration and profit from a long or a short position in a call or put option"
+  },
+  {
+    "id": "DER-58",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it represents the put price p0 less the difference between the exercise price X and the price of the underlying ST at expiration: 30-(1,340-1,320)= 10. This would be the profit to the seller of a call option, П =-Max(0,ST -X) + C0. with the same exercise price and the same selling price. By contrast, to the put seller, the profit is П=-Max(0,X-ST) + p0. Therefore, П=-Max(0,(1,320- 1,340))+30= 30."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it represents the payoff to the call buyer cT= Max(0,ST -X), where ST is the price of the underlying at expiration and X is the exercise price. Therefore, c = Max(0,(1,340 - 1,320)) = 20. By contrast, to the put seller, the profit is П=-Max(0,X-ST) + p0, where p, is the put price. Therefore, П=-Max(0,(1,320 - 1,340))+30= 30."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because to the put seller, the profit is П= -Max(0.X-ST) + p0. where X is the exercise price, ST is the price of the underlying at expiration, and p0, is the put price. Therefore, П = -Max(0,(1,320 - 1.340))+30= 30."
+      }
+    ],
+    "note": "Derivatives: determine the value at expiration and profit from a long or a short position in a call or put option"
+  },
+  {
+    "id": "DER-59",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because both a long forward position and a long call option position will gain from an increase in the underlying price."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a contingent claim that benefits from a rise in the underlying price is the sold put option [not a bought put option]."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because both a long forward position and a long [not short] call option position will gain from an increase in the underlying price."
+      }
+    ],
+    "note": "Derivatives: contrast forward commitments with contingent claims"
+  },
+  {
+    "id": "DER-60",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the benefit of the dividend reduces the costs associated with carrying the stock. The cost of carry is the net of the costs and benefits related to owning an underlying asset for a specific period. The cost of carry is the opportunity cost plus other costs of ownership less benefits of ownership, and stock dividends or bond coupons are examples of cash flow benefits."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the benefit of the dividend reduces the costs associated with carrying the stock. The cost of carry is the net of the costs and benefits related to owning an underlying asset for a specific period. The cost of carry is the opportunity cost plus other costs of ownership less benefits of ownership, and stock dividends or bond coupons are examples of cash flow benefits."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the benefit of the dividend reduces the costs associated with carrying the stock. The cost of carry is the net of the costs and benefits related to owning an underlying asset for a specific period. The cost of carry is the opportunity cost plus other costs of ownership less benefits of ownership, and stock dividends or bond coupons are examples of cash flow benefits."
+      }
+    ],
+    "note": "Derivatives: explain the difference between the spot and expected future price of an underlying and the cost of carry associated with holding the underlying asset"
+  },
+  {
+    "id": "DER-61",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the profit for the put buyer (𝜋) is not equal to ST –S0 + Max(0,X-ST)- p0 where ST is the spot price of the underlying, ST is the price of the underlying at expiration, X is the strike price and p0 is the option premium. Therefore, the incorrect calculation yields: -$19 $200-$220+ Max(0,$210-$200)-$9, which includes the loss of $20 of the underlying. Instead, the correct formula is П= Max(0,X-ST)-p0, (profit to the put buyer) which yields: $1 = Max(0,$210 - $200) - $9."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the profit for the put buyer is not equal to -po, the option premium paid, or -$9, since the put option expires in the money. Instead, the correct formula is П = Max(0,X-ST)-Po (profit to the put buyer), where ST is the price of the underlying at expiration, X is the strike price and p0, is the option premium. Therefore, the correct calculation yields: $1 = Max(0,$210 - $200) - $9."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because П = Max(0,X-ST)-p0 (profit to the put buyer), where ST is the price of the underlying at expiration, X is the strike price and p0, is the option premium. Therefore, the Correct calculation yields: $1 = Max(0,$210-$200)-$9."
+      }
+    ],
+    "note": "Derivative: determine the value at expiration and profit from a long or a short position in a call or put option"
+  },
+  {
+    "id": "DER-62",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the discounting feature of the FRA, which is not present in the futures contract, leads to a convexity bias that is greater for longer discounting periods. Since the length of the discounting period depends on the maturity of the underlying market reference rate, 1-month market reference rate results in a shorter discounting period than the 3-month rate. Therefore, it will suffer from a smaller convexity bias."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the discounting feature of the FRA, which is not present in the futures contract, leads to a convexity bias that is greater for longer discounting periods. Since the length of the discounting period depends on the maturity of the underlying market reference rate, 3-month market reference rate results in a longer discounting period than the 1-month rate."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because convexity bias does not exist in interest rate futures contracts since their prices are not based on discounting. The futures contract has a fixed linear payoff profile for a given basis point change. On the other hand, the discounting feature of the FRA, which is not present in the futures contract, leads to a convexity bias that is greater for longer discounting periods."
+      }
+    ],
+    "note": "Derivatives: explain why forward and futures prices differ"
+  },
+  {
+    "id": "DER-63",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the upper no-arbitrage bound of a call price is the underlying's spot price."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the lower [not upper] bound of a call price is the underlying's price minus [not plus] the present value of its exercise price or zero, whichever is greater. Instead, the upper no- arbitrage bound of a call price is the underlying's spot price."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the lower [not upper] bound of a call price is the underlying's price minus the present value of its exercise price or zero, whichever is greater. Instead, the upper no-arbitrage bound of a call price is the underlying's spot price."
+      }
+    ],
+    "note": "Derivatives: contrast the use of arbitrage and replication concepts in pricing forward commitments and contingent claims"
+  },
+  {
+    "id": "DER-64",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": ", because an option is a derivative contract in which one party, the buyer, pays a sum of money to the other party, the seller or writer, and receives the right to either buy or sell an underlying asset at a fixed price either on a specific expiration date or at any time prior to the expiration date. The right to buy is one type of option, referred to as a call or call option. The buyer of a call option has the right to buy the underlying stock."
+      },
+      {
+        "isCorrect": true,
+        "reason": ", because an option is a derivative contract in which one party, the buyer, pays a sum of money to the other party, the seller or writer, and receives the right to either buy or sell an\nunderlying asset at a fixed price either on a specific expiration date or at any time prior to the expiration date. The right to sell is a (another) type of option, referred to as a put or put option."
+      },
+      {
+        "isCorrect": false,
+        "reason": ", because an option is a derivative contract in which one party, the buyer, pays a sum of money to the other party, the seller or writer, and receives the right to either buy or sell an underlying asset at a fixed price either on a specific expiration date or at any time prior to the expiration date. The right to sell is a (another) type of option, referred to as a put or put option. The seller of a put option has the obligation to buy the underlying if the buyer exercises the option."
+      }
+    ],
+    "note": "Derivatives: define forward contracts, futures contracts, swaps, options (calls and puts), and credit derivatives and compare their basic characteristics"
+  },
+  {
+    "id": "DER-65",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because, from the example on the Bloman Contract, the higher risk-free rate increases the opportunity cost of a cash position and lowers the present value of the forward price. The present value of the forward price has decreased, increasing the value to the buyer. If S, is the spot price of the underlying asset at time t, [the the forward contract MTM value at time t, Vt(T), from the long forward position's perspective: 𝑉𝑡(𝑇) = 𝑆𝑡−𝐹𝑜(𝑇)(1 + 𝑟)−(𝑇−𝑡)"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because, from the example on the Bioman Contract, the higher risk-free rate increases the opportunity cost of a cash position and lowers the present value of the forward price. The present value of the forward price has decreased, increasing the value to the buyer. If St is the spot price of the underlying asset at time t, [the equation] shows the forward contract MTM value at time t, Vt(T),from the long forward position's perspective: 𝑉𝑡(𝑇) = 𝑆𝑡−𝐹𝑜(𝑇)(1 + 𝑟)−(𝑇−𝑡)"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because, from the example on the Bioman Contract, the higher risk-free rate increases the opportunity cost of a cash position and lowers the present value of the forward price The present value of the forward price has decreased, increasing the value to the buyer. If St is the spot price of the underlying asset at time t, [the equation] shows the forward contract MTM value at time t, Vt(T), from the long forward position's perspective: 𝑉𝑡(𝑇) = 𝑆𝑡−𝐹𝑜(𝑇)(1 + 𝑟)−(𝑇−𝑡)"
+      }
+    ],
+    "note": "Derivatives: Explain how the value and price of a forward contract are determined at initiation, during the life of the contract, and at expiration."
+  }
+]

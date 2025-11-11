@@ -1,0 +1,43 @@
+{
+  "EQU-29": [
+    ["", "Company 1", "Company 2", "Company 3", "Average"],
+    ["Price/sales", "8.9", "3.2", "5.7", "6.2"],
+    ["Price/book", "5.7", "2.6", "2.3", "4.7"]
+  ],
+  "EQU-34": [
+    [
+      "Company",
+      "Enterprise Value (EV)",
+      "Earnings Before Interest, Taxes, Depreciation, & Amortization (EBITDA)"
+    ],
+    ["1", "$100", "$8"],
+    ["2", "$150", "$10"],
+    ["3", "$200", "$15"]
+  ],
+  "EQU-77": [
+    ["", "Company", "Peer Group"],
+    ["Dividend payout ratio", "40%", "50%"],
+    ["Estimated future dividend growth rate", "5%", "4%"]
+  ],
+  "EQU-81": [
+    ["Stock", "Expected Rate of Return", "Investor’s Required Rate of Return"],
+    ["1", "9%", "9%"],
+    ["2", "13%", "11%"],
+    ["3", "15%", "16%"]
+  ],
+  "EQU-99": [
+    ["", "Current", "Historical"],
+    ["EPS", "$3.00", ""],
+    ["Cash flow per share", "$4.00", ""],
+    ["Book value per share", "$40.00", ""],
+    ["P/B", "", "0.6"],
+    ["P/E", "", "12.0"],
+    ["P/CF", "", "8.0"]
+  ],
+  "EQU-115": [
+    ["Stock", "Beginning of Period Price", "End of Period Price"],
+    ["1", "$10", "$8"],
+    ["2", "$20", "$24"],
+    ["3", "$30", "$30"]
+  ]
+}

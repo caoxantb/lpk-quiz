@@ -1,0 +1,1577 @@
+[
+  {
+    "id": "FI-1",
+    "question": "If an issuer is required to retire a specified portion of the bond's principal each year, the bond most likely.",
+    "solutions": [
+      {
+        "answer": "is callable"
+      },
+      {
+        "answer": "is a step-up note"
+      },
+      {
+        "answer": "has a sinking fund provision"
+      }
+    ]
+  },
+  {
+    "id": "FI-2",
+    "question": "A five-year semiannual bond has a yield to maturity of 8%. Converted to a quarterly periodicity, the yield to maturity is closest to:",
+    "solutions": [
+      {
+        "answer": "1.98%"
+      },
+      {
+        "answer": "3.92%"
+      },
+      {
+        "answer": "7.92%"
+      }
+    ]
+  },
+  {
+    "id": "FI-3",
+    "question": "The key rate duration best measures a bond's sensitivity to a change in the:",
+    "solutions": [
+      {
+        "answer": "level of the yield-to-maturity"
+      },
+      {
+        "answer": "slope of the yield-to-worst curve"
+      },
+      {
+        "answer": "shape of the benchmark yield curve"
+      }
+    ]
+  },
+  {
+    "id": "FI-4",
+    "question": "A bond priced at 99.4 has a modified duration of 6.9 and an annual convexity statistic of - 212. If the market yield increases by 75 basis points, the price of this bond is closest to",
+    "solutions": [
+      {
+        "answer": "93.7"
+      },
+      {
+        "answer": "94.3"
+      },
+      {
+        "answer": "94.9"
+      }
+    ]
+  },
+  {
+    "id": "FI-5",
+    "question": "If interest rates rise over the holding period, the total return of a coupon bond held until maturity is most likely to be:",
+    "solutions": [
+      {
+        "answer": "less than the yield to maturity at purchase"
+      },
+      {
+        "answer": "equal to the yield to maturity at purchase"
+      },
+      {
+        "answer": "greater than the yield to maturity at purchase"
+      }
+    ]
+  },
+  {
+    "id": "FI-6",
+    "question": "A bond that allows the issuer to pay interest in the form of additional amounts of the existing bond issue rather than\na cash payment best describes a",
+    "solutions": [
+      {
+        "answer": "step-up coupon bond"
+      },
+      {
+        "answer": "deferred coupon bond"
+      },
+      {
+        "answer": "payment-in-kind coupon bond"
+      }
+    ]
+  },
+  {
+    "id": "FI-7",
+    "question": "In the event of default, investors in covered bonds most likely have recourse against:",
+    "solutions": [
+      {
+        "answer": "the issuer only"
+      },
+      {
+        "answer": "a segregated pool of assets only"
+      },
+      {
+        "answer": "both the issuer and a segregated pool of assets"
+      }
+    ]
+  },
+  {
+    "id": "FI-8",
+    "question": "In the securitization process, the trustee most likely.",
+    "solutions": [
+      {
+        "answer": "sells the underlying collateral"
+      },
+      {
+        "answer": "owns the underlying collateral"
+      },
+      {
+        "answer": "holds the underlying collateral"
+      }
+    ]
+  },
+  {
+    "id": "FI-9",
+    "question": "The coupon of a residential mortgage-backed security is the:",
+    "solutions": [
+      {
+        "answer": "pass-through rate"
+      },
+      {
+        "answer": "weighted average coupon rate"
+      },
+      {
+        "answer": "rate on the underlying pool of mortgages"
+      }
+    ]
+  },
+  {
+    "id": "FI-10",
+    "question": "The stated annual yield to maturity on a semiannual bond basis is 3.66%. The effective annual yield is closest to:",
+    "solutions": [
+      {
+        "answer": "3.63%"
+      },
+      {
+        "answer": "3.69%"
+      },
+      {
+        "answer": "7.45%"
+      }
+    ]
+  },
+  {
+    "id": "FI-11",
+    "question": "In a securitization, the purchase agreement between the seller of the collateral and the special purpose entity most likely provides:",
+    "solutions": [
+      {
+        "answer": "a description of the transaction structure"
+      },
+      {
+        "answer": "representations about the quality of the assets"
+      },
+      {
+        "answer": "documentation of enhancements used to reduce credit risk"
+      }
+    ]
+  },
+  {
+    "id": "FI-12",
+    "question": "An analyst gathers the following information about a bond:\nThe approximate convexity of this bond is closest to:",
+    "solutions": [
+      {
+        "answer": "521"
+      },
+      {
+        "answer": "1,042"
+      },
+      {
+        "answer": "2,604"
+      }
+    ]
+  },
+  {
+    "id": "FI-13",
+    "question": "A break-even reinvestment rate is most likely equivalent to a(n):",
+    "solutions": [
+      {
+        "answer": "par rate"
+      },
+      {
+        "answer": "spot rate"
+      },
+      {
+        "answer": "implied forward rate"
+      }
+    ]
+  },
+  {
+    "id": "FI-14",
+    "question": "A bond trading at its no-arbitrage value is priced at a premium. The sum of the present value of the bond's cash flows discounted at spot rates is:",
+    "solutions": [
+      {
+        "answer": "less than the sum of the present values of the bond's cash flows discounted at its yield to maturity"
+      },
+      {
+        "answer": "equal to the sum of the present values of the bond's cash flows discounted at its yield to maturity"
+      },
+      {
+        "answer": "greater than the sum of the present values of the bond's cash flows discounted at its yield to maturity"
+      }
+    ]
+  },
+  {
+    "id": "FI-15",
+    "question": "An analyst gathers the following information about a company that only has senior unsecured debt.\nIn a bankruptcy scenario, if the priority of claims is enforced, it is most likely that",
+    "solutions": [
+      {
+        "answer": "fixed-rate bond is repaid first because it matures earlier"
+      },
+      {
+        "answer": "both bondholders are repaid proportionally to the amount owed"
+      },
+      {
+        "answer": "FRN is repaid first because it has the highest amount outstanding"
+      }
+    ]
+  },
+  {
+    "id": "FI-16",
+    "question": "All else being equal, reinvestment risk is greatest for:",
+    "solutions": [
+      {
+        "answer": "putable bonds"
+      },
+      {
+        "answer": "callable bonds"
+      },
+      {
+        "answer": "non-callable convertible bonds"
+      }
+    ]
+  },
+  {
+    "id": "FI-17",
+    "question": "An analyst is concerned that a bond might be downgraded one category by Standard & Poor's and become non- investment grade. The current rating of this bond is most likely.",
+    "solutions": [
+      {
+        "answer": "A-"
+      },
+      {
+        "answer": "BB-"
+      },
+      {
+        "answer": "BBB-"
+      }
+    ]
+  },
+  {
+    "id": "FI-18",
+    "question": "A corporation with a holding company structure has debt at both its parent holding company and operating subsidiaries Debt at the operating level must be serviced before funds can be upstreamed to pay debt at the holding company. This arrangement best describes:",
+    "solutions": [
+      {
+        "answer": "structural subordination"
+      },
+      {
+        "answer": "a cross-default provision"
+      },
+      {
+        "answer": "the corporate family rating"
+      }
+    ]
+  },
+  {
+    "id": "FI-19",
+    "question": "For an option-free fixed-rate bond trading at a premium, as the coupon payment date approaches, Macaulay duration most likely",
+    "solutions": [
+      {
+        "answer": "decreases"
+      },
+      {
+        "answer": "remains constant"
+      },
+      {
+        "answer": "increases"
+      }
+    ]
+  },
+  {
+    "id": "FI-20",
+    "question": "Using the rating scale from Standard & Poor's or Fitch, the lowest rating for an investment-grade bond is",
+    "solutions": [
+      {
+        "answer": "BBB-"
+      },
+      {
+        "answer": "BBB"
+      },
+      {
+        "answer": "BBB+"
+      }
+    ]
+  },
+  {
+    "id": "FI-21",
+    "question": "The EBITDA/interest expense ratio is best classified as a:",
+    "solutions": [
+      {
+        "answer": "leverage ratio"
+      },
+      {
+        "answer": "coverage ratio"
+      },
+      {
+        "answer": "profitability ratio"
+      }
+    ]
+  },
+  {
+    "id": "FI-22",
+    "question": "Which of the following statements is most accurate? US commercial paper typically:",
+    "solutions": [
+      {
+        "answer": "requires the issuer to pledge collateral"
+      },
+      {
+        "answer": "requires the issuer to have a backup line of credit"
+      },
+      {
+        "answer": "has a maturity ranging from a few days up to two years"
+      }
+    ]
+  },
+  {
+    "id": "FI-23",
+    "question": "The current yield for a 4.5% coupon, 10-year bond, with a maturity par value of $100 and currently priced at $85.70\nis closest to:",
+    "solutions": [
+      {
+        "answer": "4.50%"
+      },
+      {
+        "answer": "5.25%"
+      },
+      {
+        "answer": "5.93%"
+      }
+    ]
+  },
+  {
+    "id": "FI-24",
+    "question": "Which of the following types of collateralized debt obligations (CDOS) are most likely backed by asset-backed securities?",
+    "solutions": [
+      {
+        "answer": "Structured finance CDOS"
+      },
+      {
+        "answer": "Collateralized loan obligations"
+      },
+      {
+        "answer": "Collateralized bond obligations"
+      }
+    ]
+  },
+  {
+    "id": "FI-25",
+    "question": "An analyst gathers the following information about a 6% coupon bond currently trading at par:\nThe bond's effective duration is closest to:",
+    "solutions": [
+      {
+        "answer": "3.75"
+      },
+      {
+        "answer": "7.45"
+      },
+      {
+        "answer": "7.50"
+      }
+    ]
+  },
+  {
+    "id": "FI-26",
+    "question": "An analyst gathers the following information about a pension plan's liabilities:\nIf interest rates are currently 1.0%, the effective duration of the liabilities is closest to:",
+    "solutions": [
+      {
+        "answer": "6.5"
+      },
+      {
+        "answer": "12.9"
+      },
+      {
+        "answer": "25.8"
+      }
+    ]
+  },
+  {
+    "id": "FI-27",
+    "question": "Which of the following is a curve duration measure?",
+    "solutions": [
+      {
+        "answer": "Modified duration"
+      },
+      {
+        "answer": "Effective duration"
+      },
+      {
+        "answer": "Macaulay duration"
+      }
+    ]
+  },
+  {
+    "id": "FI-28",
+    "question": "Bonds issued in the Eurobond market are most likely.",
+    "solutions": [
+      {
+        "answer": "denominated only in euros"
+      },
+      {
+        "answer": "in the form of registered bonds"
+      },
+      {
+        "answer": "issued within the jurisdiction of the issuer's home country"
+      }
+    ]
+  },
+  {
+    "id": "FI-29",
+    "question": "For a coupon bond with a negative yield, compounding more frequently within the year results in a yield-to-maturity that is:",
+    "solutions": [
+      {
+        "answer": "more negative"
+      },
+      {
+        "answer": "the same"
+      },
+      {
+        "answer": "less negative"
+      }
+    ]
+  },
+  {
+    "id": "FI-30",
+    "question": "All else being equal, expected loss for a debt instrument:",
+    "solutions": [
+      {
+        "answer": "is independent of the recovery rate"
+      },
+      {
+        "answer": "decreases as the recovery rate increases"
+      },
+      {
+        "answer": "changes proportionally to the recovery rate"
+      }
+    ]
+  },
+  {
+    "id": "FI-31",
+    "question": "Matrix pricing is most likely used to estimate the price of a bond that",
+    "solutions": [
+      {
+        "answer": "is highly liquid"
+      },
+      {
+        "answer": "is not yet issued"
+      },
+      {
+        "answer": "has unknown credit quality"
+      }
+    ]
+  },
+  {
+    "id": "FI-32",
+    "question": "All else being equal, the risk of a strategic default for a non-recourse mortgage is most likely.",
+    "solutions": [
+      {
+        "answer": "lower than for a recourse mortgage"
+      },
+      {
+        "answer": "the same as for a recourse mortgage"
+      },
+      {
+        "answer": "greater than for a recourse mortgage"
+      }
+    ]
+  },
+  {
+    "id": "FI-33",
+    "question": "For bonds with embedded options, the most appropriate measure of price sensitivity to interest rate changes is:",
+    "solutions": [
+      {
+        "answer": "effective duration"
+      },
+      {
+        "answer": "modified duration"
+      },
+      {
+        "answer": "Macaulay duration"
+      }
+    ]
+  },
+  {
+    "id": "FI-34",
+    "question": "For a bond with an embedded option, effective duration is the most appropriate measure of interest rate risk because the bond's:",
+    "solutions": [
+      {
+        "answer": "future cash flows are uncertain"
+      },
+      {
+        "answer": "internal rate of return is well-defined"
+      },
+      {
+        "answer": "pricing is sensitive to changes in credit spreads"
+      }
+    ]
+  },
+  {
+    "id": "FI-35",
+    "question": "An analyst gathers the following information about a spot curve:\nIf the coupon rate of a 3-year annual-pay bond is 4%, the price of the bond is closest to:",
+    "solutions": [
+      {
+        "answer": "97.28"
+      },
+      {
+        "answer": "99.86"
+      },
+      {
+        "answer": "100.00"
+      }
+    ]
+  },
+  {
+    "id": "FI-36",
+    "question": "The price of an option-free bond increases by 7% when the yield to maturity decreases by 100 basis points. If the price of this bond decreases by 7%, the yield to maturity most likely increases by:",
+    "solutions": [
+      {
+        "answer": "less than 100 basis points"
+      },
+      {
+        "answer": "100 basis points"
+      },
+      {
+        "answer": "more than 100 basis points"
+      }
+    ]
+  },
+  {
+    "id": "FI-37",
+    "question": "All else being equal, the absolute value of the percentage price change for an option-free bond is most likely",
+    "solutions": [
+      {
+        "answer": "less when the market discount rate decreases than when it increases by the same amount"
+      },
+      {
+        "answer": "the same whether the market discount rate decreases or increases by the same amount"
+      },
+      {
+        "answer": "greater when the market discount rate decreases than when it increases by the same amount"
+      }
+    ]
+  },
+  {
+    "id": "FI-38",
+    "question": "An analyst gathers the following information about three option-free bonds:\nAll else being equal, if the market discount rate decreases by 50 basis points, the bond most likely to experience the greatest percentage price change is:",
+    "solutions": [
+      {
+        "answer": "Bond 1"
+      },
+      {
+        "answer": "Bond 2"
+      },
+      {
+        "answer": "Bond 3"
+      }
+    ]
+  },
+  {
+    "id": "FI-39",
+    "question": "Implied forward rates are best defined as the:",
+    "solutions": [
+      {
+        "answer": "geometric average of spot rates"
+      },
+      {
+        "answer": "breakeven reinvestment rates between zero-coupon bonds"
+      },
+      {
+        "answer": "current yield to maturity on zero-coupon bonds of different maturities"
+      }
+    ]
+  },
+  {
+    "id": "FI-40",
+    "question": "Effective duration is the most appropriate measure of interest rate risk for a bond with an embedded option because the bond does not have a well-defined:",
+    "solutions": [
+      {
+        "answer": "effective convexity"
+      },
+      {
+        "answer": "internal rate of return"
+      },
+      {
+        "answer": "curve duration statistic"
+      }
+    ]
+  },
+  {
+    "id": "FI-41",
+    "question": "When interest rates increase, mortgage-backed securities most likely exhibit increased:",
+    "solutions": [
+      {
+        "answer": "extension risk"
+      },
+      {
+        "answer": "contraction risk"
+      },
+      {
+        "answer": "reinvestment risk"
+      }
+    ]
+  },
+  {
+    "id": "FI-42",
+    "question": "Tightening corporate bond yield spreads are most likely associated with:",
+    "solutions": [
+      {
+        "answer": "issuers' deteriorating creditworthiness"
+      },
+      {
+        "answer": "periods of high demand for corporate bonds"
+      },
+      {
+        "answer": "broker-dealers' reduced ability and willingness to make markets"
+      }
+    ]
+  },
+  {
+    "id": "FI-43",
+    "question": "In a repurchase agreement:",
+    "solutions": [
+      {
+        "answer": "only the lender of funds is exposed to credit risk"
+      },
+      {
+        "answer": "credit risk is eliminated by using highly rated sovereign bonds as collateral"
+      },
+      {
+        "answer": "the initial margin offers partial protection against changes in the market value of the collateral"
+      }
+    ]
+  },
+  {
+    "id": "FI-44",
+    "question": "With respect to a bond with an embedded option, for parallel shifts in the benchmark yield curve, effective duration most likely indicates the same interest rate sensitivity as:",
+    "solutions": [
+      {
+        "answer": "key rate durations"
+      },
+      {
+        "answer": "modified duration"
+      },
+      {
+        "answer": "Macaulay duration"
+      }
+    ]
+  },
+  {
+    "id": "FI-45",
+    "question": "In a securitization, a senior/subordinated structure is most likely a form of",
+    "solutions": [
+      {
+        "answer": "time tranching"
+      },
+      {
+        "answer": "credit tranching"
+      },
+      {
+        "answer": "prepayment risk management"
+      }
+    ]
+  },
+  {
+    "id": "FI-46",
+    "question": "Modified duration is the most appropriate measure of interest rate risk for which of the following securities?",
+    "solutions": [
+      {
+        "answer": "Callable bond"
+      },
+      {
+        "answer": "US Treasury bond"
+      },
+      {
+        "answer": "Mortgage-backed bond"
+      }
+    ]
+  },
+  {
+    "id": "FI-47",
+    "question": "The percentage price change for a bond, given a change in its yield to maturity, is best estimated by:",
+    "solutions": [
+      {
+        "answer": "effective duration"
+      },
+      {
+        "answer": "modified duration"
+      },
+      {
+        "answer": "Macaulay duration"
+      }
+    ]
+  },
+  {
+    "id": "FI-48",
+    "question": "An analyst gathers the following information about an annual-pay bond:\nCoupon rate 6.0%\nYield to maturity 4.5%\nMacaulay duration 10.0\nIf the yield to maturity decreases by 100 basis points, the expected percentage change in the bond's price is closest to:",
+    "solutions": [
+      {
+        "answer": "9.43%"
+      },
+      {
+        "answer": "9.57%"
+      },
+      {
+        "answer": "10.00%"
+      }
+    ]
+  },
+  {
+    "id": "FI-49",
+    "question": "Which of the following is most likely a negative covenant?",
+    "solutions": [
+      {
+        "answer": "The issuer must comply with all laws and regulations"
+      },
+      {
+        "answer": "The issuance of new debt must be junior to existing bondholder debt"
+      },
+      {
+        "answer": "New debt obligations are treated the same as the borrower's other senior debt instruments"
+      }
+    ]
+  },
+  {
+    "id": "FI-50",
+    "question": "An analyst gathers the following information about a 4% annual-payment bond with a current yield-to-maturity of 4.0%:\nThe bond's annualized Macaulay duration is closest to:",
+    "solutions": [
+      {
+        "answer": "4.28"
+      },
+      {
+        "answer": "4.45"
+      },
+      {
+        "answer": "4.63"
+      }
+    ]
+  },
+  {
+    "id": "FI-51",
+    "question": "An analyst gathers the following information about a company (in $ millions):\n• Operating income 120 • Net income 85 • Interest expense 15 • Depreciation and amortization 15\nInterest coverage using EBIT is closest to:",
+    "solutions": [
+      {
+        "answer": "7x"
+      },
+      {
+        "answer": "8x"
+      },
+      {
+        "answer": "9x"
+      }
+    ]
+  },
+  {
+    "id": "FI-52",
+    "question": "Which of the following duration statistics best measures the sensitivity of a bond's price to a flattening of the yield curve?",
+    "solutions": [
+      {
+        "answer": "Key rate duration"
+      },
+      {
+        "answer": "Effective duration"
+      },
+      {
+        "answer": "Macaulay duration"
+      }
+    ]
+  },
+  {
+    "id": "FI-53",
+    "question": "All else being equal, an investment-grade bond issuer most likely has:",
+    "solutions": [
+      {
+        "answer": "less market liquidity risk than a below-investment-grade issuer"
+      },
+      {
+        "answer": "the same market liquidity risk as a below-investment-grade issuer"
+      },
+      {
+        "answer": "greater market liquidity risk than a below-investment-grade issuer"
+      }
+    ]
+  },
+  {
+    "id": "FI-54",
+    "question": "An analyst gathers the following information about an option-free bond:\nIf yields are expected to decrease by 50 basis points, the expected price change for the bond is closest to:",
+    "solutions": [
+      {
+        "answer": "$11,000"
+      },
+      {
+        "answer": "$22,000"
+      },
+      {
+        "answer": "$24,000"
+      }
+    ]
+  },
+  {
+    "id": "FI-55",
+    "question": "The price value of a basis point (PVBP) for a bond with a full price of 103.50 and a modified duration of 6.2 is closest to:",
+    "solutions": [
+      {
+        "answer": "0.0642"
+      },
+      {
+        "answer": "0.6420"
+      },
+      {
+        "answer": "6.4200"
+      }
+    ]
+  },
+  {
+    "id": "FI-56",
+    "question": "An analyst gathers the following details about a bond portfolio:\nIf each bond has a par value of £25 million, the modified duration of this bond portfolio is closest to:",
+    "solutions": [
+      {
+        "answer": "5.8"
+      },
+      {
+        "answer": "6.1"
+      },
+      {
+        "answer": "6.2"
+      }
+    ]
+  },
+  {
+    "id": "FI-57",
+    "question": "With respect to the credit rating agencies' practice of notching, the size of a notching adjustment:",
+    "solutions": [
+      {
+        "answer": "is larger for higher-rated credits"
+      },
+      {
+        "answer": "is standardized between rating agencies"
+      },
+      {
+        "answer": "depends on the rating of the issuer's senior unsecured debt"
+      }
+    ]
+  },
+  {
+    "id": "FI-58",
+    "question": "Which of the following is most likely a key factor in the credit analysis of revenue-backed non- sovereign government bonds?",
+    "solutions": [
+      {
+        "answer": "Per capita income"
+      },
+      {
+        "answer": "Breadth of the tax base"
+      },
+      {
+        "answer": "Debt-service-coverage ratio of the project"
+      }
+    ]
+  },
+  {
+    "id": "FI-59",
+    "question": "An analyst observes the following yields to maturity on zero-coupon government bonds:\nThe 2y1y implied forward rate is closest to:",
+    "solutions": [
+      {
+        "answer": "4.5%"
+      },
+      {
+        "answer": "5.5%"
+      },
+      {
+        "answer": "6.6%"
+      }
+    ]
+  },
+  {
+    "id": "FI-60",
+    "question": "An analyst gathers the following information:\nBased only on this information, the estimated market discount rate for a 5-year bond with similar credit quality is:",
+    "solutions": [
+      {
+        "answer": "4.2%"
+      },
+      {
+        "answer": "4.4%"
+      },
+      {
+        "answer": "4.6%"
+      }
+    ]
+  },
+  {
+    "id": "FI-61",
+    "question": "Compared to an otherwise similar option-free bond, investors require a higher yield for a corporate bond with a:",
+    "solutions": [
+      {
+        "answer": "put provision"
+      },
+      {
+        "answer": "call provision"
+      },
+      {
+        "answer": "conversion provision"
+      }
+    ]
+  },
+  {
+    "id": "FI-62",
+    "question": "The price of a bond issued in the United Kingdom by a US-based company and denominated in British pounds most likely changes when:",
+    "solutions": [
+      {
+        "answer": "US interest rates change only"
+      },
+      {
+        "answer": "British interest rates change only"
+      },
+      {
+        "answer": "both US and British interest rates change"
+      }
+    ]
+  },
+  {
+    "id": "FI-63",
+    "question": "A floating-rate note makes semiannual interest payments and has a coupon rate equal to the six-month market reference rate plus 45 basis points. The interest payments are made in June and December. If the six-month market reference rate was 1.95% in June and 2.25% in December of the same year, the coupon rate paid in December of that year was closest to",
+    "solutions": [
+      {
+        "answer": "2.40%"
+      },
+      {
+        "answer": "2.55%"
+      },
+      {
+        "answer": "2.70%"
+      }
+    ]
+  },
+  {
+    "id": "FI-64",
+    "question": "An analyst observes the following price-yield relationship for an option-free bond:\nIf the bond trades at 101.80 per 100 of par value, its approximate modified duration is closest to:",
+    "solutions": [
+      {
+        "answer": "1.72"
+      },
+      {
+        "answer": "2.25"
+      },
+      {
+        "answer": "3.44"
+      }
+    ]
+  },
+  {
+    "id": "FI-65",
+    "question": "An analyst gathers the following information about a bond which is currently trading at 95.35 per 100 par\nThe effective duration of the bond is closest to:",
+    "solutions": [
+      {
+        "answer": "6.5"
+      },
+      {
+        "answer": "7.6"
+      },
+      {
+        "answer": "8.7"
+      }
+    ]
+  },
+  {
+    "id": "FI-66",
+    "question": "An analyst gathers the following information about a bond:\nPar value 100\nCoupon rate 5.50%\nCoupon frequency Annual\nTime to maturity 5 years\nHolding period 3 years\nIf the market discount rate is 4.75% for the holding period, the future value of reinvested coupons at the end of the holding period is closest to:",
+    "solutions": [
+      {
+        "answer": "15.05"
+      },
+      {
+        "answer": "17.30"
+      },
+      {
+        "answer": "18.12"
+      }
+    ]
+  },
+  {
+    "id": "FI-67",
+    "question": "Bonds are quoted using the:",
+    "solutions": [
+      {
+        "answer": "full price and settled using the flat price"
+      },
+      {
+        "answer": "flat price and settled using the full price"
+      },
+      {
+        "answer": "\"dirty\" price and settled using the invoice price"
+      }
+    ]
+  },
+  {
+    "id": "FI-68",
+    "question": "Which of the following does not depend on the market discount rate? A bond's:",
+    "solutions": [
+      {
+        "answer": "flat price"
+      },
+      {
+        "answer": "full price"
+      },
+      {
+        "answer": "accrued interest"
+      }
+    ]
+  },
+  {
+    "id": "FI-69",
+    "question": "An investor determines the following information about the price sensitivity of an option- free bond:\nIf the current price is 106, the duration of this bond is closest to:",
+    "solutions": [
+      {
+        "answer": "2.1"
+      },
+      {
+        "answer": "2.8"
+      },
+      {
+        "answer": "3.0"
+      }
+    ]
+  },
+  {
+    "id": "FI-70",
+    "question": "The number of common shares a convertible bond can be converted into is the:",
+    "solutions": [
+      {
+        "answer": "conversion ratio"
+      },
+      {
+        "answer": "conversion price"
+      },
+      {
+        "answer": "conversion value"
+      }
+    ]
+  },
+  {
+    "id": "FI-71",
+    "question": "A credit card receivable asset-backed security most likely.",
+    "solutions": [
+      {
+        "answer": "faces high prepayment risk"
+      },
+      {
+        "answer": "uses fully-amortizing loans as collateral"
+      },
+      {
+        "answer": "reinvests principal repayments during the lockout period"
+      }
+    ]
+  },
+  {
+    "id": "FI-72",
+    "question": "An analyst gathers the following information about a bond currently trading at par.\nThe effective duration of this bond is closest to:",
+    "solutions": [
+      {
+        "answer": "2.5"
+      },
+      {
+        "answer": "5.0"
+      },
+      {
+        "answer": "10.0"
+      }
+    ]
+  },
+  {
+    "id": "FI-73",
+    "question": "An analyst gathers the following spot and forward rates:\n2-year spot rate 1.0%\n4-year spot rate 2.5%\n4-year forward rate, two years from today 3.0%\nThe 2-year forward rate, four years from today is closest to:",
+    "solutions": [
+      {
+        "answer": "2%"
+      },
+      {
+        "answer": "3%"
+      },
+      {
+        "answer": "4%"
+      }
+    ]
+  },
+  {
+    "id": "FI-74",
+    "question": "A bond issuer has a credit rating of BBB. Based only on this information, the rating of a senior unsecured bond from this issuer is most likely to be:",
+    "solutions": [
+      {
+        "answer": "lower than BBB"
+      },
+      {
+        "answer": "BBB"
+      },
+      {
+        "answer": "higher than BBB"
+      }
+    ]
+  },
+  {
+    "id": "FI-75",
+    "question": "An analyst gathers the following information about a zero-coupon bond:\nIf the yield decreases by 1%, the bond's percentage change in price is closest to:",
+    "solutions": [
+      {
+        "answer": "4.76%"
+      },
+      {
+        "answer": "5.05%"
+      },
+      {
+        "answer": "5.14%"
+      }
+    ]
+  },
+  {
+    "id": "FI-76",
+    "question": "The Macaulay duration of a zero-coupon bond is most likely.",
+    "solutions": [
+      {
+        "answer": "less than the time to maturity"
+      },
+      {
+        "answer": "equal to the time to maturity"
+      },
+      {
+        "answer": "greater than the time to maturity"
+      }
+    ]
+  },
+  {
+    "id": "FI-77",
+    "question": "US municipal bonds are best described as:",
+    "solutions": [
+      {
+        "answer": "agency bonds"
+      },
+      {
+        "answer": "non-sovereign bonds"
+      },
+      {
+        "answer": "quasi-government bonds"
+      }
+    ]
+  },
+  {
+    "id": "FI-78",
+    "question": "A bond portfolio consists of the following option-free annual-pay coupon bonds:\nThe modified duration of this portfolio is closest to:",
+    "solutions": [
+      {
+        "answer": "5.9"
+      },
+      {
+        "answer": "6.0"
+      },
+      {
+        "answer": "6.1"
+      }
+    ]
+  },
+  {
+    "id": "FI-79",
+    "question": "An analyst gathers the following information about forward rates:\nUsing only this information, the price per 100 of par value of a 3-year, 1% annual coupon bond is closest to:",
+    "solutions": [
+      {
+        "answer": "84.05"
+      },
+      {
+        "answer": "91.74"
+      },
+      {
+        "answer": "96.23"
+      }
+    ]
+  },
+  {
+    "id": "FI-80",
+    "question": "With respect to interest rate risk, an investor who sells a fixed-rate bond after the first coupon is received and before its maturity is exposed to:",
+    "solutions": [
+      {
+        "answer": "market price risk, only"
+      },
+      {
+        "answer": "coupon reinvestment risk, only"
+      },
+      {
+        "answer": "both market price risk and coupon reinvestment risk"
+      }
+    ]
+  },
+  {
+    "id": "FI-81",
+    "question": "For an option-free fixed-rate corporate bond, the duration and convexity statistics are most likely relevant for a change in:",
+    "solutions": [
+      {
+        "answer": "the credit spread only"
+      },
+      {
+        "answer": "the benchmark yield only"
+      },
+      {
+        "answer": "both the credit spread and the benchmark yield.]"
+      }
+    ]
+  },
+  {
+    "id": "FI-82",
+    "question": "An analyst gathers the following information about a callable bond that pays interest annually:\nThis bond's yield to worst is the:",
+    "solutions": [
+      {
+        "answer": "yield to maturity"
+      },
+      {
+        "answer": "yield to first call"
+      },
+      {
+        "answer": "vield to second call"
+      }
+    ]
+  },
+  {
+    "id": "FI-83",
+    "question": "An analyst gathers the following information about three option-free bonds, each trading at a premium:\nAll else being equal, the bond with the lowest Macaulay duration is most likely.",
+    "solutions": [
+      {
+        "answer": "Bond 1"
+      },
+      {
+        "answer": "Bond 2"
+      },
+      {
+        "answer": "Bond 3"
+      }
+    ]
+  },
+  {
+    "id": "FI-84",
+    "question": "An analyst gathers the following information about a bond:\nClean price (per 100 of par value) 114.75\nAnnual modified duration 4.8250\nMacaulay duration (years) 4.9469\nAccrued interest (per 100 of par value) 1.6250\nThe bond's money duration (per 100 of par value) is closest to:",
+    "solutions": [
+      {
+        "answer": "553.67"
+      },
+      {
+        "answer": "561.51"
+      },
+      {
+        "answer": "575.70"
+      }
+    ]
+  },
+  {
+    "id": "FI-85",
+    "question": "Effective duration is:",
+    "solutions": [
+      {
+        "answer": "a useful interest rate risk measure only for bonds with embedded options"
+      },
+      {
+        "answer": "an accurate estimate of interest rate risk only when the assumed benchmark rate change is small"
+      },
+      {
+        "answer": "the same as the modified duration of an option-free bond only when the yield curve is perfectly flat"
+      }
+    ]
+  },
+  {
+    "id": "FI-86",
+    "question": "An investor gathers the following information about a bond portfolio comprised of two option-free bonds:\nThe duration of the portfolio is closest to:",
+    "solutions": [
+      {
+        "answer": "4.33"
+      },
+      {
+        "answer": "4.40"
+      },
+      {
+        "answer": "455"
+      }
+    ]
+  },
+  {
+    "id": "FI-87",
+    "question": "An analyst gathers the following information about a bond that pays interest annually:\nCoupon rate 4%\nTime-to-maturity 3 years\nPar value $100,000\nIf the market discount rate is 5%, the market value of this bond is closest to:",
+    "solutions": [
+      {
+        "answer": "$89,839"
+      },
+      {
+        "answer": "$97,277"
+      },
+      {
+        "answer": "$102,775"
+      }
+    ]
+  },
+  {
+    "id": "FI-88",
+    "question": "Which of the following mortgage features most likely benefits the lender?",
+    "solutions": [
+      {
+        "answer": "Non-recourse loan"
+      },
+      {
+        "answer": "Prepayment option"
+      },
+      {
+        "answer": "Prepayment penalty"
+      }
+    ]
+  },
+  {
+    "id": "FI-89",
+    "question": "With respect to the notching process adopted by credit rating agencies, a corporate's subordinated debt is most likely.",
+    "solutions": [
+      {
+        "answer": "notched up from the corporate's junior subordinated debt"
+      },
+      {
+        "answer": "subject to a smaller notching adjustment the higher the corporate's issuer rating"
+      },
+      {
+        "answer": "notched down from the corporate's issuer rating due to higher probability of default"
+      }
+    ]
+  },
+  {
+    "id": "FI-90",
+    "question": "Money market yields are:",
+    "solutions": [
+      {
+        "answer": "annualized and compounded"
+      },
+      {
+        "answer": "stated for a common periodicity"
+      },
+      {
+        "answer": "stated on a simple interest basis"
+      }
+    ]
+  },
+  {
+    "id": "FI-91",
+    "question": "A portfolio manager gathers the following information about an option-free bond that was held to maturity:\n• Realized horizon yield 4.2% • Reinvestment rate 4.1%\nThe yield to maturity at purchase was most likely.",
+    "solutions": [
+      {
+        "answer": "less than 4.2%"
+      },
+      {
+        "answer": "equal to 4.2%"
+      },
+      {
+        "answer": "greater than 4.2%"
+      }
+    ]
+  },
+  {
+    "id": "FI-92",
+    "question": "A three-year, semiannual-pay bond with a $100 par value and a 5% coupon rate is purchased for $108. One year later , if the yield to maturity has decreased by 100 basis points, the change in the value of this bond is closest to:",
+    "solutions": [
+      {
+        "answer": "$0.57"
+      },
+      {
+        "answer": "$1.52"
+      },
+      {
+        "answer": "$3.08"
+      }
+    ]
+  },
+  {
+    "id": "FI-93",
+    "question": "The yield spread of a specific bond over the standard swap rate in that currency of the same tenor best describes the",
+    "solutions": [
+      {
+        "answer": "I-spread"
+      },
+      {
+        "answer": "Z-spread"
+      },
+      {
+        "answer": "option-adjusted spread"
+      }
+    ]
+  },
+  {
+    "id": "FI-94",
+    "question": "For a fixed-rate bond, when interest rates decrease, the future value of reinvested coupon payments most likely.",
+    "solutions": [
+      {
+        "answer": "decreases and the market price of the bond increases"
+      },
+      {
+        "answer": "increases and the market price of the bond decreases"
+      },
+      {
+        "answer": "increases and the market price of the bond increases"
+      }
+    ]
+  },
+  {
+    "id": "FI-96",
+    "question": "Which of the following debt categories has the highest ranking in terms of priority of payment?",
+    "solutions": [
+      {
+        "answer": "Second lien debt"
+      },
+      {
+        "answer": "Subordinated debt"
+      },
+      {
+        "answer": "Senior unsecured debt"
+      }
+    ]
+  },
+  {
+    "id": "FI-97",
+    "question": "In a securitization, time tranching most likely refers to differences in:",
+    "solutions": [
+      {
+        "answer": "default risk"
+      },
+      {
+        "answer": "expected maturities"
+      },
+      {
+        "answer": "underlying collateral"
+      }
+    ]
+  },
+  {
+    "id": "FI-98",
+    "question": "For a floating-rate note, the specified yield spread over the reference rate best defines the:",
+    "solutions": [
+      {
+        "answer": "coupon"
+      },
+      {
+        "answer": "quoted margin"
+      },
+      {
+        "answer": "required margin"
+      }
+    ]
+  },
+  {
+    "id": "FI-99",
+    "question": "An investor holds a bond with the following characteristics:\n• Yield to maturity 9% • Modified duration 7.4\nIf the duration gap is zero, the investment horizon is closest to:",
+    "solutions": [
+      {
+        "answer": "6.8 years"
+      },
+      {
+        "answer": "7.4 years"
+      },
+      {
+        "answer": "8.1 years"
+      }
+    ]
+  },
+  {
+    "id": "FI-100",
+    "question": "All else being equal, when the market interest rate falls below a bond's coupon rate, potential price appreciation is most limited for a:",
+    "solutions": [
+      {
+        "answer": "putable bond"
+      },
+      {
+        "answer": "callable bond"
+      },
+      {
+        "answer": "option-free bond"
+      }
+    ]
+  },
+  {
+    "id": "FI-101",
+    "question": "Callable bonds exhibit:",
+    "solutions": [
+      {
+        "answer": "positive convexity only"
+      },
+      {
+        "answer": "negative convexity only"
+      },
+      {
+        "answer": "either positive or negative convexity"
+      }
+    ]
+  },
+  {
+    "id": "FI-102",
+    "question": "An investor sells a fixed-rate bond originally purchased at a discount. The resulting capital gain or loss should be measured by comparing the bond's selling price with its:",
+    "solutions": [
+      {
+        "answer": "par value"
+      },
+      {
+        "answer": "carrying value"
+      },
+      {
+        "answer": "purchase price"
+      }
+    ]
+  },
+  {
+    "id": "FI-103",
+    "question": "An investor gathers the following information about an investment in a bond with a 10- year tenor:\nPurchase price 95.27\nSale price 102.06\nSum of reinvested coupon payments 24.28\nIf the holding period was seven years, the horizon yield is closest to:",
+    "solutions": [
+      {
+        "answer": "2.29%"
+      },
+      {
+        "answer": "2.86%"
+      },
+      {
+        "answer": "4.11%"
+      }
+    ]
+  },
+  {
+    "id": "FI-104",
+    "question": "A commercial paper has the following characteristics:\nFor a 365-day year, the discount rate is closest to:",
+    "solutions": [
+      {
+        "answer": "6.2%"
+      },
+      {
+        "answer": "6.4%"
+      },
+      {
+        "answer": "6.6%"
+      }
+    ]
+  },
+  {
+    "id": "FI-105",
+    "question": "Two par bonds have the same duration but different convexity. All else being equal, if yields to maturity increase by 10 basis points, it is most likely that:",
+    "solutions": [
+      {
+        "answer": "the more convex bond underperforms the less convex bond"
+      },
+      {
+        "answer": "both bond prices decrease by the same amount"
+      },
+      {
+        "answer": "the more convex bond outperforms the less convex bond"
+      }
+    ]
+  },
+  {
+    "id": "FI-106",
+    "question": "A bond has the following characteristics:\nTime to maturity 3 years\nCoupon rate 12%\nPayment period Semiannual\nFor a yield to maturity of 4%, the price of the bond per 100 of par value is closest to:",
+    "solutions": [
+      {
+        "answer": "122.20"
+      },
+      {
+        "answer": "122.41"
+      },
+      {
+        "answer": "122.53"
+      }
+    ]
+  }
+]

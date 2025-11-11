@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "PM-1",
+    "question": "Which of the following statements about pension plans is most accurate?",
+    "solutions": [
+      {
+        "answer": "Defined benefit plans typically have a low risk tolerance"
+      },
+      {
+        "answer": "Defined contribution plans typically have a low risk tolerance"
+      },
+      {
+        "answer": "The sponsor of a defined benefit plan specifies the obligation owed to participants"
+      }
+    ]
+  },
+  {
+    "id": "PM-2",
+    "question": "The process of risk management is best described as the set of decisions that maximizes a company's value while:",
+    "solutions": [
+      {
+        "answer": "minimizing the risk taken"
+      },
+      {
+        "answer": "bearing a tolerable level of risk"
+      },
+      {
+        "answer": "predicting the potential risk correctly"
+      }
+    ]
+  },
+  {
+    "id": "PM-3",
+    "question": "Which of the following is least consistent with effective risk governance?",
+    "solutions": [
+      {
+        "answer": "Taking an enterprise-wide view"
+      },
+      {
+        "answer": "Defining the enterprise's risk tolerance"
+      },
+      {
+        "answer": "Following a bottom-up process to direct risk management activities"
+      }
+    ]
+  },
+  {
+    "id": "PM-4",
+    "question": "With regard to an investment policy statement, which of the following statements about return objectives is most accurate?",
+    "solutions": [
+      {
+        "answer": "A return objective cannot be a required rate of return"
+      },
+      {
+        "answer": "Return objectives must be set independent of risk objectives"
+      },
+      {
+        "answer": "When setting a relative return objective, a good benchmark should be investable"
+      }
+    ]
+  },
+  {
+    "id": "PM-5",
+    "question": "The correlation between the risk-free asset and the optimal risky portfolio is expected to be:",
+    "solutions": [
+      {
+        "answer": "negative"
+      },
+      {
+        "answer": "zero"
+      },
+      {
+        "answer": "positive"
+      }
+    ]
+  },
+  {
+    "id": "PM-6",
+    "question": "An investor who can lend and borrow at the risk-free rate builds a portfolio using the risk- free asset and the market portfolio. The risk-free rate is 3% and the expected market return is 15%. If the expected portfolio return is 18%, the investor's portfolio is:",
+    "solutions": [
+      {
+        "answer": "a lending portfolio"
+      },
+      {
+        "answer": "a leveraged portfolio"
+      },
+      {
+        "answer": "the optimal risky portfolio"
+      }
+    ]
+  },
+  {
+    "id": "PM-7",
+    "question": "An analyst gathers the following information about a company:\nIf all purchases and sales were made on credit, the cash conversion cycle (based on a 360-day year) is:",
+    "solutions": [
+      {
+        "answer": "less than the utility generated for a risk-averse investor"
+      },
+      {
+        "answer": "equal to the utility generated for a risk-averse investor"
+      },
+      {
+        "answer": "greater than the utility generated for a risk-averse investor"
+      }
+    ]
+  },
+  {
+    "id": "PM-8",
+    "question": "A risk-neutral investor most likely seeks to maximize:",
+    "solutions": [
+      {
+        "answer": "both risk and return"
+      },
+      {
+        "answer": "retum irrespective of risk"
+      },
+      {
+        "answer": "return for a given level of risk"
+      }
+    ]
+  },
+  {
+    "id": "PM-9",
+    "question": "An analyst gathers the following information (in € millions) about a company before any revaluations.\nAn initial revaluation increases the carrying value of the asset valued under the revaluation model. Ignoring taxes, the financial leverage ratio most likely",
+    "solutions": [
+      {
+        "answer": "3.6%"
+      },
+      {
+        "answer": "5.6%"
+      },
+      {
+        "answer": "11.6%"
+      }
+    ]
+  },
+  {
+    "id": "PM-10",
+    "question": "Which of the following is most likely a consequence of overconfidence bias? Investors:",
+    "solutions": [
+      {
+        "answer": "holding poorly diversified portfolios"
+      },
+      {
+        "answer": "continuing to hold classes of assets with which they are familiar"
+      },
+      {
+        "answer": "holding investments in a loss position longer than justified, in the hope that they will return to breakeven"
+      }
+    ]
+  },
+  {
+    "id": "PM-11",
+    "question": "Failing to act in pursuit of long-term goals in favor of short-term satisfaction best describes which of the following emotional biases?",
+    "solutions": [
+      {
+        "answer": "Self-control bias"
+      },
+      {
+        "answer": "Endowment bias"
+      },
+      {
+        "answer": "Loss-aversion bias"
+      }
+    ]
+  },
+  {
+    "id": "PM-12",
+    "question": "When creating a long-only portfolio, which of the following correlation coefficients between assets would be most effective at reducing portfolio risk?",
+    "solutions": [
+      {
+        "answer": "- 0.5"
+      },
+      {
+        "answer": "0"
+      },
+      {
+        "answer": "0.5"
+      }
+    ]
+  },
+  {
+    "id": "PM-13",
+    "question": "Which of the following can best be explained by overconfidence when predicting companies' earnings growth rates?",
+    "solutions": [
+      {
+        "answer": "Base-rate neglect"
+      },
+      {
+        "answer": "The value anomaly"
+      },
+      {
+        "answer": "The disposition effect"
+      }
+    ]
+  },
+  {
+    "id": "PM-14",
+    "question": "Which of the following is most likely developed by combining a client's investment objectives and constraints with long-term capital market expectations?",
+    "solutions": [
+      {
+        "answer": "Risk budget"
+      },
+      {
+        "answer": "Strategic asset allocation"
+      },
+      {
+        "answer": "Investment policy statement"
+      }
+    ]
+  },
+  {
+    "id": "PM-15",
+    "question": "The diversification ratio of a portfolio is best described as the ratio of the:",
+    "solutions": [
+      {
+        "answer": "standard deviation of the equally weighted portfolio's returns to the average standard deviation of the individual securities' returns"
+      },
+      {
+        "answer": "standard deviation of the market-capitalization-weighted portfolio's returns to the standard deviation of the equally weighted portfolio's returns"
+      },
+      {
+        "answer": "average standard deviation of the individual securities' returns to the standard deviation of the market-capitalization- weighted portfolio's returns"
+      }
+    ]
+  },
+  {
+    "id": "PM-16",
+    "question": "In regard to the asset allocation process, a top-down analysis most likely begins with an examination of",
+    "solutions": [
+      {
+        "answer": "macroeconomic growth"
+      },
+      {
+        "answer": "a company's board of directors"
+      },
+      {
+        "answer": "the expected growth of a company's competitors"
+      }
+    ]
+  },
+  {
+    "id": "PM-17",
+    "question": "Which of the following is most likely a consequence of the illusion of control bias?",
+    "solutions": [
+      {
+        "answer": "An investor's portfolio turnover is too low"
+      },
+      {
+        "answer": "The investor's portfolio contains concentrated positions in companies"
+      },
+      {
+        "answer": "An investor uses a simple forecasting model for portfolio construction"
+      }
+    ]
+  },
+  {
+    "id": "PM-18",
+    "question": "Which of the following is best classified as a non-financial risk?",
+    "solutions": [
+      {
+        "answer": "Credit risk"
+      },
+      {
+        "answer": "Liquidity risk"
+      },
+      {
+        "answer": "Accounting risk"
+      }
+    ]
+  },
+  {
+    "id": "PM-19",
+    "question": "Portfolio rebalancing is best described as a process aimed at:",
+    "solutions": [
+      {
+        "answer": "generating alpha"
+      },
+      {
+        "answer": "aligning portfolio weights with the tactical asset allocation decision"
+      },
+      {
+        "answer": "restoring the portfolio's original exposures to systematic risk factors"
+      }
+    ]
+  },
+  {
+    "id": "PM-20",
+    "question": "The risk-return trade-off of a portfolio of only risky assets most likely improves when a risk-free asset is added to the portfolio because:",
+    "solutions": [
+      {
+        "answer": "the risk-free asset is uncorrelated with the other assets in the portfolio"
+      },
+      {
+        "answer": "the lower return on the risk-free asset provides a diversification effect"
+      },
+      {
+        "answer": "the correlations among the risky assets decrease, providing a diversification effect"
+      }
+    ]
+  },
+  {
+    "id": "PM-21",
+    "question": "Which of the following best describes a potential consequence of the regret-aversion bias for financial market participants?",
+    "solutions": [
+      {
+        "answer": "Engaging in herding behaviour"
+      },
+      {
+        "answer": "Borrowing excessively to finance present consumption"
+      },
+      {
+        "answer": "Misidentifying risk tolerances because of how questions about risk tolerance were framed"
+      }
+    ]
+  },
+  {
+    "id": "PM-22",
+    "question": "Cognitive errors:",
+    "solutions": [
+      {
+        "answer": "stem from impulses and intuition"
+      },
+      {
+        "answer": "result in the same decision as assumed by traditional finance theory"
+      },
+      {
+        "answer": "can often be corrected or eliminated through better information, education, and advice"
+      }
+    ]
+  },
+  {
+    "id": "PM-23",
+    "question": "Exchange-traded funds (ETFs):",
+    "solutions": [
+      {
+        "answer": "are priced once a trading day"
+      },
+      {
+        "answer": "usually pay out dividends to shareholders"
+      },
+      {
+        "answer": "are generally structured as closed-end funds"
+      }
+    ]
+  },
+  {
+    "id": "PM-24",
+    "question": "Two assets have the following characteristics:\nThe variance of returns for an equally weighted portfolio of the two assets is closest to:",
+    "solutions": [
+      {
+        "answer": "0.038"
+      },
+      {
+        "answer": "0.048"
+      },
+      {
+        "answer": "0.055"
+      }
+    ]
+  },
+  {
+    "id": "PM-25",
+    "question": "With respect to return-generating models, statistical factor models:",
+    "solutions": [
+      {
+        "answer": "only include factors that have economic meaning"
+      },
+      {
+        "answer": "Identify factorsthat explain the covariance in observed returns"
+      },
+      {
+        "answer": "only include factors that have a fundamental connection to returns"
+      }
+    ]
+  },
+  {
+    "id": "PM-26",
+    "question": "Which of the following statements about asset allocation is most accurate?",
+    "solutions": [
+      {
+        "answer": "Investors should diversify their wealth between asset classes in order to eliminate systematic risk"
+      },
+      {
+        "answer": "Investors with a below-average risk tolerance should have an above-average weight in alternative investments"
+      },
+      {
+        "answer": "Adding asset classes with a low correlation to existing asset classes improves an investor's risk-return trade-off"
+      }
+    ]
+  },
+  {
+    "id": "PM-27",
+    "question": "An analyst gathers the following information about a portfolio and the market:\nJensen's alpha for the portfolio is:",
+    "solutions": [
+      {
+        "answer": "0.0%"
+      },
+      {
+        "answer": "1.2%.>"
+      },
+      {
+        "answer": "2.2%"
+      }
+    ]
+  },
+  {
+    "id": "PM-28",
+    "question": "Which of the following behavioral biases is most likely the hardest to correct?",
+    "solutions": [
+      {
+        "answer": "Hindsight bias"
+      },
+      {
+        "answer": "Loss-aversion bias"
+      },
+      {
+        "answer": "Representativeness bias"
+      }
+    ]
+  },
+  {
+    "id": "PM-29",
+    "question": "Momentum, defined as relative past stock returns, is most likely a factor in:",
+    "solutions": [
+      {
+        "answer": "fundamental factor models"
+      },
+      {
+        "answer": "the Carhart four-factor model"
+      },
+      {
+        "answer": "the Fama-French three-factor model"
+      }
+    ]
+  },
+  {
+    "id": "PM-30",
+    "question": "Which of the following measures uses only systematic risk to evaluate portfolio performance?",
+    "solutions": [
+      {
+        "answer": "M²"
+      },
+      {
+        "answer": "Sharpe ratio"
+      },
+      {
+        "answer": "Jensen's alpha"
+      }
+    ]
+  },
+  {
+    "id": "PM-31",
+    "question": "When evaluating the return distribution of an asset class, the probability of extreme returns is best assessed by the\ndistribution's:",
+    "solutions": [
+      {
+        "answer": "kurtosis"
+      },
+      {
+        "answer": "variance"
+      },
+      {
+        "answer": "skewness"
+      }
+    ]
+  },
+  {
+    "id": "PM-32",
+    "question": "Robo-advisers most likely",
+    "solutions": [
+      {
+        "answer": "face high barriers to entry"
+      },
+      {
+        "answer": "cater to the demand from investors with lower levels of investable assets"
+      },
+      {
+        "answer": "prefer actively managed funds to index funds when constructing client portfolios"
+      }
+    ]
+  },
+  {
+    "id": "PM-33",
+    "question": "Which of the following is most closely associated with representativeness bias?",
+    "solutions": [
+      {
+        "answer": "Momentum"
+      },
+      {
+        "answer": "The halo effect"
+      },
+      {
+        "answer": "Bubbles and crashes"
+      }
+    ]
+  },
+  {
+    "id": "PM-34",
+    "question": "Which of the following statements about different types of investors is most accurate?",
+    "solutions": [
+      {
+        "answer": "For banks, the liquidity of their investments is a paramount concern"
+      },
+      {
+        "answer": "For endowments, investment horizons are short due to their short-term spending needs"
+      },
+      {
+        "answer": "For insurance companies, the risk tolerance of their general and surplus accounts is typically the same"
+      }
+    ]
+  },
+  {
+    "id": "PM-35",
+    "question": "Which of the following is most likely undertaken during the risk budgeting process?",
+    "solutions": [
+      {
+        "answer": "Assessing risk appetite"
+      },
+      {
+        "answer": "Setting a limit for value at risk (VAR)"
+      },
+      {
+        "answer": "Establishing a reserve to cover potential future losses"
+      }
+    ]
+  },
+  {
+    "id": "PM-36",
+    "question": "The portfolio approach to investing most likely.",
+    "solutions": [
+      {
+        "answer": "prevents portfolio losses during market downturns"
+      },
+      {
+        "answer": "reduces the systematic risk of individual assets in a portfolio"
+      },
+      {
+        "answer": "helps avoid disastrous investment outcomes during normal market conditions"
+      }
+    ]
+  },
+  {
+    "id": "PM-37",
+    "question": "A client's time horizon is most\nappropriately used by an investment adviser to determine the client's:",
+    "solutions": [
+      {
+        "answer": "risk attitude"
+      },
+      {
+        "answer": "ability to take risk"
+      },
+      {
+        "answer": "willingness to take risk"
+      }
+    ]
+  },
+  {
+    "id": "PM-38",
+    "question": "Which of the following sections of an investment policy statement most likely provides guidance on obtaining feedback on investment results?",
+    "solutions": [
+      {
+        "answer": "Investment Guidelines"
+      },
+      {
+        "answer": "Evaluation and Review"
+      },
+      {
+        "answer": "Statement of Duties and Responsibilities"
+      }
+    ]
+  },
+  {
+    "id": "PM-39",
+    "question": "The security market line plots the expected return of a portfolio against a measure of the portfolio's:",
+    "solutions": [
+      {
+        "answer": "total risk"
+      },
+      {
+        "answer": "systematic risk"
+      },
+      {
+        "answer": "unsystematic risk"
+      }
+    ]
+  },
+  {
+    "id": "PM-40",
+    "question": "An analyst estimates the standard deviation of returns for the market portfolio to be 15% and the standard deviation of returns for a stock to be 25%. If the correlation of returns between the stock and the market portfolio is 0.6, the stock has:",
+    "solutions": [
+      {
+        "answer": "less systematic risk than the market portfolio"
+      },
+      {
+        "answer": "the same systematic risk as the market portfolio"
+      },
+      {
+        "answer": "more systematic risk than the market portfolio"
+      }
+    ]
+  },
+  {
+    "id": "PM-41",
+    "question": "Risk-averse investors make investment decisions that maximize:",
+    "solutions": [
+      {
+        "answer": "both return and risk"
+      },
+      {
+        "answer": "return irrespective of risk"
+      },
+      {
+        "answer": "return for the same amount of risk"
+      }
+    ]
+  },
+  {
+    "id": "PM-42",
+    "question": "Sovereign wealth funds are best described as investment funds:",
+    "solutions": [
+      {
+        "answer": "owned by governments"
+      },
+      {
+        "answer": "traded as closed-end country funds"
+      },
+      {
+        "answer": "restricted from investing in foreign securities"
+      }
+    ]
+  },
+  {
+    "id": "PM-43",
+    "question": "Which of the following lines is plotted on a graph with the excess return of a security on the y-axis and the excess return of the market on the x-axis?",
+    "solutions": [
+      {
+        "answer": "Capital market line"
+      },
+      {
+        "answer": "Security market line"
+      },
+      {
+        "answer": "Security characteristic line"
+      }
+    ]
+  },
+  {
+    "id": "PM-44",
+    "question": "According to capital market theory, the only type of risk that is priced is:",
+    "solutions": [
+      {
+        "answer": "systematic risk"
+      },
+      {
+        "answer": "diversifiable risk"
+      },
+      {
+        "answer": "idiosyncratic risk"
+      }
+    ]
+  },
+  {
+    "id": "PM-45",
+    "question": "Which of the following is most accurate regarding an investment policy statement (IPS)?",
+    "solutions": [
+      {
+        "answer": "Policies on sustainable investing require a separate IPS"
+      },
+      {
+        "answer": "Investment constraints can be determined by the client or by the law"
+      },
+      {
+        "answer": "Clients can specify different spending goals, but each goal must have the same risk tolerance and return objective"
+      }
+    ]
+  },
+  {
+    "id": "PM-46",
+    "question": "An investor's ability to take risk:",
+    "solutions": [
+      {
+        "answer": "is a function of risk tolerance"
+      },
+      {
+        "answer": "is typically assessed by a psychometric questionnaire"
+      },
+      {
+        "answer": "increases with the length of the investment horizon, all else being equal"
+      }
+    ]
+  },
+  {
+    "id": "PM-47",
+    "question": "The capital market line most likely consists of portfolios that:",
+    "solutions": [
+      {
+        "answer": "are fully diversified"
+      },
+      {
+        "answer": "have zero systematic risk"
+      },
+      {
+        "answer": "have nonsystematic risk equal to beta"
+      }
+    ]
+  },
+  {
+    "id": "PM-48",
+    "question": "The Markowitz efficient frontier is best described as a curve that:",
+    "solutions": [
+      {
+        "answer": "lies above and to the left of the minimum-variance frontier"
+      },
+      {
+        "answer": "connects the minimum-variance portfolios for all possible returns"
+      },
+      {
+        "answer": "contains all portfolios of risky assets that rational, risk-averse investors will choose"
+      }
+    ]
+  },
+  {
+    "id": "PM-49",
+    "question": "Which of the following most likely affects a client's ability to take risk? The client's:",
+    "solutions": [
+      {
+        "answer": "utility function"
+      },
+      {
+        "answer": "degree of risk aversion"
+      },
+      {
+        "answer": "level of wealth relative to liabilities"
+      }
+    ]
+  },
+  {
+    "id": "PM-50",
+    "question": "The expected return for a security is equal to the market's risk premium. If the risk-free rate is positive and the CAPM holds, the beta of the security is:",
+    "solutions": [
+      {
+        "answer": "less than 1"
+      },
+      {
+        "answer": "equal to 1"
+      },
+      {
+        "answer": "greater than 1"
+      }
+    ]
+  },
+  {
+    "id": "PM-51",
+    "question": "Which of the following characteristics is most likely used to determine an investor's ability to take risk? The investor's:",
+    "solutions": [
+      {
+        "answer": "risk attitude"
+      },
+      {
+        "answer": "self-confidence"
+      },
+      {
+        "answer": "years until retirement"
+      }
+    ]
+  },
+  {
+    "id": "PM-52",
+    "question": "An analyst gathers the following information:\nAccording to the CAPM, the expected return of the security is closest to:",
+    "solutions": [
+      {
+        "answer": "5.7%"
+      },
+      {
+        "answer": "13.2%"
+      },
+      {
+        "answer": "16.0%"
+      }
+    ]
+  },
+  {
+    "id": "PM-53",
+    "question": "The correlation of returns between two securities with equal standard deviation of returns is 0.75. If the covariance of returns is 5.5%², the standard deviation of returns for each security is closest to:",
+    "solutions": [
+      {
+        "answer": "2.7%"
+      },
+      {
+        "answer": "3.7%"
+      },
+      {
+        "answer": "7.3%"
+      }
+    ]
+  },
+  {
+    "id": "PM-54",
+    "question": "An analyst gathers the following information about an asset and the market:\nRisk-free rate 1%\nMarket risk premium 5%\nAsset's expected return 5%\nBased on the CAPM, the asset's beta is closest to:",
+    "solutions": [
+      {
+        "answer": "0.80"
+      },
+      {
+        "answer": "1.00"
+      },
+      {
+        "answer": "1.25"
+      }
+    ]
+  },
+  {
+    "id": "PM-55",
+    "question": "Long-term historical data on the risk-return trade-off of securities show that investors are most likely",
+    "solutions": [
+      {
+        "answer": "risk averse"
+      },
+      {
+        "answer": "risk neutral"
+      },
+      {
+        "answer": "risk seeking"
+      }
+    ]
+  },
+  {
+    "id": "PM-56",
+    "question": "Information regarding the permissible use of derivatives in a portfolio is most likely found in which of the following sections of an investment policy statement?",
+    "solutions": [
+      {
+        "answer": "Procedures"
+      },
+      {
+        "answer": "Investment Guidelines"
+      },
+      {
+        "answer": "Statement of Duties and Responsibilities"
+      }
+    ]
+  },
+  {
+    "id": "PM-57",
+    "question": "In the portfolio management process, the feedback step most likely involves:",
+    "solutions": [
+      {
+        "answer": "rebalancing the portfolio"
+      },
+      {
+        "answer": "deciding on an asset allocation"
+      },
+      {
+        "answer": "understanding the client's constraints"
+      }
+    ]
+  },
+  {
+    "id": "PM-58",
+    "question": "Which of the following investment principles best explains the use of strategic asset allocation in portfolio construction?",
+    "solutions": [
+      {
+        "answer": "Returns on similar assets reflect exposures to certain sets of systematic factors"
+      },
+      {
+        "answer": "Nonsystematic risk accounts for most of the change in portfolio value over the long term"
+      },
+      {
+        "answer": "Deviating from policy exposures to systematic risk factors may add value to the portfolio"
+      }
+    ]
+  },
+  {
+    "id": "PM-59",
+    "question": "In the investment policy statement of a pension fund, a countrywide limit on the proportion of high-risk assets that can be held in long-term pension portfolios is most likely a:",
+    "solutions": [
+      {
+        "answer": "liquidity constraint"
+      },
+      {
+        "answer": "legal and regulatory constraint"
+      },
+      {
+        "answer": "time horizon constraint"
+      }
+    ]
+  },
+  {
+    "id": "PM-60",
+    "question": "The global minimum-variance portfolio is a portfolio that lies:",
+    "solutions": [
+      {
+        "answer": "anywhere along the minimum-variance frontier"
+      },
+      {
+        "answer": "at the left-most point of the minimum-variance frontier"
+      },
+      {
+        "answer": "at the upper right-most point of the minimum-variance frontier"
+      }
+    ]
+  },
+  {
+    "id": "PM-61",
+    "question": "Which of the following principles best explains the focus on a strategic asset allocation when constructing a client's IPS?",
+    "solutions": [
+      {
+        "answer": "Adding assets with high correlation improves the risk-return trade-off"
+      },
+      {
+        "answer": "Nonsystematic risk accounts for most of a portfolio's change in value over the long term"
+      },
+      {
+        "answer": "The returns to groups of similar assets predictably reflect exposures to certain systematic factors"
+      }
+    ]
+  },
+  {
+    "id": "PM-62",
+    "question": "Which of the following sections of an investment policy statement (IPS) most likely explains how and when the IPS should be reviewed?",
+    "solutions": [
+      {
+        "answer": "Procedures"
+      },
+      {
+        "answer": "Investment Guidelines"
+      },
+      {
+        "answer": "Statement of Duties and Responsibilities"
+      }
+    ]
+  },
+  {
+    "id": "PM-63",
+    "question": "Which of the following best describes a characteristic of defined contribution pension plans?",
+    "solutions": [
+      {
+        "answer": "The employee accepts the investment and inflation risk"
+      },
+      {
+        "answer": "The employer is responsible for adequately funding the plan"
+      },
+      {
+        "answer": "Defined contribution plans typically have a higher cost to the company than defined benefit plans"
+      }
+    ]
+  },
+  {
+    "id": "PM-64",
+    "question": "The market model is most likely used to predict:",
+    "solutions": [
+      {
+        "answer": "market returns in a future period"
+      },
+      {
+        "answer": "economic growth in a future period"
+      },
+      {
+        "answer": "company-specific returns in a future period"
+      }
+    ]
+  },
+  {
+    "id": "PM-65",
+    "question": "Open-end mutual funds typically:",
+    "solutions": [
+      {
+        "answer": "are priced intraday"
+      },
+      {
+        "answer": "have a fixed number of shares outstanding"
+      },
+      {
+        "answer": "have a larger required minimum investment than ETFs"
+      }
+    ]
+  },
+  {
+    "id": "PM-66",
+    "question": "A portfolio consists of two securities with the following characteristics:\nIf the portfolio has an expected return of 12.6% and the returns of the two securities are uncorrelated, the portfolio's standard deviation is closest to:",
+    "solutions": [
+      {
+        "answer": "13.4%"
+      },
+      {
+        "answer": "15.2%"
+      },
+      {
+        "answer": "19.2%"
+      }
+    ]
+  },
+  {
+    "id": "PM-67",
+    "question": "An equally weighted portfolio is composed of two risky assets. If the correlation of asset returns is equal to zero, the portfolio standard deviation is:",
+    "solutions": [
+      {
+        "answer": "equal to zero,"
+      },
+      {
+        "answer": "equal to the weighted average of the assets' standard deviations"
+      },
+      {
+        "answer": "less than the weighted average of the assets' standard deviations"
+      }
+    ]
+  },
+  {
+    "id": "PM-68",
+    "question": "If all investors have homogeneous expectations, the total risk and expected return of portfolios consisting of the risk-free asset and the optimal risky portfolio are plotted on the:",
+    "solutions": [
+      {
+        "answer": "capital market line"
+      },
+      {
+        "answer": "security market line"
+      },
+      {
+        "answer": "security characteristic line"
+      }
+    ]
+  },
+  {
+    "id": "PM-69",
+    "question": "The risk-return profile of a portfolio's strategic asset allocation is most likely determined by the expected returns and risks of the individual asset classes and the:",
+    "solutions": [
+      {
+        "answer": "correlations between those asset classes"
+      },
+      {
+        "answer": "use of security selection for each of those asset classes"
+      },
+      {
+        "answer": "allowable deviation of portfolio weights from policy weights for those asset classes"
+      }
+    ]
+  },
+  {
+    "id": "PM-70",
+    "question": "A portfolio has an annual return of 15.2% and a standard deviation of returns of 11.7%. If the risk-free rate is 3.1%, the portfolio's Sharpe ratio is closest to:",
+    "solutions": [
+      {
+        "answer": "1.03"
+      },
+      {
+        "answer": "1.30"
+      },
+      {
+        "answer": "1.56"
+      }
+    ]
+  },
+  {
+    "id": "PM-71",
+    "question": "Which of the following is best classified as a financial risk?",
+    "solutions": [
+      {
+        "answer": "Tax risk"
+      },
+      {
+        "answer": "Credit risk"
+      },
+      {
+        "answer": "Accounting risk"
+      }
+    ]
+  },
+  {
+    "id": "PM-72",
+    "question": "The risk management measure that captures the sensitivity of a derivative's delta to a change in the value of the underlying best describes:",
+    "solutions": [
+      {
+        "answer": "rho"
+      },
+      {
+        "answer": "vega"
+      },
+      {
+        "answer": "gamma"
+      }
+    ]
+  },
+  {
+    "id": "PM-73",
+    "question": "The intercept on the y-axis of the security characteristic line is:",
+    "solutions": [
+      {
+        "answer": "beta"
+      },
+      {
+        "answer": "Jensen's alpha"
+      },
+      {
+        "answer": "the risk-free rate of return"
+      }
+    ]
+  },
+  {
+    "id": "PM-74",
+    "question": "With respect to an investment policy statement, which of the following is most closely linked to the client's distinctive needs?",
+    "solutions": [
+      {
+        "answer": "The evaluation and review section"
+      },
+      {
+        "answer": "The objectives and constraints sections"
+      },
+      {
+        "answer": "The statement of duties and responsibilities"
+      }
+    ]
+  },
+  {
+    "id": "PM-75",
+    "question": "The slope of the security market line is most likely the:",
+    "solutions": [
+      {
+        "answer": "security's beta"
+      },
+      {
+        "answer": "market risk premium"
+      },
+      {
+        "answer": "market risk premium divided by the market standard deviation"
+      }
+    ]
+  },
+  {
+    "id": "PM-76",
+    "question": "Which of the following performance measures is equal to the slope of the capital allocation line?",
+    "solutions": [
+      {
+        "answer": "M²"
+      },
+      {
+        "answer": "Sharpe ratio"
+      },
+      {
+        "answer": "Treynor ratio"
+      }
+    ]
+  },
+  {
+    "id": "PM-77",
+    "question": "Which of the following sections of an investment policy statement for a pension plan most likely specifies the discretion that portfolio managers have with respect to executing the investment strategy?",
+    "solutions": [
+      {
+        "answer": "Procedures"
+      },
+      {
+        "answer": "Investment Constraints"
+      },
+      {
+        "answer": "Statement of Duties and Responsibilities"
+      }
+    ]
+  },
+  {
+    "id": "PM-78",
+    "question": "Which of the following measures is most appropriate to evaluate the performance of a portfolio that is not fully diversified?",
+    "solutions": [
+      {
+        "answer": "Sharpe ratio"
+      },
+      {
+        "answer": "Treynor ratio"
+      },
+      {
+        "answer": "Jensen's alpha"
+      }
+    ]
+  },
+  {
+    "id": "PM-79",
+    "question": "An analyst gathers the following information about three stocks:\nIf the standard deviation of market returns is equal to 10%, the stock with the highest nonsystematic risk is:",
+    "solutions": [
+      {
+        "answer": "Stock 1"
+      },
+      {
+        "answer": "Stock 2"
+      },
+      {
+        "answer": "Stock 3"
+      }
+    ]
+  },
+  {
+    "id": "PM-80",
+    "question": "Which of the following metrics is most appropriate to estimate a bond's average extreme loss?",
+    "solutions": [
+      {
+        "answer": "VaR of loss"
+      },
+      {
+        "answer": "Standard deviation of loss"
+      },
+      {
+        "answer": "Expected loss given default"
+      }
+    ]
+  },
+  {
+    "id": "PM-81",
+    "question": "An analyst gathers the following information about the security market line (SML) and a stock:\nAccording to capital market theory, if the analyst believes the stock will have a return of 7%, the stock is:",
+    "solutions": [
+      {
+        "answer": "undervalued"
+      },
+      {
+        "answer": "properly valued"
+      },
+      {
+        "answer": "overvalued"
+      }
+    ]
+  },
+  {
+    "id": "PM-82",
+    "question": "Relative to passive market-cap-weighted strategies, smart beta strategies typically have:",
+    "solutions": [
+      {
+        "answer": "lower management fees and higher portfolio turnover"
+      },
+      {
+        "answer": "higher management fees and lower portfolio turnover"
+      },
+      {
+        "answer": "higher management fees and higher portfolio turnover"
+      }
+    ]
+  },
+  {
+    "id": "PM-83",
+    "question": "When defining asset classes for a strategic asset allocation, which of the following pairwise correlations between asset class returns is most preferable?",
+    "solutions": [
+      {
+        "answer": "0.0"
+      },
+      {
+        "answer": "0.5"
+      },
+      {
+        "answer": "1.0"
+      }
+    ]
+  },
+  {
+    "id": "PM-84",
+    "question": "According to capital market theory, an efficient market does not reward investors for taking on:",
+    "solutions": [
+      {
+        "answer": "market risk"
+      },
+      {
+        "answer": "systematic risk"
+      },
+      {
+        "answer": "idiosyncratic risk"
+      }
+    ]
+  },
+  {
+    "id": "PM-85",
+    "question": "Which of the following is most likely a legal and regulatory constraint in an investment policy statement?",
+    "solutions": [
+      {
+        "answer": "A pension fund's decision to limit investments in real estate"
+      },
+      {
+        "answer": "A taxable investor's requirement to avoid investments in securities generating interest income"
+      },
+      {
+        "answer": "A public company director's restriction on trading the company's stock shortly before the publication of financial results"
+      }
+    ]
+  },
+  {
+    "id": "PM-86",
+    "question": "When defining asset classes, the paired correlations of assets within an asset class should be:",
+    "solutions": [
+      {
+        "answer": "negative"
+      },
+      {
+        "answer": "zero"
+      },
+      {
+        "answer": "positive"
+      }
+    ]
+  },
+  {
+    "id": "PM-87",
+    "question": "An investor gathers the following information about a security and the market:\nThe correlation between the security's returns and the market's returns is closest to:",
+    "solutions": [
+      {
+        "answer": "0.2"
+      },
+      {
+        "answer": "0.5"
+      },
+      {
+        "answer": "0.8"
+      }
+    ]
+  },
+  {
+    "id": "PM-88",
+    "question": "A bank determines that its value at risk (VAR) is £5 million at 5% for one day. The bank is expecting a minimum loss of £5 million once every:",
+    "solutions": [
+      {
+        "answer": "5 business days"
+      },
+      {
+        "answer": "13 business days"
+      },
+      {
+        "answer": "20 business days"
+      }
+    ]
+  },
+  {
+    "id": "PM-89",
+    "question": "A good risk management process should:",
+    "solutions": [
+      {
+        "answer": "predict when a crisis will occur"
+      },
+      {
+        "answer": "consider the balance between expected returns and losses"
+      },
+      {
+        "answer": "only consider losses occurring from events that have a high likelihood"
+      }
+    ]
+  },
+  {
+    "id": "PM-90",
+    "question": "A portfolio consisting of two securities has the following characteristics:\nIf the correlation of returns between the two securities is 0.20, the portfolio's standard deviation of returns is closest to:",
+    "solutions": [
+      {
+        "answer": "1.8%"
+      },
+      {
+        "answer": "9.1%"
+      },
+      {
+        "answer": "13.4%"
+      }
+    ]
+  },
+  {
+    "id": "PM-91",
+    "question": "An investor has a 15-year time horizon but needs to withdraw funds from her portfolio in one year's time to pay for tuition fees. Which of the following investments is most suitable to cover the investor's liquidity requirement due to the tuition fees?",
+    "solutions": [
+      {
+        "answer": "Commercial paper"
+      },
+      {
+        "answer": "Private equity securities"
+      },
+      {
+        "answer": "Large-capitalization stocks"
+      }
+    ]
+  },
+  {
+    "id": "PM-92",
+    "question": "With respect to capital market theory, which of the following statements is most accurate?",
+    "solutions": [
+      {
+        "answer": "The optimal risky portfolio is dependent on the risk-free rate"
+      },
+      {
+        "answer": "The optimal risky portfolio is dependent on the investor's risk profile"
+      },
+      {
+        "answer": "The investor's optimal portfolio must lie on the Markowitz efficient frontier"
+      }
+    ]
+  },
+  {
+    "id": "PM-93",
+    "question": "An analyst gathers the following information:\nThe covariance between the returns of the asset and the market is closest to:",
+    "solutions": [
+      {
+        "answer": "0.22"
+      },
+      {
+        "answer": "0.40"
+      },
+      {
+        "answer": "0.90"
+      }
+    ]
+  },
+  {
+    "id": "PM-94",
+    "question": "A security with a beta of 1.5 has an expected return of 11% according to the CAPM. If the risk-free rate is 2%, the market risk premium is closest to:",
+    "solutions": [
+      {
+        "answer": "4.0%"
+      },
+      {
+        "answer": "6.0%"
+      },
+      {
+        "answer": "7.3%"
+      }
+    ]
+  },
+  {
+    "id": "PM-95",
+    "question": "An analyst gathers the following information about a portfolio and the market:\nThe portfolio's Treynor ratio is closest to:",
+    "solutions": [
+      {
+        "answer": "0.060"
+      },
+      {
+        "answer": "0.114"
+      },
+      {
+        "answer": "0.413"
+      }
+    ]
+  },
+  {
+    "id": "PM-96",
+    "question": "For an equally weighted portfolio, an increase in the correlations between asset returns most likely decreases the:",
+    "solutions": [
+      {
+        "answer": "portfolio's expected return"
+      },
+      {
+        "answer": "portfolio's standard deviation of returns"
+      },
+      {
+        "answer": "level of risk reduction provided by the portfolio"
+      }
+    ]
+  },
+  {
+    "id": "PM-97",
+    "question": "An adviser gathers the following information about a client's retirement income needs:\n• The current balance of the client's retirement fund is $150,000. • The client plans to retire in 15 years' time. • $500,000 in today's money is needed to fund retirement. • No further retirement fund contributions will be made.\nInflation is expected to average 2% per year over the next 15 years. Based only on the above information and ignoring taxes, the minimum annual rate of return required to meet the client's retirement income objective is closest to:",
+    "solutions": [
+      {
+        "answer": "6.2%"
+      },
+      {
+        "answer": "8.4%"
+      },
+      {
+        "answer": "10.5%"
+      }
+    ]
+  },
+  {
+    "id": "PM-98",
+    "question": "As the number of assets in an equally weighted portfolio becomes large, the portfolio's variance of returns most likely approaches:",
+    "solutions": [
+      {
+        "answer": "zero"
+      },
+      {
+        "answer": "the average variance of the individual assets' returns"
+      },
+      {
+        "answer": "the average covariance between the individual assets' returns"
+      }
+    ]
+  },
+  {
+    "id": "PM-99",
+    "question": "In risk management, which of the following should be taken into account when determining an enterprise's risk tolerance?",
+    "solutions": [
+      {
+        "answer": "Management compensation"
+      },
+      {
+        "answer": "The enterprise's value at risk (VaR)"
+      },
+      {
+        "answer": "The government and regulatory landscape"
+      }
+    ]
+  },
+  {
+    "id": "PM-100",
+    "question": "Two investors have indifference curves that are tangent to the same capital allocation line (CAL). If Investor 1 is more risk averse than Investor 2, Investor 1's optimal portfolio is:",
+    "solutions": [
+      {
+        "answer": "to the left of Investor 2's optimal portfolio on the CAL"
+      },
+      {
+        "answer": "at the same point on the CAL as Investor 2's optimal portfolio"
+      },
+      {
+        "answer": "to the right of Investor 2's optimal portfolio on the CAL"
+      }
+    ]
+  }
+]

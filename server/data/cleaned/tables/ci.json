@@ -1,0 +1,33 @@
+{
+  "CI-23": [
+    ["Initial cash outlay:", "$90 million"],
+    [
+      "Annual before-tax cash flows (year-end) for Year 1 through Year 6:",
+      "$50 million"
+    ],
+    ["Marginal tax rate:", "15%"],
+    ["Required rate of return:", "12%"]
+  ],
+  "CI-28": [
+    ["Market value of debt outstanding:", "£15,000"],
+    ["Market value of company:", "£40,000"],
+    ["Cost of debt:", "4.0%"],
+    ["Unlevered WACC:", "9.0%"],
+    ["Tax rate:", "25%"]
+  ],
+  "CI-48": [
+    ["", "Initial", "Outlay", "Year 1", "Year 2"],
+    ["Cash flow:", "-£150", "£8", "£175", ""]
+  ],
+  "CI-57": [
+    ["Capital Source", "Market Value (Millions)", "Before-tax Cost of Capital"],
+    ["Bonds", "€60", "6%"],
+    ["Preferred stock", "€20", "8%"],
+    ["Common stock", "€120", "15%"]
+  ],
+  "CI-67": [
+    ["", "Project 1", "Project 2"],
+    ["NPV", "$180,000", "$100,000"],
+    ["IRR", "10%", "15%"]
+  ]
+}

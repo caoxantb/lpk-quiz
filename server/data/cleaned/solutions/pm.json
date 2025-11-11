@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "PM-1",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the risk tolerance for defined benefit pension plans will vary with the maturity of the plan, but is typically quite high."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because defined contribution pension plans are managed for individual investors, therefore the risk tolerance of each plan varies with the individual. Some individuals will be investing for growth and will therefore seek assets that have the potential for capital gains. Others, such as retirees, may need to draw an income from their assets and may therefore choose to invest more in fixed-income and dividend-paying shares. The investment needs of individuals will depend in part on their broader financial circumstances, such as their employment prospects and whether or not they own their own residence. They may also need to consider such issues as building up a cash reserve and the purchase of appropriate insurance policies before undertaking longer-term investments. The risk tolerance of an individual investor varies by individual."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because defined benefit pension plans (DB plans) are company-sponsored plans that offer employees a predefined benefit on retirement. The future benefit is defined because the DB plan requires the plan sponsor to specify the obligation stated in terms of the retirement income benefits owed to participants."
+      }
+    ],
+    "note": "Portfolio Management: describe defined contribution and defined benefit pension plans"
+  },
+  {
+    "id": "PM-2",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because risk management is not about minimizing risk; it is about actively understanding and embracing those risks that best balance the achievement of goals with an acceptable chance of failure, quantifying the exposure, and continually monitoring and modifying it."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because risk management is the process by which an organization or individual defines the level of risk to be taken, measures the level of risk being taken, and adjusts the latter toward the former, with the goal of maximizing the company's or portfolio's value... Said differently, risk management comprises all the decisions and actions needed to best achieve organizational or personal objectives while bearing a tolerable level of risk."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because risk management is not even about predicting risks. The Doctrine of No Surprises' is a key mantra among many risk managers, but it does not mean they are expected to predict what will happen."
+      }
+    ],
+    "note": "Portfolio Management: define risk management"
+  },
+  {
+    "id": "PM-3",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because to achieve the best results for an organization, risk governance should take an enterprise-wide view."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because good governance should include defining an organization's risk tolerance and providing risk oversight."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because risk governance is the top-down [not bottom-up] process and guidance that directs risk management activities to align with and support the overall enterprise."
+      }
+    ],
+    "note": "Portfolio Management: define risk governance and describe elements of effective risk governance"
+  },
+  {
+    "id": "PM-4",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because a return objective can be a required rate of return. The return objective could be a required return- that is, the amount the investor needs to earn to meet a particular future goal-such as a certain level of retirement income."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the return objective must be consistent with the client's risk objective (high expected returns are unlikely to be possible without high levels of risk)"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because a benchmark is used as a relative return objective and a good benchmark should be investable."
+      }
+    ],
+    "note": "Portfolio Management: describe risk and return objectives and how they may be developed for a client"
+  },
+  {
+    "id": "PM-5",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because a combination of the risk-free asset and a risky asset can result in a better risk-return trade-off than an investment in only one type of asset because the risk- free asset has zero correlation with the risky asset. The optimal risky portfolio is a risky asset, and thus has zero correlation with the risk-free asset."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because a combination of the risk-free asset and a risky asset can result in a better risk-return trade-off than an investment in only one type of asset because the risk- free asset has zero correlation with the risky asset. The optimal risky portfolio is a risky asset, and thus has zero correlation with the risk-free asset."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a combination of the risk-free asset and a risky asset can result in a better risk-return trade-off than an investment in only one type of asset because the risk- free asset has zero correlation with the risky asset. The optimal risky portionio is a risky asset and thus has zero correlation with the risk-free asset."
+      }
+    ],
+    "note": "Portfolio Management: describe the implications of combining a risk-free asset with a portfolio of risky assets"
+  },
+  {
+    "id": "PM-6",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because a lending portfolio is a portfolio that has a positive investment in the risk-free asset. A portfolio's expected return, E(𝑅𝑝), is calculated as: E(𝑅𝑝) = w1Rf + (1 - w₁)E(Rm), where w₁ is the proportion invested in the risk-free asset, returning Rf, and E(𝑅𝑚) is the expected return on the market portfolio. Thus, 0.18 = w1 x 0.03 + (1 - w₁) x 0.15 0.18 - 0.15W = w1 x (0.03 - 0.15) 0.03 = w1 x (-0.12) w₁ = 0.03/(-0.12) W₁ = -0.25 A negative proportion invested in the risk-free rate implies a leveraged, not a lending, portfolio."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because a leveraged portfolio is a portfolio that has a negative investment in the risk-free asset. A portfolio's expected return, E(R), is calculated as: E(R) = w₁R,+ (1 - w₁)E(R), where w, is the proportion invested in the risk-free asset, returning R,, and E(R) is the expected return on the market portfolio. Thus, 0.18 = w1 x 0.03 + (1 - w₁) x 0.15 0.18 - 0.15 = w1 (0.03 - 0.15) 0.03 = w1 x (-0.12) w₁ = 0.03/(-0.12) W₁ =-0.25 A negative proportion invested in the risk-free rate implies a leveraged portfolio."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the expected market return is 15%, while the expected portfolio return is 18%. Since the two returns are different, the investor's portfolio is different from the optimal risky (market) portfolio."
+      }
+    ],
+    "note": "Portfolio Management: explain the capital allocation line (CAL) and the capital market line (CML)"
+  },
+  {
+    "id": "PM-7",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because a risk-free asset (𝜎2 = 0) generates the same utility for all individuals"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because a risk-free asset (𝜎2 = 0) generates the same utility for all individuals. If 𝜎2 = 0, then U = E(r) - 1/2(A)( 𝜎2) = E(r) for all individuals"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a risk-free asset (𝜎2 = 0) generates the same utility for all individuals."
+      }
+    ],
+    "note": "Portfolio Management: explain risk aversion and its implications for portfolio selection"
+  },
+  {
+    "id": "PM-8",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because a risk-seeking investor would maximize both risk and return. A risk- neutral investor maximizes return irrespective of risk. That is, a risk-neutral investor deliberately seeks to maximize only return, not risk. It is possible that a risk-neutral investor could end up maximizing risk by maximizing return, but he only seeks to maximize return and risk is not a consideration"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because A risk-neutral investor would maximize return irrespective of risk. This is because such an investor cares only about return and not about risk, so higher return investments are more desirable even if they come with higher risk."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because only risk-averse investors want to minimize their risk for the same amount of return, and maximize their return for the same amount of risk. A risk-neutral investor seeks to maximize return irrespective of risk, not for a given level of risk."
+      }
+    ],
+    "note": "Portfolio Management: explain risk aversion and its implications for portfolio selection"
+  },
+  {
+    "id": "PM-9",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "\nCorrect because provides a measure of portfolio return that is adjusted for the total risk of the portfolio and is computed as𝑀2 = [E(𝑅𝑝) - R(𝜎𝑚∕𝜎𝑝) + 𝑅𝑡 = SR x 𝜎𝑚+ 𝑅𝑡, where SR = Sharpe ratio, 𝜎𝑚 = market standard deviation of returns, and R,= risk-free rate. Thus, 𝑀2 = 0.8 x 0.12 + 0.02 0.116. The difference between the risk- adjusted performance of the portfolio and the performance of the market is frequently referred to as 𝑀2 alpha. Thus, 𝑀2alpha = 0.116 -0.08 -0.0363.6%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it computes M² = 0.02+0.8 x 0.12 = 0.116. M² alpha is wrongly calculated as 0.116 - (0.08 - 0.02) = 0.056 ≈ 5.6%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it computes M² instead of M² alpha, which is an intermediate step in the correct calculation: M² = 0.02 + 0.8 x 0.12 = 0.116 ≈ 11.6%."
+      }
+    ],
+    "note": "Portfolio Management: calculate and interpret the Sharpe ratio, Treynor ratio, M 2, and Jensen's alpha"
+  },
+  {
+    "id": "PM-10",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because overconfidence bias is a bias in which people demonstrate unwarranted faith in their own abilities. As a result of overconfidence bias, FMPs (financial market participants] may hold poorly diversified portfolios, which may result in significant downside risk."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this is a potential consequence of endowment bias, not overconfidence bias. Endowment bias is an emotional bias in which people value an asset more when they\nown it than when they do not. Endowment bias may lead FMPs (financial market participants] to continue to hold classes of assets with which they are familiar. FMPs may believe they understand the characteristics of the investments they already own and may be reluctant to purchase assets with which they have less experience Familiarity adds to owners perceived value of a security."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this is a potential consequence of loss-aversion bias, not overconfidence. As a result of loss- aversion bias, FMPs (financial market participants] may hold investments in a loss position longer than justified by fundamental analysis, in the hope that they will return to breakeven"
+      }
+    ],
+    "note": "Portfolio Management: discuss commonly recognized behavioral biases and their implications for financial decision making"
+  },
+  {
+    "id": "PM-11",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because self-control bias is a bias in which people fall to act in pursuit of their long-term, overarching goals in favor of short-term satisfaction."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because endowment bias is an emotional bias in which people value an asset more when they own it than when they do not, and is not about acting in favor of short- term satisfaction the cost of long-term goals."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because loss-aversion bias refers to the tendency to strongly prefer avoiding losses to achieving gains, and is not about acting in favor of short-term satisfaction at the cost of long-term goals."
+      }
+    ],
+    "note": "Portfolio Management: discuss commonly recognized behavioral biases and their implications for financial decision making"
+  },
+  {
+    "id": "PM-12",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because -05 is the smallest of the three correlations and the closer the correlation coefficient is to -1. the greater the reduction in portfolio risk. The correlation coefficient between two assets determines the effect on portfolio risk when the two assets are combined. You will find that portfolio risk is unaffected when the two assets are perfectly correlated (p₁₂ = +1). In other words, the portfolio's standard deviation is simply a weighted average of the standard deviations of the two assets and as such a portfolio's risk is unchanged with the addition of assets with the same nsk parameters. Portfoho nsk falls, however, when the two assets are not perfectly correlated (p₁₂) <+1) Sufficiently low values of the correlation coefficient can make the portfolio riskless under certain conditions. For an extreme case in which p₁₂ = -1 (that is, the two asset returns move in opposite directions), the portfolio can be made risk free Analytically, the standard deviation risk of a two asset portfolio is given by the square root of the portfolio's variance: 𝜎𝑃 =(𝑤1\n2𝜎1\n2 + 𝑤1\n2𝜎1\n2 +\n2𝑤1𝑤2𝑝12𝜎1𝜎2) 1/2 which is a strictly increasing function of p₁₂ Hence, -0.5, the smallest of the three correlations, has the lowest risk."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the correlation coefficient is not the lowest of the three options. The closer the correlation coefficient is to -1, the greater the reduction in portfolio risk Portfolio risk falls when the two assets are not perfectly correlated (𝑝12<+1). Sufficiently low values of the correlation coefficient can make the portfolio riskless under certain conditions. For an extreme case in which p₁₂ = -1 (that is, the two asset returns move in opposite directions), the portfolio can be made risk free."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the correlation coefficient is not the lowest of the three options. The closer the correlation coefficient is to -1. the greater the reduction in portfolio risk \"Portfolio risk falls when the two assets are not perfectly correlated (𝑝12< +1). Sufficiently low values of the correlation coefficient can make the portfolio riskless under certain conditions. For an extreme case in which 𝑝12 = -1 (that is, the two asset returns move in opposite directions), the portfolio can be made risk free."
+      }
+    ],
+    "note": "Portfolio Management: describe the effect on a portfolio's risk of investing in assets that are less than perfectly correlated"
+  },
+  {
+    "id": "PM-13",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because, in base-rate neglect, a phenomenon's rate of incidence in a larger population-its base rate -is neglected in favor of specific information. The specific, individual information may be misleading relative to the more appropriate base rate or general information. Base-rate neglect is connected to representativeness bias and not overconfidence, nor does it relate to earnings growth rates"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because a number of other studies have offered behavioral explanations for value anomalies presenting the anomalies as mispricing rather than compensation for increased risk. These studies recognize the emotional factors involved in appraising stocks. Overconfidence can also be involved in predicting growth rates, potentially leading growth stocks to be overvalued, leading to the value anomaly"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because an important concept embedded in this utility representation is what has been termed the disposition effect the holding of investments that have experienced losses too long, and the selling of investments that have experienced gains too quickly (ie, holding on to losers and selling winners). The disposition effect does not relate to prediction errors, not to earnings growth rates."
+      }
+    ],
+    "note": "Portfolio Management: describe how behavioral biases of investors can lead to market characteristics that may not be explained by traditional finance"
+  },
+  {
+    "id": "PM-14",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because risk budgeting is the process of deciding on the amount of risk to assume in a portfolio (the overall risk budget), and subdividing that risk over the sources of investment return (e.g.. strategic asset allocation, tactical asset allocation, and security selection). Because the decision about the amount of risk to be taken is made in constructing the IPS, at this stage we are concerned about the subdivision of that risk."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because a strategic asset allocation results from combining the constraints and objectives articulated in the IPS [investment policy statement] and long-term capital market expectations regarding the asset classes."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because long-term capital market expectations are not commonly stated in the IPS, which in addition to Investment Objectives and Investment Constraints typically includes the following sections: Introduction, Statement of Purpose, Statement of Duties and Responsibilities, Procedures, Investment Guidelines, Evaluation and Review, Appendices. Therefore, combining investment objectives and constraints with long-term capital market expectations does not result in a client's IPS.\nPortfolio Management describe the principles of portfolio construction and the role of asset allocation in relation to the IPS"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "PM-15",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because a simple measure of the value of diversification is calculated as the ratio of the standard deviation of the equally weighted portfolio to the standard deviation of the randomly selected security. This ratio may be referred to as the diversification ratio. In the example of the 5-stock portfolio given, the equally weighted portfolio's standard deviation is approximately 71 percent of the average standard deviation of the 5 stocks (24.9%); ie., the denominator is the average standard deviation of all individual securities in the portfolio and the numerator is the standard deviation of the equally weighted portfolio."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the standard deviation of the equally weighted portfolio should be the numerator (not the denominator) and the denominator should be the average standard deviation of all individual securities in the portfolio."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the average standard deviation of all individual securities in the portfolio should be the denominator (not the numerator) and the numerator should be the standard deviation of the equally weighted portfolio."
+      }
+    ],
+    "note": "Portfolio Management: describe the portfolio approach to investing"
+  },
+  {
+    "id": "PM-16",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because a top-down analysis begins with consideration of macroeconomic conditions. Based on the current and forecasted economic environment, analysts evaluate markets and industries with the purpose of investing in those that are expected to perform well. Finally specific companies within these industries are considered for investment."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a top-down analysis begins with consideration of macroeconomic conditions. Bottom-up analysis focuses on company specifics. Rather than emphasizing economic cycles or industry analysis, a bottom-up analysis focuses on company-specific circumstances, such as management quality and business prospects"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a top-down analysis begins with consideration of macroeconomic conditions. Bottom-up analysis focuses on company specifics. Rather than emphasizing economic cycles or industry analysis, a bottom-up analysis focuses on company-specific circumstances, such as management quality and business prospects."
+      }
+    ],
+    "note": "Portfolio Management: describe the steps in the Portfolio Management: process"
+  },
+  {
+    "id": "PM-17",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because as a result of illusion of control bias, FMPS (financial market participants] may trade more than is prudent. Researchers have found that portfolio turnover is negatively correlated with investment returns"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because as a result of illusion of control bias, FMPS [financial market participants] may inadequately diversify portfolios. Research has found that some investors prefer to invest in companies that they feel they have control over, such as the companies they work for, leading them to hold concentrated positions."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because as a result of illusion of control bias, FMPS (financial market participants] may construct financial models and forecasts that are overly detailed. FMPs may require detailed models before making an investment decision, believing that forecasts from these models control uncertainty. Although a greater understanding of an investment, issuer, or industry is often useful, increased model complexity does not control the inherent risk and uncertainty of investment outcomes."
+      }
+    ],
+    "note": "Portfolio Management: discuss commonly recognized behavioral biases and their implications for financial decision making"
+  },
+  {
+    "id": "PM-18",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the second primary financial risk is credit risk. Credit risk is the risk of loss if one party fails to pay an amount owed on an obligation, such as a bond, loan, or derivative to another party."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because liquidity risk is a financial risk and defined as the risk of a significant downward valuation adjustment when selling a financial asset."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because although most risks have monetary consequences, there are a number of risks that are typically classified as non-financial in nature. These risks arise from a variety of sources, such as the relationship between the entity and counterparties, regulators, governments, the environment, suppliers, customers, and employees The following three\nnon-financial risks are related: regulatory risk, accounting risk, and tax risk. They could even be collectively referred to as compliance risk because they all deal with the matter of conforming to policies, laws, rules, and regulations as set forth by governments and authoritative bodies, such as accounting governing boards."
+      }
+    ],
+    "note": "Portfolio Management: identify financial and non-financial sources of risk and describe how they may interact"
+  },
+  {
+    "id": "PM-19",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because periodically, or when a certain threshold deviation from the policy weight (the bandwidth) has been breached, the portfolio should be rebalanced back to the policy weights. The risk-return profile of the strategic asset allocation depends on the expected returns and risks of the individual asset classes, as well as the correlation between those asset classes. On the other hand, security selection is an attempt to generate higher returns than the asset class benchmark by selecting securities with a higher expected return. An \"alpha process is a process for adding value through active investing."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because periodically, or when a certain threshold deviation from the policy weight (the bandwidth) has been breached, the portfolio should be rebalanced back to the policy weights. On the other hand, tactical asset allocation is the decision to deliberately deviate from the policy exposures to systematic risk factors (l.e., the policy weights of asset classes) with the intent to add value based on forecasts of the near-term returns of those asset classes."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because as the portfolio is constructed and its value changes with the returns of the asset classes and securities in which it is invested, the weights of the asset classes will gradually deviate from the policy weights in the strategic asset allocation. This process is referred to as drift. Periodically, or when a certain threshold deviation from the policy weight (the bandwidth) has been breached, the portfolio should be rebalanced back to the policy weights. The set of rules that guide the process of restoring the portfolio's original exposures to systematic risk factors is known as the rebalancing policy."
+      }
+    ],
+    "note": "Portfolio Management: describe the principles of portfolio construction and the role of asset allocation in relation to the IPS"
+  },
+  {
+    "id": "PM-20",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because an investor's portfolio improves if a risk-free asset is added to the mix. In other words, a combination of the risk-free asset and a risky asset can result in a better risk- return trade-off than an investment in only one type of asset because the risk-free asset has zero correlation with the risky asset."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the risk-return trade-off is improved by lower risk not a lower return. It is the zero correlation of the risk-free asset with the risky assets in the portfolio that lowers the risk level."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the correlations among the risky assets are unaffected by the addition of a risk-free asset to the portfolio. The risk-return trade-off is improved by the zero correlation of the risk-free asset with the risky assets in the portfolio, not a change in correlations among the risky assets."
+      }
+    ],
+    "note": "Portfolio Management: describe the implications of combining a risk-free asset with a portfolio of risky assets"
+  },
+  {
+    "id": "PM-21",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because as a result of regret-aversion bias, FMPS [financial market participants] may engage in herding behavior. FMPs may feel safer in popular investments in order to limit potential future regret. Regret-aversion bias is an emotional bias in which people tend to avoid making decisions out of fear that the decision will turn out poorly"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it is a likely consequence of the self-control bias, and not the regret- aversion bias. As a result of self-control bias, FMPs (financial market participants] may borrow excessively to finance present consumption"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it is a likely consequence of the framing bias, and not the regret- aversion bias. As a result of framing bias, FMPs [financial market participants] may misidentify risk tolerances because of how questions about risk tolerance were framed, becoming more risk-averse when presented with a gain frame of reference and more risk- seeking when presented with a loss frame of reference."
+      }
+    ],
+    "note": "Portfolio Management: discuss commonly recognized behavioral biases and their implications for financial decision making"
+  },
+  {
+    "id": "PM-22",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because emotional biases [not cognitive errors], on the other hand, are harder to correct because they stem from impulses and intuitions."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because both forms of bias [cognitive and emotional], regardless of their source, may cause decisions to deviate from what is assumed by traditional finance theory"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because cognitive errors can often be corrected or eliminated through better information, education, and advice."
+      }
+    ],
+    "note": "Portfolio Management: compare and contrast cognitive errors and emotional biases"
+  },
+  {
+    "id": "PM-23",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because ETFS can be transacted (and are priced) intraday."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because dividends on ETFS are paid out to the shareholders whereas mutual funds usually reinvest the dividends."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because exchange-traded funds (ETFs) are generally structured as open-end funds."
+      }
+    ],
+    "note": "Portfolio Management: describe mutual funds and compare them with other pooled investment products"
+  },
+  {
+    "id": "PM-24",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the last term has been doubled, leading to\n𝜎𝑝\n2=(0.5)2(0.05) + (0.5)2 (0.06) + (0.5)(0.5) (0.75) (0.05)0.5 (0.06)0.5= 0.0125 +0.015+0.0102698 = 0.03777≈0.038."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because for a two asset portfolio, the expression for portfolio variance simplifies to the following using correlation:\n𝜎𝑝\n2=𝑤1\n2𝜎1\n2 + 𝑤2\n2𝜎2\n2 + 2𝑤1𝑤2𝜌12𝜎1𝜎2 where 𝑤𝑖, is the weight of asset / in the portfolio, 𝜎𝑖\n2 is the variance of asset, and pij is the correlation between the returns of assets / and j. Here,\n𝜎𝑝\n2=(0.5)2(0.05) + (0.5)2 (0.06) + 2(0.5)(0.5) (0.75) (0.05)0.5 (0.06)0.5= 0.0125 +0.015 +0.0205396 = 0.04804≈0.048."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it is the weighted average of the asset variances: (0.5)(0.05) + (0.5)(0.06) = 0.025 + 0.03 = 0.055. However, a weighted average calculation is only appropriate for the portfolio standard deviation (not vanance) when the correlation among assets is 1"
+      }
+    ],
+    "note": "Portfolio Management: calculate and interpret portfolio standard deviation"
+  },
+  {
+    "id": "PM-25",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because in statistical factor models, the statistical factors, however, may or may not have an economic or fundamental connection to returns. Furthermore, in statistical factor models data mining may generate many spurious factors that are devoid of any economic meaning."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because in a statistical factor model, historical and cross-sectional return data are analyzed to identify factors that explain variance or covariance in observed returns."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because in statistical factor models, the statistical factors, however, may or may not have an economic or fundamental connection to returns. Furthermore, in statistical\nfactor models data mining may generate many spurious factors that are devoid of any economic meaning."
+      }
+    ],
+    "note": "Portfolio Management: explain return generating models (including the market model) and their uses"
+  },
+  {
+    "id": "PM-26",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because systematic risk is risk related to the economic system (e.g., risk related to business cycle) that cannot be eliminate the eliminated by holding a diversified portfolio. Thus, dividing wealth between asset classes cannot systematic risk."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because investors with below-average risk tolerance should have below-average weights in alternative investments Typically, the strategic asset allocation for risk-averse investors will have a large weight in government bonds and cash, whereas those with more willingness and ability to take risk will have more of their assets in risky asset classes, such as equities and many types of alternative investments"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because in general, adding assets classes with low correlation improves the risk- return trade-off (more return for similar risk)."
+      }
+    ],
+    "note": "Portfolio Management: explain the specification of asset classes in relation to asset allocation"
+  },
+  {
+    "id": "PM-27",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the market return is used instead of the market risk premium. Therefore, Jensen's alpha = Rp - [Rf + (𝛽p * Rm)] = 7% - (1% + 1.2 x 5% ) = 0.0%."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because Jensen's alpha is defined as the portfolio return less (the risk-free rate plus the portfolio beta times (the market return minus the risk-free rate)). Therefore, Jensen's alpha Rp - [Rf + 𝛽p(Rm - Rf)] = 7% — (1% + 1.2 x (5% -1%)) = 7.0% - 5.8% =1.2%"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this omits the initial risk-free rate in the equation. Therefore, Jensen's alpha = Rp - 𝛽p [Rm - Rf] = 7% - (1.2 x (5% - 1%)) = 7.0% - 4.8% = 2.2%"
+      }
+    ],
+    "note": "Portfolio Management: calculate and interpret the Sharpe ratio, Treynor ratio, M 2, and Jensen's alpha"
+  },
+  {
+    "id": "PM-28",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because hindsight bias is a cognitive error and cognitive errors can often be corrected or eliminated through better information, education, and advice. Emotional biases, on the other hand, are harder to correct because they stem from impulses and intuitions. Thus, It is often possible only to recognize an emotional bias and adapt to it. Hindsight bias refers to believing past events as having been predictable and reasonable to\nexpect. This behavior results from the obvious fact that outcomes that did occur are more readily evident than outcomes that did not"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because loss-aversion bias is an emotional bias, as opposed to a cognitive error, and cognitive errors can often be corrected or eliminated through better information, education, and advice. Emotional biases, on the other hand, are harder to Correct because they stem from Impulses and intuitions. Thus, it is often possible only to recognize an emotional bias and adapt to it. Loss-aversion bias refers to the tendency to strongly prefer avoiding losses to achieving gains."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because representativeness bias is a cognitive error and cognitive errors can often be corrected or eliminated through better information, education, and advice. Emotional biases, on the other hand, are harder to correct because they stem from impulses and intuitions. Thus, it is often possible only to recognize an emotional bias and adapt to it. Representativeness bias refers to the tendency to classify new information based on past experiences and classifications."
+      }
+    ],
+    "note": "Portfolio Management: compare and contrast cognitive errors and emotional biases"
+  },
+  {
+    "id": "PM-29",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because fundamental factor models analyze and use relationships between security returns and the company's underlying fundamentals, such as, for example, eamings, earnings growth, cash flow generation, investment in research, advertising, and number of patents."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because Mark Carhart (1997) extended the Fama and French model by adding another factor. momentum, defined as relative past stock returns. The best example of ... a [practical] model is the four-factor model proposed by Fama and French (1992) and Carhart (1997)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because Fama and French (1992) proposed that three factors seem to explain asset returns better than just systematic risk. Those three factors are relative size, relative book-to-market value, and beta of the asset. Mark Carhart (1997) extended the Fama and French model by adding another factor, momentum, defined as relative past stock returns."
+      }
+    ],
+    "note": "Portfolio Management: explain return generating models (including the market model) and their uses"
+  },
+  {
+    "id": "PM-30",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because M² provides a measure of portfolio return that is adjusted for the total risk of the portfolio relative to that of some benchmark"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the Sharpe ratio measure is based on total risk. Total risk is relevant for an investor when he or she holds a portfolio that is not fully diversified, which is not a\ndesirable portfolio. In such cases, the Sharpe ratio and M² are appropriate performance measures."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because Jensen's alpha is based on systematic risk. The difference between the actual portfolio return and the calculated risk-adjusted return is a measure of the portfolio's performance relative to the market portfolio and is called Jensen's alpha."
+      }
+    ],
+    "note": "Portfolio Management: calculate and interpret the Sharpe ratio, Treynor ratio, M 2, and Jensen's alpha"
+  },
+  {
+    "id": "PM-31",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because in evaluating investments using only the mean (expected return) and variance (risk), we are implicitly making two important assumptions: 1) that the returns are normally distributed and can be fully characterized by their means and variances and 2) that markets are not only informationally efficient but that they are also operationally efficient. To the extent that these assumptions are violated, we need to consider additional investment characteristics. One of them is kurtosis. Kurtosis refers to fat tails or higher than normal probabilities for extreme returns and has the effect of increasing an asset's risk that is not captured in a mean- variance framework. This applies to asset returns as several market participants note that the probability and the magnitude of extreme events is underappreciated and was a primary contributing factor to the financial crisis of 2008."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because using only mean and variance would be appropriate to evaluate investments if returns were distributed normally. Returns, however, are not normally distributed because the probability of extreme events is significantly greater than what a normal distribution would suggest. The latter deviation is referred to as kurtosis."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because skewness refers to asymmetry of the return distribution, that is, returns are not symmetric around the mean. Skewness does not refer specifically to the probability of extreme events (and does not measure it) even though a negatively skewed distribution would have a longer left tail relative to the normal distribution"
+      }
+    ],
+    "note": "Portfolio Management: describe characteristics of the major asset classes that investors consider in forming portfolios"
+  },
+  {
+    "id": "PM-32",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because reflecting low barriers to entry, large wealth management firms have introduced robo-adviser solutions to service certain customer segments and appeal to a new generation of investors"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because rapid growth in robo-advisory assets is based on several industry trends including growing demand from 'mass affluent and younger investors. Traditional investment advice has often underserved younger and 'mass affluent investors with lower relative levels of investable assets."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because robo-advisers often rely on lower fee underlying portfolio investment options, such as index funds or ETFs, when constructing portfolios for clients"
+      }
+    ],
+    "note": "Portfolio Management: describe aspects of the asset management industry"
+  },
+  {
+    "id": "PM-33",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because representativeness blas pertains to sample-size neglect, where a small sample is believed to represent a population, or base-rate neglect, where specific Information is seen to supercede an established trend Momentum is attributable to the fear of missing out or recent trends in the market, not a specific piece of information. Momentum can be partly explained by availability, hindsight, and loss aversion biases"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because representativeness bias attributes one positive trait as being representative of an overall positive investment. The halo effect extends a favorable evaluation of some characteristics to other characteristics. A company with a good growth record and good previous share price performance might be seen as a good investment, with higher expected returns than its risk characteristics ment. This view is a form of representativeness that can lead Investors to extrapolate recent past performance into expected returns"
+      },
+      {
+        "isCorrect": false,
+        "reason": "Incorred because bubbles and crashes are cost closely identified with overconfidence not representativeness bias, in bundles, investors often exhibit symptoms of overconfidence, overtrading imderestimation of risks failure to diversity, and rejection of contradictory Information. The overconfidence and excessive trading that contribute to a bubble are linked to confirmation bias and self-attribution bias"
+      }
+    ],
+    "note": "Portfolio Management: describe how behavioral blases of investors can lead to market characteristics that may not be explained by traditional finance"
+  },
+  {
+    "id": "PM-34",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because liquidity is a paramount concern for banks that stand ready to meet depositor requests for withdrawals."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because most foundations and endowments are established with the intent of having perpetual lives. The large allocation to alternative investments primarily reflects the typically long time horizon of endowments and foundations."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because an insurance company's general account is typically invested conservatively in a diverse allocation of fixed-income securities, while an insurer's surplus account typically targets a higher return than the general account and thus often invests in less-conservative asset classes."
+      }
+    ],
+    "note": "Portfolio Management: describe types of investors and distinctive characteristics and needs of each"
+  },
+  {
+    "id": "PM-35",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it describes risk tolerance, not risk budgeting Risk tolerance Identifies the extent to which the organization is willing to experience losses or opportunity costs and to fail in meeting its objectives. Whereas risk tolerance focuses on the appetite for risk and what is and is not acceptable, risk budgeting has a more specific focus on how that risk is taken."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because risk budgeting quantifies and allocates the tolerable risk by specific metrics. Four well-known single-dimension measures that are often used are standard deviation, beta, value at risk (VaR), and scenario loss"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it describes self-insurance, an example of risk acceptance, not risk budgeting. Self-insurance is the notion of bearing a risk that is considered undesirable but too costly to eliminate by external means. It may involve the establishment of a reserve to cover losses."
+      }
+    ],
+    "note": "Portfolio Management: describe risk budgeting and its role in risk governance"
+  },
+  {
+    "id": "PM-36",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because, although the portfolio approach helps avoid disasters by way of diversification, it does not necessarily provide downside protection (prevent losses) during market downturns. A major reason that portfolios can effectively reduce risk is that combining securities whose returns do not move together provides diversification. However, an important issue is that the co-movement or correlation pattern of the securities returns in the portfolio can change in a manner unfavorable to the investor. Despite diversification, a portfolio is unlikely to preserve its value during market downturns"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because an asset's risk should be measured in relation to the remaining systematic or non-diversifiable risk, which should be the only risk that affects the asset's price. Systematic risk is risk that cannot be avoided and is inherent in the overall market. It is non-diversifiable because it includes risk factors that are innate within the market and affect the market as a whole. Therefore, portfolio diversification does not reduce the systematic risk of individual assets in a portfolio."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because portfolio diversification helps investors avoid disastrous investment outcomes. A main tenet of the portfolio approach to investing is diversification. A disastrous outcome can result from 'putting all your eggs into one basket’ or investing everything into one stock whose value could then go to zero. A diversified portfolio holding many securities is likely to avoid this outcome. Although diversification may not prevent losses during market downturns, it does help avoid disastrous investment outcomes during normal market conditions."
+      }
+    ],
+    "note": "Portfolio Management: describe the portfolio approach to investing"
+  },
+  {
+    "id": "PM-37",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the willingness to take risk, or risk attitude, is a more subjective factor based on the client's psychology and perhaps also his or her current circumstances."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the ability to bear risk is measured mainly in terms of objective factors, such as time horizon, expected income, and the level of wealth relative to liabilities."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the willingness to take risk, or risk attitude, is a more subjective factor based on the client's psychology and perhaps also his or her current circumstances."
+      }
+    ],
+    "note": "Portfolio Management: explain the difference between the willingness and the ability (capacity) to take risk in analyzing an investor's financial risk tolerance"
+  },
+  {
+    "id": "PM-38",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the Investment Guidelines section provides information about how policy should be executed (e.g., on the permissible use of leverage and derivatives) and on specific types of assets excluded from investment, if any."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the Evaluation and Review section provides guidance on obtaining feedback on investment results."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the Statement of Duties and Responsibilities details the duties and responsibilities of the client, the custodian of the client's assets, and the investment managers."
+      }
+    ],
+    "note": "Portfolio Management: describe the major components of an IPS"
+  },
+  {
+    "id": "PM-39",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the security market line (SML) is a graphical representation of the capital asset pricing model with beta, reflecting systematic risk (not total risk), on the x-axis and expected return on the y-axis. The security market line applies to any security, efficient or not. Total risk and systematic risk are equal only for efficient portfolios because those portfolios have no diversifiable risk remaining."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the security market line (SML) is a graphical representation of the capital asset pricing model with beta, reflecting systematic risk, on the x-axis and expected return on the y-axis."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the security market line (SML) is a graphical representation of the capital asset pricing model with beta, reflecting systematic risk (not unsystematic risk), on the x-axis and expected return on the y-axis."
+      }
+    ],
+    "note": "Portfolio Management: explain the capital asset pricing model (CAPM), including its assumptions, and the security market line (SML)"
+  },
+  {
+    "id": "PM-40",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the company has a beta equal to one, which is the same as the beta of the market portfolio."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the amount of systematic risk for a company is measured by the stock's beta. 𝛽= 𝜌𝑖,𝑚 ∗ 𝜎𝑖 / 𝜎𝑚 = 0.60 x 0.25/0.15 = 0.15/0.15 = 1. Since the company's beta equals the market portfolio's beta (the market portfolio's beta with itself equals 1), the company has the same level of systematic risk as the market portfolio."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the company has a beta equal to one, which is the same as the beta of the market portfolio."
+      }
+    ],
+    "note": "Portfolio Management: calculate and interpret beta"
+  },
+  {
+    "id": "PM-41",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because a risk-seeking investor would maximize both risk and return."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a risk-neutral investor would maximize return irrespective of risk."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because risk-averse investors make investment decisions based on the risk-return trade-off, maximizing return for the same risk, and minimizing risk for the same return."
+      }
+    ],
+    "note": "Portfolio Management: explain risk aversion and its implications for portfolio selection"
+  },
+  {
+    "id": "PM-42",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because sovereign wealth funds (SWFs) are government-owned investment funds."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because sovereign wealth funds (SWFs) are government-owned investment funds. Closed-end funds are mutual funds in which no new investment money is accepted into the fund. New investors invest by buying existing shares, and investors in the fund liquidate by selling their shares to other investors. A mutual fund is a comingled investment pool in which investors in the fund each have a pro-rata claim on the income and value of the fund. SWFs do not pool investment money from individual investors and institutions, and they are not traded."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because sovereign wealth funds (SWFS) are government-owned investment funds or entities that invest in financial or real assets. In order to meet their long-term retum objectives, SWFS invest in a wide range of real and financial assets or in alternative\ninvestments. The name \"sovereign\" wealth funds refers to the funds' ownership rather than their permitted investments."
+      }
+    ],
+    "note": "Portfolio Management: describe types of investors and distinctive characteristics and needs of each"
+  },
+  {
+    "id": "PM-43",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the capital market line is a special case of the capital allocation line, where the risky portfolio is the market portfolio. The capital market line is shown in Exhibit 3, where the standard deviation (𝜎𝑝), or total risk, is on the x-axis and expected portfolio return, E(𝑅𝑝), is on the y-axis."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the security market line represents a graph of the capital asset pricing model. The security market line (SML) is a graphical representation of the capital asset pricing model with beta, reflecting systematic risk, on the x-axis and expected return on the y-axis. Using the same concept as the capital market line, the SML intersects the y-axis at the risk-free rate of return, and the slope of this line is the market risk premium, Rm - Rf"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because similar to the SML (security market line), we can draw a security characteristic line (SCL) for a security. The SCL is a plot of the excess return of the security on the excess return of the market. The security characteristic line can also be estimated by regressing the excess security return, Ri - Rf, on the excess market return, Rm - Rf"
+      }
+    ],
+    "note": "Portfolio Management: describe and demonstrate applications of the CAPM and the SML"
+  },
+  {
+    "id": "PM-44",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because systematic or non-diversifiable risk is priced and investors are compensated for holding assets or portfolios based only on that investment's systematic risk. Investors do not receive any return for accepting nonsystematic or diversifiable risk. Pricing or valuing an asset is equivalent to estimating its expected rate of return."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because systematic or non-diversifiable risk is priced and investors are compensated for holding assets or portfolios based only on that investment's systematic risk. Investors do not receive any return for accepting nonsystematic or diversifiable risk."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because systematic or non-diversifiable risk is priced and investors are compensated for holding assets or portfolios based only on that investment's systematic risk. Investors do not receive any return for accepting nonsystematic or diversifiable risk. Nonsystematic risk is the risk that pertains to a single company or industry and is also known as company-specific, industry-specific, diversifiable, or idiosyncratic risk."
+      }
+    ],
+    "note": "Portfolio Management: explain systematic and nonsystematic risk, including why an investor should not expect to receive additional return for bearing nonsystematic risk"
+  },
+  {
+    "id": "PM-45",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because although the IPS is sometimes complemented by a document outlining policy on sustainable investing policies on sustainable investing may also be integrated within the IPS itself. In the remainder of this reading, the integration of sustainable investing within the IPS will be our working assumption."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the constraints may be internal (ie., set by the client), or external (ie., set by law or regulation)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because as part of their financial planning, clients may specify specific spending goals, each of which could have different risk tolerance and return objectives."
+      }
+    ],
+    "note": "Portfolio Management: describe the reasons for a written investment policy statement (IPS)"
+  },
+  {
+    "id": "PM-46",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because a client's overall risk tolerance is a function of the client's ability to bear (accept) risk and his or her 'risk attitude,' which might be considered as the client's willingness to take risk,\" not the other way around."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a willingness [not ability] to take risk may be gauged by discussing risk with the client or by asking the client to complete a psychometric questionnaire."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the ability to bear risk is measured mainly in terms of objective factors, such as time horizon, expected income , and the level of wealth relative to liabilities. For example, an investor with a 20-year time horizon can be considered to have a greater ability to bear risk, other things being equal, than an investor with a 2-year horizon. This difference is because over 20 years there is more scope for losses to be recovered or other adjustments to circumstances to be made than there is over two years."
+      }
+    ],
+    "note": "Portfolio Management: explain the difference between the willingness and the ability (capacity) to take risk in analyzing an investor's financial risk tolerance"
+  },
+  {
+    "id": "PM-47",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the capital market line (CML) does not apply to all securities or assets but only to portfolios on the efficient frontier. The efficient frontier gives optimal combinations of expected return and total risk. Total risk and systematic risk are equal only for efficient portfolios because those portfolios have no diversifiable risk remaining. Thus, the CML holds only for well-diversified portfolios."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the nonsystematic risk of the market portfolio is zero, but not its systematic risk. Because nonsystematic risk is zero for well-diversified portfolios, such as the market portfolio, the total risk of a market portfolio and other similar portfolios is only systematic risk, which is 𝛽𝑖𝜎𝑚.Therefore, portfolios on the CML have zero nonsystematic (not systematic) risk."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the total risk of a market portfolio and other similar portfolios is only systematic risk, which is 𝛽𝑖𝜎𝑚. Therefore, portfolios on the CML have nonsystematic risk equal to zero, not beta."
+      }
+    ],
+    "note": "Portfolio Management: explain the capital allocation line (CAL) and the capital market line (CML)"
+  },
+  {
+    "id": "PM-48",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the curve that lies above and to the right of the global minimum- variance portfolio is referred to as the Markowitz efficient frontier because it contains all portfolios of risky assets that rational, risk-averse investors will choose. The efficient frontier is the upper part of the minimum-variance frontier, it does not lie above and to the left of it"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the entire collection of minimum-variance portfolios for all possible returns is referred to as the minimum-variance frontier, not the efficient frontier (which is only the upper arm of the minimum-variance frontier). Compared to the investment opportunity set, the minimum-variance frontier defines the smaller set of portfatios in which investors would want to invest. Note that no risk-averse investor will choose to invest in a portfolio to the night of the minimum-variance frontier because a portfolio on the minimum-variance frontier can give the same return but at a lower risk."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the Markowitz efficient frontier contains all portfolios of risky assets that rational, risk-averse investors will choose."
+      }
+    ],
+    "note": "Portfolio Management: describe and interpret the minimum-variance and efficient frontiers of risky assets and the global minimum- variance portfolio"
+  },
+  {
+    "id": "PM-49",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the client's utility function affects their willingness, not ability, to take risk. Utility is a measure of relative satisfaction from consumption of various goods and services or in the case of investments, the satisfaction that an investor derives from different portfolios."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the client's degree of risk aversion affects their willingness, not ability, to take risk. Risk attitude, or willingness to take risk, is a more subjective factor based on the client's psychology."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the ability to bear risk is measured mainly in terms of objective factors, such as time horizon, expected income, and the level of wealth relative to liabilities."
+      }
+    ],
+    "note": "Portfolio Management: explain the difference between the willingness and the ability (capacity) to take risk in analyzing an investor's financial risk tolerance"
+  },
+  {
+    "id": "PM-50",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the CAPM equation is E(Ri) = Rf +𝛽[E(Rm) - Rf. Therefore, the beta of the security has to be less than 1 in order for the security's return to be the same as the market risk premium, given that the risk-free rate is positive."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the CAPM equation is E(Ri) = Rf +𝛽[E(Rm) - Rf. Therefore, if beta is equal to 1, the security's return will be higher than the market risk premium."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the CAPM equation is E(Ri) = Rf +𝛽[E(Rm) - Rf. Therefore, if beta is greater than 1, the security's return will be higher than the market risk premium."
+      }
+    ],
+    "note": "Portfolio Management: calculate and interpret the expected return of an asset using the CAPM"
+  },
+  {
+    "id": "PM-51",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because risk attitude, or willingness to take risk, is a more subjective factor based on the client's psychology and perhaps also his or her current circumstances. Risk attitude is an investor's willingness to take risk, not the investor's ability to take risk."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because risk attitude, or willingness to take risk, is a more subjective factor based on the client's psychology and perhaps also his or her current circumstances. Although the list of factors that are related to an individual's risk attitude remains open to debate, it is believed that some psychological factors, such as personality type, self-esteem, and inclination to independent thinking, are correlated with risk attitude. Self- confidence is therefore associated with an investor's willingness to take risk, not the investor's ability to take risk."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the ability to bear risk is measured mainly in terms of objective factors, such as time horizon, For example, an investor with a 20-year time horizon can be considered to have a greater ability to bear risk, other things being equal, than an investor with a 2-year horizon."
+      }
+    ],
+    "note": "Portfolio Management: describe risk and return objectives and how they may be developed for a client"
+  },
+  {
+    "id": "PM-52",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the security beta is wrongly calculated due to the reversal of the standard deviations of the security and the market portfolio. Therefore, the beta is calculated as 𝛽 = (0.8 x 20%)/35% = 0.457. Next, using the CAPM equation, E(Ri) = Rf +𝛽[E(Rm) - Rf], the expected return of the security is calculated as E(Ri) = 2% + 0.457 x (10% - 2% ) = 5.66% ≈ 5.7%."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the expected return of the security can be calculated using the CAPM equation: E(Ri) = Rf +𝛽[E(Rm) - Rf]. The beta of the security can be calculated using the\nequation 𝛽 = (Pi,m x 𝜎𝑖)/ 𝜎𝑚. Therefore, 𝛽 = (0.8 x 35% )/20% = 1.4. Beta is the product of the asset's correlation with the market with a ratio of standard deviations of return (ie., the ratio of the asset's standard deviation to the market's). Therefore, using the CAPM equation: E(Ri) = 2% +1.4 x (10% - 2% ) = 13.2%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the risk-free rate is not included in the calculation of the market risk premium. Beta is calculated as 𝛽 = (0.8 x 35% ) / 20% = 1.4. Therefore, using the CAPM equation: E(Ri) = 2% +1.4 x (10%) = 16.0%."
+      }
+    ],
+    "note": "Portfolio Management: calculate and interpret the expected return of an asset using the CAPM"
+  },
+  {
+    "id": "PM-53",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the correlation between the returns of the two securities is\n𝑟𝑖𝑗= 𝐶𝑜𝑣𝑖𝑗\n𝜎𝑖𝜎𝑗\n=> 𝜎𝑖𝜎𝑗= 5.5\n0.71 = 7.3\n. Since the two securities have equal risk, 𝜎𝑖= 𝜎𝑗\n𝜎𝑖\n2 = 7.3 => 𝜎𝑖= 2.7%"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it is a miscalculation and mistakes 𝜎𝑖𝜎𝑗, as 2 x 𝜎𝑖,\n𝜎𝑖𝜎𝑗= 5.5\n0.71 = 7.3\n2 x 𝜎𝑖= 7.3% ; 𝜎𝑖= 3.67% ≈3.7%"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it is an intermediate step in the correct calculation;\n𝜎𝑖𝜎𝑗= 5.5\n0.71 = 7.3%"
+      }
+    ],
+    "note": "Portfolio Management: calculate and interpret the mean, variance, and covariance (or correlation) of asset returns based on historical data"
+  },
+  {
+    "id": "PM-54",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the expected return of an asset is E(Ri) = Rf +𝛽i[E(Rm) – Rf], where Rf, Rm, and Ri, denote the return on the asset, the market, and the risk-free asset, respectively, B, is the asset's beta, and [E(Rm) – Rf] is the market risk premium.\nThus, 𝛽𝑖= [E(𝑅𝑖)-𝑅𝑓]/[E(𝑅𝑚)-𝑅𝑓] = [5% - 1% ] / 5% = 4%/5% = 0.8."
+      },
+      {
+        "isCorrect": false,
+        "reason": "\nIncorrect because it does not subtract the risk-free rate in the numerator and calculates 𝛽𝑖= E(𝑅𝑖)/[E(𝑅𝑚)-𝑅𝑓] = 5%/5% = 1.0. It is also the answer if the market risk premium is confused\nwith the market return, thus 𝛽𝑖= [𝐸> (𝑅𝑖) −𝑅𝑓]/[market risk premium - 𝑅𝑓 = [5% - 1% ] / [5% - 1% ] = 4%/4% = 1.0."
+      },
+      {
+        "isCorrect": false,
+        "reason": "\nIncorrect because it is the inverse of beta, 1/𝛽𝑖> = [E(𝑅𝑚)-𝑅𝑓]/[E(𝑅𝑚)-𝑅𝑓] = market risk premium [𝐸(𝑅𝑖) −𝑅𝑓]= 5% /[5%-1% ] = 5%/4% = 1.25. It is also the answer if two mistakes are made: The risk-free rate is not subtracted from the expected return in the numerator and the market risk premium is confused with the market return. Thus, 𝛽𝑖= 𝐸(𝑅𝑖)/ [market risk premium - R = 5% / [5% -1% ] = 5%/4% = 1.25."
+      }
+    ],
+    "note": "Portfolio Management: calculate and interpret beta"
+  },
+  {
+    "id": "PM-55",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the expression 'risk-return trade-off refers to the positive relationship between expected risk and return. In other words, a higher return is not possible to attain in efficient markets and over long periods of time without accepting higher risk. Expected returns should be greater for assets with greater risk. Over long periods of time, we observe that higher risk does result in higher mean returns. Thus, it is reasonable to claim that, over the long term, market prices reward higher risk with higher returns, which is a characteristic of a risk- averse investor."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because long-term historical data on securities suggest that investors are risk averse, not risk neutral."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because because long-term historical data on securities suggest that investors are risk averse, not risk seeking."
+      }
+    ],
+    "note": "Portfolio Management: describe characteristics of the major asset classes that investors consider in forming portfolios"
+  },
+  {
+    "id": "PM-56",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the Procedures section of an Investment Policy Statement (IPS) explains the steps to take to keep the IPS current and the procedures to follow to respond to various contingencies. Information regarding the permissible use of derivatives is included under Investment Guidelines."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the Investment Guidelines section of an Investment Policy Statement (IPS) provides information about how policy should be executed (e.g., on the permissible use of leverage and derivatives) and on specific types of assets excluded from investment, if any."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the Statement of Duties and Responsibilities section of an Investment Policy Statement (IPS) details the duties and responsibilities of the client, the custodian of\nthe client's assets, and the investment managers. Information regarding the permissible use of derivatives is included under Investment Guidelines."
+      }
+    ],
+    "note": "Portfolio Management: describe the major components of an IPS"
+  },
+  {
+    "id": "PM-57",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the feedback step assists the portfolio manager in rebalancing the portfolio due to a change in. for example, market conditions or the circumstances of the client."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it is part of the execution step, not the feedback step. The portfolio execution step consists of first deciding on a target asset allocation, which determines the weighting of asset classes to be included in the portfolio."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it is part of the planning step, not the feedback step. The first step [the planning step] in the investment process is to understand the client's needs (objectives and constraints) and develop an investment policy statement (IPS)."
+      }
+    ],
+    "note": "Portfolio Management: describe the steps in the Portfolio Management: process"
+  },
+  {
+    "id": "PM-58",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the focus on the SAA [strategic asset allocation] is the result of a number of important investment principles. One such principle is that the returns to groups of similar assets (e g.. long-term debt claims) predictably reflect exposures to certain sets of systematic factors (e.g., for the debt claims, unexpected changes in the inflation rate)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the focus on the SAA [strategic asset allocation] is the result of a number of important investment principles. One principle is that a portfolio's systematic risk accounts for most of its change in value over the long term."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the decision to deliberately deviate from the policy exposures to systematic risk factors (i.e.. the policy weights of asset classes) with the intent to add value based on forecasts of the near-term returns of those asset classes is called tactical asset allocation. It is not one of the investment principles which strategic asset allocation is based upon."
+      }
+    ],
+    "note": "Portfolio Management: describe the principles of portfolio construction and the role of asset allocation in relation to the IPS"
+  },
+  {
+    "id": "PM-59",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the countrywide constraint for pension funds that limits the proportion of high-risk assets in the portfolio is a regulatory constraint. The fact that the constraint is formulated as a limit to invest in high-risk assets does not indicate it is a liquidity constraint.\nLiquidity constraints state what the likely requirements are to withdraw funds from the portfolio."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the IPS should state any legal and regulatory restrictions that constrain how the portfolio is invested. In some countries, such institutional investors as pension funds are subject to restrictions on the composition of the portfolio. For example, there may be a limit on the proportion of equities or other risky assets in the portfolio, or on the proportion of the portfolio that may be invested overseas."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the countrywide constraint for pension funds that limits the proportion of high-risk assets in the portfolio is a regulatory constraint. The constraint does not change the broad investment time horizon of the pension fund and is therefore not a time horizon constraint. Time horizon constraints state the time horizon over which the investor is investing."
+      }
+    ],
+    "note": "Portfolio Management: describe the investment constraints of liquidity, time horizon, tax concerns, legal and regulatory factors, and unique circumstances and their implications for the choice of portfolio assets"
+  },
+  {
+    "id": "PM-60",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the entire collection of these minimum-variance portfolios is referred to as the minimum- variance frontier. This describes the minimum variance portfolio, but not the global minimum-variance portfolio."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the left-most point on the minimum-variance frontier is the portfolio with the minimum variance among all portfolios of risky assets, and is referred to as the global minimum-variance portfolio."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the upper right-most point of the minimum-variance frontier is the opposite position of the global minimum-variance portfolio, it is actually the maximum variance on the curve of risky portfolios."
+      }
+    ],
+    "note": "Portfolio Management: describe and interpret the minimum-variance and efficient frontiers of risky assets and the global minimum- variance portfolio"
+  },
+  {
+    "id": "PM-61",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because this is not one of the two principles which resulted in the focus on a strategic asset allocation in portfolio construction. Furthermore, in general, adding assets classes with low (not high) correlation improves the risk-return trade-off (more return for similar risk)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a portfolio's systematic (not nonsystematic) risk accounts for most of its change in value over the long term."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the focus on the SAA (strategic asset allocation) is the result of a number of important investment principles. A second principle is that the returns to groups of similar assets (eg, long-term debt claims) predictably reflect exposures to certain sets of systematic factors (e.g., for the debt claims, unexpected changes in the interest rate)."
+      }
+    ],
+    "note": "Portfolio Management: describe the principles of portfolio construction and the role of asset allocation in relation to the IPS"
+  },
+  {
+    "id": "PM-62",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the IPS should be reviewed on a regular basis to ensure that it remains consistent with the client's circumstances and requirements. The IPS should also be reviewed if the manager becomes aware of a material change in the client's circumstances, or on the initiative of the client when his or her objectives, time horizon, or liquidity needs change. The major components of an IPS include the following section: Procedures This section explains the steps to take to keep the IPS current and ne padethares to folow to respond ja venous contingencies"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the Investment Guidelines section of the investment policy statement (IPS) provides Information about how policy should be executed (e.g., on the permissible use of leverage and derivatives) and on specific types of assets excluded from investmeat if any information about how and when the IPS stious be reviewed can be found in the Procedures section."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the Statement of Duties and Responsibilities section of the investment policy statement (IPS) details the duties and responsibilities of the client, the custodian of the client's assets, and the investment managers. While this section may outline who is responsible for reviewing the IPS, information about how and when the IPS should be reviewed is more likely to be found in the Procedures section."
+      }
+    ],
+    "note": "Portfolio Management: describe the major components of an IPS"
+  },
+  {
+    "id": "PM-63",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the key to a (DC defined contribution) plan is that the employee accepts the investment and inflation risk and is responsible for ensuring that there are enough assets in the plan to meet their needs upon retirement."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this applies for defined benefit (DB) plans, as generally, employers are responsible for the contributions made to a DB plan and bear the risk associated with adequately funding the benefits offered to employees."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because DC (defined contribution) plans typically have lower costs/risk to the company."
+      }
+    ],
+    "note": "Portfolio Management: describe defined contribution and defined benefit pension plans"
+  },
+  {
+    "id": "PM-64",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the intercept, 𝛼𝑗, and slope coefficient, 𝛽𝑗 , of the market model can be estimated by using historical security and market returns. These parameter estimates are then used to predict company-specific returns that a security may earn in a future period."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the market model is a return generating model which can be used to predict company-specific returns based on market returns. Macroeconomic factor models (not the market model) use economic factors that are correlated with security returns. These factors may include economic growth."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the intercept, 𝛼𝑗, and slope coefficient, 𝛽𝑗, of the market model can be estimated by using historical security and market returns. These parameter estimates are then used to predict company-specific returns that a security may earn in a future period."
+      }
+    ],
+    "note": "Portfolio Management: explain return generating models (including the market model) and their uses"
+  },
+  {
+    "id": "PM-65",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it is an ETF that is priced intraday, not a mutual fund. The value of a mutual fund is referred to as the 'net asset value'. It is computed daily based on the closing price of the securities in the portfolio. Because they are traded on exchanges. ETFs can be transacted (and are priced) intraday. In contrast, mutual funds typically can be purchased or sold only once a day."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because closed-end, not open-end, mutual funds have a fixed number of shares outstanding. An alternative to setting the fund up as an open-end fund would be to create a closed-end fund in which no new investment money is accepted into the fund. New investors invest by buying existing shares, and investors in the fund liquidate by selling their shares to other investors. Hence, the number of outstanding shares does not change. One consequence of this fixed share base is that, unlike open-end funds in which new shares are created and sold at the current net asset value per share, closed-end funds can sell for a premium or discount to net asset value depending on the demand for the shares."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the minimum required investment in ETFS is usually smaller than that of mutual funds."
+      }
+    ],
+    "note": "Portfolio Management: describe mutual funds and compare them with other pooled investment products"
+  },
+  {
+    "id": "PM-66",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it uses an equally weighted portfolio of securities instead of deriving the securities' weights from the portfolio's expected return. Given that the two securities'\nreturns are uncorrelated, it follows that the correlation between the two securities' returns is 0. Thus, portfolio standard deviation is calculated as:\n𝜎𝜌\n2 = 0,52 ∗0,242 + 0,52 ∗0,122 <=> 𝜎𝜌\n2 = 0.0144 + 0.0036 = 0.018\n=> 𝜎𝜌= √0.018 = 0.1342 ≈13.4%"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the portfolio's weights are calculated by setting the portfolio return equal to 12.6%. The portrolio return of a two-security portforlio is:\n𝑅𝜌= 𝑤1𝑅1 + 𝑤2𝑅2\n𝑅𝜌= 𝑤1𝑅1 + (1 −𝑤1)𝑅2\n12.6% = 𝑤1 ∗17% + (1 −𝑤1) ∗6%\n𝑤1 = 0.6 and 𝑤2 = 1 −0.6 = 0.4\nSince the two securities' returns are uncorrelated, it follows that CovR,, R) = 0, such that:\n𝜎𝜌\n2 = (0,62 ∗0,242 + 0,42 ∗0,122)\n𝜎𝜌\n2 = (0.0207 + 0.0023)\n=> 𝜎𝜌= √0.023 = 0.1518 ≈15.2%"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it assumes that, since the securities' returns are uncorrelated, the portfolio standard deviation is the weighted mean of the individual securities' standard deviations.\nThe portfolio's weights are calculated by setting the portfolio return equal to 12.6%. The portfolio return of a two- security portfolio is:\n𝑅𝜌= 𝑤1𝑅1 + (1 −𝑤1)𝑅2\n12.6% = 𝑤1 x 17% + (1 - W₁) x 6%\n𝑤1 = 0.6 and 𝑤2 = 1 −0.6 = 0.4\nThen, 𝜎𝜌, is incorrectly calculated as:\n𝜎𝜌=0.6 * 24 + 0.4 × 0.12\n𝜎𝜌= 0.192=19.2%. This would be the correct portfolio standard deviation if the correlation was equal to 1."
+      }
+    ],
+    "note": "Portfolio Management: calculate and interpret portfolio standard deviation"
+  },
+  {
+    "id": "PM-67",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the portfolio risk is less than the weighted average of risks when the correlation of asset returns is less than one. For an equally weighted portfolio, the standard\ndeviation can only be equal to zero when the two assets are perfectly negatively correlated (p = -1) and the two assets have the same standard deviation. For an extreme case in which P₁₂ =-1 (that is, the two asset returns move in opposite directions), the portfolio can be made risk free."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the portfolio's standard deviation is simply a weighted average of the standard deviations of the two assets when the correlation of asset returns is equal to one."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the portfolio risk is less than the weighted average of risks when the correlation of asset returns is less than one."
+      }
+    ],
+    "note": "Portfolio Management: describe the effect on a portfolio's risk of investing in assets that are less than perfectly correlated"
+  },
+  {
+    "id": "PM-68",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the risk-free asset could be combined with a risky portfolio to create a capital allocation line [CAL] A specific CAL that uses the market portfolio as the optimal risky portfolio is known as the capital market line. When assuming homogeneous expectations, only one optimal portfolio exists. The capital market line is shown in Exhibit 3, where the standard deviation (𝜎𝑝), or total risk is on the x-axis and expected portfolio return. E(Rp), is on the y-axis."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the security market line (SML) is a graphical representation of the capital asset pricing model with beta, reflecting systematic risk, on the x-axis and expected return on the y-axis. Using the same concept as the capital market line, the SML intersects the y-axis at the risk-free rate of return, and the slope of this line is the market risk premium, Rm-Rf"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a security characteristic line (SCL) for a security is a plot of the excess return of the security on the excess return of the market."
+      }
+    ],
+    "note": "Portfolio Management: explain the capital allocation line (CAL) and the capital market line (CML)"
+  },
+  {
+    "id": "PM-69",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the risk-retum profile of the strategic asset allocation depends on the expected returns and risks of the individual asset classes, as well as the correlation between those asset classes"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the risk-retum profile of the strategic asset allocation depends on the expected returns and risks of the individual asset classes, as well as the correlation between those asset classes Deciding to deviate from policy weights or to select secunties aiming to beat the benchmark creates additional uncertainty about returns. This risk is over and above the risk inherent in the policy portfolio. Hence, an investment policy should ser risk limits\nand desired payoffs for each of these activites Risk budgeting implies that the portfolio manager has to choose. for every asset class, whether to deploy security selection as a return generator. Although security selection could impact the returns of a portfolio, the risk-return profile of a portfolio's strategic asset allocation is based on expected returns for the asset classes and the correlation between those asset classes rather than the additional risk associated with the use of security selection."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the risk-return profile of the strategic asset allocation depends on the expected returns and risks of the individual asset classes, as well as the correlation between those asset classes. As the portfolio is constructed and its value changes with the returns of the asset classes and securities in which it is invested, the weights of the asset classes will gradually deviate from the policy weights in the strategic asset allocation. This process is referred to as drift. Periodically, or when a certain threshold deviation from the policy weight (the bandwidth) has been breached, the portfolio should be rebalanced back to the policy weights. The set of rules that guide the process of restoring the portfolio's original exposures to systematic risk factors is known as the rebalancing policy. Deciding to deviate from policy weights or to select securities aiming to beat the benchmark creates additional uncertainty about returns. This risk is over and above the risk inherent in the policy portfolio. Although the weights of asset classes will deviate over time, the risk-return profile of a portfolio's strategic asset allocation is not determined by the rebalancing policy."
+      }
+    ],
+    "note": "Portfolio Management: explain the specification of asset classes in relation to asset allocation"
+  },
+  {
+    "id": "PM-70",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the Sharpe ratio is defined as the portfolio's risk premium divided by its risk. Hence, the Sharpe ratio= (Rp -Rf)/ 𝜎𝑝= (15.2% - 3.1%) / 11.7% = 12.1% / 11.7% = 1.0342 ≈ 1.03."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it omits the risk-free rate when determining the portfolio's risk premium. Hence, the Sharpe ratio= Mean Annual Return/Standard Deviation of Return = 15.2% / 11.7% = 1.2991 ≈ 1.30."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the risk-free rate is added to (not subtracted from) the portfolio's return to determine the risk premium. Hence, the Sharpe ratio = (Rp -Rf)/ 𝜎𝑝 = (15.2% +3.1%) / 11.7% = 18.3% / 11.7% = 1.5641 ≈ 1.56."
+      }
+    ],
+    "note": "Portfolio Management: calculate and interpret the Sharpe ratio, Treynor ratio, M 2, and Jensen's alpha"
+  },
+  {
+    "id": "PM-71",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because tax risk is a non-financial risk as the following three non-financial risks are related: regulatory risk, accounting risk, and tax risk."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the risk management industry has come to classify three types of risks as primarily financial in nature and the second primary financial risk is credit risk."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because accounting risk is a non-financial risk as the following three non- financial risks are related: regulatory risk, accounting risk, and tax risk."
+      }
+    ],
+    "note": "Portfolio Management: identify financial and non-financial sources of risk and describe how they may interact"
+  },
+  {
+    "id": "PM-72",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because derivatives are also sensitive to changes in interest rates, which are reflected in a measure called rho"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because vega is a first-order measure of the change in the derivative price for a change in the volatility of the underlying."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the sensitivity of the derivative price to a small change in the value of the underlying asset is called the delta. Large changes are captured by the concept of gamma. Whereas delta is a first-order risk, gamma is considered a second-order risk because it reflects the risk of changes in delta. Gamma is a numerical measure of how sensitive an option's delta is to a change in the value of the underlying."
+      }
+    ],
+    "note": "Portfolio Management: describe methods for measuring and modifying risk exposures and factors to consider in choosing among the methods"
+  },
+  {
+    "id": "PM-73",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because beta is the slope of the security characteristic line (SCL), not the intercept."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the SCL is a plot of the excess return of the security on the excess return of the market. Jensen's alpha is the intercept and the beta is the slope"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the risk-free rate of return is the intercept on the y-axis of the security market line, whereas Jensen's alpha is the intercept on the y-axis of the security characteristic line."
+      }
+    ],
+    "note": "Portfolio Management: describe and demonstrate applications of the CAPM and the SML"
+  },
+  {
+    "id": "PM-74",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the Evaluation and Review section provides guidance on obtaining feedback on investment results."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the sections that are most closely linked to the client's distinctive needs, and probably the most important from a planning perspective, are those dealing with\ninvestment objectives and constraints. An IPS [investment policy statement] focusing on these two elements has been called an IPS in an 'objectives and constraints' format."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the Statement of Duties and Responsibilities details the duties and responsibilities of the client, the custodian of the client's assets, and the investment managers."
+      }
+    ],
+    "note": "Portfolio Management: describe the major components of an IPS"
+  },
+  {
+    "id": "PM-75",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the security's beta is the slope of the security characteristic line (SCL), not the security market line. The SCL is a plot of the excess return of the security on the excess return of the market. The beta is the slope."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the security market line (SML) is a graphical representation of the capital asset pricing model with beta, reflecting systematic risk, on the x-axis and expected return on the y-axis. The slope of this line is the market risk premium, Rm-Rf."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it is the slope of the capital market line (CML). E(Rm)- Rf/𝜎𝑚 not the security market line. Since the market standard deviation is unlikely to be 1, the slope of the CML is most likely not the slope of the SML"
+      }
+    ],
+    "note": "Portfolio Management: explain the capital asset pricing model (CAPM), including its assumptions, and the security market line (SML)"
+  },
+  {
+    "id": "PM-76",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because M² provides a measure of portfolio return that is adjusted for the total risk of the portfolio relative to that of some benchmark. While M² is related to the Sharpe ratio, it is calculated in a different way and is measured in different units, therefore it does not represent the slope of the capital allocation line."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the Sharpe ratio, also called the reward-to-variability ratio, is simply the slope of the capital allocation line."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the Treynor ratio corresponds to the slope of the security market line, not the capital allocation line. The Treynor ratio is a simple extension of the Sharpe ratio and resolves the Sharpe ratio's first limitation by substituting beta (systematic risk) for total risk."
+      }
+    ],
+    "note": "Portfolio Management: calculate and interpret the Sharpe ratio, Treynor ratio, M 2, and Jensen's alpha"
+  },
+  {
+    "id": "PM-77",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the Procedures section explains the steps to take to keep the IPS current and the procedures to follow to respond to various contingencies."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the Investment Constraints section presents the factors that constrain the client in seeking to achieve the investment objectives. The constraints section covers factors that need to be taken into account when constructing a portfolio for the client that meets the objectives. The typical categories are liquidity requirements, time horizon, regulatory requirements, tax status, and unique needs. The constraints may be internal (l.e., set by the client), or external (i.e., set by law or regulation)."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the Statement of Duties and Responsibilities section details the duties and responsibilities of the client, the custodian of the client's assets, and the investment managers. In the case of an institution, such as a pension plan or university endowment, the IPS may set out the governance arrangements that apply to the investment funds. For example, this information could cover the investment committee's approach to appointing and reviewing investment managers for the portfolio, and the discretion that those managers have."
+      }
+    ],
+    "note": "Portfolio Management: describe the major components of an IPS"
+  },
+  {
+    "id": "PM-78",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because total risk is relevant for an investor when he or she holds a portfolio that is not fully diversified, which is not a desirable portfolio. In such cases, the Sharpe ratio and M² are appropriate performance measures. The Sharpe ratio uses total risk as a measure of risk."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because performance measures relative to beta risk-Treynor ratio and Jensen's alpha-are relevant when the investor holds a well-diversified portfolio with negligible diversifiable risk."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because performance measures relative to beta risk-Treynor ratio and Jensen's alpha-are relevant when the investor holds a well-diversified portfolio with negligible diversifiable risk."
+      }
+    ],
+    "note": "Portfolio Management: calculate and interpret the Sharpe ratio, Treynor ratio, M 2, and Jensen's alpha"
+  },
+  {
+    "id": "PM-79",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because Total variance = Systematic variance + Nonsystematic variance, which can be written as 𝜎𝑖² = 𝛽𝑖² 𝜎𝑚² + 𝜎𝑒² . Thus, 𝜎𝑒² = 𝜎𝑖² -𝛽𝑖² 𝜎𝑚² . Thus, nonsystematic variance for Stock 1 is equal to (0.17)2 - (0.9)2(0.1)² = 0.0208. For Stock 2, this is equal to (0.18)2- (1.1)2(0.1)² = 0.0203. For Stock 3, this is equal to (0.16)² - (1.2)2(0.1)²= 0.0112. Therefore, Stock 1 has the highest nonsystematic variance and the highest idiosyncratic risk. Nonsystematic risk is the risk that pertains to a single company or industry and is also known as company- specific, industry-specific, diversifiable, or idiosyncratic risk."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because Stock 2 has the highest total risk, not the highest nonsystematic risk. Total risk is calculated as the square root of total variance."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because Stock 3 has the highest beta and thus highest systematic risk, not the highest nonsystematic risk. Systematic risk is calculated as 𝛽𝑖𝜎𝑚"
+      }
+    ],
+    "note": "Portfolio Management: explain systematic and nonsystematic risk, including why an investor should not expect to receive additional return for bearing nonsystematic risk"
+  },
+  {
+    "id": "PM-80",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because in a VaR measure, there is no ultimate maximum that one can state. VaR is thus a minimum extreme loss metric. Thus, the average loss cannot be provided by the VaR."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a standard deviation may not exist for return distributions with fat tails. Thus, the use of is not appropriate when estimating extreme losses."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the statistics used to estimate VaR can be used to gauge average extreme losses. Conditional standard deviation VaR or CVaR is a common tail loss measure, defined as the weighted average of all loss outcomes in the statistical distribution that exceed the VaR loss. Another tail risk metric in the credit risk space that is analogous to CVAR is expected loss given default, which answers the question for a debt security, If the underlying company or asset defaults, how much do we lose on average?"
+      }
+    ],
+    "note": "Portfolio Management: describe methods for measuring and modifying risk exposures and factors to consider in choosing among the methods"
+  },
+  {
+    "id": "PM-81",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the analyst forecasts the return of the asset to be 7%, which is lower than the expected return of 8.5% according to the CAPM. Thus, the security plots below the SML and should be considered overvalued. This response would be chosen if the expected return of the asset was wrongly computed as 0.02 + 1.3 x (0.05 - 0.02) = 0.059 = 5.9%, which would imply that the asset plots above the SML."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the analyst forecasts the return of the asset to be 7%, which is lower than the expected return of 8.5% according to the CAPM. Thus, the security does not plot on the SML and it is not properly valued according to the CAPM. This response would be chosen if beta was omitted in the CAPM equation and the expected return of the asset was wrongly computed as 0.02 + 𝛽𝑖² 𝜎𝑚² 0.05 = 0.07 = 7.0%, which would imply that the asset plots on the SML."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the security market line (SML) is a graphical representation of the capital asset pricing model with beta, reflecting systematic risk, on the x-axis and expected return on the y-axis. Using the same concept as the capital market line, the SML intersects the y- axis at the risk-free rate of return, and the slope of this line is the market risk premium, Rm - Rf. Potential investors can plot a security's expected return and beta against the SML and use this relationship to decide whether the security is overvalued or undervalued in the market. All securities that reflect the consensus market view are points directly on the SML (Le properly valued). If a point representing the estimated return of an asset is above the SML, the asset has a low level of risk relative to the amount of expected reture and would be a good choice for investment In contrast, if the point representing a particular asset is below the SML the stock is considered overvalued. The asset will be on the SML if the forecasted return equals the expected return of 0.02 + 1.3 x 0.05 = 0.085 = 8.5%. Since the analyst forecasts the return of the asset to be 7%, which is lower than the expected return according to the CAPM, the security plots below the SML and should be considered overvalued."
+      }
+    ],
+    "note": "Portfolio Management: describe and demonstrate applications of the CAPM and the SML"
+  },
+  {
+    "id": "PM-82",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because typically, smart beta strategies feature somewhat higher [not lower] management fees and higher portfolio turnover relative to passive market-cap weighted strategies."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because typically, smart beta strategies feature somewhat higher management fees and higher [not lower] portfolio turnover relative to passive market-cap weighted strategies."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because typically, smart beta strategies feature somewhat higher management fees and higher portfolio turnover relative to passive market-cap weighted strategies."
+      }
+    ],
+    "note": "Portfolio Management: describe aspects of the asset management industry"
+  },
+  {
+    "id": "PM-83",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because when defining asset classes, a number of criteria apply. Intuitively, an asset class should contain relatively homogeneous assets while providing diversification relative to other asset classes. In statistical terms, risk and return expectations should be similar and paired correlations of assets should be relatively high within an asset class but should be lower versus assets in other asset classes. A between asset class correlation of zero would indicate better defined asset classes than higher correlations would."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because when defining asset classes, a number of criteria apply. Intuitively, an asset class should contain relatively homogeneous assets while providing diversification relative to other asset classes. In statistical terms, risk and return expectations should be similar and paired correlations of assets should be relatively high within an asset class but should be lower versus assets in other asset classes. A between asset class correlation of 0.5 would indicate less well defined asset classes than a zero correlation would."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because when defining asset classes, a number of criteria apply. Intuitively, an asset class should contain relatively homogeneous assets while providing diversification relative to other asset classes. In statistical terms, risk and return expectations should be similar and paired correlations of assets should be relatively high within an asset class but should be lower versus assets in other asset classes. A between asset class correlation of 1.0 would indicate less well defined asset classes than a zero correlation would. A candidate may choose this response if they confuse the criteria for correlation across asset classes with the criteria for correlation within each asset class (which should be high)."
+      }
+    ],
+    "note": "Portfolio Management: explain the specification of asset classes in relation to asset allocation"
+  },
+  {
+    "id": "PM-84",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because systematic risk, also known as non-diversifiable or market risk, is the risk that affects the entire market or economy. Systematic or non-diversifiable risk is priced and investors are compensated for holding assets or portfolios based only on that investment's systematic risk. Investors do not receive any return for accepting nonsystematic or diversifiable risk."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because systematic risk, also known as non-diversifiable or market risk, is the risk that affects the entire market or economy. Systematic or non-diversifiable risk is priced and investors are compensated for holding assets or portfolios based only on that investment's systematic risk. Investors do not receive any return for accepting nonsystematic or diversifiable risk."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because we can assume that in an efficient market, no incremental reward can be earned for taking on diversifiable risk. Nonsystematic risk is the risk that pertains to a single company or industry and is also known as company-specific, industry-specific, diversifiable, or idiosyncratic risk."
+      }
+    ],
+    "note": "Portfolio Management: explain systematic and nonsystematic risk, including why an investor should not expect to receive additional return for bearing nonsystematic risk"
+  },
+  {
+    "id": "PM-85",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because there is no indication that the pension fund's decision to constrain investments in real estate is driven by legal and regulatory factors. Moreover, the word 'decision' highlights that it is not an external requirement, which would be the case if it was required by law or regulation"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this constraint is driven by economic considerations of the client and thus would be reflected in the tax concems section of the IFS and not in the legal and regulatory constraints. In many cases, the portfolio should reflect the tax status of the client. For example a taxable investor may wish to hold a portfolio that emphasizes capital gains and receives little income"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because when an individual has access to material nonpublic information about a particular security this situation may also form a (legal and regulatory] constraint For example, the directors of a public company may need to refrain from trading the company's stock at certain points of the year before financial results are published. The IPS should note this constraint so that the portfono manager does not inadvertently trade the stock Do the client's behalf"
+      }
+    ],
+    "note": "Portfolio Management: describe the investment constraints of liquidity, time horizon, tax concems, legal and regulatory factors and unique circumstances and their implications for the choice of portfolio assets"
+  },
+  {
+    "id": "PM-86",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because when defining asset classes paired correlations of assets should be relatively high within an asset class."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because when defining asset classes paired correlations of assets should be relatively high within an asset class."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because when defining asset classes an asset class should contain relatively homogeneous assets and paired correlations of assets should be relatively high within an asset class."
+      }
+    ],
+    "note": "Portfolio Management: explain the specification of asset classes in relation to asset allocation"
+  },
+  {
+    "id": "PM-87",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it confuses 𝜎𝑖, and 𝜎𝑚 and calculates 𝜌𝑖,𝑚 = 𝛽𝑖 x 𝜎𝑖/𝜎𝑚 = 0.35 x 0.12/0.18 = 0.233 ≈ 0.2. This answer is also obtained if, as an additional mistake, variances are used 𝜌𝑖,𝑚 = 𝛽𝑖 x 𝜎𝑖2/𝜎𝑚 2= 0.35 x (0.12)2/(0.18)2 = 0.156 ≈ 0.2."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because 𝛽𝑖 = 𝜌𝑖,𝑚 x 𝜎𝑖/𝜎𝑚 where 𝜌𝑖,𝑚 denotes the correlation between the asset returns and the market returns, and σ, and σ denote the standard deviation of the asset returns and the market returns, respectively. Thus, correlation 𝜌𝑖,𝑚 = 𝛽𝑖 x 𝜎𝑚/𝜎𝑖 = 0.35 x 0.18/0.12 = 0.525 ≈ 0.5."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it uses variances instead of standard deviations in the correct formula; 𝜌𝑖,𝑚 = 𝛽𝑖 x 𝜎𝑚2/𝜎𝑖 2 = 0.35 * (0.18)2/(0.12)²= 0.788 ≈ 0.8."
+      }
+    ],
+    "note": "Portfolio Management: calculate and interpret beta"
+  },
+  {
+    "id": "PM-88",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because with a probability of 5% and a measurement period of one day, we can interpret the bank's VaR as expecting a minimum loss of £5 million once every 20 business days."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because with a probability of 5% and a measurement period of one day, we can interpret the bank's VaR as expecting a minimum loss of £5 million once every 20 business days. Based on a year with 250 to 260 business days, this should occur 12.5 to 13 times per year (roughly once per month)."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because with a probability of 5% and a measurement period of one day, we can interpret the bank's VaR as expecting a minimum loss of £5 million once every 20 business days."
+      }
+    ],
+    "note": "Portfolio Management: describe methods for measuring and modifying risk exposures and factors to consider in choosing among the methods"
+  },
+  {
+    "id": "PM-89",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because risk management is not even about predicting risks. The Doctrine of No Surprises' is a key mantra among many risk managers, but it does not mean they are expected to predict what will happen. For example, a risk manager of a bank would not have been expected to know that a real estate crisis was going to occur and cause significant defaults on the bank's real estate securities."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because a good risk management process would include a deep discussion at the governance level about the balance between the likely returns and the unlikely-but sizable- losses and whether such losses are tolerable."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a poor risk management process would have ignored the possibility, though small, of such a significant market event and not quantified the potential loss."
+      }
+    ],
+    "note": "Portfolio Management: define risk management"
+  },
+  {
+    "id": "PM-90",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it is portfolio variance instead of standard deviation:\n𝜎𝑝\n2=𝑤1\n2𝜎1\n2 + 𝑤2\n2𝜎2\n2 + 2𝑤1𝑤2𝜌12𝜎1𝜎2\n=(0.4)2(0.15)2(+(0.6)2 (0.18)2(+2(0.4) (0.6)(0.2)(0.15)(0.18)\n=(0.16) (0.0225) + (0.36) (0.0324) + (0.002592)=0.017856 1.8%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it uses standard deviations instead of variances in the formula for the portfolio standard deviation:\n𝜎𝑝\n2=𝑤1\n2𝜎1 + 𝑤2\n2𝜎2 + 2𝑤1𝑤2𝜎1𝜎2𝜌12\n(0.4)2 (0.15) + (0.6)2 (0.18) +2(0.4)(0.6) (0.20)(0.15)(0.18)\n(0.024)+(0.0648)+(0.002592)\n=0.091392≈9.1%.&"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because 𝜎𝑝𝑜𝑟𝑡 =\n√𝑤1\n2𝜎1\n2 + 𝑤2\n2𝜎2\n2 + 2𝑤1𝑤2𝜌1,2𝜎1𝜎2\n√(0.4)2 (0.15)2 +(0.6)2 (0.18)2 +2(0.4)(0.6)(0.2)(0.15)(0.18)\n(0.16) (0.0225)+(0.36) (0.0324)+0.002592\n=√0.017856\n= 0.133626≈13.4%."
+      }
+    ],
+    "note": "Portfolio Management: calculate and interpret portfolio standard deviatio"
+  },
+  {
+    "id": "PM-91",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because, although the investor has a time horizon of 15 years, she has liquidity needs in one year When the client does have such a requirement, the manager should allocate part of the portfolio to cover the liability This part of the portfolio will be invested in assets that are liquid-that is, easily converted to cash-and low risk at the point in time the liquidity neee is actually present (eg a bond maturing at the Ume whee private education expenses will be incurred), so that their value is known with reasonable certainty\nCommercial paper is a short- term. negouable, unsecured promissory nere that represents a debt obligation of the issuer Thus commercial paper being a short-term investment. It is more suitable compared to private equity and large capitalizason stocks to be included in the portion of the investor's porono that has the short-term liquidity need"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because, although the investor has a time horizon of 15 years, she has liquidity needs in one year. When the client does have such a requirement, the manager should allocate part of the portfolio to cover the liability. This part of the portfolio will be invested in assets that are liquid-that is, easily converted to cash-and low risk at the point in time the liquidity need is actually present (eg., a bond maturing at the time when private education expenses will be incurred), so that their value is known with reasonable certainty. Private equity securities are not listed on public exchanges and have no active secondary market. They are issued primarily to institutional investors via non-public offerings, such as private placements. Being illiquid, they are not suitable to be included in the portion of the client's portfolio that has the short-term liquidity need."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because, although the investor has a time horizon of 15 years, she has liquidity needs in one year When the client does have such a requirement, the manager should allocate part of the portfolio to cover the liability. This part of the portfolio will be invested in assets that are liquid-that is, easily converted to cash-and low risk at the point in time the liquidity need is actually present (e.g., a bond maturing at the time when private education expenses will be incurred), so that their value is known with reasonable certainty Thus, large- capitalization stocks, being a more volatile investment than commercial paper, would be less suitable to be included in the portion of the investor's portfolio that has the short- term liquidity need."
+      }
+    ],
+    "note": "Portfolio Management: describe the investment constraints of liquidity, time horizon, tax concerns, legal and regulatory factors, and unique circumstances and their implications for the choice of portfolio assets"
+  },
+  {
+    "id": "PM-92",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because, for a given Markowitz efficient frontier, a different risk-free rate will result in a different tangent to the frontier, hence a different optimal risky portfolio CAL(P) is the optimal capital allocation line and Portfolio P is the optimal risky portfolio. Thus, with the addition of the risk-free asset, we are able to narrow our selection of risky portfolios to a single optimal nsky portfoilo, P which is at the tangent of CAL(P) and the efficient frontier of risky assets."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the optimal risky portfolio is selected from numerous risky portfolios without considering the investor's preferences."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because all investors regardless of taste, risk preferences, and initial wealth will hold a combination of two portfolios or funds. a risk-free asset and an optimal portfolio of risky assets. The investor's optimal portfolio thus lies on the capital allocation line (CAL), not on the Markowitz efficient trontier. If it is optimal for an investor to allocate no wealth to\nthe risk-free asset, the investor's optimal portfolio will lie on the Markowitz efficient frontier However, this is not 'always' the case."
+      }
+    ],
+    "note": "Portfolio Management: explain the selection of an optimal portfolio, given an investor's utility (or risk aversion) and the capital allocation line"
+  },
+  {
+    "id": "PM-93",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because, given the beta of an asset (𝛽𝑖), the covariance between the asset returns (𝑅𝑖) and the market portfolio returns (𝑅𝑚) is given by: Cov(𝑅𝑖𝑅𝑚) = 𝛽𝑖 x 𝜎𝑚\n2 = 1.8 × 0.35² = 0.22"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it is the systematic variance of the portfolio; 𝛽𝑖\n2 x 𝜎𝑚\n2 =1.82 x 0.352 = 0.40."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it is the correlation coefficient, not the covariance, between the asset returns and the market portfolio returns, 𝜌𝑖,𝑚= 𝛽𝑖∗ 𝜎𝑚/𝜎𝑖 = 1.8 x 0.35/0.70 = 0.90. It is also the closest answer if the asset return variance is used in the correct formula instead of the market return variance; 1.8 x 0.70² = 0.88."
+      }
+    ],
+    "note": "Portfolio Management: calculate and interpret beta"
+  },
+  {
+    "id": "PM-94",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "\nIncorrect because it uses an incorrect CAPM equation to calculate the expected return of a security as E(𝑅𝑖) = 𝑅𝑓 +𝛽𝑖 x E(𝑅𝑚), such that E(𝑅𝑚) = [E(𝑅𝑖)- 𝑅𝑓/𝛽𝑖; = (0.11 -0.02)/1.5= 0.066%. Since the market risk premium is 𝑅𝑚−𝑅𝑓, it follows that the market risk premium is calculated as 6% - 2% = 4%."
+      },
+      {
+        "isCorrect": true,
+        "reason": "Correct because, according to the CAPM, the expected return of a security is E(𝑅𝑖) = 𝑅𝑓 +𝛽𝑖 x [E(𝑅𝑚)−𝑅𝑓], such that [E(𝑅𝑚) - 𝑅𝑓= E(𝑅𝑖)/ 𝛽𝑖; = (0.11 -0.02)/1.5 0.06 = 6%. The market risk premium is E(𝑅𝑚)- 𝑅𝑡=6%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it uses an incorrect CAPM equation to calculate the expected return of a security as E(𝑅𝑖) = 𝛽𝑖 x E(𝑅𝑚)-𝑅𝑓,such that [E(𝑅𝑚) - 𝑅𝑓= E(𝑅𝑖)/ 𝛽𝑖; = 0.11/1.5= 0.07337.3%. The market risk premium is incorrectly calculated as 7.3%.\nThis is also closest to the market return of 8% calculated according to the CAPM equation; 0.11 = 0.02 + 1.5x [E(𝑅𝑚)-0.02]: E(𝑅𝑚) = 0.08 = 8%."
+      }
+    ],
+    "note": "Portfolio Management: calculate and interpret the expected return of an asset using the CAPM"
+  },
+  {
+    "id": "PM-95",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because\n0.060 = SR * (𝜎𝑝∕𝛽𝑝′ ) = 0.8 x (0.19/2.527),\nwhere\nβp’ = incorrectly calculated portfolio beta = ρpm (𝜎𝑝\n2 ∕𝜎𝑚\n2 )=0.7 x (0.192/0.12) = 2.527."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because\n𝑇𝑅= (𝑅𝑝−𝑅𝑓) ∕𝛽𝑝= [(𝑅𝑝−𝑅𝑓) ∕𝜎𝑝]𝑥(𝜎𝑝∕< 𝐵𝑝)= 0.8 x (0.19/1.33)=0.114,\nwhere\nσ = standard deviation of market returns = 0.10 (given);\nσ = standard deviation of portfolio returns = 0.19 (given)\nPpm-correlation between market and portfolio = 0.7 (given);\n𝛽𝜑-portfolio beta = Pp.m(𝜎𝑝∕𝜎𝑚)=0.7 x (0.19/0.1) 1.33 (per𝛽𝜑 = Pim(𝜎𝑝∕𝜎𝑚));\n𝑅𝑝= portfolio's return;\n𝑅𝑓 = risk-free rate of interest;\nTR=Treynor ratio;\nSR = Sharpe ratio, where SR = (𝑅𝑝−𝑅𝑓) ∕𝜎𝑝"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because\n0.413 SR x (𝜎𝑝∕𝛽𝑝\n∗)= 0.8 x (0.19/0.368),\nwhere\n𝛽𝑝\n∗= incorrectly calculated portfolio beta = Ppm (𝜎𝑚∕𝜎𝑝) = 0.7 × (0.1/0.19) = 0.368."
+      }
+    ],
+    "note": "Portfolio Management: calculate and interpret the Sharpe ratio, Treynor ratio, M 2, and Jensen's alpha"
+  },
+  {
+    "id": "PM-96",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the equally weighted portfolio's return is the same as the return on the randomly selected security. Thus, a portfolio's expected return is not influenced by the correlations between assets. The portfolio return varies with weights but is unaffected by the correlation coefficient."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the standard deviation of an equally weighted portfolio is not simply the average of the standard deviations of the individual shares. Such a portfolio offers a lower standard deviation of return than the average of its individual components due to the correlations or interactions between the individual securities, Thus, a portfolio's standard deviation of returns is influenced by the correlations between assets.\nFor example, the standard deviation of a two-asset portfolio simplifies to the following\n𝜎𝑝= √𝑤1\n2𝜎1\n2 + 𝑤2\n2𝜎2\n2 + 2𝑤1𝑤2𝜌1,2𝜎1𝜎2\nIt follows that an increase in the correlation among assets will result in an increase in the portfolio's standard deviation, not a decrease."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because, as the correlations between asset returns increase, the diversification benefit provided by portfolios decreases. A major reason that portfolios can effectively reduce risk is that combining securities whose returns do not move together provides diversification. However, an important issue is that the co-movement or correlation pattern of the securities' returns in the portfolio can change in a manner unfavorable to the investor. When we examine the returns of a set of global equity indexes over the last 15 years, we observe a reduction in the diversification benefit due to a change in the pattern of co-movements of returns. The degree to which these global equity indexes move together has increased over time.\nThe lesson is that although portfolio diversification generally does reduce risk, it does not necessarily provide the same level of risk reduction during times of severe market turmoil as it does when the economy and markets are operating 'normally’."
+      }
+    ],
+    "note": "Portfolio Management: describe the portfolio approach to investing"
+  },
+  {
+    "id": "PM-97",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it adjusts for inflation in the wrong direction, ie. it assumes that, in order to reach $500,000 in 15 years' time, we must equate $500,000 to $150,000 x 1.0215 x (1+r)15, which yields: r = [$500,000/($150,000 * 1.0215)11/15-1=0.062 = 6.2%. Alternatively, after calculating the nominal return via $150,000(1+r)15 = X $500,000, it then adjusts for inflation by subtracting, rather than adding, the expected inflation rate from the nominal rate, [$500,000/$150,000]1/15-1-0.02 = 8.4% - 2.0% = 6.4%, which is closest to this response."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it does not take into account the effect of inflation on the individual's retirement income needs. In other words, it assumes that the portfolio needs to grow to at least $500,000 in 15 years' time, rather than to this amount adjusted upward for inflation. Hence, the minimum required rate of return, r, satisfies $150,000(1 + r)15 = $500,000, giving r = [$500,000/$150,000]1/15 – 1 = 0.084 = 8.4%. Calculator solution: N = 15; PV = - 150,000; FV 500,000; compute I/Y = 8.4%."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because, at 2% annual inflation, $500,000 in today's money equates to $500.00(1.02)15 = $672.934 in 15 years' time. Since no further contributions to the\nretirement fund will be made, the current savings of $150,000 must grow to at least $672,934 in 15 years' time to meet the individual's retirement income objective. Hence, the minimum required rate of return, r, satisfies $150,000(1+r)15= $672,934, giving r = [$672,934/$150,000]1/15 – 1 = 0.105 = 10.5% Calculator solution: (1) N = 15; I/Y = 2%, PV=- 500,000; compute FV = 672,934. (2) N = 15; PV =-150,000; FV = 672,934; compute I/Y = 10.5%.\nAlternatively, a candidate could compute the nominal required rate of return via $150,000(1+r)15 = $500,000, giving r = [$500,000/$150,000]1/15 – 1 = 0.084 = 8.4%, and then adjust for inflation as follows: (1+0.084) x (1 + 0.02) - 1 = 0.105 = 10.5%. If a candidate adjusted for inflation by adding the expected inflation rate, they would also arrive at (approximately) the Correct answer: 8.4% +2.0% 10.4%."
+      }
+    ],
+    "note": "Portfolio Management: describe risk and return objectives and how they may be developed for a client"
+  },
+  {
+    "id": "PM-98",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because for portfolios with a large number of assets, covariance among the assets accounts for almost all of the portfolio's risk. A candidate may select this answer choice if they extrapolate the fact that portfolio variance is reduced when more assets are added to a portfolio. This argument however fails to acknowledge the limits of diversification."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the contribution of the average variance of the individual assets to the total portfolio variance becomes negligible as the number of assets becomes large. Furthermore, for portfolios with a large number of assets, covariance among the assets accounts for almost all of the portfolio's risk."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because, given equal weights and average variance/covariance [denoted o² and\nCov, respectively], we can rewrite the portfolio variance as𝜎𝑝\n2 = 𝜎\n2\n𝑁+ [(𝑁−1) ∕𝑁]𝐶𝑜𝑣\nThe equation shows that as / becomes large, the first term on the right side with the denominator of N becomes smaller and smaller, implying that the contribution of one asset's variance to portfolio variance gradually becomes negligible. The second term, however, approaches the average covariance as N increases. It is reasonable to say that for portfolios with a large number of assets, covariance among the assets accounts for almost all of the portfolio's risk."
+      }
+    ],
+    "note": "Portfolio Management: describe the effect on a portfolio's risk of investing in assets that are less than perfectly correlated"
+  },
+  {
+    "id": "PM-99",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because, in the context of risk management, certain factors should not determine risk tolerance, but in many cases they do. Personal motivations, beliefs, and agendas of board members (the agency problem); company size, whether the market environment seems stable, short-term pressures, and management compensation often affect risk tolerance in ways that might not be in line with the owners best interests."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because, in the context at nsk management. nsk budgeting picks up where risk tolerance leaves off Whereas risk tolerance focuses on the appetite for risk and what is and is not acceptable, risk budgeting has a more specific focus on now that risk is taken. Risk budgeting quantifies and allocates the tolerable nsk by specific metrics, it extends and guides implementation of the risk tolerance decision,"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because, in the context of risk management, factors such as a company's goals, its expertise in certain areas, and its strategies will help a board determine which risks the company may pursue and with how much intensity. The government and regulatory landscape is important too, both in their ex ante demands on how companies approach risk and in the likely ex post reaction in the event of disasters."
+      }
+    ],
+    "note": "Portfolio Management: explain how risk tolerance affects risk management"
+  },
+  {
+    "id": "PM-100",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the optimal portfolio maximizes the return per unit of risk (as it is on the capital allocation line), and it simultaneously supplies the investor with the most satisfaction (utility)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because, as the investors have different degrees of risk aversion, they will not have the same optimal portfolio. The optimal portfolio maximizes the return per unit of risk (as it is on the capital allocation line), and it simultaneously supplies the investor with the most satisfaction (utility)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the less risk-averse investor is willing to accept the additional risk.\nTherefore, the more risk-averse Investor 1 will have an optimal portfolio with less risk and a lower expected return than Investor 2. The optimal portfolio maximizes the return per unit of risk (as it is on the capital allocation line), and it simultaneously supplies the investor with the most satisfaction (utility)."
+      }
+    ],
+    "note": "Portfolio Management: explain the selection of an optimal portfolio, given an investor's utility (or risk aversion) and the capital allocation line"
+  }
+]

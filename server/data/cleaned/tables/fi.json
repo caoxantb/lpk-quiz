@@ -1,0 +1,132 @@
+{
+  "FI-12": [
+    ["Price", "96.00"],
+    ["Price with yield to maturity 10 basis points higher", "95.80"],
+    ["Price with yield to maturity 10 basis points lower", "96.30"]
+  ],
+  "FI-15": [
+    ["Type", "Total Amount Outstanding", "Time to Maturity"],
+    ["Floating-rate note (FRN)", "$50 million", "12 years"],
+    ["Fixed-rate bond", "$10 million", "2 years"]
+  ],
+  "FI-25": [
+    ["Benchmark Rate", "Price per 100 of Par Value"],
+    ["5.9%", "100.75"],
+    ["6.0%", "100.00"],
+    ["6.1%", "99.26"]
+  ],
+  "FI-26": [
+    [
+      "Interest Rate Assumption",
+      "Present Value of Liabilities (in $ Millions)"
+    ],
+    ["0.5%", "198"],
+    ["1.0%", "186"],
+    ["1.5%", "174"]
+  ],
+  "FI-35": [
+    ["Term to Maturity", "Spot Rate"],
+    ["1 year", "6%"],
+    ["2 years", "5%"],
+    ["3 years", "4%"]
+  ],
+  "FI-38": [
+    ["", "Bond 1", "Bond 2", "Bond 3"],
+    ["Coupon rate", "5%", "3%", "3%"],
+    ["Maturity (years)", "15", "10", "15"]
+  ],
+  "FI-50": [
+    ["Annualized Yield to Maturity", "Bond Price"],
+    ["3.9%", "100.45"],
+    ["4.0%", "100.00"],
+    ["4.1%", "99.56"]
+  ],
+  "FI-54": [
+    ["Par value", "$1,000,000"],
+    ["Current market value", "$912,575"],
+    ["Duration", "2.4"]
+  ],
+  "FI-56": [
+    [
+      "Bond",
+      "Market Price (per 100 of par value)",
+      "Money Duration (per 100 of par value)"
+    ],
+    ["1", "95", "730"],
+    ["2", "120", "515"]
+  ],
+  "FI-82": [
+    ["Current price", "105 per 100 of par value"],
+    ["Time-to-maturity", "4 years"],
+    ["Coupon rate", "4%"],
+    ["Call price at year 2", "103 per 100 of par value"],
+    ["Call price at year 3", "101 per 100 of par value"]
+  ],
+  "FI-83": [
+    ["", "Coupon", "Yield to Maturity", "Time to Maturity"],
+    ["Bond 1", "4%", "4%", "10 years"],
+    ["Bond 2", "4%", "5%", "11 years"],
+    ["Bond 3", "5%", "5%", "9 years"]
+  ],
+  "FI-86": [
+    ["Bond", "Par Value", "Market Value", "Duration"],
+    ["1", "$100,000", "$120,000", "5"],
+    ["2", "$200,000", "$180,000", "4"]
+  ],
+  "FI-104": [
+    ["Redemption value", "$5,000,000"],
+    ["Interest earned", "$140,500"],
+    ["Days to maturity", "160"]
+  ],
+  "FI-59": [
+    ["Maturity", "Yield to Maturity"],
+    ["1 year", "1.5%"],
+    ["2 years", "2.5%"],
+    ["3 years", "3.5%"]
+  ],
+  "FI-60": [
+    ["Time to Maturity", "Yield to Maturity"],
+    ["Bond 1 (Three years)", "3.4%"],
+    ["Bond 2 (Eight years)", "5.4%"]
+  ],
+  "FI-64": [
+    ["Price per 100 of Par Value", "Yield to Maturity"],
+    ["100.95", "7.45%"],
+    ["101.80", "6.75%"],
+    ["103.40", "6.05%"]
+  ],
+  "FI-65": [
+    ["Benchmark Yield", "Bond Price"],
+    ["3.50%", "99.50"],
+    ["4.00%", "95.35"],
+    ["4.50%", "92.25"]
+  ],
+  "FI-69": [
+    ["Rate Change", "Price"],
+    ["75 basis point increase", "104.0"],
+    ["75 basis point decrease", "108.5"]
+  ],
+  "FI-72": [
+    ["Change in Benchmark Curve", "Price per 100 of Par Value"],
+    ["+25 bps", "98"],
+    ["-25 bps", "103"]
+  ],
+  "FI-75": [
+    ["Time to maturity", "5 years"],
+    ["Annual convexity", "28.835"],
+    ["Annual yield to maturity", "2%"]
+  ],
+  "FI-78": [
+    ["", "Bond 1", "Bond 2"],
+    ["Par value", "$300,000", "$450,000"],
+    ["Market value", "$200,000", "$400,000"],
+    ["Yield to maturity", "4%", "3%"],
+    ["Macaulay duration", "7.5", "5.4"]
+  ],
+  "FI-79": [
+    ["Time Period", "Forward Rate"],
+    ["0y1y", "1%"],
+    ["1y1y", "2%"],
+    ["2y1y", "4%"]
+  ]
+}

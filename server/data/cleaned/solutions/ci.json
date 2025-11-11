@@ -1,0 +1,1208 @@
+[
+  {
+    "id": "CI-1",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because debt must be repaid on a pre-specified date in the future with interest."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because equity investors (shareholders) have a right to receive any distributions of profits, known as dividends. However, while shareholder have the right to receive dividends, the corporation is not required to pay dividends."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because equity investors (shareholders) have a right to receive any distributions of profits, known as dividends. However, while shareholder have the right to receive dividends, they corporation is not required to pay dividends."
+      }
+    ],
+    "note": "Corporate Issuers: describe key features of business models"
+  },
+  {
+    "id": "CI-2",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because value added resellers not only distribute a product but also handle more complex aspects of product installation, customization or support"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because licensing arrangements are business models in which a company will produce a product using someone else's brand name in return for a royalty."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because contract manufacturers produce goods to be marketed by others."
+      }
+    ],
+    "note": "Corporate Issuers: describe various types of business models"
+  },
+  {
+    "id": "CI-3",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because an issuer's income statement distinguishes between its financial income or net income once fixed obligations have been met and its 'economic' profit, or return to a firm's owners in excess of what they could have earned elsewhere on different investments, known as their required rate of return on equity."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because an issuer's income statement distinguishes between its financial income or net income once fixed obligations have been met and its 'economic profit, or return to a firm's owners in excess of what they could have earned elsewhere on different investments, known as their required rate of return on equity."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because an issuer's income statement distinguishes between its financial income or net income once fixed obligations have been met and its 'economic profit, or return to a firm's owners in excess of what they could have earned elsewhere on different investments, known as their required rate of return on equity."
+      }
+    ],
+    "note": "Corporate Issuers: describe key features of business models"
+  },
+  {
+    "id": "CI-4",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because private company investors may be limited to qualified or so-called accredited investors or sophisticated investors, or those deemed to be able and willing by regulatory authorities to assume the greater risk of a non-public offering."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because private company investors may be limited to qualified or so-called accredited investors or sophisticated investors, or those deemed to be able and willing by regulatory authorities to assume the greater risk of a non-public offering."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because private company investors may be limited to qualified or so-called accredited investors or sophisticated investors, or those deemed to be able and willing by regulatory authorities to assume the greater risk of a non-public offering."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "CI-5",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because crowdsourcing is where users contribute directly to a product or service. These businesses facilitate \"user communities that enable voluntary collaboration between users of a product with a small amount of moderation and oversight by the company."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a one-sided network is one where it is only one type of user that is valuable to other users."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because as multi-sided [two-sided] networks grow-more users join the service, which attracts more merchants, which in turn attracts more users these businesses can grow exponentially."
+      }
+    ],
+    "note": "Corporate Issuers: describe various types of business models"
+  },
+  {
+    "id": "CI-6",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because in contrast [to public companies] the shares of a private company are not listed (do not trade valuation or share price transparency exists. on an exchange), so"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because private companies typically have less no visible company typically have less share price transparency than public companies share price transparency than public companies"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because private companies"
+      }
+    ],
+    "note": "Corporate Issuers: compare publicly and privately owned Corporate Issuers"
+  },
+  {
+    "id": "CI-7",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because a platform business is based on a network and can be distinguished from a traditional or \"linear\" business that adds value to something that is sold to customers in a linear supply chain. Platform business models are not developed specifically to allow users to contribute directly to product, service, or online content."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because marketplace businesses create networks of buyers and sellers without taking ownership of the goods during the process. Examples include Alibaba, eBay, Mercado Libre, and Etsy. Marketplace business models are not developed specifically to allow users to contribute directly to product, service, or online content."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because crowdsourcing business models enable users to contribute directly to a product, service, or online content. Examples include: contests and competitions; online gaming, product development, such as open source software, knowledge aggregation, such as Wikipedia and Waze/Google Maps; fan or hobbyist clubs, and networks of tradespersons or professionals."
+      }
+    ],
+    "note": "Corporate Issuers: describe key features of business models"
+  },
+  {
+    "id": "CI-8",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because short-term debt is included in a company's financial balance sheet."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because contracts with customers and other intangible assets balance sheet but are included on the issuer's broader are excluded from a company's financial \"economic\" balance sheet"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because agreements with suppliers and other intangible assets are excluded from a company's financial balance sheet but are included on the issuer's broader \"economic\" balance sheet."
+      }
+    ],
+    "note": "Corporate Issuers: describe key features of business models"
+  },
+  {
+    "id": "CI-9",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because tiered pricing is charging different prices to different buyers, often based on volume purchased but also based on product features (e.g., base versus premium trims of vehicles)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because dynamic pricing is charging different prices at different times and for different types of customers depending on such variables as available supply levels and demand."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because value based pricing is setting prices based on the value received by the customer, which often involves estimating opportunity cost."
+      }
+    ],
+    "note": "Corporate Issuers: describe various types of business models"
+  },
+  {
+    "id": "CI-10",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because major drags on receipts involve pressures from credit management and deterioration in other assets and include Obsolete inventory. If inventory stands unused for long periods, it might be an indication that it is no longer usable. So, obsolete inventory is a drag (not a pull) on a company's liquidity."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because a pull on liquidity is when disbursements (outflows) are paid too quickly by the company or trade credit availability is limited, requiring companies to expend funds before they receive funds from sales that could cover the liability. Also, major pulls on payments include Reduced credit limits. >If a company has a history of making late payments. suppliers might cut the amount of credit they will allow to be outstanding at any time.\" So, reduced credit limits are a pull on a company's liquidity."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because major drags on receipts involve pressures from credit management and deterioration in other assets and include Uncollected receivables. The longer these are outstanding, the greater the risk that they will not be collected at all. They are indicated by the large number of\ndays of receivables and high levels of bad debt expenses. So, uncollected receivables are a drag (not a pull) on a company's liquidity."
+      }
+    ],
+    "note": "Corporate Issuers: explain liquidity and compare issuers' liquidity levels"
+  },
+  {
+    "id": "CI-11",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because penetration pricing, rather than dynamic pricing, is used. Dynamic pricing charges different prices at different times. Specific examples include off-peak pricing (e.g., for hotel rooms, advertising, airline tickets, electricity, or matinee movie tickets), 'surge' pricing, and 'congestion' pricing (e.g., for ride sharing and toil roads)"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because penetration pricing, rather than freemium pricing, is used. Freemium pricing allows customers a certain level of usage or functionality at no charge-for example, with news content, a software application, or a game. This model is widely used in digital content and services, such as periodicals, video games, software/apps, and cloud storage, where the provider stands to benefit from wide adoption (often via network effects)"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because penetration pricing is an example of discount pricing and is used when a firm willingly sacrifices margins in order to build scale and market share."
+      }
+    ],
+    "note": "Corporate Issuers: describe key features of business models"
+  },
+  {
+    "id": "CI-12",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because a firm's value chain is the systems and processes within a firm that create value for its customers. Note that a firm's value chain is different from a supply chain, which refers to the sequence of processes involved in the creation of a product, both within and external to a firm."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because a supply chain refers to the sequence of processes involved in the creation of a product, both within and external to a firm. A supply chain includes all the steps involved in producing and delivering a physical product to the end customer, regardless of whether those steps are performed by a single firm."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because there is no precise definition, but a business model essentially describes how a business is organized to deliver value to its customers. A business model makes it clear what the business does, how it operates, and how it generates revenue and profits, as well as how it differs in these respects from its competitors.\nA business model should have a value proposition and a value chain. So, business model is a broader concept, which includes value chain but also other business organization elements."
+      }
+    ],
+    "note": "Corporate Issuers: describe key readres of business models"
+  },
+  {
+    "id": "CI-13",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because under a franchise model distributers or retailers have a tightly defined and often exclusive relationship with the parent company."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because private label or contract manufacturers produce goods to be marketed by others."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because a company will produce a product using someone else's brand name in return for a royalty under a licensing arrangement."
+      }
+    ],
+    "note": "Corporate Issuers: describe key features of business models"
+  },
+  {
+    "id": "CI-14",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because a its strategy, target clearly described business model helps the analyst understand a business: how it operates. customers, key partners, prospects, risks, and financial profile."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because a clearly described business model helps the analyst understand a business: how it operates, its strategy, target customers, key partners, prospects, risks, and financial profile. Rather than rely on management's description of its business model, analysts should develop their own understanding."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because rather than rely on management's description of its business model, analysts should develop their own understanding."
+      }
+    ],
+    "note": "Corporate Issuers: describe key features of business models"
+  },
+  {
+    "id": "CI-15",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because a pull on liquidity is when disbursements are paid too quickly or trade credit availability is limited, requiring companies to expend funds before they receive funds from sales that could cover the liability. Major pulls on payments include: Reduced credit limits. If a company has a history of making late payments. suppliers may cut the amount of credit they will allow to be outstanding at any time, which can squeeze the company's liquidity."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because aA drag on liquidity is when receipts lag, creating pressure from the decreased available funds. Major drags on receipts involve pressures from credit management and deterioration in other assets and include; Uncollected receivables. The longer these are outstanding, the greater the risk that they will not be collected at all."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a pull on liquidity is when disbursements are paid too quickly or trade credit availability is limited, requiring companies to expend funds before they receive funds from sales that could cover the liability"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "CI-16",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because an increased ability to support debt is indicated by high revenue, low cash flow volatility, and greater (not lower) fungible assets."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because an increased ability to support debt is indicated by high revenue, low operating leverage,"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because an increased ability to support debt is indicated by low cash flow volatility, low operating leverage, and greater (not lower) fungible"
+      }
+    ],
+    "note": "Corporate Issuers: explain factors affecting capital structure and the weighted average cost of capital"
+  },
+  {
+    "id": "CI-17",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because according to the Modigliani-Miller propositions, an increase in the debt to equity ratio either has no effect on the WACC (Proposition 1) or (all else being equal) decreases the WACC (Froposition II). According to MM Proposition I, the value of the company remains unchanged or constant as the capital structure changes Therefore the weighted average cost of capital must also remain constant as the capital structure changes According to MM Proposition the cost of equity rises as the company increases the amount of debt in its capitat structure, but it rises at a slower rate than in the no-tax case. As debt increases the WACC decreases and the comppoy's value mcreases."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because an assumption of the Modigliani-Miller Proposition I without taxes is that investors can borrow and lend at the risk-free rate. This means a change in the cost of debt will have no effect on the cost of debt in this case, Further, according to Modigliani-Miller Proposition II with taxes, for a leveraged company the cost of equity will increase by more than the cost of debt if the debt-to-equity ratio increases… 𝑟𝑒= 𝑟0 + (𝑟𝑜−𝑟𝑑)(1 −𝑡)𝐷/𝐸 …where 𝑟𝑒= Cost of equity for a leveraged company, 𝑟0 = Cost of capital for a company financed only with equity. 𝑟𝑑 = Cost of debt for a leveraged company, t = Company tax rate and D/E = Debt-to-equity ratio. Sincer 𝑟𝑜> 𝑟𝑑 the cost of equity (𝑟𝑒) will increase by more than the cost of debt (𝑟𝑑) if the debt-to-equity ratio (D/E) increases, even if 𝑟𝑑 also increases which is not directly contemplated by the text."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because as the debt-to-equity ratio increases and the company uses more debt. Its risk goes up and the cost of equity must increase MM Proposition II holds that the increase in the cost of equity must exactly offset the greater use of lower cost debt."
+      }
+    ],
+    "note": "Corporate Issuers: explain the Modigliani-Miller propositions regarding capital structure"
+  },
+  {
+    "id": "CI-18",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because at this early stage, debt capital is typically not available or available only at a high cost. From the perspective of an early-stage issuer, debt may be an attractive way to reduce or avoid the dilution associated with equity issuance. However, with cash flows that are negative and unpredictable, a typical start-up would have difficulty making regular debt payments, or 'servicing the debt.' Even if debt is available, the cost, inflexibility, and risk associated with borrowing are often unattractive to a start-up. As a result, debt is a negligible component of capital structures of most start-up companies."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because as a company exits the growth stage and progresses through the growth stage, debt financing might become more accessible, but the company might want to use debt conservatively and continue relying primarily on equity financing. Both the availability and the terms\nof debt financing improve for the company during this stage. Many growth companies use debt conservatively in order to preserve operational and financial flexibility and minimize the risk of financial distress. Equity remains the predominant source of capital."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because at the mature stage, the company becomes able to support low-cost debt, often on an unsecured basis. From the company's perspective, debt financing is likely to be more attractive than higher-cost equity financing. Also, as companies mature, business risk typically declines, and their cash flows turn positive and become increasingly predictable, allowing for greater use of leverage on more attractive (less costly) financing terms. Debt then becomes a larger component of their capital structures."
+      }
+    ],
+    "note": "Corporate Issuers: explain factors affecting capital structure and the weighted-average cost of capital"
+  },
+  {
+    "id": "CI-19",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because information asymmetr, applies between managers and shareholders. Conflicts of interest between shareholders and creditors arise typically due to a divergence in risk tolerance regarding the company's investments that exists between shareholders and creditors"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because compared with stiareholders, managers typically have greater access to information about the business and are more knowledgeable about its operations. Such information asymmetry (that is, unequal access to information) makes it easier for managers to make strategic decisions that are not necessarily in the best interest of shareholders and weakens the ability of shareholders to exercise control."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because information asymmetry applies between managers and shareholders Typical conflicts of interest between shareholders and customers arise when, for example, a company decides to charge a high price for its products or reduces product safety features to reduce costs."
+      }
+    ],
+    "note": "Corporate Issuers: describe the principal-agent relationship and conflicts that may arise between stakeholder groups"
+  },
+  {
+    "id": "CI-20",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because expansion projects typically involve greater uncertainty, time, and amounts of capital than going concern projects."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because expansion projects typically involve greater uncertainty, time, and amounts of capital than going concern projects."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because expansion projects typically involve greater uncertainty, time, and amounts of capital than going concern projects."
+      }
+    ],
+    "note": "Corporate Issuers: describe types of capital investments"
+  },
+  {
+    "id": "CI-21",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because debt represents a cheaper financing source for companies and a lower risk for investors. Because the returns to lenders are capped and because the cost of debt is lower than the cost of equity, corporations with predictable cash flows may prefer to borrow money rather than sell an ownership stake to raise the capital they need to finance their investments. This is because issuing more equity dilutes upside return for existing equity owners given that residual value must be shared across more owners."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because from the issuer's perspective, bonds are riskier than stocks for the same reason bonds are safer than stocks for investors. Bonds increase risk to the corporation by increasing leverage. If the company is struggling and cannot meet its promised obligations to bondholders, bondholders have the legal standing to force certain actions upon the corporation, such as bankruptcy and liquidation."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because equityholders represent a more permanent source of capital and have voting rights to elect the board of directors, which oversees the management of the company. Debt has a stated, finite term with generally no voting rights, while equity has no finite term and includes voting rights."
+      }
+    ],
+    "note": "Corporate Issuers: compare the financial claims and motivations of lenders and shareholders"
+  },
+  {
+    "id": "CI-22",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because default risks are also mitigated by properly functioning audit systems, transparent and better reporting of eamings, and controlling information asymmetries between the company and its capital providers. Lower default risks are associated with better credit ratings for the company and lower costs of debt borrowing, given that creditors typically require a lower retom when their funds are better secured and their rights protected. Thas, an effective corporate govemance structure will result in lower cost of debt borrowing for the company."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because strong governance practices institute more efficient procedures for scrutiny and control at all corporate levels, starting at the level of shareholders and moving up to management and the board of directors. These mechanisms allow for the mitigation of risk factors as well as fraudulent activities or for their identification and control at early stages, thus preventing them from hindering corporate performance and reputation."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the adequate internal control mechanisms are an equally important pillar of the organizational and governance structures as they aim at ensuring that decisions and activities are properly monitored and controlled to prevent risks from arising and to circumvent misconduct or abusive behaviors. These mechanisms improve [not reduce] the operational efficiency of the company."
+      }
+    ],
+    "note": "Corporate Issuers: Describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management"
+  },
+  {
+    "id": "CI-23",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because for a capital investment with one investment outlay, made initially, the net present value (NPV) present value of the future after-tax cash flows minus the investment outlay NPV = ∑𝑛\n𝑡=1 𝐶𝐹𝑡/(1 + 𝑟)𝑡− outlay.\nWe calculate the present value of the future after-tax cash flows using the calculator with the following parameters:\nYearly after-tax payment/cash-flow: PMT = 50 x (1 - 0.15) = 42.5\nInt. rate = 12%,\nTo calculate the NPV, from the present value we subtract the initial $90 million outflow. Accordingly, NPV = $174.7 million - $90.0 million = $84.7 ≈ $85 million."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it uses the before-tax cash flow of $50 million in the calculation (instead of the after-tax cash flow of $42.5 million). Calculating the present value of the cash flows with parameters PMT = 50, N = 6 and Int. Rate = 12% gives a present value of $205.57 million, and subtracting the initial $90 million outflow, the NPV is incorrectly calculated as NPV = $205.57 million - $90 million = $115.6 million ≈ $116 million."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it omits the initial cash outlay. Accordingly, the NPV = $174.7 ≈ $175 million."
+      }
+    ],
+    "note": "Corporate Issuers: describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation"
+  },
+  {
+    "id": "CI-24",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because key features of sole proprietorships include the following: No legal identity: considered extension of owner."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because key features of sole proprietorships include the following: Operational simplicity and flexibility."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because key features of sole proprietorships include the following: Profits from business taxed as personal income."
+      }
+    ],
+    "note": "Corporate Issuers: compare the organizational forms of businesses"
+  },
+  {
+    "id": "CI-25",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because if interest can be deducted in full, the tax deductibility of debt reduces the effective marginal cost of debt to reflect the income shielded from taxation and the marginal cost of debt is 𝑟𝑑(1-t). The cost of debt capital is the only cost of capital that can benefit from a tax shield."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because only debt benefits from a tax shield. The cost of equity calculation used in the WACC is simply the weight of equity times the cost of equity with no adjustments made for taxation. Taking the sources of capital to be common stock, preferred stock, and debt and allowing for the fact... that in some jurisdictions interest expense may be tax deductible, the expression for WACC is WACC = 𝑤𝑑 𝑟𝑑 (1 - t) + 𝑤𝑝𝑟𝑝 + 𝑤𝑒𝑟𝑒… 𝑤𝑒 = the proportion of equity that the company uses when it raises funds and 𝑟𝑒 = the marginal cost of equity."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because unlike interest on debt, the dividend on preferred stock is not tax-deductible by the company: therefore, there is no adjustment to the cost of taxes. Therefore, raising capital by issuing preferred equity does not give rise to a tax shield to the company."
+      }
+    ],
+    "note": "Corporate Issuers: calculate and interpret the weighted-average cost of capital for a company"
+  },
+  {
+    "id": "CI-26",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because a mining company will be more likely to raise equity funding than debt funding. In cyclical sectors, such as mining and minerals, and many industrials, revenues and cash flows vary widely through the economic cycle, which limits debt capacity. As a result, businesses in cyclical sectors may have less debt in their capital structures than companies in other less cyclical industries."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a software company is. being capital light, less likely to need to raise debt than a shipping company which will likely need to make substantial debt-funded capital investments. Some business models are inherently \"capital light,\" that is, they require little incremental investment in fixed assets or working capital to enable revenue growth As a result, they have no need to borrow or otherwise raise capital to grow, even though they could easily suppon debt Software businesses often fit this description"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because in real estate utilities, shipping, airlines, and certain other highly capital-intensive businesses, the underlying assets can be bought and sold fairly easily, tend to retain their value regardless of who owns them and can therefore support substantial debt secured by those assets"
+      }
+    ],
+    "note": "Corporate Issuers: explain factors affecting capital structure and the weighted average cost of capital"
+  },
+  {
+    "id": "CI-27",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because if the cash flow from abandoning an investment exceeds the present value of the cash flows from continuing the investment, the company should exercise the abandonment option. Conversely, if the the PV of the cash flows from continuing the investment is lower than the cash flow from abandoning the investment, the company should exercise the abandonment option."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because if the cash flow from abandoning an investment exceeds the present value of the cash flows from continuing the investment [and not when it is equal to], the company should exercise the abandonment option."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because if the cash flow from abandoning an investment exceeds the present value of the cash flows from continuing the investment, the company should exercise the abandonment option. The the PV of the cash flows from continuing the investment is greater than the cash flow from abandoning the investment, the company should not exercise the abandonment option."
+      }
+    ],
+    "note": "Corporate Issuers: describe types of real options relevant to capital investments"
+  },
+  {
+    "id": "CI-28",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because this is the result generated if the company value is used rather than the equity value. Cost of equity ≠ 0.09 + (0.09 - 0.04) x (1 - 0.25) x (£15,000/£40,000) = 0.1041 ≈ 10.4%."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because Modigliani and Miller also show that the cost of equity for the same company with debt is: 𝑟𝑒 = 𝑟0+ (𝑟0-𝑟𝑑)(1 - t)(D/E), where:\n𝑟𝑒 = cost of equity\n𝑟0= cost of capital for a company financed only with equity\n𝑟𝑑= cost of debt\nD = market value of debt\nE = market value of equity.\nCost of equity = 0.09 + (0.09 - 0.04) x (1 - 0.25) x (£15,000/(£40,000 - 15,000)) = 0.1125 ≈ 11.3%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this result reflects the cost of equity in the absence of corporate taxes. Cost of equity ≠ 0.09 + (0.09 - 0.04) x (£15,000/(£40,000 - £15,000)) = 0.1200 ≈12.0%."
+      }
+    ],
+    "note": "Corporate Issuers: explain the Modigliani-Miller propositions regarding capital structure"
+  },
+  {
+    "id": "CI-29",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it is a lower, not higher, current ratio that would indicate liquidity problems for a company, and hence a reduced debt capacity (ie., ability to take additional debt). A starting point for determining a company's debt capacity is its current ratio, equal to current assets divided by current liabilities. The current ratio provides an Indication of the ability of the firm to meet its short- term debt obligations. The bigher the ratio, the greater the ability of the company to repay its debt"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a higher, not lower, leverage ratio would indicate a reduced debt capacity (ie., ability for a company to take additional debt) Firms with higher proportions of debt in their capital structures face a higher probability of default and have less ability to service additional debt than underleveraged firms"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because interest coverage ratios are also commonly used to assess companies' debt capacities. Generally, these ratios provide an estimate of how many times a company can cover its interest expense (or interest expense plus lease payments) with corragt earnings (usually measured as EBIT or EBITDA) In other words, interest coverage ratios provide an indication of a company's financial cushion in meeting its debt service obligations The larger the interest coverage ratio, the larger the financial cushion and the greater the company's ability to service its debt obligations"
+      }
+    ],
+    "note": "Corporate Issuers: explain factors affecuno capital structure and the weighted average cost of capital"
+  },
+  {
+    "id": "CI-30",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because, according to the MM Proposition I without taxes, the firm value is not affected by the company's capital structure. It is determined solely by the firm’s expected future cash flows."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because Modigliani and Miller proved that changing the capital structure does not affect firm value. The value of a film is thus determined not by the securities it issues but, rather, by its expected future cash flows."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because, according to the MM Proposition I without taxes, the firm value is not affected by the company's capital structure. It is determined solely by the firm's expected future cash flows."
+      }
+    ],
+    "note": "Corporate Issuers: explain the Modigliani-Miller propositions regarding capital structure"
+  },
+  {
+    "id": "CI-31",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the main difference between the primary and secondary sources of liquidity is that using a primary source is not likely to affect the normal operations af the company. However, liquidating assets, which depends on the degree to which short-term and/or long-term assets can be liquidated and converted into cash without substantial loss in value may affect a company's normal operation as productivity is reduced Therefore. liquidating assets cannot be a primary source of liquidity."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because primary sources of liquidity are liquidity, sources that are the most readily accessible resources available to the company One of the examples is cash flow management, which is the company's effectiveness in its cash management system and practices and the degree of decentralization of the collections or payments processes The more decentralized the system of collections for example, the more likely the company will be to have cash tied up in the system and not available for use. Therefore, an effective cash management system is a primary source of liquidity as it is likely to be the most readily accessible resources available to the company"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because negotiating debt contracts, relieving pressures from high interest payments or principal repayments may signal a company's deteriorating financial health and provide fiquidity at a high price. This may well affect the normal operations of the company. Therefore, negobainig dets contracts carinot be a primary source of liquidity."
+      }
+    ],
+    "note": "Corporate Issuers: explain liquidity and compare issuers' liquidity levels"
+  },
+  {
+    "id": "CI-32",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because banks and private lenders generally hold a company's debt to maturity. They typically have direct access to company management and non-public information about the company in principle. this reduces information asymmetries that exist between the company and these groups."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because public debtholders do not have access to non-public information. Public debtholders (or bondholders) rely on public information and credit rating agency determinations to make their investment decisions. Unlike shareholders, debtholders do not hold voting power and they typically have limited influence over a company's day-to-day operations."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a member of the board of directors has significant influence and access to non- public information A company's board of directors is elected by shareholders to protect shareholders' interests and provide strategic direction, taking into consideration the company's risk appetite, which it defines for the company The board is also responsible for hiring the CEO and monitoring the performance of the company and management."
+      }
+    ],
+    "note": "Corporate Issuers: describe a company's stakeholder groups and compare their interests"
+  },
+  {
+    "id": "CI-33",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because Modigliani and Miller did not assume away the possibility of bankruptcy. They simply assumed there was no cost to bankruptcy."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because MM Proposition II without taxes tells us that a company's cost of equity is a linear function of its debt-to-equity ratio not debt-to-assets ratio."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because MM Proposition II without taxes tells us that adding any amount of lower-cost debt capital to the capital structure is always perfectly offset by an increase in the cost of equity, resulting in no change to the company's overall weighted average cost of capital."
+      }
+    ],
+    "note": "Corporate Issuers: explain the Modigliani-Miller propositions regarding capital structure"
+  },
+  {
+    "id": "CI-34",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the savings are equal to the tax rate multiplied by the value of the debt, not the value of the debt. Modigliani and Miller show that in the presence of corporate taxes (but not personal taxes), the value of the levered company is greater than that of the all-equity company by an amount equal to the tax rate multiplied by the value of the debt, also termed the debt tax shield"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this is the after-tax cost of debt ((1-t) rather than taxes saved (t) because of the debt. Modigliani and Miller show that in the presence of corporate taxes (but not personal taxes), the value of the levered company is greater than that of the all-equity company by an amount equal to the tax rate multiplied by the value of the debt, also termed the debt tax shield."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because Modigliani and Miller show that in the presence of corporate taxes (but not personal taxes), the value of the levered company is greater than that of the all-equity company by an amount equal to the tax rate multiplied by the value of the debt, also termed the debt tax shield."
+      }
+    ],
+    "note": "Corporate Issuers: explain the Modigliani-Miller propositions regarding capital structure"
+  },
+  {
+    "id": "CI-35",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because key features of limited partnerships include: GP operates the business, having unlimited liability, LPs have limited liability but lack control over business operations."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because key features of limited partnerships include: GP operates the business, having unlimited liability, LPs have limited liability but lack control over business operations."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because key features of limited partnerships include: GP operates the business, having unlimited liability, LPs have limited liability but lack control over business operations."
+      }
+    ],
+    "note": "Corporate Issuers: compare the organizational forms of businesses"
+  },
+  {
+    "id": "CI-36",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because not identifying the economic alternatives (real and financial) that are the opportunity costs is probably the biggest failure by companies in their analyses. Basing investments decisions on opportunity costs is the correct approach and hence not a capital allocation pitfall"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because one of the capital allocation assumptions is that decisions must reflect the impact of taxes. Furthermore, in analyzing a complicated investment, individuals assessing the investment for the company may erroneously omit relevant cash flows, double-count cash flows, and mishandle taxes. Basing investments decisions on after-tax cash flows is the correct approach and hence not a capital allocation pitfall"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because one common pitfall is basing investment decisions on EPS, net income or ROE: Companies sometimes have incentives to boost earnings per share, net income, or return on equity. Many investments: even those with strong NPVs, do not increase these accounting numbers in the short run and may even reduce them. Paying too much attention to short-run accounting numbers can result in a company choosing investments that are not in the long-run economic interests of its shareholders."
+      }
+    ],
+    "note": "Corporate Issuers: describe principles of capital allocation and common capital allocation pitfalls"
+  },
+  {
+    "id": "CI-37",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because an approach is to consider profit sensitivity by looking at the change in revenues to capture total leverage of the business."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because financial leverage reflects the variability of sensitivity of net profit to a change in operating profit."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because operating leverage captures the sensitivity of operating profit, proxied by EBIT, to a change in revenues."
+      }
+    ],
+    "note": "Corporate Issuers: explain factors affecting capital structure and the weighted-average cost of capital"
+  },
+  {
+    "id": "CI-38",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it describes dual classes of common equity, not proxy voting. Proxy voting is a process that enables shareholders who are unable to attend a meeting to authorize another individual (for example, another shareholder or director) to vote on their behalf."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it describes cumulative voting, not proxy voting. Cumulative voting (as opposed to straight voting) enables each shareholder to accumulate and vote all his or her shares for a single candidate in an election involving more than one director."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because proxy voting is a process that authorize another individual (for example, another enables shareholders who are unable to attend a meeting to shareholder or director) to vote on their behalf."
+      }
+    ],
+    "note": "Corporate Issuers: describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks"
+  },
+  {
+    "id": "CI-39",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because owners in a corporation have limited liability."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because in a sole proprietorship the owner has unlimited liability and retains all risk associated with the business, meaning she can be held financially responsible for all debt the business owes."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a general partnership has two or more owners called partners and all profits, losses, and risks of the business are collectively assumed and shared by the partners. If one partner is unable to pay their share of the business's debts, the remaining partners are fully liable. Partners in a general partnership have unlimited liability."
+      }
+    ],
+    "note": "Corporate Issuers: compare the organizational forms of businesses"
+  },
+  {
+    "id": "CI-40",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because secondary sources include: filing for bankruptcy protection and reorganization.\nFurther, reorganization through bankruptcy, may also be considered a liquidity tool because a company under bankruptcy protection that generates operating cash will be liquid and generally able to continue business operations until a restructuring has been devised and approved."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because primary sources represent funds that are readily accessible at relatively low cost. On the other hand, use of secondary sources may signal a company's deteriorating financial health and provide liquidity at a high price - the cost of giving up a company asset to produce emergency cash."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the main difference between the primary and secondary sources of liquidity is that using a primary source is not likely to affect the normal operations of the company, whereas using a secondary source may result in a change in the company's financial and operating positions."
+      }
+    ],
+    "note": "Corporate Issuers: explain liquidity and compare issuers' liquidity levels"
+  },
+  {
+    "id": "CI-41",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because sizing options encompass abandonment or expansion of capacity. If after investing the company can abandon the investment if the financial results are disappointing, it has an abandonment option. Al some future date, if the cash flow from abandoning an investment exceeds the present value of the cash flows from continuing the investment the company should exercise the abandonment option Conversely, if the company can make additional investments when future financial results are strong, the company has a growth option or an expansion option."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because timing options involve the sequencing of projects. Instead of investing now. the company can delay investing Delaying an investment and basing the decision on hopefully improved information that you might have in, say, a year could help improve the NPV of the projects selected. Project sequencing options allow the company to defer the decision to invest in a future investment\nuntil the outcome of some or all of a current investment is known Investments are sequenced over time, so that investing in a project creates the option to make future investments"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because flexibility options include operational changes possible with current capacity, such as paying overtime or adding a shift to meet excess demand. Once an investment is made, operational flexibilities besides abandonment or expansion may be available. If demand exceeds capacity, by increasing prices, the company could benefit from the excess demand, which it cannot do by increasing production. There are also production- flexibility options, which offer the operational flexibility to alter production when demand varies from what is forecast. Even though it is expensive, the company can profit from working overtime or from adding additional shifts"
+      }
+    ],
+    "note": "Corporate Issuers: describe types of real options relevant to capital investments"
+  },
+  {
+    "id": "CI-42",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the hurdle rate is the rate that a project's IRR must exceed for the project to be accepted by the company."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because cost of capital (COC), is the required return used in the NPV calculation, and the company's associated cost of funds."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because ROIC reflects how effectively a company's management is able to convert capital into after-tax operating profits."
+      }
+    ],
+    "note": "Corporate Issuers: describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation."
+  },
+  {
+    "id": "CI-43",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because upside return potential is capped for debtholders while it is unlimited for equityholders. If the corporation is successful, there is theoretically no limit to how much equity owners could make from their investment. No matter how profitable the company becomes, however, bondholders will never receive more than their interest and principal repayment."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because from issuers' perspective debt is riskier than equity while the opposite is true for the investors. From an investor's perspective, stocks are riskier than bonds because shareholders are residual claimants on the firm. From the issuer's perspective, bonds are riskier than stocks for the same reason bonds are safer than stocks for investors. Bonds increase risk to the corporation by increasing leverage. If the company is struggling and cannot meet its promised obligations to bondholders, bondholders have the legal standing to force certain actions upon the corporation, such as bankruptcy and liquidation."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because shareholder losses are limited to their initial investment. For both equityholders and debtholders, their initial investment represents their maximum possible loss"
+      }
+    ],
+    "note": "Corporate Issuers: compare the financial claims and motivations of lenders and shareholders"
+  },
+  {
+    "id": "CI-44",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because governance factors have long been recognized in investment analysis. Many performance indicators can help evaluate risks arising from governance issues such as ownership structure, board independence and composition. Thus, board composition is a matter of governance and not a social factor considered in ESG implementation."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because environmental factors that are generally considered material in investment analysis include natural resource management and/or pollution prevention Thus, pollution prevention is an environmental consideration and not a social factor considered in ESG implementation."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because social factors considered in ESG implementation generally pertain to the management of the human capital of a business, including human rights and welfare concerns in the workplace, product development, and, in some cases, community impact."
+      }
+    ],
+    "note": "Corporate Issuers: describe environmental, social, and governance factors of Corporate Issuers considered by investors"
+  },
+  {
+    "id": "CI-45",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because tax disadvantage for owners in countries with double taxation is a key feature of corporations. In most countries, corporations are taxed directly on their profits. In many countries, shareholders pay an additional tax on distributions (dividends) that are passed on to them. Economists refer to this as the double taxation of corporate profits."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because profits of limited partnerships are taxed only at the personal level. A key feature of limited partnerships is that all partners share in return, with profits taxed as personal income."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because profits of general partnerships are taxed only at the personal level. A key feature of general partnerships is that all partners share all return, with profits taxed as personal income."
+      }
+    ],
+    "note": "Corporate Issuers: compare the organizational forms of businesses"
+  },
+  {
+    "id": "CI-46",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because primary sources of liquidity represent the most readily accessible resources available to the company. These can be cash held or near-cash securities and include the following: Short-term funds, which can include items such as trade credit, bank lines of credit, and short-term investment portfolios of the firm."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the main difference between primary and secondary sources of liquidity is that using a primary source is not likely to affect the normal operations of the company, whereas using a secondary source might result in a change in the company's financial and operating positions. Secondary sources used by companies include: liquidating assets, which depends on the degree to which short-term and/or long-term assets can be liquidated and converted into cash without substantial loss in value."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because primary sources of liquidity represent the most readily accessible resources available to the company. These can be cash held or near-cash securities and include the following: Cash management, which is the company's effectiveness in its cash management system and practices and the degree of decentralization of the collections or payments processes"
+      }
+    ],
+    "note": "Corporate Issuers: explain liquidity and compare issuers' liquidity levels"
+  },
+  {
+    "id": "CI-47",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it is the governance committee, not the risk committee, that has the responsibility to oversee the development of governance policies, including a conflict of interest policy. In summary, key oversight functions of the risk committee include\n- determining company risk profile,\n- ensuring appropriate enterprise risk management, and\n- aligning corporate activities with risk appetite"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the main role of the board's governance committee is to ensure that the company adopts good corporate governance structures and practices. For this purpose, it oversees the development of the governance policies at the company such as\n- the corporate govenance code\n- the charter of the board and as committees\n- the code of ethics and\n- the conflict of interest policy, among others."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it is the governance committee, not the remuneration committee, that has the responsibility to oversee the development of governance policies, including a conflict of interest policy. In summary key oversight functions of the remuneration committee include\n- developing director and executive remuneration policies,\n- overseeing performance policy management and evaluation, and\n- setting human resources (HR) policies relating to employee compensation."
+      }
+    ],
+    "note": "Corporate Issuers: describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks"
+  },
+  {
+    "id": "CI-48",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the IRR is the discount rate that makes the present value of the future after-tax cash flows equal that investment outlay or ∑𝑛\n𝑡=1 𝐶𝐹𝑡/(1 + 𝐼𝑅𝑅)𝑡= outlay., where IRR is the internal rate of return. Solved using the following calculator inputs: CF0=-150, CF1 = 8, CF₂ = 175, Calculate IRR = 10.7119, rounded to 10.71% which is less than 12%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it refers to the company's required rate of return, not the expected IRR."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it inflates cash flows in Years 2 by 8 and represents an IRR calculation using the following calculator inputs: IRR≠ PV=-150, PMT = 8, N=2, FV = 175, Calculate = 13.15246%, rounded to 13.15% which is more than 12%."
+      }
+    ],
+    "note": "Corporate Issuers: describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation"
+  },
+  {
+    "id": "CI-49",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the marginal cost of debt financing is the cost of debt after considering the allowable deduction for interest on debt. If interest can be deducted in full, the tax deductibility of debt reduces the effective marginal cost of debt to reflect the income shielded from taxation (often referred to as the tax shield) and the marginal cost of debt is rd(1-t). If the marginal tax rate increases, this increases the tax shield and lowers the marginal cost of debt and also the WACC"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the WACC does not remain the same. If interest can be deducted in full, the tax deductibility of debt reduces the effective marginal cost of debt to reflect the income shielded from taxation (often referred to as the tax shield) and the marginal cost of debt is rd(1-t). If the marginal tax rate increases, this increases the tax shield and lowers the marginal cost of debt and also the WACC."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it does not increase the WACC. If interest can be deducted in full, the tax deductibility of debt reduces the effective marginal cost of debt to reflect the income shielded from taxation (often referred to as the tax shield) and the marginal cost of debt is rd(1-t). If the marginal tax rate increases, this increases the tax shield and lowers the marginal cost of debt and also the WACC."
+      }
+    ],
+    "note": "Corporate Issuers: calculate and interpret the weighted-average cost of capital for a company"
+  },
+  {
+    "id": "CI-50",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the Modigliani and Miller proposition implies that higher leverage raises the cost of equity but does not change firm value or WACC."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the Modigliani and Miller proposition implies that higher leverage raises the cost of equity but does not change firm value or WACC."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the Modigliani and Miller proposition implies that higher leverage raises the cost of equity but does not change firm value or WACC."
+      }
+    ],
+    "note": "Corporate Issuers: explain the Modigliani-Miller propositions regarding capital structure"
+  },
+  {
+    "id": "CI-51",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the NPV, including the real option, should be:\nProject NPV = NPV (based on DCF alone) - Cost of options + Value of options.\nProject NPV = -$0.2 million - $0.4 million+ $0.8 million = $0.2 million."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the original NPV of the investment was not considered.\nProject NPV≠ - Cost of options + Value of options.\nProject NPV ≠ -$0.4 million+ $0.8 million = $0.4 million."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the cost of the option was added to the NPV (based on DCF alone) instead of being subtracted.\nProject NPV ≠ NPV (based on DCF alone) + Cost of options + Value of options\nProject NPV≠ - $0.2 million+ $0.4 million+ $0.8 million = $1.0 million"
+      }
+    ],
+    "note": "Corporate Issuers: describe types of real options relevant to capital investments"
+  },
+  {
+    "id": "CI-52",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the pecking order theory suggests that managers choose methods of financing according to a hierarchy that gives first preference to methods with the least potential information content (internally generated funds and lowest preference to the form with the greatest potential information content (public equity offeongs) in briet managers prerer theaval tinancing if mtamal financing is matfficient, otänagcis aext pieter dect, then equity"
+      },
+      {
+        "isCorrect": false,
+        "reason": "fncorred because the pecking order theory suggests that managers choose melbous of financing according to a bierarchy.Inal gives first preference to methods with the least potential information content (internet penerated funds) and towest preference to the form with the greatest potential information content (public equity offerngs) in onet, manegers pater internal snancing if internal financing is insufficient managers.next.prefer bebt then equity"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the pecking order theory suggests that managers choose methods of inboeing according to a bierandby loat gives first preference to etempts with the least perenal intoniasion content miernaky generated funds) and lowest preference to the form with the greatest potential information content (public equity offenngs) in Duet managers prefer internal financing If imemal financing is meatticent, managers next prefer debt then equity."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "CI-53",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because private debtholders have wide variation in risk appetites. With banks and private lenders, the general perspective of debtholders applies less financial leverage implies less risk and is therefore preferred. Among private lenders, however, there is wide variation in their risk appetite, approach, behavior, and relationships with companies to whom they have provided capital."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the positive aspect of a staggered board, though, is that it provides continuous implementation of strategy and oversight without constantly being reassessed by new board members, which otherwise risks bringing short-termism into company strategy"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a company's CEO is hired by the board and responsible for implementing the company's strategy under the oversight of the board of directors. Managers, led by the chief executive officer of the company, are responsible for determining and implementing the corporation's strategy under the oversight of the board of directors. In addition, a company's board of directors is elected by shareholders to protect shareholders' interests and provide strategic direction, taking into consideration the company's risk appetite, which it defines for the company. The board is also responsible for hiring the CEO and monitoring the performance of the company and management."
+      }
+    ],
+    "note": "Corporate Issuers: describe a company's stakeholder groups and compare their interests"
+  },
+  {
+    "id": "CI-54",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the potential debt/equity conflict is greater in the case of long-term rather than short-term debt because the passage of time exposes debtholders to possible changes in business conditions, strategy, and management behavior So, the conflict between debtholders and shareholders is greater (not lower) in the case of long term versus short-term debt"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the potential debt/equity conflict is greater in the case of long-term rather than short-term debt because the passage of time exposes debtholders to possible changes in business conditions, strategy, and management behavior. So, the conflict between debtholders and shareholders is greater (not the same) in the case of long-term versus snott-term debt"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the potential devequity conflict is greater to the case of long-term other thair stair-te dett because the passage of time exposes debtholders to possible changes in business conditions strategy and management behavior"
+      }
+    ],
+    "note": "Corporate Issuers: describe the principal-agent relationship and conflicts that may arise between stakeholder groups"
+  },
+  {
+    "id": "CI-55",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the primary stakeholder groups of a corporation consist of shareholders, creditors, managers (or executives), other employees, board of directors, customers, suppliers, and governments/regulators (and, by extension, affected individuals and community groups). Additionally, in some companies, a particular shareholder or block of shareholders may hold a percentage of shares that gives them sufficient voting power to control the election of the board of directors and to influence the approval or blockage of a company re : these shareholders are known as controlling shareholders. In contrast, non-controlling shareholders (minority shareholders) hold a much smaller proportion of a company's outstanding shares, resulting in a more limited ability to exercise control in voting activities. Controlling and minority shareholders are stakeholders, and the only stakeholders who own shares. The full group of stakeholders is more inclusive"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the primary stakeholder groups of a corporation consist of shareholders, creditors, managers (or executives), other employees, board of directors, customers, suppliers, and governments/regulators (and, by extension, affected individuals and community groups). Additionally, in some companies, a particular shareholder or block of shareholders may hold a percentage of shares that gives them sufficient voting power to control the election of the board of directors and to influence the approval or blockage of a company re ; these shareholders are known as controlling shareholders. In contrast, non-controlling shareholders (minority shareholders) hold a much smaller proportion of a company's outstanding shares, resulting in a more limited ability to exercise control in voting activities. Controlling and minority shareholders are stakeholders, and the only stakeholders who own shares. The full group of stakeholders is more inclusive"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the primary stakeholder groups of a corporation consist of shareholders, creditors, managers (or executives), other employees, board of directors, customers, suppliers, and govemments/regulators (and, by extension, affected individuals and community groups)."
+      }
+    ],
+    "note": "Corporate Issuers: describe a company's stakeholder groups and compare their interests"
+  },
+  {
+    "id": "CI-56",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the relationship between shareholders and managers/directors is a classic example of a principal-agent relationship, whereby shareholders (the principal in this case) elect directors (an agent) who are expected to protect their interests by appointing senior managers (another agent) to run the company"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the relationship between shareholders and managers/directors is a classic example of a principal-agent relationship, whereby shareholders (the principal in this case) elect directors (an agent) who are expected to protect their interests by appointing senior managers (another agent) to run the company. So, the board of directors is an agent (not a principal) in a corporation."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the relationship between shareholders and managers/directors is a classic example of a principal-agent relationship, whereby shareholders (the principal in this case) elect directors (an agent) who are expected to protect their interests by appointing senior managers (another agent) to run the company. So, the senior management is an agent (not a principal) in a corporation."
+      }
+    ],
+    "note": "Corporate Issuers: describe the principal-agent relationship and conflicts that may arise between stakeholder groups"
+  },
+  {
+    "id": "CI-57",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it is the average, not the weighted average of the costs of capital (as caclulated in the response rationale for the answer key). WACC = (6% +8% +15%)/3 = 9.67%."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the WACC = wdrd x (1-t) + wprp + were\n𝑤𝑑= the market value weight for debt = 60/(60+20 + 120) = 0.30\nrd= the before-tax cost of debt = 6%\nt= the company's marginal tax rate = 40% = 0.4\nwp = the market value weight for preferred stock = 20 / (60+20+ 120) = 0.10\nrp =the marginal cost of preferred stock = 8%\nwe = the market value weight for equity = 120 / (60+20+ 120) = 0.60\nre= the marginal cost of equity = 15%\nWACC = (0.30 x 6% x (1 -0.4)) + (0.10 x 8% ) + (0.60 x 15% ) = 10.88%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because before-tax cost of debt is used in the calculation. WACC = (0.30 x 6%) + (0.10 x 8%) + (0.60 x 15%) =11.60%"
+      }
+    ],
+    "note": "Corporate Issuers: calculate and interpret the weighted-average cost of capital for a company"
+  },
+  {
+    "id": "CI-58",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because to limit bondholders' risk during the term of a bond (or loan), the bond indenture typically contains covenants, which are the terms and conditions of lending agreements, enabling creditors to specify the actions an issuer is obligated to perform or prohibited from performing."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because covenants, which are the terms and conditions of lending agreements, enabling creditors to specify the actions an issuer is obligated to perform or prohibited from performing. Covenants apply to an issuer's relationship with creditors, not with management."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because covenants, which are the terms and conditions of lending agreements, enabling creditors to specify the actions an issuer is obligated to perform or prohibited from performing. Covenants apply to an issuer's relationship with creditors, not with the board of directors."
+      }
+    ],
+    "note": "Corporate Issuers: describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks"
+  },
+  {
+    "id": "CI-59",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it is the weight of debt, not equity. 0.5/ (1.5) = 0.333 -0.33."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it is the D/E ratio not the weight of equity."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the weight of debt is determined by the formula:\nWd=D/E/(1+D/E) where D is the value of debt and E is the value of equity. Weight of equity (w.) is represented by 1 minus the weight of debt. Calculation: 1-0.5/(1.5)=1-0.333 =0.667 ≈0.67."
+      }
+    ],
+    "note": "Corporate Issuers: calculate and interpret the weighted-average cost of capital for a company"
+  },
+  {
+    "id": "CI-60",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because private companies usually raise less cash compared to public companies. In contrast, private companies finance much smaller amounts in the primary market (private debt or equity) with far fewer investors who have much longer holding periods."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the number of investors that participate in offerings of private companies is lower. In contrast, private companies finance much smaller amounts in the primary market (private debt or equity) with far fewer investors who have much longer holding periods."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because to raise more capital after listing, public companies may issue additional shares in the capital markets, typically raising very large amounts from many investors who may then actively trade shares among themselves in the secondary market. In contrast, private companies finance much smaller amounts in the primary market (private debt or equity) with far fewer investors who have much longer holding periods."
+      }
+    ],
+    "note": "Corporate Issuers: compare publicly and privately owned Corporate Issuers"
+  },
+  {
+    "id": "CI-61",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because dynamic pricing charges different prices at different times."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because tiered pricing charges different prices to different buyers, most commonly based on volume purchased"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because razors-and-blades pricing combines a low price on a piece of equipment and high-margin pricing on repeat-purchase consumables."
+      }
+    ],
+    "note": "Corporate Issuers: describe key features of business models"
+  },
+  {
+    "id": "CI-62",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because when the choice is between two mutually exclusive projects and the NPV and IRR rank the two projects differently, the NPV criterion is strongly preferred.... As a practical matter, once a corporation has the data to calculate the NPV, it is fairly trivial to then calculate the IRR and other capital allocation criteria. However, the most appropriate and theoretically sound criterion is the NPV."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because when the choice is between two mutually exclusive projects and the NPV and IRR rank the two projects differently, the NPV [not IRR] criterion is strongly preferred."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because when the choice is between two mutually exclusive projects and the NPV and IRR rank the two projects differently, the NPV criterion [not either one] is strongly preferred."
+      }
+    ],
+    "note": "Corporate Issuers: describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation"
+  },
+  {
+    "id": "CI-63",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the word 'public' can be misleading because it typically implies government involvement However, when it comes to corporations, 'public' and 'private' are typically defined by whether the company's equity is listed on a stock exchange."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because when it comes to corporations, 'public' and 'private' are typically defined by whether the company's equity is listed on a stock exchange, although in some countries whether a company is considered public or not may depend on its number of shareholders, irrespective of whether it is listed."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because these are private company shares do not trade on an exchange, so no visible valuation or price transparency exists for the company and shares are not easily bought and sold. This makes ownership transfers between seller and buyer much more difficult than for a public company."
+      }
+    ],
+    "note": "Corporate Issuers: compare publicly and privately owned Corporate Issuers"
+  },
+  {
+    "id": "CI-64",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because when the choice is between two mutually exclusive projects and the NPV and IRR rank the two projects differently, the NPV criterion is strongly preferred. Independent projects versus mutually exclusive projects: Independent projects are capital investments whose cash flows are independent of each other. Mutually exclusive projects compete directly with each other. The decision rule for the IRR is to invest if the IRR exceeds the required rate of return for a capital investment. Invest if: IRR >r, and Do not invest if IRR <r. The required rate of return is often called the hurdle rate, the rate that a project's IRR must exceed for the project to be accepted by the company."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because when the choice is between two mutually exclusive projects and the NPV and IRR rank the two projects differently, the NPV criterion is strongly preferred, we referred to the rate used in discounting the cash flows as the \"required rate of return.\" The required rate of return is the discount rate that the issuer's suppliers of capital require given the riskiness of the project. This discount rate is frequently called the \"opportunity cost of funds\" or the \"cost of capital. For a capital investment with one investment outlay, made initially, the net present value (NPV) is the present value of the future after-tax cash flows minus the investment outlay, where the discount rate equals the required rate of return."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the decision rule for the IRR is to invest if the IRR exceeds the required rate of return for a capital investment Invest if IRR > r, and Do not invest if IRR <r. However, when the choice is between two mutually exclusive projects and the NPV and IRR rank the two projects differently, the NPV criterion is strongly preferred. Therefore, the IRR criterion is not preferred in this case. In addition, mutually exclusive projects imply that only one project can be chosen."
+      }
+    ],
+    "note": "Corporate Issuers: describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation"
+  },
+  {
+    "id": "CI-65",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because expansion projects are those that increase business size, usually by investing in the development of new products or services and/or acquiring other companies. The investment in new technology to meet improved safety standards is not an expansion project."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because regulatory and compliance projects are required by third parties, such as government regulatory bodies, to meet safety and regulatory compliance standards. The investment in new technology to meet improved safety standards is therefore a compliance project."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because going concern projects are those investments needed to continue the company's current operations and maintain the existing size of the business. The investment in new technology to meet improved safety standards is not a going concern project."
+      }
+    ],
+    "note": "Corporate Issuers: describe types of capital investments"
+  },
+  {
+    "id": "CI-66",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because manufacturers [sometimes] employ a direct sales strategy, selling directly to the end customer Direct sales to the end customer bypass ('disintermediate') the distributor or retailer. Typically, this involves the company's own sales force, which in some cases represents a significant business investment and carrying cost for the firm."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because, with an omnichannel strategy, both digital and physical channels are used to complete a sale. For example, a customer might order an item online and pick it up in a store ('click and collect') or select an item in a store and have it delivered. Thus, an omnichannel strategy does not say anything about the flow of goods from manufacturer to wholesaler, retailer, and then end customer."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because, for 'product' businesses, the traditional channel strategy is typically reflected in the flow of finished goods (eg, from manufacturer to wholesaler, retailer, and end customer), each with its own physical facilities and with the product sold and purchased at each stage."
+      }
+    ],
+    "note": "Corporate Issuers: describe key features of business models"
+  },
+  {
+    "id": "CI-67",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because Project 1 has a higher NPV. For mutually exclusive investments that are ranked differently by the NPV and IRR, the NPV criterion is more economically sound."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because Project 2 has a lower NPV despite a higher IRR. For mutually exclusive investments that are ranked differently by the NPV and IRR, the NPV criterion is more economically sound."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because Project 1 and Project 2 are mutually exclusive projects. In the case of mutually exclusive investment projects, a company could, on occasion, face the following situation Project A might have a larger NPV than Project B, but Project B has a higher IRR than project A. Since the company can invest in only one project, which should it be- Project A or Project B? The correct choice is Project A, the one with the higher NPV."
+      }
+    ],
+    "note": "Corporate Issuers: describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation."
+  }
+]

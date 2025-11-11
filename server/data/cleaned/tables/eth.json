@@ -1,0 +1,7 @@
+{
+  "ETH-100": [
+    ["Security", "Quantity", "Broker", "Prior Clearance"],
+    ["A", "100", "Easy Trade", "Yes"],
+    ["B", "150", "Easy Trade", "Yes"]
+  ]
+}

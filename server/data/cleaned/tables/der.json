@@ -1,0 +1,38 @@
+{
+  "DER-2": [
+    ["", "Time to Expiration", "Exercise Price"],
+    ["Option 1", "2 months", "$52"],
+    ["Option 2", "4 months", "$52"],
+    ["Option 3", "4 months", "$58"]
+  ],
+  "DER-4": [
+    ["Option premium", "$5"],
+    ["Exercise price", "$25"],
+    ["Price of the underlying at initiation", "$15"]
+  ],
+  "DER-5": [
+    ["Call price", "$10"],
+    ["Stock price", "$40"],
+    ["Exercise price", "$60"],
+    ["Interest rate", "3%"],
+    ["Time to expiry", "1 year"]
+  ],
+  "DER-35": [
+    ["Portfolio", "Securities"],
+    ["1", "Stock and a short futures position"],
+    ["2", "Stock and a short call option position"],
+    ["3", "Stock and a short warrant position"]
+  ],
+  "DER-46": [
+    ["Year", "Implied Forward Rate (%)"],
+    ["1", "0.50"],
+    ["2", "1.15"],
+    ["3", "1.35"]
+  ],
+  "DER-59": [
+    ["", "Forward Position", "Option Position"],
+    ["Portfolio 1", "Long", "Long Call"],
+    ["Portfolio 2", "Long", "Long Put"],
+    ["Portfolio 3", "Short", "Long Call"]
+  ]
+}

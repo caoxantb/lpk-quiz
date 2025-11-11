@@ -1,0 +1,24 @@
+{
+  "ECO-28": [
+    ["Average variable cost per unit", "$12.50"],
+    ["Selling price per unit", "$37.50"],
+    ["Total fixed costs", "$900,000"]
+  ],
+  "ECO-40": [
+    ["", "CAD/USD", "JPY/USD"],
+    ["Beginning of period", "1.3216", "105.42"],
+    ["End of period", "1.2944", "104.74"]
+  ],
+  "ECO-41": [
+    ["USD/GBP", "1.2604"],
+    ["USD/EUR", "1.1786"]
+  ],
+  "ECO-67": [
+    ["Real trend growth rate", "0.5%"],
+    ["Central bank's policy rate", "1.5%"]
+  ],
+  "ECO-68": [
+    ["Total variable costs", "700"],
+    ["Total fixed costs", "400"]
+  ]
+}

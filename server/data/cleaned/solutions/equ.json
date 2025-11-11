@@ -1,0 +1,2234 @@
+[
+  {
+    "id": "EQU-1",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because a reverse stock split involves a reduction in the number of shares\noutstanding with a corresponding increase in share price."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this describes a stock split, not a reverse stock split. A stock split involves\nan increase in the number of shares outstanding with a consequent decrease in share price. A\nreverse stock split involves a reduction in the number of shares outstanding with a\ncorresponding increase in share price."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a reverse stock split involves a reduction in the number of shares\noutstanding with a corresponding increase in share price.\nEquity Investments\n• describe regular cash dividends, extra dividends, stock dividends, stock splits, reverse\nstock splits, and share"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-2",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because in contrast to stock dividends and stock splits, share repurchases are an\nalternative to cash dividend payments."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because in contrast to stock dividends and stock splits, share repurchases are an\nalternative to cash dividend payments."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because a share repurchase is viewed as equivalent to the payment of cash dividends\nof equal value in terms of the effect on shareholders' wealth, all other things being equal.\nEquity Investments\n• describe regular cash dividends, extra dividends, stock dividends, stock splits, reverse\nstock splits, and share repurchases"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-3",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because a sponsored DR is when the foreign company whose shares are held by the\ndepository has a direct involvement in the issuance of the receipts. Investors in sponsored DRs\nhave the same rights as the direct owners of the common shares (e.g., the right to vote and the\nright to receive dividends). In contrast, with an unsponsored DR, the underlying foreign\ncompany has no involvement with the issuance of the receipts. Instead, the depository\npurchases the foreign company's shares in its domestic market and then issues the receipts\nthrough brokerage firms in the depository's local market. In this case, the depository bank, not\nthe investors in the DR, retains the voting rights."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a depository receipt (DR) (sponsored or unsponsored) is a security that\ntrades like an ordinary share on a local exchange and represents an economic interest in a\nforeign company."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a depository receipt (DR) (sponsored or unsponsored) is a security that\ntrades like an ordinaryshare on a local exchange and represents an economic interest in a\nforeign company. The price of each DR will be affected by factors that affect the price of the\nunderlying shares, such as company fundamentals, market conditions, analysts'\nrecommendations, and exchange rate movements.\nEquity Investments\n• describe methods for investing in non-domestic equity securities"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-4",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because a stock dividend divides the \"pie\" (the market value of shareholders' equity)\ninto smaller pieces without affecting the value of the pie or any shareholder's proportional\nownership in the company. Thus, stock dividends are not relevant for valuation. Stock splits and\nreverse stock splits are similar to stock dividends in that they have no economic effect on the\ncompany or shareholders."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a cash dividend is a cash distribution made to a company's shareholders.\nNo cash flow from the company to the shareholders happen in case of a stock dividend. A stock\ndividend divides the \"pie\" (the market value of shareholders' equity) into smaller pieces without\naffecting the value of the pie or any shareholder's proportional ownership in the company. Thus,\nstock dividends are not relevant for valuation."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a share repurchase (or buyback) is a transaction in which a company uses\ncash to buy back its own shares. A share repurchase is viewed as equivalent to the payment of\ncash dividends of equal value in terms of the effect on shareholders' wealth, all other things\nbeing equal."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-5",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because an asset-based valuation of a company uses estimates of the market or fair\nvalue of the company's assets and liabilities."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because an asset-based valuation of a company uses estimates of the market or fair\nvalue of the company's assets and liabilities."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because an asset-based valuation of a company uses estimates of the market or fair\nvalue of the company's assets and liabilities.\nEquity Investments\n• describe asset-based valuation models and their use in estimating equity value"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-6",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because according to the dividend discount model, each year's dividend D, is the\nexpected dividend in year t, assumed to be paid at the end of the year, not at the beginning of\neach year."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because according to the dividend discount model, each year's dividend D, is the\nexpected dividend in year t, assumed to be paid at the end of the year, not at the midpoint of\neach year."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because according to the dividend discount model, each year's dividend D, is the\nexpected dividend in year t, assumed to be paid at the end of the year.\nEquity Investments\n• explain the rationale for using present value models to value equity and describe the\ndividend discount and free- cash-flow-to-equity models"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-7",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it confuses the dividend payout ratio with the dividend yield in the Gordon"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it confuses the dividend payout ratio as the dividend growth rate divided\nby the required rate of return, resulting in p = 0.04/0.120.33333%. This is also closest to the\nproduct of the forward P/E and the dividend growth rate: 8.0 x 0.04 = 0.32 = 32%."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because according to the Gordon growth model equations"
+      }
+    ],
+    "note": "growth model equation resulting in: D₁/Por-g=0.12-0.04 = 0.08 = 8%."
+  },
+  {
+    "id": "EQU-8",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because illiquid assets would not have easily determinable market (fair) values and\nwould be very difficult to analyze using asset valuation methods."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because asset-based valuations work well for companies that do have a high\nproportion of current assets and current liabilities."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because asset-based valuations work well for companies that do not have a high\nproportion of intangible or 'off the books' assets.\nEquity Investments\n• describe asset-based valuation models and their use in estimating equity value"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-9",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because this feature is specific to fixed income indexes."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because both equity and fixed income indexes can be constructed according to\nsector. Similar to equities, fixed-income securities can be categorized according to the issuer's\neconomic sector, the issuer's geographic region, or the economic development of the issuer's\ngeographic region."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this feature is specific to fixed income indexes.\nEquity Investments\n• describe types of fixed-income indexes"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-10",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because arbitrageurs provide liquidity to buyers and sellers who arrive at different\nmarkets at the same time. They move liquidity across markets. Arbitrageurs provide liquidity to\nthe markets because they make it easier for buyers and sellers to trade when and where they\nwant to trade."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the presence of arbitrageurs helps pricing discrepancies disappear quickly."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because arbitrageurs are traders who engage in such trades to benefit from pricing\ndiscrepancies (inefficiencies) in markets. Such trading activity contributes to market efficiency.\nThe presence of these arbitrageurs helps pricing discrepancies disappear quickly.\nEquity Investments\n• explain factors that affect a market's efficiency"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-11",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because an efficient market is thus a market in which asset prices reflect all past and\npresent information."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because in an efficient market, prices should be expected to react only to the\nelements of information releases that are not anticipated fully by investors-that is, to the\n\"unexpected\" or \"surprise\" element of such releases."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because consistent, superior, risk-adjusted returns (net of all expenses) are not\nachievable in an efficient market.\nEquity Investments\n• describe market efficiency and related concepts, including their importance to\ninvestment practitioners"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-12",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because an increase in transaction costs will increase the price discrepancy between\nmarket price and efficient price. Higher transaction costs make it more expensive for traders to\nexploit market inefficiencies, thereby decreasing market efficiency. Inefficiencies may also be\nunexploitable if the amount of the transaction cost offsets the amount of the price discrepancy.\nA price discrepancy must be sufficiently large to leave the investor with a profit (adjusted for\nrisk) after taking account of the transaction costs and information-acquisition costs to reach the\nconclusion that the discrepancy may represent a market inefficiency."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because rules and regulations that promote fairness and efficiency in a market\ninclude those pertaining to the disclosure of information and illegal insider trading."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because an increase in the number of market participants increases efficiency. If a\nlarge number of investors (individual and institutional) follow the major financial markets\nclosely on a daily basis, and if mispricings exist in these markets, investors will act so that these\nmispricings disappear quickly."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-13",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because changes in the lifestyle of people happen due to societal influences.\nSocietal changes involving how people work, spend their money, enjoy their leisure time, and\nconduct other aspects of their lives can have significant effects on the sales of various\nindustries."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because changes in distribution of age happen due to demographic influence.\nChanges in population size, in the distributions of age and gender, and in other demographic\ncharacteristics may have significant effects on economic growth and on the amounts and types\nof goods and services consumed."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because changes in spending behavior of the customers happen due to societal\ninfluences. Societal changes involving how people work, spend their money, enjoy their leisure\ntime, and conduct other aspects of their lives can have significant effects on the sales of various\nindustries.\nEquity Investments\n• analyze an industry's structure and external influences using Porter's Five Forces and\nPESTLE frameworks"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-14",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it is difficult, compared with equity indexes, for investors to replicate fixed-\nincome indexes and duplicate their performance."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because compared to equity indexes, fixed-income index providers must contact\ndealers to obtain current prices on constituent securities to update the index or they must\nestimate the prices of constituent securities using the prices of traded fixed-income securities\nwith similar characteristics."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the number of fixed-income securities is many times larger than the\nnumber of equity securities.\nEquity Investments\n• compare types of security market indexes"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-15",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because at inception, the values of the price and total return versions of an index are\nequal. As time passes, however, the value of the total return index will exceed the value of the\nprice return index."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because at inception, the values of the price and total return versions of an index\nare equal. As time passes, however, the value of the total return index will exceed the value of\nthe price return index."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because at inception, the values of the price and total return versions of an index\nare equal. As time passes, however, the value of the total return index will exceed the value of\nthe price return index.\nEquity Investments\n• calculate and interpret the value, price return, and total return of an index"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-16",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because behavioral finance allows for the possibility that the dislike for risk is not\nsymmetrical, in contrast to the more general models where researchers assume that investors\ndo not like risk (risk aversion), whether the risk is that returns are higher than expected or lower\nthan expected."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because behavioral finance research supports the phenomenon that investors are\nloss averse. Behavioral finance allows for the possibility that the dissatisfaction resulting from a\nloss exceeds the satisfaction resulting from a gain of the same magnitude. Some argue that\nbehavioral theories of loss aversion can explain observed overreaction in markets.\nIncorrect because behavioral finance research supports the phenomenon that investors are\noverconfident."
+      },
+      {
+        "isCorrect": false,
+        "reason": "Evidence has suggested that overconfidence results in mispricing for US, UK, German, French,\nand Japanese markets.\nEquity Investments\n• describe behavioral finance and its potential relevance to understanding market\nanomalies"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-17",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because companies issue equity to both make acquisitions and ensure that debt\ncovenants are met."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because companies issue equity to both make acquisitions and ensure that debt\ncovenants are met."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because companies issue equity to both make acquisitions and ensure that debt\ncovenants are met.\nEquity Investments\n• explain the role of equity securities in the financing of a company's assets"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-18",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because proxy voting is defined as shareholders may vote by proxy, which allows a\ndesignated party-such as another shareholder, a shareholder representative, or management to\nvote on the shareholders' behalf."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because cumulative voting allows shareholders to direct their total voting rights to\nspecific candidates, as opposed to [statutory voting] having to allocate their voting rights evenly\namong all candidates."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because cumulative voting allows shareholders to direct their total voting rights to\nspecific candidates, as opposed to [statutory voting] having to allocate their voting rights evenly\namong all candidates.\nEquity Investments\n• describe differences in voting rights and other ownership characteristics among different\nequity classes"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-19",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because preference shares (or preferred stock) rank above common shares with\nrespect to the payment of dividends and the distribution of the company's net assets upon\nliquidation. Their [convertible preference shares'] price is less volatile than the underlying\ncommon shares because the dividend payments are known and more stable."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because convertible preference shares allow investors to benefit from a rise in the\nprice of the common shares through the conversion option."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the use of convertible preference shares is a popular financing option in\nventure capital and private equity transactions in which the issuing companies are considered to\nbe of higher risk and when it may be years before the issuing company 'goes public' (i.e., issues\ncommon shares to the public).\nEquity Investments\n• compare the risk and return characteristics of different types of equity securities"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-20",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because growth industries would include industries with specific demand dynamics\nthat are so strong that they override the significance of broad economic or other external\nfactors and generate growth regardless of overall economic conditions, although their rates of\ngrowth may slow during an economic downturn."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a cyclical industry is one whose profits are strongly correlated with the\nstrength of the overall economy. Such companies experience wider-than-average fluctuations in\ndemand-high demand during periods of economic expansion and low demand during periods of\neconomic contraction-and/or are subject to greater- than-average profit variability related to\nhigh operating leverage (i.e., high fixed costs)."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because defensive industries and companies are those whose revenues and profits\nare least affected by fluctuations in overall economic activity. These industries/companies tend\nto produce staple consumer goods (e.g., bread), to provide basic services (grocery stores, drug\nstores, fast food outlets)."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-21",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because brokered markets are markets in which brokers arrange trades among their\nclients. Brokers organize markets for instruments for which finding a buyer or seller willing to\ntrade is difficult because the instruments are unique."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because organizing order-driven markets for these instruments (assets for which\nfinding a buyer or seller is difficult) is not sensible because too few traders would submit orders\nfor them."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because dealers generally are unable or unwilling to hold these assets in their\ninventories, they will not make markets in them.\nEquity Investments\n• describe how securities, contracts, and currencies are traded in quote-driven, order-\ndriven, and brokered markets"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-22",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because price multiples are popular with investors because the multiples can be\ncalculated easily."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the major advantage of using price multiples is that they allow for relative\ncomparisons, both cross-sectional (versus the market or another comparable) and in time\nseries."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because differences in reporting rules among different markets and in chosen\naccounting methods can result in revenues, earnings, book values, and cash flows that are not\neasily comparable.\nEquity Investments\n• explain advantages and disadvantages of each category of valuation model"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-23",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because enterprise value is most frequently determined as market capitalization\nplus market value of preferred stock plus market value of debt minus cash and investments\n(cash equivalents and short-term investments). Enterprise value increases with an increase in\nthe market value, not book value, of debt."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because enterprise value is most frequently determined as market capitalization\nplus market value of preferred stock plus market value of debt minus cash and investments\n(cash equivalents and short-term investments). Enterprise value increases with a decrease, not\nincrease, in the market value of cash and investments."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because enterprise value is most frequently determined as market capitalization plus\nmarket value of preferred stock plus market value of debt minus cash and investments (cash\nequivalents and short-term investments). Therefore, enterprise value increases with an increase\nin the market value of preferred stock.\nEquity Investments\n• describe enterprise value multiples and their use in estimating equity value"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-24",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because examples of classification systems based on products and/or services\ninclude the commercial classification systems... namely, the Global Industry Classification\nStandard (GICS)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because examples of classification systems based on products and/or services\ninclude the commercial classification systems... namely, the Global Industry Classification\nStandard (GICS)."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because examples of classification systems based on products and/or services include\nthe commercial classification systems... namely, the Global Industry Classification Standard\n(GICS).\nEquity Investments\n• describe industry classification methods and compare methods by which companies can\nbe grouped"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-25",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because commodity indexes consist of futures contracts on one or more\ncommodities."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because hedge fund indexes reflect the returns on hedge funds. Hedge funds are\nprivate investment vehicles that typically use leverage and long and short investment strategies.\nA number of research organizations maintain databases of hedge fund returns and summarize\nthese returns into indexes. Although the underlying hedge funds may contain futures contracts,\nthe indexes are not comprised of futures contracts."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a broad equity market index, as its name suggests, represents an entire\ngiven equity market and typically includes securities representing more than 90 percent of the\nselected market. Although the underlying securities may include contracts, the index is not\ncomprised of futures contracts.\nEquity Investments\n• describe indexes representing alternative investments"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-26",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because external factors affecting an industry's growth include macroeconomic,\ntechnological, demographic, governmental, and social influences. In contrast, cost structures (or\ncost conditions) are internal factors."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because external factors affecting an industry's growth include macroeconomic,\ntechnological, demographic, governmental, and social influences. In contrast, economies of\nscale is an internal factor."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because external factors affecting an industry's growth include macroeconomic,\ntechnological, demographic, governmental, and social influences.\nEquity Investments\n• analyze an industry's structure and external influences using Porter's Five Forces and\nPESTLE frameworks"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-27",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because companies often raise money for projects by selling (issuing) ownership\ninterests (e.g., corporate common stock or partnership interests). Although these equity\ninstruments legally represent ownership in companies rather than loans to the companies,\nselling equity to raise capital is simply another mechanism for moving money from the future to\nthe present."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because issuing a stock dividend would not be an activity the company would do to\nfund a capital project. Stock dividends are a non-cash form of dividends and the company\ndistributes additional shares of its common stock to shareholders instead of cash. Thus stock\ndividends will flow to shareholders, not the capital project."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because issuing a stock dividend would not be an activity the company would do to\nfund a capital project. Stock dividends are a non-cash form of dividends and the company\ndistributes additional shares of its common stock to shareholders instead of cash. Thus stock\ndividends will flow to shareholders, not the capital project."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-28",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because ex-dividend date is followed closely (one or two business days later) by the\nholder-of-record date (also called the owner-of-record date, shareholder-of-record date, record\ndate, date of record, or date of book closure), the date that a shareholder listed on the\ncompany's books will be deemed to have ownership of the shares for purposes of receiving the\nupcoming dividend."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the final milestone [in the dividend payment chronology] is the payment\ndate (or payable date), which is the day that the company actually mails out (or electronically\ntransfers) a dividend payment to shareholders."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because first is the declaration date, the day that the company issues a statement\ndeclaring a specific dividend. Next comes the ex-dividend date (or ex- date), the first date that a\nshare trades without (i.e., \"ex\") the dividend.\nEquity Investments\n• describe dividend payment chronology"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-29",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because Company 1's P/S and P/B are both the highest compared to those of its two\npeers and the industry average. All else being equal, high P/S and P/B multiples point to\nrelatively expensive valuations. Therefore, in the absence of conflict between the indications\ngiven by P/S and P/B (as both measures are the highest for the same company), the company\nmost likely to be overvalued is Company 1."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the P/S and P/B of Company 2 are lower than those of both Company 1 and\nthe industry average."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the P/S and P/B of Company 3 are lower than those of both Company 1 and\nthe industry average"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-30",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because utilities are classified as non-cyclical. Examples of non-cyclical industries\nare food and beverage, household and personal care products, health care, and utilities."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because examples of cyclical industries and broader sectors are autos, housing, basic\nmaterials, industrials, and technology."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because health care is classified as non-cyclical. Examples of non-cyclical industries\nare food and beverage, household and personal care products, health care, and utilities.\nEquity Investments\n• describe industry classification methods and compare methods by which companies can\nbe grouped"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-31",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because in price weighting, the weight on each constituent security is determined\nby dividing its price by the sum of all the prices of the constituent securities, which means the\nlower free float (due to increased weight of controlling shareholders) has no impact on\nconstituent weights."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the equal weighting assigns an equal weight to each constituent security at\ninception, which means the lower free float (due to increased number of shares held by\ncontrolling shareholders) has no impact on constituent weights."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because float-adjusted market-capitalization-weighted indexes reflect the shares\navailable for public trading [excluding the ones held by controlling shareholders] by multiplying\nthe market price per share by the number of shares available to the investing public (i.e., the\nfloat-adjusted market capitalization), which means constituent weights are impacted.\nEquity Investments\n• compare the different weighting methods used in index construction"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-32",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because free-cash-flow-to-equity (FCFE) can be expressed as FCFE = CFO-FCInv +\nNet borrowing [not minus net borrowing] where CFO is cash flow from operations and FCInv is\nfixed capital investment."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because free-cash-flow-to-equity (FCFE) can be expressed as FCFE = CFO-FCInv + Net\nborrowing where CFO is cash flow from operations and FCInv is fixed capital investment."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because free-cash-flow-to-equity (FCFE) can be expressed as FCFE = CFOFCInv [not\n+FCInv] + Net borrowing [not minus net borrowing] where CFO is cash flow from operations and\nFCInv is fixed capital investment.\nEquity Investments\n• explain the rationale for using present value models to value equity and describe the\ndividend discount and free- cash-flow-to-equity models"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-33",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the main disadvantage of price weighting is that it results in arbitrary\nweights for each security. It does not have a contrarian effect."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because fundamentally weighted indexes generally will have a contrarian 'effect' in\nthat the portfolio weights will shift away from securities that have increased in relative value\nand toward securities that have fallen in relative value whenever the portfolio is rebalanced."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a market capitalization weighting method leads to overweighting stocks\nthat have risen in price (and may be overvalued) and underweighting stocks that have declined\nin price (and may be undervalued). The effect of this weighting method is similar to a\nmomentum investment strategy in that over time, the securities that have risen in price the\nmost will have the largest weights in the index."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-34",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because EV is often viewed as the cost of a takeover and EBITDA is a proxy for\noperating cash flow. Companies with relatively low EV/EBITDA multiples are likely to be\nundervalued. Company 1 has the lowest EV/EBITDA multiple among the three."
+      },
+      {
+        "isCorrect": false,
+        "reason": ""
+      },
+      {
+        "isCorrect": false,
+        "reason": ""
+      }
+    ],
+    "note": "Company 3: EV/EBITDA = 200,000,000 / 15,000,000 = 13.3."
+  },
+  {
+    "id": "EQU-35",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because as unregulated entities hedge funds are not required to report their\nperformance. This means a hedge fund index is unlikely to be composed of regulated entities."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a consequence of the voluntary performance reporting is the potential for\nsurvivorship bias."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because frequently, a hedge fund reports its performance to only one database. The\nresult is little overlap of funds covered by the different indices. With little overlap between their\nconstituents, different global hedge funds indices may reflect very different performance for the\nhedge fund industry over the same period of time.\nEquity Investments\n• describe indexes representing alternative investments"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-36",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because in the weak-form efficient market hypothesis, security prices fully reflect all\npast market data. It does not include all publicly known and available information."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because in a semi-strong-form efficient market, prices reflect all publicly known and\navailable information."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because in a strong-form efficient market, security prices fully reflect both public\nand private information.\nEquity Investments\n• contrast weak-form, semi-strong-form, and strong-form market efficiency"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-37",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because in a highly efficient market, a passive investment strategy is preferred to an\nactive investment strategy because of lower costs (for example, transaction and information-\nseeking costs)."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because in a highly efficient market, a passive investment strategy (i.e., buying and\nholding a broad market portfolio) that does not seek superior risk-adjusted returns is preferred\nto an active investment strategy because of lower costs (for example, transaction and\ninformation-seeking costs)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because since there are no inefficiencies to exploit in a highly efficient market, an\nactive investment strategy would most likely generate the same risk-adjusted returns as a\npassive investment strategy if expenses are not considered. Consistent, superior, risk- adjusted\nreturns (net [not before] of all expenses) are not achievable in an efficient market. In a highly\nefficient market, a passive investment strategy (i.e., buying and holding a broad market\nportfolio) that does not seek superior risk-adjusted returns is preferred to an active investment\nstrategy.\nEquity Investments\n• describe market efficiency and related concepts, including their importance to\ninvestment practitioners"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-38",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because fundamental analysis involves the estimation of an asset's value using\ncompany data, such as earnings and sales forecasts and not stock price patterns. Instead,\ntechnical analysis is the use of price patterns in attempt to profit from them."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because fundamental analysis is an attempt to make active portfolio management\ndecisions, not passive management. Passive management focuses on replicating indexes as\ninvestment vehicles."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because fundamental analysis is necessary in a well-functioning market because this\nanalysis helps the market participants understand the value implications of information.\nEquity Investments\n• explain the implications of each form of market efficiency for fundamental analysis,\ntechnical analysis, and the choice between active and passive portfolio management"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-39",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because external factors affecting an industry's growth include macroeconomic,\ntechnological, demographic, governmental, and social influences."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because barriers to entry are considered internal factors affecting an industry, while\nexternal factors affecting an industry's growth include macroeconomic, technological,\ndemographic, governmental, and social influences."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because industry concentration is considered an internal factor affecting an\nindustry, while external factors affecting an industry's growth include macroeconomic,\ntechnological, demographic, governmental, and social influences.\nEquity Investments\n• analyze an industry's structure and external influences using Porter's Five Forces and\nPESTLE frameworks"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-40",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because in the weak-form efficient market hypothesis, security prices fully reflect all\npast market data, which refers to all historical price and trading volume information. This\nanswer is incomplete as it does not include trading volume information."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because in the weak-form efficient market hypothesis, security prices fully reflect all\npast market data, which refers to all historical price and trading volume information."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because in the weak-form efficient market hypothesis, security prices fully reflect all\npast market data, which refers to all historical price and trading volume information but does\nnot refer to current earnings information.\nEquity Investments\n• contrast weak-form, semi-strong-form, and strong-form market efficiency"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-41",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because security market indices do not serve as proxies for measuring\nnonsystematic risk. Nonsystematic risk is risk that is local or limited to a particular asset or\nindustry that need not affect assets outside of that asset class. Investors are capable of avoiding\nnonsystematic risk through diversification by forming a portfolio of assets that are not highly\ncorrelated with one another. Security market indices are usually broad and well diversified. They\ndo serve as market proxies when measuring risk-adjusted performance. The beta of an actively\nmanaged portfolio allows investors to form a passive alternative with the same level of\nsystematic risk."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because indices play a critical role as proxies for asset classes in asset allocation\nmodels."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because asset-based valuation is a method for valuing individual companies, so a\nbroad security market indices is not a useful proxy. Asset-based valuation of a company uses\nestimates of the market or fair value of the company's assets and liabilities. Asset-based\nvaluation models are frequently used together with multiplier models to value private\ncompanies. As public companies increase reporting or disclosure of fair values, asset- based\nvaluation may be increasingly used to supplement present value and multiplier models of\nvaluation.\nEquity Investments\n• describe uses of security market indexes"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-42",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because in price weighting, the weight on each constituent security is determined\nby dividing its price by the sum of all the prices of the constituent securities and not by market\ncap, which is price multiplied by shares outstanding."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this method assigns an equal weight to each constituent security at\ninception and therefore the weight is not determined by market cap, which is price multiplied\nby shares outstanding."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because in market-capitalization weighting, or value weighting, the weight on each\nconstituent security is determined by dividing its market capitalization by the total market\ncapitalization (the sum of the market capitalization) of all the securities in the index. Market\ncapitalization or value is calculated by multiplying the number of shares outstanding by the\nmarket price per share.\nEquity Investments\n• compare the different weighting methods used in index construction"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-43",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because from an investor's point of view, putable common or preference shares are\nless risky than their callable or non-callable counterparts because they give the investor the\noption to sell the shares to the issuer at a pre-determined price. As a result, putable shares\ngenerally pay a lower dividend than non-putable shares."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because callable common or preference shares are riskier than their non-callable\ncounterparts because the issuer has the option to redeem the shares at a pre-determined price.\nCallable shares generally pay a higher dividend to compensate investors for the risk that the\nshares could be called in the future."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because from an investor's point of view, putable common or preference shares are\nless risky than their callable or non-callable counterparts because they give the investor the\noption to sell the shares to the issuer at a pre-determined price. The lower risk of putables\nshares results in a lower dividend than non-callable shares."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-44",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because corporations can issue new stock via a rights offering. In a rights offering,\nthe corporation distributes rights to buy stock at a fixed price to existing shareholders in\nproportion to their holdings."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because in a best effort offering, the investment bank acts only as broker. They do\nnot guarantee the sale of the entire issue at a negotiated offering price."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because in an underwritten offering the most common type of offering the\ninvestment bank guarantees the sale of the issue at an offering price that it negotiates with the\nissuer.\nEquity Investments\n• define primary and secondary markets and explain how secondary markets support\nprimary markets"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-45",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because by going private, management can adopt a more long-term focus and can\neliminate certain costs that are necessary to operate a publicly traded company. Whereas in\noperating a publicly traded company, management often feels pressured to focus on short-term\nresults (e.g., meeting quarterly sales and earnings targets from analysts biased toward near-\nterm price performance) instead of operating the company to obtain long-term sustainable\nrevenue and earnings growth. There are three primary types of private equity investments:\nventure capital, leveraged buyouts, and private investment in public equity (or PIPE)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because by going private, management can adopt a more long-term focus and can\neliminate certain costs that are necessary to operate a publicly traded company. Whereas in\noperating a publicly traded company, management often feels pressured to focus on short-term\nresults (e.g., meeting quarterly sales and earnings targets from analysts biased toward near-\nterm price performance) instead of operating the company to obtain long-term sustainable\nrevenue and earnings growth. There are three primary types of private equity investments:\nventure capital, leveraged buyouts, and private investment in public equity (or PIPE)."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because in operating a publicly traded company, management often feels pressured\nto focus on short- term results (e.g., meeting quarterly sales and earnings targets from analysts\nbiased toward near-term price performance) instead of operating the company to obtain long-\nterm sustainable revenue and earnings growth.\nEquity Investments\n• compare and contrast public and private equity securities"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-46",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the value of the index at the end of period 2, not Period 3 = Beginning\nvalue x (1 + Period 1 return) x (1 + Period 2 return) = 100 ×(100+12%)×(100-8%) = 103.04, which\nis closest to 103."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because it is the value of the index at the end of period 3 = Beginning value x\n(1+Period 1 return) x (1 + Period 2 return) x (1 + Period 3 return) = 100 ×(100+12%)×(100-\n8%)×(1+2%) ~ 105.10, which is closest to 105."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because returns for the three periods are added, not compounded: Beginning value\n+ (100 x Period 1 return) + (100 x Period 2 return) + (100 x Period 3 return) = 100+\n(100×12%)+(100×8%) + (100×2%) = 100+128+2=106.\nEquity Investments\n• calculate and interpret the value, price return, and total return of an index"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-47",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because how accurately prices reflect fundamental information depends on the costs\nof obtaining fundamental information and on the liquidity available to well-informed traders. If\nfilling orders is very costly, informed trading may not be profitable. In that case, information-\nmotivated traders will not commit resources to collect and analyze data and they will not trade.\nWithout their research and their associated trading, prices would be less informative."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because trading costs do impact informational efficiency: higher costs result in less\ninformed trading and thereby a decrease in efficiency."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because higher trading costs result in less informed trading and thereby a decrease\nin efficiency.\nEquity Investments\n• describe characteristics of a well-functioning financial system"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-48",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it uses the retention rate instead of the payout ratio;\n220=60/(0.085-g) and g = 0.0577 or 5.8%."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because justified forward P/E = p/ (r-g), where p = payout ratio = (1 - retention rate)\nand r = required rate of return = nominal risk-free rate + risk premium.\n22=(1-0.60)/((0.025 +0.06) - g).\n220.40/(0.085g) and g = 0.0668~6.7%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it uses the current stock price instead of the P/E ratio to solve for g: 36 =\n0.40 / (0.085-g) and g = 0.0739~7.4%.\nEquity Investments\n• calculate and interpret the intrinsic value of an equity security based on the Gordon\n(constant) growth dividend discount model or a two-stage dividend discount model as\nappropriate"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-49",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because investment banks provide advice to their mostly corporate clients and help\nthem arrange transactions such as initial and seasoned securities offerings. Additionally, a\nseasoned security is a security that an issuer has already issued. If the issuer wants to sell\nadditional units of a previously issued security, it makes a seasoned offering (sometimes called a\nsecondary offering)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because depository institutions include commercial banks, savings and loan banks,\ncredit unions, and similar institutions that raise funds from depositors and other investors and\nlend it to borrowers. The banks give their depositors interest and transaction services, such as\ncheck writing and check cashing, in exchange for using their money."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because multilateral trading facilities (MTFs) are trading venues that function like\nexchanges but that do not exercise regulatory authority over their subscribers except with\nrespect to the conduct of their trading in their trading systems."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-50",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because if securities markets are weak-form and semi-strong-form efficient, the\nimplication is that active trading, whether attempting to exploit price patterns or public\ninformation, is not likely to generate abnormal returns. In other words, portfolio managers\ncannot beat the market on a consistent basis, so therefore, passive portfolio management\nshould outperform active portfolio management."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because if securities markets are semi-strong-form efficient, the implication is that\nactive trading attempting to exploit price patterns is not likely to generate abnormal returns. In\nother words, portfolio managers cannot beat the market on a consistent basis, so therefore,\npassive portfolio management should outperform active portfolio management."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because if securities markets are semi-strong-form efficient, the implication is that\nactive trading attempting to exploit public information is not likely to generate abnormal\nreturns. In other words, portfolio managers cannot beat the market on a consistent basis, so\ntherefore, passive portfolio management should outperform active portfolio management.\nEquity Investments\n• explain the implications of each form of market efficiency for fundamental analysis,\ntechnical analysis, and the choice between active and passive portfolio management"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-51",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because multi-market indexes usually comprise indexes from different countries\nand are designed to represent multiple security markets. Multi-market indexes may represent\nmultiple national markets, geographic regions, economic development groups, and, in some\ncases, the entire world. A multi-market index would not be used as a benchmark for a single\ncountry ETF."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a small cap growth index is a style index, not a multi-market index."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because indexes also serve as market proxies when measuring risk-adjusted\nperformance. The beta of an actively managed portfolio allows investors to form a passive\nalternative with the same level of systematic risk. In this case, multi-market indexes usually\ncomprise indexes from different countries would serve as benchmarks to calculate beta for the\nportfolios of global stock managers.\nEquity Investments\n• describe uses of security market indexes"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-52",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because industry classification systems are developed and used by both commercial\nentities and various governmental agencies."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because industry classification systems are developed and used by both commercial\nentities and various governmental agencies."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because industry classification systems are developed and used by both commercial\nentities and various governmental agencies.\nEquity Investments\n• describe industry classification methods and compare methods by which companies can\nbe grouped"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-53",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because, if ROE is used instead of the required rate of return, the intrinsic value =\n$1.048/(0.12- 0.048) = $1.048/0.072 ~ $14.56."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because, if Do is used instead of D₁, the intrinsic value = $1.00/(0.10-0.048) =\n$1.00/0.052 ~$19.23."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because intrinsic value = V D₁l(r-g). Therefore, Vo $1.048/(0.10-0.048) =\n$1.048/0.052- $20.15, where:"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-54",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because in the case of a strong-form efficient market, insiders would not be able to\nearn abnormal returns from trading on the basis of private information. Market prices reflect\nprivate information under strong form market efficiency."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it is possible to earn abnormal profits from trading on private information\nwhen the market is weak-form efficient only. Market prices do not reflect private information\nunder weak form market efficiency."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it is possible to earn abnormal profits from trading on private information\nwhen the market is semi-strong-form efficient only. Market prices do not reflect private\ninformation under semi-strong form market efficiency.\nEquity Investments\n• contrast weak-form, semi-strong-form, and strong-form market efficiency"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-55",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because in the GICS each company is assigned to a sub-industry according to its\nprincipal business activity. Each sub-industry belongs to a particular industry; each industry\nbelongs to an industry group; and each group belongs to a sector. In June 2009, the GICS\nclassification structure comprised four levels of detail consisting of 154 sub- industries, 68\nindustries, 24 industry groups, and 10 sectors. Therefore, a sector is the broadest level of\nclassification."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a sector is the broadest level of classification. Each industry belongs to an\nindustry group; and each group belongs to a sector."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a sector is the broadest level of classification. Each industry belongs to an\nindustry group; and each group belongs to a sector.\nEquity Investments\n• describe industry classification methods and compare methods by which companies can\nbe grouped"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-56",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because in the weak form of market efficiency, market prices reflect all past market\ndata; however, it does not incorporate all public information. Therefore, investors may use\nfundamental analysis to outperform the market."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because in a semi-strong market, all public information - past and present - is\navailable making fundamental analysis less effective."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because in a strong-form efficient market, security prices fully reflect both public\nand private information. In the case of a strong-form efficient market, insiders would not be\nable to earn abnormal returns from trading (even) on the basis of private information.\nTherefore, they cannot outperform the market using fundamental analysis.\nEquity Investments\n• contrast weak-form, semi-strong-form, and strong-form market efficiency"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-57",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because price-weighted indexes are not rebalanced because the weight of each\nconstituent security is determined by its price."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because rebalancing is necessary because the weights of the constituent securities\nchange as their market prices change. The weights of the securities in the equal-weighted index\nat the end of the period are no longer equal. Therefore equal-weighted indexes are regularly\nrebalanced."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because price-weighted indexes are not rebalanced because the weight of each\nconstituent security is determined by its price.\nEquity Investments\n• describe rebalancing and reconstitution of an index"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-58",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because industry-level forces driving industry competition include: threat of new\nentrants, substitution threats, customer and supplier bargaining forces, the competitive forces\nin the industry (rivalry), life-cycle issues, and business-cycle considerations."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because macro forces (rather than industry forces) include macroeconomic,\ndemographic, environmental, governmental, social, and technological influences affecting the\nindustry."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because macro forces (rather than industry forces) include macroeconomic,\ndemographic, environmental, governmental, social, and technological influences affecting the\nindustry.\nEquity Investments\n• analyze an industry's structure and external influences using Porter's Five Forces and\nPESTLE frameworks"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-60",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because most government and commercial classification systems are reviewed and,\nif necessary, updated from time to time. Generally, commercial classification systems are\nadjusted more frequently than government classification systems, which may be updated only\nevery five years or so."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because most government and commercial classification systems are reviewed and,\nif necessary, updated from time to time. Generally, commercial classification systems are\nadjusted more frequently than government classification systems, which may be updated only\nevery five years or so."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because most government and commercial classification systems are reviewed and, if\nnecessary, updated from time to time. Generally, commercial classification systems are adjusted\nmore frequently than government classification systems, which may be updated only every five\nyears or so."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-61",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because intrinsic value refers to the true value of an asset. And a primary means to\nestimate a company's true or intrinsic value is the present value of its future projected cash\nflows."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because return on equity (ROE) is computed as net income available to ordinary\nshareholders (i.e., after preferred dividends have been deducted) divided by the average total\nbook value of equity (BVE)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because companies try to raise capital at the lowest possible cost, [and] the\ncompany's cost of equity is often used as a proxy for the investors' minimum required rate of\nreturn.\nEquity Investments\n• compare a company's cost of equity, its (accounting) return on equity, and investors'\nrequired rates of return"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-62",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because style indexes represent groups of securities classified according to market\ncapitalization, value, growth, or a combination of these characteristics. They are intended to\nreflect the investing styles of certain investors, such as the growth investor, value investor, and\nsmall-cap investor."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because sector indexes represent and track different economic sectors-such as\nconsumer goods, energy, finance, health care, and technology-on either a national, regional, or\nglobal basis. A world equity index most likely does not represent a specific economic sector."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because multi-market indexes usually comprise indexes from different countries and\nregions and are designed to represent multiple security markets. Multi-market indexes may\nrepresent multiple national markets, geographic regions, economic development groups, and, in\nsome cases, the entire world. World indexes are of importance to investors who take a global\napproach to equity investing without any particular bias toward a particular country or region.\nEquity Investments\n• describe types of equity indexes"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-63",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the callable feature is not relevant in liquidation because it gives the\ncompany the right but not the obligation to buy back shares from investors. A buyback is not\nlikely in liquidation."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the cumulative feature only requires dividends to be paid for preference\nshares before common dividends are paid. The payment of common dividends is not likely in\nliquidation and thus the cumulative characteristic is not likely to be exercised."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because of the three characteristics, only the participating characteristic is most\ndirectly affected by liquidation of the company. Participating preference shares can also contain\nprovisions that entitle shareholders to an additional distribution of the company's assets upon\nliquidation, above the par (or face) value of the preference shares.\nEquity Investments\n• describe differences in voting rights and other ownership characteristics among different\nequity classes"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-64",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because one can make the case that a three-stage DDM would be most appropriate\nfor a fairly young company, one that is just entering the growth phase, which would not be\ncharacteristic of a mature company."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because one can make the case that a three-stage DDM would be most appropriate\nfor a fairly young company, one that is just entering the growth phase, which would not be\ncharacteristic of a company that was transitioning to maturity."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because one can make the case that a three-stage DDM would be most appropriate\nfor a fairly young company, one that is just entering the growth phase.\nEquity Investments\n• identify characteristics of companies for which the constant growth or a multistage\ndividend discount model is appropriate"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-65",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because management's decisions directly influence a company's net income, they\nalso directly influence its book value of equity."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because management actions can only indirectly affect the market value of its\nequity. The market value of the company's equity reflects the collective and differing\nexpectations of investors concerning the amount, timing, and uncertainty of the company's\nfuture cash flows."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a company's intrinsic value can only be estimated because it is impossible\nto predict the amount and timing of its future cash flows. As such, this is not a value that\nmanagement has direct control over.\nEquity Investments\n• contrast the market value and book value of equity securities"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-66",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because market value is the price at which an asset can currently be bought or sold.\nIntrinsic value (sometimes called fundamental value) is, broadly speaking, the value that would\nbe placed on it by investors if they had a complete understanding of the asset's investment\ncharacteristics. Intrinsic value can be estimated but is not known for certain."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because information relevant to valuation flows continually to investors, estimates\nof intrinsic value change, and hence, market values change. Neither market value or intrinsic\nvalue are constant."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the market value of an asset represents the intersection of supply and\ndemand-the point that is low enough to induce at least one investor to buy while being high\nenough to induce at least one investor to sell. Intrinsic value is the present value of future cash\nflows as opposed to the intersection of supply and demand.\nEquity Investments\n• contrast market value and intrinsic value"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-67",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the potential gains on a short position are limited to no more than 100\npercent whereas the potential losses are unbounded."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because short sellers create short positions in securities by borrowing securities from\nsecurity lenders who are long holders. The short sellers then sell the borrowed securities to\nother traders. The potential gains on a short position are limited to no more than 100 percent\nwhereas the potential losses are unbounded."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the potential gains on a short position are limited to no more than 100\npercent whereas the potential losses are unbounded.\nEquity Investments\n• compare positions an investor can take in an asset"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-68",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because money markets trade debt instruments maturing in one year or less. The\nmost common such instruments are repurchase agreements, negotiable certificates of deposit,\ngovernment bills."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because capital markets trade instruments of longer duration, such as bonds and\nequities. Whereas government bills are a short-term debt instrument."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because alternative investments include hedge funds, private equities (including\nventure capital), commodities, real estate securities and real estate properties, securitized\ndebts, operating leases, machinery, collectibles, and precious gems.\nEquity Investments\n• describe classifications of assets and markets"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-69",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because multiplier models are based chiefly on share price multiples or enterprise\nvalue multiples. Enterprise value (EV) multiples have the form (Enterprise value)/(Value of a\nfundamental variable). Two possible choices for the denominator are earnings before interest,\ntaxes, depreciation, and amortization (EBITDA) and total revenue."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because present value models estimate the intrinsic value of a security as the\npresent value of the future benefits expected to be received from the security. In present value\nmodels, benefits are often defined in terms of cash expected to be distributed to shareholders\n(dividend discount models) or in terms of cash flows available to be distributed to shareholders\nafter meeting capital expenditure and working capital needs (free-cash-flow-to-equity models)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because asset-based valuation models estimate intrinsic value of a common share\nfrom the estimated value of the assets of a corporation minus the estimated value of its\nliabilities and preferred shares. The estimated market value of the assets is often determined by\nmaking adjustments to the book value (synonym: carrying value) of assets and liabilities. The\ntheory underlying the asset-based approach is that the value of a business is equal to the sum\nof the value of the business's assets.\nEquity Investments\n• describe major categories of equity valuation models"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-70",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because real assets tend to trade in very illiquid markets."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because investments in real assets generally require substantial management to\nensure that the assets are maintained and used efficiently. Investment managers investing in\nsuch assets must either hire personnel to manage them or hire outside management\ncompanies. Either way, management of real assets is quite costly."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because real assets are unique properties in the sense that no two properties are\nalike.\nEquity Investments\n• describe the major types of securities, currencies, contracts, commodities, and real\nassets that trade in organized markets, including their distinguishing characteristics and\nmajor subtypes"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-71",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because option holders generally will exercise call options if the strike price is below\nthe market price of the underlying instrument, in which case, they will be able to buy at a lower\nprice than the market price. Similarly, they will exercise put options if the strike price is above\nthe underlying instrument price so that they will sell at a higher price than the market price.\nTherefore, if the investor purchases a put option and the US market declines, they will profit by\nbuying at the lower market price and selling at the higher strike price."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because option holders generally will exercise call options if the strike price is below\nthe market price of the underlying instrument, in which case, they will be able to buy at a lower\nprice than the market price. Similarly, they will exercise put options if the strike price is above\nthe underlying instrument price so that they will sell at a higher price than the market price."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a currency swap is a swap in which parties exchange payments\ndenominated in different currencies. A currency swap will most likely not allow a European\ninvestor to profit from the decline in the US equity market."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-72",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because regulation would not be necessary if customers could identify competent\nagents and effectively measure their performance. Therefore an increase in client ability to\nidentify competent agents would reduce the need for regulation."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the clients' difficulty in identifying competent agents results in a regulatory\nneed. An increase in their ability to select competent agents would reduce this regulatory need."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the clients' difficulty in identifying competent agents results in a regulatory\nneed. An increase in their ability to select competent agents would reduce, not increase, this\nregulatory need.\nEquity Investments\n• describe objectives of market regulation"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-73",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": ""
+      },
+      {
+        "isCorrect": true,
+        "reason": "\nOther assets = Total Assets - Inventories - Net fixed assets = 150 - 20 - 80 = 50\nMV Inventories = 20 * 0.9 = 18\nMV Net fixed assets = 80 * 1.25 = 100\nMV A = 18 + 100 + 50 = 168\nAsset-based value per share = (168 - 90)/4 = 19.50"
+      },
+      {
+        "isCorrect": false,
+        "reason": ""
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-74",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because intrinsic value is often defined as the present value of all expected future\ncash flows of the asset."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the book value of a company's equity is the difference between its total\nassets and total liabilities."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this the total market value of equity (or market capitalization) computed as\nthe number of shares outstanding multiplied by the market price per share.\nEquity Investments\n• contrast the market value and book value of equity securities"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-75",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because ROE can increase if net income increases at a faster rate than shareholders'\nequity or if net income decreases at a slower rate than shareholders' equity. If shareholder\nequity increases at a faster rate than net income increases, then ROE will decrease, not\nincrease."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because ROE can increase if net income increases at a faster rate than shareholders'\nequity or if net income decreases at a slower rate than shareholders' equity. If shareholder\nequity increases at the same rate as net income, then ROE will remain the same and not\nincrease."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because ROE can increase if net income increases at a faster rate than shareholders'\nequity or if net income decreases at a slower rate than shareholders' equity.\nEquity Investments\n• compare a company's cost of equity, its (accounting) return on equity, and investors'\nrequired rates of return"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-76",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because style indexes represent groups of securities classified according to market\ncapitalization, value, growth, or a combination of these characteristics. They are intended to\nreflect the investing styles of certain investors, such as the growth investor, value investor, or\nsmall-cap investor."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because sector indexes represent and track different economic sectors-such as\nconsumer goods, energy, finance health care, and technology-on either a national, regional, or\nglobal basis."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because multi-market indexes may represent multiple national markets, geographic\nregions, economic development groups, and, in some cases, the entire world.\nEquity Investments\n• describe types of equity indexes"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-77",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the company's justified forward P/E is not less than the peer group's\njustified forward P/E, but is the same. The company's justified forward P/E = p / (r- g)= 0.40 /\n(0.09 -0.05) = 10.0. The peer group's justified forward P/E = 0.50 / (0.09 -0.04) 10.0. The\ncandidate may select this response if they believe the company's lower payout ratio results in a\nlower P/E."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the company's justified forward P/E is the same as the peer group's justified\nforward P/E. The company's justified forward P/E = p / (r-g) = 0.40 / (0.09 -0.05)= 10.0. The peer\ngroup's justified forward P/E =0.50/(0.09 -0.04) 10.0."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the company's justified forward P/E is not greater than the peer group's\njustified forward P/E, but is the same. The company's justified forward P/E = p / (r-g)= 0.40/(0.09\n-0.05) = 10.00. The peer group's"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-78",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the ex-dividend date (or ex-date) is the first date that a share trades without\n(i.e., 'ex') the dividend. Because buyers of a company's shares on the ex-dividend date are no\nlonger eligible to receive the upcoming dividend, all else being equal, on that day the company's\nshare price immediately decreases by the amount of the foregone dividend. If the share trades\nat $29.00 on 19 August (the day before ex-date) and the upcoming dividend is $0.50, then all\nelse being equal, the shares would trade at $28.50 ($29.00 - $0.50) on the ex-date."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because $29.00 is the price of the share before the ex-date which is the last day\npurchasers will receive the upcoming dividend. All else being equal, the share price should trade\nbelow $29.00 and not at or above $29.00."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because purchasers of shares on the ex-date or after the ex-date will not be entitled\nto the upcoming dividend and the share price should trade below $29.00 and not above $29.00.\nAn uninformed candidate may confuse the dates and think that the share price on the ex-date\nshould include dividends declared and inadvertently think that the 19 August share price\ndoesn't include the dividend. Therefore the uninformed candidate adds $0.50 to the share price\nto arrive at $29.50.\nEquity Investments\n• describe dividend payment chronology"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-79",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the ex-dividend date (or ex-date) is the first date that a share trades without\n(i.e., 'ex') the dividend. Thus, an investor will be able to receive the company's dividend if he\npurchases shares no later than on 1 August, one business day before ex-date of 2 August."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because in order to receive the dividend, the last day to purchase shares is the\nbusiness day before the ex-date. An uninformed candidate may incorrectly assume that ex-date\nis the last date when shares are traded with the dividend."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because in order to receive the dividend, the last day to purchase shares is the\nbusiness day before the ex-date. An uninformed candidate may incorrectly assume that if an\ninvestor purchases the stock before the holder-of-record date, they can still receive the\ndividend.\nEquity Investments\n• describe dividend payment chronology"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-80",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because loss aversion refers to the tendency of people to dislike losses more than\nthey like comparable gains. Some argue that behavioral theories of loss aversion can explain\nobserved overreaction in markets. Thus loss aversion is related to behavioral finance and is not\na market anomaly."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because earnings surprise, is the portion of earnings that is unanticipated by\ninvestors and, according to the efficient market hypothesis, merits a price adjustment. Earnings\nsurprise is a type of market anomaly but is not the January effect."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the January effect, has been observed in most equity markets around the\nworld. This anomaly is also known as the \"turn-of-the-year\" effect. The January effect is a time\nseries anomaly and is an observed pricing anomaly.\nEquity Investments\n• describe market anomalies"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-81",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the expected rate of return for Stock 1 is equal to the investor's required\nrate of return. If investors require a higher rate of return on equity than the company's cost of\nequity, they would sell their shares and invest their funds elsewhere resulting in a decline in the\ncompany's share price."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the expected rate of return for Stock 2 exceeds the investor's required rate\nof return. In other words, the cost of equity can be thought of as the minimum expected rate of\nreturn that a company must offer its investors to purchase its shares in the primary market and\nto maintain its share price in the secondary market. If this expected rate of return is not\nmaintained in the secondary market, then the share price will adjust so that it meets the\nminimum required rate of return demanded by investors. For example, if investors require a\nhigher rate\nof return on equity than the company's cost of equity, they would sell their shares and invest\ntheir funds elsewhere resulting in a decline in the company's share price."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the expected rate of return for Stock 3 is below the investor's required rate\nof return. If investors require a higher rate of return on equity than the company's cost of\nequity, they would sell their shares and invest their funds elsewhere resulting in a decline in the\ncompany's share price."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-82",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because behavioral biases can affect all market participants, from the novice\ninvestor to the most experienced investment manager."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the focus of much of the work in this area is on the behavioral biases that\naffect investment decisions. The behavior of individuals, in particular their behavioral biases,\nhas been offered as a possible explanation for a number of pricing anomalies."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because behavioral finance does not assume that people consider all available\ninformation in decision-making.\nEquity Investments\n• describe behavioral finance and its potential relevance to understanding market\nanomalies"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-83",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it incorrectly uses D, instead of D₁: r = $4/$92 + 4% = 8.348%, which is\nclosest to 8.35%."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the Gordon growth model is V₁ = D, / (r-g), where V, is current value, D, is\nnext year's x dividend (D, * (1 + g)), r is required return and g is growth rate. Solving this\nequation for r is r = D, / Vo + g = (Do X × (1+g)) / Vo+g.\nr = ($4 × (1+4%)) / $92 + 4% = ($4.16) / $92+4% = 8.522%, which is closest to 8.52%."
+      },
+      {
+        "isCorrect": false,
+        "reason": ""
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-84",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the ex-dividend date (or ex-date), the first date that a share trades without\n(i.e., \"ex\") the dividend."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because payment date (or payable date), which is the day that the company actually\nmails out (or electronically transfers) a dividend payment to shareholders."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the declaration date, the day that the company issues a statement\ndeclaring a specific dividend.\nEquity Investments\n• describe regular cash dividends, extra dividends, stock dividends, stock splits, reverse\nstock splits, and share repurchases"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-85",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it is equal to the par value + 1% (the difference between the 5% dividend\nand the 4% required return). 25 × (1+ (0.05 -0.04)) = $25.25. Also, if a candidate mistakenly\ncalculates V₂ = (25 × 0.04)/0.05 = $20.00, which is closest to this answer choice."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it is the par value multiplied by the required return = 25 × (1+0.04) = $26."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the estimated intrinsic value (Vo) is:\nV0 = D0/ r , where D0 = dividend, and r = the required rate of return. The D0 = par value x\nannual dividend rate V0 = $25 × 0.05 $1.25. $1.25/0.04 = $31.25.\nEquity Investments\n• calculate the intrinsic value of a non-callable, non-convertible preferred stock"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-86",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because 2 is the starting leverage before the price change, 1/0.5 = 2"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the leverage ratio is defined as the ratio of the value of the position to the\nvalue of the equity investment in it. The leverage ratio indicates how many times larger a\nposition is than the equity that supports it.\nThe starting leverage value/equity = 1/0.5 = 2\nThe change in market value is given as 25% decline, implying a new market value of 75%.\nWith leverage of 2, new equity reduces by 2 * 25 \\%=50\\% 50% * 50 \\%=t remaining equity of\n25%.\nNew leverage = new value/new equity = 0.75/0.25 = 3 ."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the amount of the price decline is used instead of the margin to calculate\nthe leverage ratio, 1/ 0.25 = 4.\nEquity Investments\n• calculate and interpret the leverage ratio, the rate of return on a margin transaction, and\nthe security price at which the investor would receive a margin call"
+      }
+    ],
+    "note": "Expressed alternatively: New leverage = (1 - 0.25) / (0.5 - 0.25) = 3 ."
+  },
+  {
+    "id": "EQU-87",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the fundamental variable may be stated on a forward basis (e.g.,\nforecasted EPS for the next year) or a trailing basis (e.g., EPS for the past year), as long as the\nusage is consistent across companies being examined."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the fundamental variable may be stated on a forward basis\n(e.g., forecasted EPS for the next year) or a trailing basis (e.g., EPS for the past year), as long as\nthe usage is consistent across companies being examined."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the fundamental variable may be stated on a forward basis (e.g., forecasted\nEPS for the next year) or a trailing basis (e.g., EPS for the past year), as long as the usage is\nconsistent across companies being examined.\nEquity Investments\n• describe major categories of equity valuation models"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-88",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the leverage ratio is the ratio of the value of the position to the value of the\nequity investment in it."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the leverage ratio is the ratio of the value of the position to the value of\nthe equity investment in it."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the leverage ratio is the ratio of the value of the position to the value of\nthe equity investment in it.\nEquity Investments\n• calculate and interpret the leverage ratio, the rate of return on a margin transaction, and\nthe security price at which the investor would receive a margin call"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-89",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the market price equals the calculated intrinsic value, implying the shares\nare not undervalued."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the market price is equal to the calculated value based on the stated rate of\nreturn. Since the preferred share pays a perpetual level dividend, its value is V₁ = Ddr =\n$1.20/0.06 = $20. If the estimated value equals the market price, the analyst infers the security\nis fairly valued."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the market price equals the calculated intrinsic value, implying the shares\nare not overvalued.\nEquity Investments\n• calculate the intrinsic value of a non-callable, non-convertible preferred stock"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-90",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the leverage ratios with the two brokers are the same at both firms given\nBroker 1's margin requirement and Broker 2's maximum leverage ratio. Leverage Ratio 100% /"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the maximum financial leverage is the same at both firms given Broker 1's\nmargin requirement and Broker 2's maximum leverage ratio. Leverage Ratio = 100% / margin"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the leverage ratios with the two brokers are the same at both firms given\nBroker 1's margin requirement and Broker 2's maximum leverage ratio. Leverage Ratio = 100% /"
+      }
+    ],
+    "note": "margin requirement: Broker 1 leverage ratio = 100% / 62.5% 1.6 Broker 2's leverage ratio."
+  },
+  {
+    "id": "EQU-91",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it is (1 - the minimum margin requirement): 1-(1/1.75) = 43%."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the maximum leverage ratio associated with a position financed by the\nminimum margin requirement is one divided by the minimum margin requirement. Or, MLR= 1/\nMMR and MMR = 1 / MLR. In this case: the minimum margin requirement (MMR) = 1 / 1.75 =\n57%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it is (the maximum leverage ratio-1)= 1.75-1 = 75%.\nEquity Investments\n• calculate and interpret the leverage ratio, the rate of return on a margin transaction, and\nthe security price at which the investor would receive a margin call"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-92",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the size effect is a cross-sectional anomaly, not a time-series anomaly. Two\nof the most researched cross-sectional anomalies in financial markets are the size effect and the\nvalue effect. The size effect results from the observation that equities of small-cap companies\ntend to outperform equities of large-cap companies on a risk-adjusted basis."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the momentum anomaly is best described as a time-series anomaly.\nMomentum anomalies relate to short-term share price patterns where past price moves\ncontinued through time to move in the same direction."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the Initial Public Offering (IPO) anomaly is best described as an \"other\"\nanomaly.\nEquity Investments\n• describe market anomalies"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-93",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because dividend payout ratio instead of retention ratio is used to calculate g = 0.40\n× 20% = 8%, so the P/E ratio = 0.40 / (0.15-0.08) = 5.7,"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the denominator is calculated as return on equity - required rate of return\non equity, hence the P/E ratio 0.40/(0.20-0.15)= 8.0."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the justified forward P/E ratio = Po/E₁ = p/ (r-g), where p is the dividend\npayout ratio, r is the required rate of return, g is the sustainable dividend growth rate; g = bx\nROE where b is the earning retention"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-94",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it uses the relative change in stock price as the margin requirement.\nMargin requirement = (50 -43.75)/50 12.5% 13%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it divides by the initial price instead of the last price. (Initial equity + actual\nprice - initial price)/ (initial price) = (15+ 43.75-50/50 17.5% = 18%"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the margin requirement is equity per share / price per share:= (Initial equity\n+ actual price - initial price)/(actual price) (15+43.75-50)/43.75 = 20%.\nEquity Investments\n• calculate and interpret the leverage ratio, the rate of return on a margin transaction, and\nthe security price at which the investor would receive a margin call"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-95",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because at a share price of $12.50 and a margin loan of $25, equity will be negative.\n$12.50 is 25% of the current price of $50 per share."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the original equity of $25 indicates a margin loan of $25 ($50-$25). At a\nstock price of $33.33, equity will equal $33.33 less the $25 margin loan, or $8.33, which is 25%\nof the equity per share. $8.33/$33.33= 25%. To reach this answer through calculation,\ndetermine where the equity per share equals the 25% margin requirement:\nEquity/Share = (P-L)/P = maintenance margin;\nWhere P = Share price and L = Loan amount;\n0.25 (P-$25)/P; P= $33.33."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because (1- maintenance margin) x price = (1-0.25) x $50 = $37.50."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-96",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the value effect is a market anomaly that value stocks, which are generally\nreferred to as stocks that have below-average price-to-earnings (P/E) and market-to-book (M/B)\nratios, and above-average dividend yields, have consistently outperformed growth stocks over\nlong periods of time. This is a cross-sectional anomaly and is not related to an information\nrelease"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the overreaction effect or anomaly is described as the propensity for\ninvestors to overreact to the release of unexpected public information. Therefore, stock prices\nwill be inflated (depressed) for those companies releasing good (bad) information. In other\nwords, inflated (depressed) here means the change of value that is overshooting\n(undershooting) the fair (intrinsic) value after incorporating the new information, rather than\nthe price action that goes up (down) itself."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the turn-of-the-year effect is a calendar anomaly that stock market returns\nin January were significantly higher compared to the rest of the months of the year, with most\nof the abnormal returns reported during the first five trading days in January. This is a time-\nseries anomaly related to the calendar but not an information release.\nEquity Investments\n• describe market anomalies."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-97",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the order matching rules match buy orders to sell orders."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the trade pricing rules (not the order matching rules) determine the prices\nat which the matched trades take place, regardless of who submits the order, the customer or\ndealer."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the trade pricing rules (not the order matching rules) determine the prices\nat which the matched trades take place, regardless of who submits the order, the customer or\nthe dealer.\nEquity Investments\n• describe how securities, contracts, and currencies are traded in quote-driven, order-\ndriven, and brokered markets"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-98",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the objectives of market regulation are to control agency problems and\nensure that long-term liabilities are funded. Therefore, an objective of market regulation is not\nto control agency problems only."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the objectives of market regulation are to control agency problems and\nensure that long-term liabilities are funded. Therefore, an objective of market regulation is not\nto ensure that long-term liabilities are funded only."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the objectives of market regulation include both controlling agency\nproblems and ensuring that long-term liabilities are funded. In total, the objectives of market\n1 control fraud;\n2 control agency problems;\n3 promote fairness;"
+      }
+    ],
+    "note": "regulation are: "
+  },
+  {
+    "id": "EQU-99",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the P/B value for the company is $30/$40 = 0.75, which is above the\nbenchmark ratio of 0.6, indicating the shares are overvalued based on P/B (ie, the ratio is higher\nthan the benchmark). Both the P/E and P/CF ratios for the company are below their\nbenchmarks, and therefore are not overvalued on that basis (see calculations options B and C)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the P/E value for the company is $30/$310, which is below the benchmark\nratio of 12, indicating the shares are undervalued based on P/E (ie. the ratio is lower than the\nbenchmark)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the P/CF value for the company is $30/$47.5, which is below the\nbenchmark ratio of 8. indicating the shares are undervalued based on P/CF (Le. the ratio is lower\nthan the benchmark)."
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-100",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because power of buyers is part of the five forces."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because threat of substitutes is part of the five forces."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the position of a company in its life-cycle stage is not part of Porter's five\nforces. The five forces are: threat of entry, power of suppliers, power of buyers, threat of\nsubstitutes, and rivalry among existing competitors.\nEquity Investments\n• analyze an industry's structure and external influences using Porter's Five Forces and\nPESTLE frameworks"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-101",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it uses the leverage ratio debt / equity invested instead of dividing the total\nequity investment by the leverage ratio.The incorrect answer is calculated as follows:\nProceeds on sale - payoff amount borrowed - payoff loan interest Amount paid to purchase\nshares =\\$ 12 * 2000 =\\$24,000\nEquity investment = $24,000/4= $6,000\nAmount borrowed = $24,000-$6,000 = $18,000\nInterest on loan =\\$ 18000 * 3 \\%=\\$540\nTherefore, remaining equity = 2000S * 9.5 - S * 18000 - 3% * S * 18000 =\\$19,000-\\$18,000-\n\\$540=\\$460."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the remaining equity can be calculated as:\nProceeds on sale - payoff amount borrowed - payoff loan interest\nAmount paid to purchase shares =\\$ 12 * 2000 =\\$24,000\nEquity investment = $24,000/3= $8,000\nAmount borrowed = $24,000 - $8,000 $16,000\nInterest on loan =\\$ 16 * 3 \\%=\\$480\nTherefore, remaining equity = 2000S * 9.5 - S * 16000 - 3% * S * 16000 =S19,000-\\$16,000-\nS480=S2,520"
+      },
+      {
+        "isCorrect": false,
+        "reason": ""
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-102",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the security's market price is less than its intrinsic value, indicating that it is\nundervalued. The dividend discount model can be used to estimate an asset's intrinsic value."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the security's market price is less than its intrinsic value, indicating that it is\nundervalued. The dividend discount model can be used to estimate an asset's intrinsic value."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the security's market price is less than its intrinsic value, indicating that it is\nundervalued. The dividend discount model can be used to estimate an asset's intrinsic value.\nEquity Investments\n• contrast market value and intrinsic value"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-103",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the use of convertible preference shares is a popular financing option in\nventure capital and\nprivate equity transactions in which the issuing companies are considered to be of higher risk\nand when it may be years before the issuing company 'goes public' (ie., issues common shares\nto the public)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the convertible preference shares' price is less volatile than the underlying\ncommon shares because the dividend payments are known and more stable."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because convertible preference shares allow investors to benefit from a rise in the\nprice of the common shares through the conversion option.\nEquity Investments\n• describe characteristics of types of equity securities"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-104",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it calculates return on equity as unleveraged return (1 + margin) = 40%\n(1+30% ) = 52%. B. Incorrect because it calculates return on equity as margin / return = 30%\n/40% = 75%. In other words, it incorrectly swaps the numerator and denominator in the correct\nsolution (40%/30% becomes 30% /40%)."
+      },
+      {
+        "isCorrect": false,
+        "reason": ""
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the return on equity to a margin position is calculated by multiplying the\nunleveraged return by the financial leverage ratio. The financial leverage ratio is equal to\n1/margin. In this case, financial leverage is 1/0.30= 3.3333, so the return on equity = 40%\n3.3333 133.33%, which is closest to 133%.\nEquity Investments\n• calculate and interpret the leverage ratio, the rate of return on a margin transaction, and\nthe security price at which the investor would receive a margin call"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-105",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the size effect results from the observation that equities of small-cap\ncompanies tend to outperform equities of large-cap companies on a risk-adjusted basis."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the size effect results from the observation that equities of small-cap\ncompanies tend to outperform equities of large-cap companies on a risk-adjusted basis."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the size effect results from the observation that equities of small-cap\ncompanies tend to outperform equities of large-cap companies on a risk-adjusted basis.\nEquity Investments\n• describe market anomalies"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-106",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the degree of industry concentration most likely explains the bargaining\npower of suppliers, which is a different Porter force."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the availability of lower priced alternative brands most likely explains the\nthreat of substitution, a different Porter force."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the smaller the number of buyers, the more likely buyer power will increase.\nBargaining Power of Customers. Affected by: size and concentration of customers, costs of\nswitching to other suppliers, customers ability to produce the product or service themselves.\nAre customers able to force price reductions or better payment terms? This can affect the\nintensity of competition by exerting influence on suppliers regarding prices (and possibly other\nfactors such as product quality). For example, auto parts companies generally sell to a small\nnumber of auto manufacturers, which allows those customers, the auto manufacturers, to be\ntough negotiators when it comes to setting prices.\nEquity Investments\n• analyze an industry's structure and external influences using Porter's Five Forces and\nPESTLE frameworks"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-107",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because this is the return on investment to the investor.\nTotal purchase price = $25/share x 1,000 shares = $25,000\nLeverage ratio of 2 indicates buyer's equity of 1/2\nBuyer's equity = 1/2* $25,000 = $12,500\nBorrowed money = $25,000-$12,500 $12,500\nInterest on borrowed money = 5% x $12,500 = $625\nSale proceeds = $20/share × 1,000 shares = $20,000\nNet return to buyer = Sale proceeds - purchase price- interest payment = $20,000-$25,000-\n$625-$5,625\nReturn on investment to the buyer = -$5.625/$12,500-45%"
+      },
+      {
+        "isCorrect": false,
+        "reason": ""
+      },
+      {
+        "isCorrect": false,
+        "reason": ""
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-108",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because 25% is the stock's weight using equal-weighted method: 1 stock / 4 stocks\n= 25%"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this is the stock's weight using the price-weighted method: stock's\nprice/index value = $30/ 100 = 30%."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the stock's weight in a market-capitalization-weighted index = market\ncapitalization of stock/ market capitalization of index = $20 billion / $57 billion = 35.08%, which\nis closest to 35%.\nEquity Investments\n• calculate and analyze the value and return of an index given its weighting method"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-109",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the beginning and ending index values were reversed in the calculation:\n(1540-1575+55)/1575=20/1575 = 1.3%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the income is not taken into account: (1575-1540)/154035/1540 = 2.2%."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the total return of an index is the price appreciation, or change in the value\nof the price return index, plus income (dividends and/or interest) over the period, expressed as\na percentage of the beginning value of the price return index. Total return = (ending index value\n- beginning index value + income) / beginning index value = (1575-1540 +55)/1540 = 90/1540 =\n5.8%.\nEquity Investments\n• calculate and interpret the value, price return, and total return of an index"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-110",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because under all forms of market efficiency past trading data are already reflected in\ncurrent prices and investors cannot predict future price changes by extrapolating prices or\npatterns of prices from the past. Therefore, if investors can predict future asset prices based on\npast prices, markets are inefficient."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because in the weak-form efficient market hypothesis, security prices fully reflect all\npast market data, which refers to all historical prices and trading volume information. If markets\nare weak-form efficient, past trading data are already reflected in current prices and investors\ncannot predict future price changes by extrapolating prices or patterns of prices from the past."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because under all forms of market efficiency past trading data are already reflected\nin current prices and investors cannot predict future price changes by extrapolating prices or\npatterns of prices from the past.\nEquity Investments\n• explain the implications of each form of market efficiency for fundamental analysis,\ntechnical analysis, and the choice between active and passive portfolio management"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-111",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it is the present value of the terminal value at the end of Year 3:\n$108.8640/(1.10)\" = $81.7911 - $81.79."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it is the current intrinsic value, which includes the present values of the\ndividends for the first three years, plus the present value of the terminal value at the end of\nYear 3.\nCurrent Year 1 Year 2 Year3 Total\nDividend $3.0000 $3.6000 $4.3200 $5.1840 .…..\nPeriods of\ndiscounting\n.…. 1 2 3 ……\nDiscount\nfactor at 10%\nper year\n….. 0.9091 0.8264 0.7513 ……\nPresent value\nof dividend\n….. $3.2727 $3.5702 $3.8948 $10.7378\nPresent value\nof terminal\nvalue (second\nstage)\n….. …… …… ….. $108.8640/(1.10)3=$81.7911\nTotal ….. …… …… …. $92.5289~$92.53"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the value at the end of Year 3 (same as at the beginning of Year 4) will be: V\n= D(1+g,)/(r- g₁) = D(r-g), where g, = long-term growth rate. The Year 4 dividend equals the initial\ndividend compounded at 20% for three years, then compounded at 5% for another year; D, = $3\nx (1.2)x(1.05) $5.4432. V = $5.4432/(0.10-0.05)= $108.8640~ $108.86.\nEquity Investments\n• calculate and interpret the intrinsic value of an equity security based on the Gordon\n(constant) growth dividend discount model or a two-stage dividend discount model, as\nappropriate"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-112",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because an equal weighted index requires frequent rebalancing, not reconstitution,\nwhen its constituent securities' prices change. Equal weighting has a number of disadvantages.\nAfter the index is constructed and the prices of constituent securities change, the index is no\nlonger equally weighted. Therefore, maintaining equal weights requires frequent adjustments\n(rebalancing) to the index."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because this is considered a disadvantage of an equal weighted index. Equal\nweighting has a number of disadvantages. Securities that constitute the largest fraction of the\ntarget market value are underrepresented, and securities that constitute a small fraction of the\ntarget market value are overrepresented."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because smaller stocks are overrepresented in an equal weighted index. Equal\nweighting has a number of disadvantages. Securities that constitute the largest fraction of the\ntarget market value are underrepresented, and securities that constitute a small fraction of the\ntarget market value are overrepresented.\nEquity Investments\n• describe the choices and issues in index construction and management"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-113",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because using the formula:\nV=Stock's intrinsic value; F = par value per share; r = required rate of return; n = maturity.\nF= €100:\nr = 7.2% divided by 2 to arrive at semi-annual rate of 3.6%;\nn=5 = 5 years multiplied by 2 to arrive at 10."
+      },
+      {
+        "isCorrect": false,
+        "reason": ""
+      },
+      {
+        "isCorrect": false,
+        "reason": ""
+      }
+    ],
+    "note": "Where: V₁ = €125;"
+  },
+  {
+    "id": "EQU-114",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because private companies have lower regulatory costs: by 'going private,\nmanagement can adopt a more long-term focus and can eliminate certain costs that are\nnecessary to operate a publicly traded company- such as the cost of meeting regulatory and\nstock exchange requirements."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because private companies focus more on long-term results: the move to longer\nholding periods has given private equity investors the opportunity to more effectively and\npatiently address any underlying operational issues facing the company and to better manage it\nfor long-term value creation."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because there is no active secondary market for equity of private companies and the\nshares require negotiations between investors in order to be traded. This is in contrast to public\ncompanies, which have secondary markets for trading their equity.\nEquity Investments\n• compare and contrast public and private equity securities"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-115",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because dividends are not accounted for. It is simply the price return of the index.\nPrice return for Stock 1= ($8-$10)/$10=-0.20-20%. Price return for Stock 2 = ($24-$20)/$20 =\n0.20 = 20%. Price return for Stock 3 = ($30-$30)/$300.00 0%. The price return of the index = -\n20% +20% +0% 0% / 3 = 0%."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because total return measures price appreciation plus\ninterest, dividends, and other distributions. Thus, the total return of an index is the price\nappreciation, or change in the value of the price return index, plus income (dividends and/or\ninterest) over the period, expressed as a percentage of the beginning value of the price return\nindex. Price return for Stock 1 = ($8-$10)/$10=-0.20=-20%. Total return price return + dividends\n= -20% +2%=-18%. Price return for Stock 2 = ($24-$20)/$20=0.20 = 20%. Total return 20%+2% =\n22%. Price return for Stock 3 = ($30-$30)/$300.00 0%. Total return = 0%+2% 2%. The total\nreturn of the index = (- = 18% +22%+2%) / 36% / 32%."
+      },
+      {
+        "isCorrect": false,
+        "reason": ""
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-116",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because restrictions on short selling limit arbitrage trading, which impedes market\nefficiency."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because transaction costs are incurred in trading to exploit any perceived market\ninefficiency. If there are limits on transaction costs, more investors would be encouraged to\ntrade. This brings about increased number of market participants which in turn contributes to\nmarket efficiency. One of the most critical factors contributing to the degree of efficiency in a\nmarket is the number of market participants."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a lack of trading activity can cause or accentuate other market\nimperfections that impede market efficiency. In fact, in many of these markets, such as China,\ntrading in many of the listed stocks is restricted for foreigners. By nature, this limitation reduces\nthe number of market participants, restricts the potential for trading activity, and hence reduces\nmarket efficiency\nEquity Investments\n• explain factors that affect a market's efficiency"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-117",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because when a company's shares split, their price declines and their weight in a\nprice-weighted index is reduced, regardless of the importance of the stock."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because each stock's percentage price change has equal weight in an equal-\nweighted index, and a split has no influence on the result."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because there is an automatic adjustment for stock splits and other capital changes\nin a value- weighted index\nEquity Investments\n• compare the different weighting methods used in index construction"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-118",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because when investors sell securities to others, they trade in the secondary market.\nIn the secondary market, funds flow between traders."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because in the secondary market, funds flow between traders, while in the primary\nmarket, funds flow to the issuer of the security from the purchaser (not vice versa)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because in the primary (not secondary) market, funds flow to the issuer of the\nsecurity from the purchaser (investors).\nEquity Investments\n• define primary and secondary markets and explain how secondary markets support\nprimary markets"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-119",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because when issuers sell securities to investors, practitioners say that they trade in\nthe primary market"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because when issuers sell securities to investors, practitioners say that they trade in\nthe primary market. When investors sell those securities to others, they trade in the secondary\nmarket."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because when issuers sell securities to investors, practitioners say that they trade in\nthe primary market. When investors sell those securities to others, they trade in the secondary\nmarket. In the primary market, funds flow to the issuer of the security from the purchaser. In\nthe secondary market, funds flow between traders.\nEquity Investments\n• describe classifications of assets and markets"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-120",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because well functioning financial systems are characterized by liquid markets in\nwhich the costs of trading are low (operationally efficient markets) and therefore execution\ncosts would not impact asset prices."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because well functioning financial systems are characterized by prices that reflect\nfundamental values so that prices vary primarily in response to changes in fundamental values\nand not to demands for liquidity made by uninformed traders (informationally efficient\nmarkets)."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because well functioning financial systems are characterized by prices that reflect\nfundamental values so that prices vary primarily in response to changes in fundamental values\nand not to demands for liquidity made by uninformed traders (informationally efficient\nmarkets).\nEquity Investments\n• describe characteristics of a well-functioning financial system"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-121",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because companies often raise money for projects by selling (issuing) ownership\ninterests (e.g... corporate common stock or partnership interests). Although these equity\ninstruments legally represent ownership in companies rather than loans to the companies,\nselling equity to raise capital is simply another mechanism for moving money from the future to\nthe present."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because when shareholders or partners contribute capital to a company, the\ncompany obtains money in the present in exchange for equity instruments that will be entitled\nto distributions in the future. The repayment of the money is not scheduled as it would be for\nloans."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because when a company sells common stock to raise capital, regulatory reporting\nrequirements and accounting standards attempt to ensure the production of meaningful\nfinancial disclosures.\nEquity Investments\n• explain the main functions of the financial system"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-122",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because dividends on preference shares are known and fixed, and they account for a\nlarge portion of the preference shares total return. Therefore, there is less uncertainty about\nfuture cash flows."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the amount preference shareholders will receive if the company is\nliquidated is known and fixed as the par (or face) value of their shares. However, there is no\nguarantee that investors will receive that amount if the company experiences financial difficulty."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because dividends account for a large portion of the preference shares' total return.\nWith common shares, however, a larger portion of shareholders' total return (or all of their total\nreturn for non-dividend shares) is based on future price appreciation.\nEquity Investments\n• describe characteristics of types of equity securities"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-123",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the Gordon growth model assumes that the growth rate cannot be greater\nthan the required rate of return. Also, the dividend growth rate is strictly less than the required\nrate of return."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the Gordon growth model assumes that the growth rate cannot be greater\nthan the required rate of return."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the Gordon growth model assumes that the growth rate cannot be greater\nthan the required rate of return.\nEquity Investments\n• identify characteristics of companies for which the constant growth or a multistage\ndividend discount model is appropriate"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-124",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because private equity securities are issued primarily to institutional investors via\nnon-public offerings, such as private placements. Because they are not listed on public\nexchanges, there is no active secondary market for these securities."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because private equity securities do not have \"market determined\" quoted prices,\nare highly illiquid, and require negotiations between investors in order to be traded."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because financial statements and other important information needed to\ndetermine the fair value of private equity securities may be difficult to obtain because the\nissuing companies are typically not required by regulatory authorities to publish this\ninformation.\nEquity Investments\n• describe characteristics of types of equity securities"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": "EQU-125",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because-of its assumption of a constant growth rate, the Gordon growth model is\nparticularly appropriate for valuing the equity of dividend-paying companies that are relatively\ninsensitive to the business cycle and in a mature growth phase. Examples might include an\nelectric utility."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a technology firm is a cyclical company whose earnings are sensitive to the\nbusiness cycle. Examples of cyclical industries are autos, housing, basic materials, industrials,\nand technology. Because of its assumption of a constant growth rate, the Gordon growth model\nis particularly appropriate for valuing the equity of dividend-paying companies that are\nrelatively insensitive to the business cycle and in a mature growth phase."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because an automobile manufacturer is a cyclical company whose earnings are\nsensitive to the business cycle. Examples of cyclical industries are autos, housing, basic\nmaterials, industrials, and technology. Because of its assumption of a constant growth rate, the\nGordon growth model is particularly appropriate for valuing the equity of dividend-paying\ncompanies that are relatively insensitive to the business cycle and in a\nmature growth phase."
+      }
+    ],
+    "note": ""
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "PM-7": [
+    ["Payables turnover", "8"],
+    ["Inventory turnover", "2"],
+    ["Receivables turnover", "10"]
+  ],
+  "PM-9": [
+    ["Average total assets", "20"],
+    ["Average total liabilities", "8"],
+    ["Average total equity", "12"]
+  ],
+  "PM-24": [
+    ["Variance of returns for Asset 1", "0.05"],
+    ["Variance of returns for Asset 2", "0.06"],
+    ["Correlation of returns between Asset 1 and Asset 2", "0.75"]
+  ],
+  "PM-27": [
+    ["Portfolio return", "7.0%"],
+    ["Market return", "5.0%"],
+    ["Risk-free return", "1.0%"],
+    ["Portfolio beta", "1.2"]
+  ],
+  "PM-52": [
+    ["Risk-free rate", "2%"],
+    ["Expected return of the market portfolio", "10%"],
+    ["Standard deviation of the market portfolio", "20%"],
+    ["Standard deviation of the security", "35%"],
+    ["Correlation between the security and the market", "0.8"]
+  ],
+  "PM-66": [
+    ["", "Expected Return", "Standard Deviation of Returns"],
+    ["Security 1", "17%", "24%"],
+    ["Security 2", "6%", "12%"]
+  ],
+  "PM-79": [
+    ["", "Beta", "Standard Deviation of Returns"],
+    ["Stock 1", "0.9", "17%"],
+    ["Stock 2", "1.1", "18%"],
+    ["Stock 3", "1.2", "16%"]
+  ],
+  "PM-81": [
+    ["Intercept of the SML", "2%"],
+    ["Slope of the SML", "5%"],
+    ["Stock's beta", "1.3"]
+  ],
+  "PM-87": [
+    ["Security's beta", "0.35"],
+    ["Standard deviation of the security's returns", "12%"],
+    ["Standard deviation of market returns", "18%"]
+  ],
+  "PM-90": [
+    ["Security", "Portfolio Weight", "Standard Deviation"],
+    ["1", "40%", "15%"],
+    ["2", "60%", "18%"]
+  ],
+  "PM-93": [
+    ["", "Standard Deviation of Returns", "Beta"],
+    ["Asset", "70%", "1.8"],
+    ["Market portfolio", "35%", "1.0"]
+  ],
+  "PM-95": [
+    ["Portfolio's Sharpe ratio", "0.8"],
+    ["Volatility of portfolio returns", "19%"],
+    ["Volatility of market returns", "10%"],
+    ["Correlation between portfolio returns and market returns", "0.7"]
+  ]
+}

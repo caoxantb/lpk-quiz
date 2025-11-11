@@ -1,0 +1,298 @@
+{
+  "FSA-10": [
+    ["", "Current Amount (in $ millions)", "Forecasted Growth"],
+    ["Sales", "1200", "8%"],
+    ["Cost of sales", "300", "4%"]
+  ],
+  "FSA-13": [
+    ["Cost", "65"],
+    ["Net realizable value", "60"],
+    ["Current placement cost", "58"]
+  ],
+  "FSA-14": [
+    ["", "Year 1", "Year 2"],
+    ["Accounts receivable", "€3 million", "€1 million"],
+    ["Accounts payable", "€2 million", "€5 million"]
+  ],
+  "FSA-15": [
+    ["Costs incurred during the research phase", "900"],
+    ["Costs incurred during the development phase", "600"]
+  ],
+  "FSA-21": [
+    ["Cost of sales", "150"],
+    ["Gross profit", "100"],
+    ["Selling, general, and administrative expenses", "30"]
+  ],
+  "FSA-26": [
+    ["Net income", "€80,000"],
+    ["Common dividends declared are paid", "€16,000"],
+    ["Preferred dividends declared and paid", "€10,000"],
+    ["Weighted average common shares outstanding", "150,000"],
+    ["Common shares outstanding at year end", "130,000"]
+  ],
+  "FSA-28": [
+    ["Payables turnover", "8"],
+    ["Inventory turnover", "2"],
+    ["Receivables turnover", "10"]
+  ],
+  "FSA-29": [
+    ["Net income", "10,000"],
+    ["Gain on debt retirement", "500"],
+    ["Decrease in working capital", "2,000"]
+  ],
+  "FSA-31": [
+    ["Average total assets", "20"],
+    ["Average total liabilities", "0"],
+    ["Average total equity", "12"]
+  ],
+  "FSA-32": [
+    ["Net Income", "143"],
+    ["Gain on sale of equipment", "20"],
+    ["Decrease in accounts receivable", "38"]
+  ],
+  "FSA-35": [
+    ["Net income", "$210,000"],
+    ["Common shares outstanding on 1 January", "50,000"],
+    ["Common shares repurchased on 1 April", "20,000"]
+  ],
+  "FSA-36": [
+    ["", "Company 1", "Company 2"],
+    ["Revenue", "7,586,000", "9,445,000"],
+    ["Cost of goods sold", "3,413,700", "4,533,600"],
+    ["Research and development expense", "1,800,000", "1,800,000"],
+    ["Advertising expense", "531,020", "755,600"]
+  ],
+  "FSA-38": [
+    ["Cost of goods sold", "5,000"],
+    ["Increase in inventory", "3,000"],
+    ["Increase in accounts payable", "2,500"]
+  ],
+  "FSA-39": [
+    ["Net income", "€3,000,000"],
+    ["Common shares outstanding, January", "3,500,000"],
+    ["Common shares issued, 1 April", "1,000,000"],
+    ["Common shares outstanding 31 December", "4,500,000"],
+    ["Convertible preferred shares outstanding", "400,000"],
+    ["Convertible preferred dividend per share", "€1.00"]
+  ],
+  "FSA-40": [
+    ["Cash flow from operating activities", "80"],
+    ["Capital expenditures", "15"],
+    ["Interest paid and expensed", "10"]
+  ],
+  "FSA-43": [
+    ["Interest payable on 1 January", "€45,000"],
+    ["Cash interest paid during the year", "€15,000"],
+    ["Interest expense during the year", "€50,000"]
+  ],
+  "FSA-44": [
+    ["FCFF", "2500"],
+    ["FCFE", "1300"],
+    ["Interest paid", "260"]
+  ],
+  "FSA-49": [
+    ["Original cost", "€25,000"],
+    ["Reported value after initial evaluation", "€27,600"],
+    ["Reported value after second revaluation", "€22,500"]
+  ],
+  "FSA-50": [
+    ["", "Year 2", "Year 1"],
+    ["Cost", "€100,000", "€100,000"],
+    ["Net realizable value", "€105,000", "€97,000"]
+  ],
+  "FSA-53": [
+    ["Original cost", "2,000"],
+    ["Net realizable value at end of Year 1", "1,700"],
+    ["Net realizable value at end of Year 2", "2,500"]
+  ],
+  "FSA-58": [
+    ["", "Year 2", "Year 1"],
+    ["Cost of goods sold", "600", "700"],
+    ["Cost of inventory", "100", "90"],
+    ["Net realizable value of inventory", "120", "80"]
+  ],
+  "FSA-59": [
+    ["Cost of ending inventory", "3,600"],
+    ["Net realizable value", "3,300"],
+    ["Current replacement cost", "3,200"],
+    ["Net realizable value less a normal profit margin", "3,100"]
+  ],
+  "FSA-62": [
+    ["Carrying value prior to impairment", "€20,000"],
+    ["Undiscounted expected future cash flows", "€22,000"],
+    ["Value in use", "€17,400"],
+    ["Fair value if sold", "€19,100"],
+    ["Costs to sell", "€1,900"]
+  ],
+  "FSA-65": [
+    ["Revenue", "5,000"],
+    ["Cash balance, beginning of year", "2,000"],
+    ["Cash balance, end of year", "2,000"],
+    ["Increase in accounts receivable", "1,200"]
+  ],
+  "FSA-70": [
+    ["Beginning balance accumulated depreciation", "€7,000,000"],
+    ["Ending balance accumulated depreciation", "€3,000,000"],
+    ["Depreciation expense of equipment", "€4,000,000"]
+  ],
+  "FSA-71": [
+    ["EBIT", "150"],
+    ["Earnings before taxes", "130"],
+    ["Net income", "110"],
+    ["Total average asset", "1,000"]
+  ],
+  "FSA-73": [
+    ["Net income", "$1,200,000"],
+    ["Number of common shares outstanding on 1 January", "1,000,000"],
+    ["Number of common shares issued on 1 April", "100,000"],
+    ["Number of common shares outstanding on 31 December", "1,100,000"],
+    ["Face value of convertible bonds outstanding for the year", "$2,000,000"],
+    ["Coupon rate on convertible bonds outstanding", "8%"],
+    ["Tax rate", "30%"]
+  ],
+  "FSA-74": [
+    ["Net profit margin", "3.0%"],
+    ["Total asset turnover", "1.0"],
+    ["Financial leverage", "1.5"],
+    ["Tax burden", "0.85"]
+  ],
+  "FSA-75": [
+    ["Carrying amount prior to testing for impairment", "10,000"],
+    ["Fair value", "9,000"],
+    ["Present value of expected future cash flows", "7,000"],
+    ["Costs to sell", "200"]
+  ],
+  "FSA-79": [
+    ["Short-term interest bearing debt", "700"],
+    ["Current portion of long-term interest bearing debt", "500"],
+    ["Non-current portion of long-term interest bearing debt", "800"],
+    ["Total shareholders' equity", "7,500"]
+  ],
+  "FSA-84": [
+    ["Earnings for the six months ended 30 June of Year 1", "2,000"],
+    ["Earnings for the year ended 31 December of Year 1", "1,500"],
+    ["Earnings for the six months ended 30 June of Year 2", "2,200"]
+  ],
+  "FSA-85": [
+    ["", "Company 1", "Company 2", "Company 3"],
+    ["Total assets", "100", "200", "400"],
+    ["Total debt", "20", "50", "60"],
+    ["Total equity", "80", "150", "320"],
+    ["Earnings before interest and taxes (EBIT)", "8", "10", "12"],
+    ["Interest payments", "4", "4", "4"]
+  ],
+  "FSA-90": [
+    ["", "Year 2", "Year 1"],
+    ["Average total assets", "500", "450"],
+    ["Average total liabilities", "400", "330"],
+    ["Average total shareholders’ equity", "100", "120"],
+    ["EBIT", "35", "40"],
+    ["Interest payments", "6", "8"]
+  ],
+  "FSA-94": [
+    ["Cost of ending inventory", "750"],
+    ["Estimated selling price in the ordinary course of business", "1,100"],
+    ["Estimated costs necessary to sell the inventory", "50"],
+    ["Estimated costs to get the inventory in condition for sale", "50"]
+  ],
+  "FSA-96": [
+    ["Cash and equivalents", "800"],
+    ["Short-term marketable securities", "500"],
+    ["Inventory", "700"],
+    ["Accounts receivable", "2,000"],
+    ["Current liabilities", "10,000"]
+  ],
+  "FSA-97": [
+    ["Total assets", "400"],
+    ["Total liabilities", "200"],
+    ["Total debt", "100"],
+    ["Total equity", "200"]
+  ],
+  "FSA-101": [
+    ["Other operating expenses", "4,500"],
+    ["Decrease in prepaid expenses", "200"],
+    ["Increase in other accrued liabilities", "300"]
+  ],
+  "FSA-102": [
+    ["Purchase price of the equipment", "1,000"],
+    ["Accumulated depreciation", "250"],
+    ["Gain on sale of the equipment", "400"]
+  ],
+  "FSA-104": [
+    ["Purchase price and fair value on 1 January Year", "23"],
+    ["Fair value at initial revaluation on 31 December Year 1", "25"]
+  ],
+  "FSA-110": [
+    ["Net cash flow from operating activities", "(750)"],
+    ["Total cash inflows", "1,500"],
+    ["Total cash outflows", "2,500"],
+    ["Net increase (decrease) in cash", "(1,000)"]
+  ],
+  "FSA-112": [
+    ["Carrying amount before impairment", "2,000"],
+    ["Undiscounted expected future cash flows", "1,800"],
+    ["Fair value", "1,700"],
+    ["Value in use", "1,500"],
+    ["Costs to sell", "50"]
+  ],
+  "FSA-113": [
+    ["Carrying value", "€10 million"],
+    ["Fair value at time of abandonment", "€1 million"]
+  ],
+  "FSA-114": [
+    ["ROE", "15%"],
+    ["Interest burden", "0.85"],
+    ["EBIT margin", "30%"],
+    ["Total asset turnover", "1.1"],
+    ["Financial leverage", "1.25"]
+  ],
+  "FSA-117": [
+    ["Interest payments", "$30,000"],
+    ["Capital expenditures", "$82,000"],
+    ["Net borrowing", "$18,000"],
+    ["Income tax rate", "40%"]
+  ],
+  "FSA-120": [
+    ["Net income", "€2,500,000"],
+    ["Weighted average common shares outstanding during the year", "2,000,000"],
+    ["Convertible preferred shares outstanding", "1,000,000"],
+    ["Dividend per convertible preferred share", "€1"]
+  ],
+  "FSA-121": [
+    ["Net income", "€5,000,000"],
+    ["Common dividends declared and paid", "€500,000"],
+    ["Weighted average common shares outstanding during the year", "2,000,000"],
+    ["Convertible preferred shares outstanding", "400,000"],
+    ["Dividend per convertible preferred share", "€2"]
+  ],
+  "FSA-122": [
+    ["Cash and cash equivalents", "40"],
+    ["Total current assets", "125"],
+    ["Total non-current assets", "35"],
+    ["Revenue", "200"]
+  ],
+  "FSA-123": [
+    ["", "Year 2", "Year 1"],
+    ["Revenue", "2,400", "2,000"],
+    ["Cost of sales", "1,800", "1,400"],
+    ["Ending accounts payable", "180", "220"]
+  ],
+  "FSA-124": [
+    ["", "Year 2", "Year 1"],
+    ["Days of inventory on hand", "11", "13"],
+    ["Days of sales outstanding", "24", "22"],
+    ["Payables turnover", "36", "18"]
+  ],
+  "FSA-126": [
+    ["EBIT", "16"],
+    ["Net income", "8"],
+    ["Interest payments", "6"],
+    ["Lease payments", "4"]
+  ],
+  "FSA-130": [
+    ["", "Year 2", "Year 1"],
+    ["Revenues", "2,100", "2,000"],
+    ["Accounts receivable", "230", "200"],
+    ["Cash", "70", "50"]
+  ]
+}

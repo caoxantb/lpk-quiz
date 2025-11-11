@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "FI-1",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because a bond that is currently callable may be retired by the issuer, but the issuer is not required to do 50."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a step-up note has a coupon rate that increases over time according to a predetermined schedule."
+      },
+      {
+        "isCorrect": true,
+        "reason": ". A sinking fund provision requires retirement of a portion of the bond's principal every year, rather than retirement of the entire issue at maturity."
+      }
+    ],
+    "note": "Fixed Income: describe common cash flow structures of fixed-income instruments and contrast cash flow contingency provisions that benefit issuers and investors"
+  },
+  {
+    "id": "FI-2",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the yield to maturity converted to a quarterly basis should be expressed in annual terms just like the semiannual yield to maturity: for bonds maturing in more than one year, investors want an annualized and compounded yield-to-maturity. The formula for converting m periods to n periods per year is (1 + APRm /m)m = (1 + APRn /n)n. Thus, (1+0.08/2)² = (1 + APR4/4)4 <=> APR4/4= 1.98% ≠ APR4 ."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the yield to maturity converted to a quarterly basis cannot be calculated by simply scaling the yield to maturity with a periodicity that is twice longer: APR4 ≠(1 + APR2)1/2 - 1 = 1.081/2 – 1 = 3.92%. The correct formula for converting m periods to n periods per year is (1 + APRm/m)m = (1 + APR>n/n)n"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because (1 + APR2/2)² = (1 + APR4/4)4 for annual percentage rates using semiannual and quarterly basis (APR2 and APR4, respectively). This gives (1+0.08/2)² = (1 + APR4/4)4 = APR4/4 = 1.98% and APR4 = 4 x 1.98% = 7.92%."
+      }
+    ],
+    "note": "Fixed Income: calculate annual yield on a bond for varying compounding periods in a year"
+  },
+  {
+    "id": "FI-3",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because this describes modified duration. Modified duration provides an estimate of the percentage price change for a bond given a change in its yield-to-maturity"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the duration of a callable bond is not the sensitivity of the bond price to a change in the yield- to-worst (Le.. the lowest of the yield-to-maturity, yield-to-first-call, yield-to-second-call, and so forth). In contrast to effective duration, key rate durations help\nidentify 'shaping risk' for a bond-that is, a bond's sensitivity to changes in the shape of the benchmark yield curve (e.g., the yield curve becoming steeper or flatter)."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because key rate duration (or partial duration) is a measure of a bond's sensitivity to a change in the benchmark yield curve at a specific maturity segment. In contrast to effective duration, key rate durations help identify 'shaping risk for a bond-that is, a bond's sensitivity to changes in the shape of the benchmark yield curve ( e.g., the yield curve becoming steeper or flatter)."
+      }
+    ],
+    "note": "Fixed Income: define key rate duration and describe its use to measure price sensitivity of fixed-income instruments to benchmark yield curve changes"
+  },
+  {
+    "id": "FI-4",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because %𝛥𝑃𝑉𝐹𝑢𝑙𝑙= (−𝐴𝑛𝑛𝑀𝑜𝑑𝐷𝑢𝑟 × 𝛥𝑌𝑖𝑒𝑙𝑑) + [(0.5 × 𝐴𝑛𝑛𝑐𝑜𝑛𝑣𝑒𝑥𝑖𝑡𝑦 × 𝛥(𝑌𝑖𝑒𝑙𝑑)2] = (−6.9 × 0.0075) + (0.5 × −212 × 0.00752) = −0.05175 −0.0059625 = 0.0577125, rounded to 5.77%. The percentage decline in price = -0.0577125 x 99.4 = - 5.7366, and the bond price = 99.4 – 5.7366 = 93.6634, rounded to 93.66."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the price is calculated using par instead of 99.4 Price ≠ 100 - 5.74 = 94.26."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the convexity adjustment is input as a positive number:(-6.9 x 0.0075) + (0.5 x 212 × 0.00752) = -0.05175 + 0.0059625 = 0.04579, rounded to 4.58%. The percentage decline in price = 0.04579 x 99.4 = 4.5515, and the bond price = 99.4 - 4.5515 = 94.8485, rounded to 94.85."
+      }
+    ],
+    "note": "Fixed Income: calculate the percentage price change of a bond for a specified change in yield, given the bond's duration and convexity"
+  },
+  {
+    "id": "FI-5",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because a buy-and-hold investor has a higher total return if interest rates rise due to the unexpected excess coupon reinvestment proceeds. If interest rates fall, a buy- and-hold investor realizes no market price returns as he is redeemed at par at maturity."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a buy-and-hold investor has a higher total return if interest rates rise due to the unexpected excess coupon reinvestment proceeds. If interest rates fall, a buy- and-hold investor realizes no market price returns as he is redeemed at par at maturity. This choice may be attractive to uninformed candidates who focus on the buy-and-hold investor, and not any market interest rate changes."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because a long-term investor faces coupon reinvestment risk as well as market price risk if the bond needs to be sold prior to maturity. An [buy-and-hold] investor [in a 10- year bond) with a 10-year time horizon is concerned only with coupon reinvestment risk. This situation assumes of course, that the issuer makes all of the coupon and principal\npayments as scheduled. The buy-and-hold investor has a higher total return if interest rates rise and a lower total return if rates fall"
+      }
+    ],
+    "note": "Fixed Income: describe the relationships among a bond's holding period return, its Macaulay duration, and the investment horizon;"
+  },
+  {
+    "id": "FI-6",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the coupon of a step-up coupon bond, which may be fixed or floating, increases by specified margins at specified dates. It does not allow the issuer to pay interest in the form of additional amounts of the bond issue in lieu of a cash payment."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a deferred coupon bond, sometimes called a split coupon bond, pays no coupons for its first few years but then pays a higher coupon than it otherwise normally would for the remainder of its life. It does not allow the issuer to pay interest in the form of additional amounts of the bond issue in lieu of a cash payment"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because a payment-in-kind (PIK) coupon bond typically allows the issuer to pay interest in the form of additional amounts of the bond issue rather than as a cash payment"
+      }
+    ],
+    "note": "Fixed Income: describe common cash flow structures of fixed-income instruments and contrast cash flow contingency provisions that benefit issuers and investors"
+  },
+  {
+    "id": "FI-7",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because in contrast [to asset-backed securities], in the case of covered bonds, the pool of assets remains on the financial institution's balance sheet. In the event of default, bondholders have recourse against both the financial institution and the cover pool."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because in contrast [to asset-backed securities], in the case of covered bonds, the pool of assets remains on the financial institution's balance sheet. In the event of default, bondholders have recourse against both the financial institution and the cover pool."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because a covered bond is a debt obligation backed by a segregated pool of assets called a \"cover pool\" in the event of default, bondholders have recourse against both the financial institution and the cover pool."
+      }
+    ],
+    "note": "Fixed Income: describe characteristics and risks of covered bonds and how they differ from other asset-backed securities"
+  },
+  {
+    "id": "FI-8",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the seller of the collateral, sometimes called the depositor is the corporation that originated the loans. They are sold to an SPE and held by the trustee"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the SPE purchases the loans or receivables and uses them as collateral to issue the ABS After the sale is completed, it is [the SPE], not [the depositor/seller], that legally owns them. The SPE owns the collateral but does not hold the collateral, and although the trustee does not own the underlying collateral it does hold it."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because a trustee or trustee agent is typically a financial institution with trust powers that safeguards the assets after they have been sold to the SPE, holds the funds due to the ABS holders until they are paid, and provides periodic information to the ABS holders"
+      }
+    ],
+    "note": "Fixed Income: describe securitization, including the parties and the roles they play"
+  },
+  {
+    "id": "FI-9",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because a mortgage pass-through security's coupon rate is called the pass- through rate. The pass- through rate is lower than the mortgage rate on the underlying pool of mortgages by an amount equal to the servicing and other administrative fees. The pass- through rate that the investor receives is said to be \"net interest\" or \"net coupon."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because not all of the mortgages that are included in a pool of securitized mortgages have the same mortgage rate and the same maturity. The WAC is calculated by weighting the mortgage rate of each mortgage in the pool by the percentage of the outstanding mortgage balance relative to the outstanding amount of all the mortgages in the pool. This rate, less servicing and other administrative fees, determines the pass- through rate"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a mortgage pass-through security's coupon rate is called the pass- through rate. The pass- through rate is lower than the mortgage rate on the underlying pool of mortgages by an amount equal to the servicing and other administrative fees. The pass- through rate that the investor receives is said to be 'net interest' or 'net coupon\""
+      }
+    ],
+    "note": "Fixed Income: describe types and characteristics of residential mortgage-backed securities, including mortgage pass-through securities and collateralized mortgage obligations, and explain the cash flows and risks for each type"
+  },
+  {
+    "id": "FI-10",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the formula converts from an effective annual yield to a semiannual- pay yield: ≠ ((1+ yield)0.5 - 1) x 2 = ((1+0.0366)0.5 - 1) x 2= (1.018136 - 1) x 2 = .036272 ≈ 3.63%."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because an effective annual rate has a periodicity of one because there is just one compounding period in the year. No calculations are required based on the intuitive idea that due to semi-annual compounding, the effective annual yield must be slightly higher. The formula to calculate the effective annual yield of a semi-annual pay bond is: = (1 + yield/2)² - 1 = (1 + 0.0366/2)2 – 1 = 1.036935 - 1.036935 ≈ 3.69%"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the the yield is not divided by 2. The formula used to calculate the effective annual yield of a semi-annual pay bond: ≠ (1+ yield)² - 1 = (1 + 0.0366)2-1 = 1.07454 – 1 = .07454 ≈ 7.45%."
+      }
+    ],
+    "note": "Fixed Income: calculate annual yield on a bond for varying compounding periods in a year"
+  },
+  {
+    "id": "FI-11",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because this is part of the prospectus. Another important legal document is the prospectus, which describes the structure of the securitization."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because an important legal document is the purchase agreement between the seller of the collateral and the SPE, which sets forth the representations and warranties that the seller makes about the assets sold. These representations and warranties assure investors about the quality of the assets."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this is part of the prospectus. Securitizations often use several forms of credit enhancements, which are documented in the prospectus."
+      }
+    ],
+    "note": "Fixed Income: describe securitization, including the parties and the roles they play"
+  },
+  {
+    "id": "FI-12",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the denominator is incorrectly multiplied by 2, as happens in the calculation of approximate duration:\n[96.3+95.8]−[2×96]\n2×(0.001)2 ×(96) = 521."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because ApproxCon =\n(𝑃𝑉_)+(𝑃𝑉+)−[2𝑥(𝑃𝑉0)]\n(𝛥𝑌𝑖𝑒𝑙𝑑)2×(𝑃𝑉0)\nTherefore the approximate convexity of this bond =\n[96.3+95.8]−[2×96]\n(0.001)2 ×(96) = 1.042"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the approximate convexity is incorrectly calculated as approximate duration, with a mistake in that the change in yield (0.001) is squared:\n[96.3−95.8]\n(0.001)2 × 2 ×(96) = 2.604."
+      }
+    ],
+    "note": "Fixed Income: calculate and interpret convexity and describe the convexity adjustment"
+  },
+  {
+    "id": "FI-13",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because a par curve is a sequence of yields-to-maturity such that each bond is priced at par value. Par rates are not break-even reinvestment rates."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the spot rate is a sequence of yields-to-maturity on zero-coupon bonds. A forward rate links one spot rate to another and for this reason can be characterized as a\nbreak-even reinvestment rate. A spot rate alone is, however, not a break-even reinvestment rate"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because an implied forward rate is a break-even reinvestment rate. It links the return on an investment in a shorter-term zero-coupon bond to the return on an investment in a longer-term zero-coupon bond."
+      }
+    ],
+    "note": "Fixed Income: define spot rates and the spot curve, and calculate the price of a bond using spot rates"
+  },
+  {
+    "id": "FI-14",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the bond price (or value) determined using the spot rates is sometimes referred to as the bond's 'no-arbitrage value' If the current market price equals the no-arbitrage value, discounting the cash flows by either spot rates or yield to maturity arrives to the same price. The level of the current market price vis a vis par has no bearing the no-arbitrage value."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because bond price (or value) determined using the spot rates is sometimes referred to as the bond's 'no-arbitrage value' If the current market price equals the 'no-arbitrage value, discounting the cash flows by either spot rates or yield to maturity arrives to the same price."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because bond price (or value) determined using the spot rates is sometimes referred to as the bond's 'no-arbitrage value'. If the current market price equals the no-arbitrage value, discounting the cash flows by either spot rates or yield to maturity arrives to the same price. The level of the current market price vis a vis par has no bearing the no- arbitrage value."
+      }
+    ],
+    "note": "Fixed Income: define spot rates and the spot curve, and calculate the price of a bond using spot rates"
+  },
+  {
+    "id": "FI-15",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because all creditors at the same level of the capital structure are treated as one class, thus, a senior unsecured bondholder whose debt is due in 30 years has the same pro rata claim in bankruptcy as one whose debt matures in six months. This provision is referred to as bonds ranking pari passu ('on an equal footing\") in right of payment."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because both bonds represent forms of senior unsecured debt and therefore, all creditors are at the same level of the capital structure and treated as one class, thus, a senior unsecured bondholder whose debt is due in 30 years has the same pro rata claim in bankruptcy as one whose debt matures in six months. This provision is referred to as bonds ranking pari passu ('on an equal footing\") in right of payment."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because all creditors at the same level of the capital structure are treated as one class; thus, a senior unsecured bondholder whose debt is due in 30 years has the same pro rata claim in bankruptcy as one whose debt matures in six months. This provision is referred to as bonds ranking pari passu ('on an equal footing') in right of payment"
+      }
+    ],
+    "note": "Fixed Income: describe the seniority rankings of debt, secured versus unsecured debt and the priority of claims in bankruptcy, and their impact on credit ratings"
+  },
+  {
+    "id": "FI-16",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because putable bonds are beneficial for the bondholder by guaranteeing a pre- specified selling price at the redemption dates. If interest rates rise after the issue date, thus depressing the bond's price, the bondholders can put the bond back to the issuer and get cash. This cash can be reinvested in bonds that offer higher yields, in line with the higher market interest rates. Thus reinvestment risk is lower for a putable bond than for a callable bond, all else being equal"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because callable bonds present investors with a higher level of reinvestment risk than non-callable bonds, that is, if the bonds are called, bondholders have to reinvest funds in a lower interest rate environment"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a convertible bond can be viewed as the combination of a straight bond (option-free bond) plus an embedded equity call option. Convertible bonds can also include additional provisions, the most common being a call provision. As there is no call provision applicable in this instance, reinvestment risk will be lower than for an equivalent bond with a call provision: callable bonds present investors with a higher level of reinvestment risk than non-callable bonds, that is, if the bonds are called, bondholders have to reinvest funds in a lower interest rate environment"
+      }
+    ],
+    "note": "Fixed Income: describe common cash flow structures of fixed-income instruments and contrast cash flow contingency provisions that benefit issuers and investors"
+  },
+  {
+    "id": "FI-17",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because a bond rated A-can be downgraded one category (to BBB-) and still be an investment grade bond"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a bond rated BB- is already below investment grade before any downgrade"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because BBB- is the lowest rating for investment grade bonds. A one-category downgrade (from BBB- to BB-) would make the bond non-investment grade"
+      }
+    ],
+    "note": "Fixed Income: describe the uses of ratings from credit rating agencies and their limitations"
+  },
+  {
+    "id": "FI-18",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because another factor considered by rating agencies is structural subordination, which can arise when a corporation with a holding company structure has debt at both its parent holding company and operating subsidiaries. Debt at the operating subsidiaries will get serviced by the cash flow and assets of the subsidiaries before funds can be passed (\"upstreamed\") to the holding company to service debt at that level."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because cross-default provisions, occur when default such as non-payment of interest on one bond trigger default on all outstanding debt. This is not structural subordination"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because rating agencies will typically provide both issuer and issue ratings, particularly as they relate to corporate debt. Terminology used to distinguish between issuer and issue ratings includes corporate family rating. This is not structural subordination."
+      }
+    ],
+    "note": "Fixed Income: describe the seniority rankings of debt, secured versus unsecured debt and the priority of claims in bankruptcy, and their impact on credit ratings"
+  },
+  {
+    "id": "FI-19",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because as times passes during the coupon period (moving from right to left in the diagram), the Macaulay duration declines smoothly and then jumps upward after the coupon is paid. The usual pattern is that longer times-to-maturity correspond to higher Macaulay duration statistics. This pattern always holds for bonds trading at par value or at a premium above par Conversely, a shorter time to maturity corresponds to a lower Macaulay duration during the coupon period."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the usual pattern is that longer times-to-maturity correspond to higher Macaulay duration statistics. This pattern always holds for bonds trading at par value or at a premium above par Macaulay duration statistic stays constant if the bond is a perpetuity."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because if the bond is priced at a discount [not at a premium], a longer time-to- maturity might lead to a lower duration. This situation only occurs if the coupon rate is low (but not zero) relative to the yield and the time- to-maturity is long. Conversely, only for special cases of discount bonds, a shorter time to maturity might lead to a higher duration statistic"
+      }
+    ],
+    "note": "Fixed Income: explain how a bond's maturity, coupon, and yield level affect its interest rate risk"
+  },
+  {
+    "id": "FI-20",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because bonds rated Baa3 or higher by Moody's and BBB- or higher by Standard & Poor's and Fitch are considered investment grade."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because bonds rated Baa3 or higher by Moody's and BBB- or higher by Standard & Poor's and Fitch are considered investment grade"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because bonds rated Baa3 or higher by Moody's and BBB- or higher by Standard & Poor's and Fitch are considered investment grade"
+      }
+    ],
+    "note": "Fixed Income: describe fixed-income market segments and their issuer and investor participants"
+  },
+  {
+    "id": "FI-21",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because EBITDA/interest is a coverage ratio, not a leverage ratio. There are a few measures of leverage used by credit analysts. The most common are the debt/capital, debt/EBITDA, and measures of funds or cash flows/debt ratios."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because coverage ratios measure an issuer's ability to meet-to \"cover-its interest payments. The two most common are the EBITDA/interest expense and EBIT/interest expense ratios."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because while there are several measures of cash flow and profitability used in credit analysis, EBITDA/interest is not a measure of profitability EBITDA is a commonly used measure of cash flow that takes operating income and adds back depreciation and amortization expense because those are noncash items."
+      }
+    ],
+    "note": "Fixed Income: calculate and interpret financial ratios used in credit analysis"
+  },
+  {
+    "id": "FI-22",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "luconect because commercial paper is a short-term unsecured promissory note issued in the public marker or via a private placement that represents a debt obligation of the issuer Being unsecured the issuer is not required to pledge collateral"
+      },
+      {
+        "isCorrect": true,
+        "reason": "ancalase credit that agencies often require that commercial paper issuers secure a backup line of credit from banks"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because maturities for US commercial paper typically range from a few days up to 270 days."
+      }
+    ],
+    "note": "Fixed Income: compare short-term funding alternatives available to corporations and financial institutions"
+  },
+  {
+    "id": "FI-23",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it is the coupon of the bond."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because current yield is calculated as ($4.5 / $85.70) = 5.25%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it is calculated as follows:\n100 - 85.70 = 14.30 14.30 / 10 = 1.43. 4.5 + 1.43 = 5.93"
+      }
+    ],
+    "note": "Fixed Income: compare, calculate, and interpret yield and yield spread measures for fixed- rate bonds"
+  },
+  {
+    "id": "FI-24",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because collateralized debt obligation (CDO) is a generic term used to describe a security backed by a diversified pool of one or more debt obligations: CDOs backed by ABS, RMBS, CMBS, and other CDOs are structured finance CDOS."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because collateralized debt obligation (CDO) is a generic term used to describe a security backed by a diversified pool of one or more debt obligations. CDOs backed by leveraged bank loans are collateralized loan obligations (CLOS)"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because collateralized debt obligation (CDO) is a generic term used to describe a security backed by a diversified pool of one or more debt obligations CDOs backed by corporate and emerging market bonds are collateralized bond obligations (CBOs)."
+      }
+    ],
+    "note": "Fixed Income: describe collateralized debt obligations, including their cash flows and risks"
+  },
+  {
+    "id": "FI-25",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it uses the current price instead of the price if interest rates increase in the numerator = (𝑃𝑉+ −𝑃𝑉0) / (2 × 𝛥curve x 𝑃𝑉0) = (100.75 - 100.00) / (2 x 0.001 x 100.00) = 3.75."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because effective duration - (𝑃𝑉+ −𝑃𝑉0) / (2 × 𝛥curve x 𝑃𝑉0) = (100.75 – 99.26) / (2 x 0.001 x 100.00) = 7.45."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it uses the current price instead of the price if interest rates increase in the numerator and fails to multiply by 2 in the denominator, = (𝑃𝑉+ −𝑃𝑉0) / (𝛥curve x 𝑃𝑉0) = (100.75 - 100.00) / (0.001 x 100.00) = 7.50."
+      }
+    ],
+    "note": "Fixed Income: explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options"
+  },
+  {
+    "id": "FI-26",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because this response uses 1% for the change in the benchmark yield curve (ACurve), instead of 0.5%. Effective duration = (𝑃𝑉−−𝑃𝑉+) / (2 × 𝛥curve x 𝑃𝑉0) = ($198 million - $174 million) / (2 x 0.01 x $186 million) = 6.4516 ≈ 6.5."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because effective duration = (𝑃𝑉−−𝑃𝑉+) / (2 × 𝛥curve x 𝑃𝑉0) = ($198 million - $174 million) / (2 x 0.005 x $186 million) = 12.9032 ≈ 12.9."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this response uses an incorrect formula for effective duration; (𝑃𝑉−− 𝑃𝑉+) / (𝛥curve x 𝑃𝑉0) = ($198 million - $174 million)/(0.005 x $186 million) = 25.8065 ≈ 25.8."
+      }
+    ],
+    "note": "Fixed Income: explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options"
+  },
+  {
+    "id": "FI-27",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because modified duration is a yield duration statistic. There are several types of bond duration. In general, these can be divided into yield duration and curve duration. Yield duration is the sensitivity of the bond price with respect to the bond's own yield-to- maturity."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because effective duration is a curve duration statistic in that it measures interest rate risk in terms of a parallel shift in the benchmark yield curve"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because Macaulay duration is a weighted average of the time to receipt of . the bond's promised payments, where the weights are the shares of the full price that correspond to each of the bond's promised future payments"
+      }
+    ],
+    "note": "Fixed Income: explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options"
+  },
+  {
+    "id": "FI-28",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because bonds issued and traded on the Eurobond market are called Eurobonds, and they are named after the currency in which they are denominated. For example, Eurodollar and Euroyen bonds are denominated in US dollars and Japanese yens, respectively. Bonds that are denominated in euros are called euro- denominated Eurobonds."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because Eurobonds, domestic, and foreign bonds are now registered bonds for which ownership is recorded by either name or serial number."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because Eurobonds are issued outside the jurisdiction of any single country, are usually unsecured, and may be denominated in any currency, including the issuer's domestic currency."
+      }
+    ],
+    "note": "Fixed Income: describe how legal, regulatory, and tax considerations affect the issuance and trading of fixed-income securities"
+  },
+  {
+    "id": "FI-29",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because compounding more frequently within the year results in a lower (more negative) yield-to- maturity."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because compounding more frequently within the year results in a lower (more negative) yield-to- maturity. Converting the annualized yield-to-maturity to quarterly and monthly compounding results in the same rates of return."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because compounding more frequently within the year results in a lower (more negative) yield-to- maturity."
+      }
+    ],
+    "note": "Fixed Income: calculate annual yield on a bond for varying compounding periods in a year"
+  },
+  {
+    "id": "FI-30",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because Expected loss = Default probability x (1 - Recovery rate). Since expected loss is affected by changes in the recovery rate, it is not independent of the recovery rate."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because Expected loss = Default probability x Loss severity given default, where loss severity is often expressed as (1- Recovery rate), where the recovery rate is the percentage of the principal amount recovered in the event of default. Thus expected loss can also be written as Expected loss = Default probability x (1- Recovery rate), which means that the higher the recovery rate, the lower the expected loss."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the relationship Expected loss = Default probability x (1 - Recovery rate) implies that expected loss increases when the recovery rate decreases and vice versa, hence it does not change proportionally to the recovery rate."
+      }
+    ],
+    "note": "Fixed Income: describe credit risk and its components, probability of default and loss given default"
+  },
+  {
+    "id": "FI-31",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because some fixed-rate bonds are not actively traded it is common to estimate the market discount rate and price based on the quoted or flat prices of more frequently traded comparable bonds. These comparable bonds have similar times-to-maturity, coupon rates, and credit quality. This estimation process is called matrix pricing. Highly liquid bonds are priced based on actual market pricing rather than matrix pricing."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because for bonds that are not yet issued it is common to estimate the market discount rate and price based on the quoted or flat prices of more frequently traded comparable bonds. These comparable bonds have similar times-to-maturity, coupon rates, and credit quality. This estimation process is called matrix pricing."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because for comparable bonds that have similar times-to-maturity, coupon rates, and credit quality the estimation process is called matrix pricing. Bonds with uncertain credit quality are not good candidates for matrix pricing"
+      }
+    ],
+    "note": "Fixed Income: describe matrix pricing"
+  },
+  {
+    "id": "FI-32",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because for a non-recourse mortgage, the borrower may have an incentive to default on an underwater mortgage and allow the lender to foreclose on the property, even if resources are available to continue to make mortgage payments. This type of default by a borrower is referred to as a \"strategic default. Therefore, the risk of a strategic default is higher (not lower) for a non-recourse mortgage."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because for a non-recourse mortgage, the borrower may have an incentive to default on an underwater mortgage and allow the lender to foreclose on the property, even if resources are available to continue to make mortgage payments. This type of default by a borrower is referred to as a \"strategic default.\" Therefore, the risk of a strategic default is higher (not the same) for a non-recourse mortgage."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because for a non-recourse mortgage, the borrower may have an incentive to default on an underwater mortgage and allow the lender to foreclose on the property, even if resources are available to continue to make mortgage payments. This type of default by a borrower is referred to as a \"strategic default. In countries where residential mortgages are recourse loans, a strategic default is less likely because the lender can seek to recover the shortfall from the borrower's other assets and/or income. Therefore, the risk of a strategic default is higher for a non-recourse mortgage"
+      }
+    ],
+    "note": "Fixed Income: describe fundamental features of residential mortgage loans that are securitized"
+  },
+  {
+    "id": "FI-33",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because effective duration is essential to the measurement of the interest rate risk of a complex bond, such as a bond that contains an embedded call option. In brief, a callable bond does not have a well-defined internal rate of return (yield-to-maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply effective duration is the appropriate duration measure"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because in brief, [an option embedded) bond does not have a well-defined internal rate of return (yield- to-maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply; effective duration is the appropriate duration measure."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because in brief. [an option embedded) bond does not have a well-defined internal rate of return (yield- to-maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply effective duration is the appropriate duration measure."
+      }
+    ],
+    "note": "Fixed Income: explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options"
+  },
+  {
+    "id": "FI-34",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because effective duration is essential to the measurement of the interest rate risk of a complex bond, such as a bond that contains an embedded call option. The problem is that future cash flows are uncertain because they are contingent on future interest rates. The issuer's decision to call the bond depends on the ability to refinance the debt at a lower cost of funds. Effective duration is the appropriate duration measure."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a callable bond does not have a well-defined internal rate of return (yield-to-maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply; effective duration is the appropriate duration measure."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because effective duration measures the bond's sensitivity to changes in the benchmark yield curve and not changes in credit spread, which are measured by other means (pricing models). This curve duration measure [effective duration] indicates the bond's sensitivity to the benchmark yield curve-in particular, the government par curve- assuming no change in the credit spread. A pricing model can be used to determine a 'credit duration statistic-that is, the sensitivity of the bond price to a change in the credit spread."
+      }
+    ],
+    "note": "Fixed Income: explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options"
+  },
+  {
+    "id": "FI-35",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the price of the bond is calculated using as discount rates the average of the spot rates; (6% + 5% + 4%)/3 = 15%/3 = 5%. Hence, PV ≠ 4/(1.05)¹ + 4/(1.05)2 + 104/(1.05)3 = 4/1.05 + 4/1.1025+ 104/1.157625 = 3.8095 + 3.6281 + 89.8391= 97.276 ≈ 97.28."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because given the spot rates, the price of a bond can be calculated using the following formula: PV = [PMT/(1+𝑍1)1+ PMT/(1+ 𝑍2)²+...+ (PMT + FV)/(1+ 𝑍𝑁)N ] Hence, PV = 4/(1+0.06)1 + 4/(1+0.05)² + (4 + 100)/(1+0.04)3 = 4/1.06 + 4/1.1025+ 104/1.1249 = 3.77358 + 3.62812 + 92.4556 = 99.8573 ≈ 99.86."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the price of the bond is calculated using the 3-year spot rate as discount rate for all cash flows. Hence, PV ≠ 4/(1 + 0.04)¹ + 4/(1 + 0.04)2 + (4 + 100)/(1 + 0.04)3 = 4/1.04 + 4/1.0816 + 104/1.1249 = 3.8461 + 3.6982 + 92.4527 = 99.9969 ≈ 100.00."
+      }
+    ],
+    "note": "Fixed Income: define spot rates and the spot curve, and calculate the price of a bond using spot rates"
+  },
+  {
+    "id": "FI-36",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because for the same coupon rate and time-to-maturity, the percentage price change is greater (in absolute value, meaning without regard to the sign of the change) when the market discount rate goes down than when it goes up (the convexity effect)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because for the same coupon rate and time-to-maturity, the percentage price change is greater (in absolute value, meaning without regard to the sign of the change) when the market discount rate goes down than when it goes up (the convexity effect)."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because for the same coupon rate and time-to-maturity, the percentage price change is greater (in absolute value, meaning without regard to the sign of the change) when the market discount rate goes down than when it goes up (the convexity effect)"
+      }
+    ],
+    "note": "Fixed Income: identify the relationships among a bond's price, coupon rate, maturity, and yield-to-maturity"
+  },
+  {
+    "id": "FI-37",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the opposite is true due to the convexity effect. For the same coupon rate and time-to-maturity, the percentage price change is greater (in absolute value, meaning without regard to the sign of the change) when the market discount rate goes down than when it goes up (the convexity effect)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it ignores the convexity effect of most option-free bonds. For the same coupon rate and time. to-maturity, the percentage price change is greater (in absolute value, meaning without regard to the sign of the change) when the market discount rate goes down than when it goes up (the convexity effect)."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because for the same coupon rate and time-to-maturity, the percentage price change is greater (in absolute value, meaning without regard to the sign of the change) when the market discount rate goes down than when it goes up (the convexity effect)."
+      }
+    ],
+    "note": "Fixed Income: identify the relationships among a bond's price, coupon rate, maturity, and yield-to-maturity"
+  },
+  {
+    "id": "FI-38",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because for the same time-to-maturity, a lower-coupon bond has a greater percentage price change than a higher-coupon bond when their market discount rates change by the same amount (the coupon effect). Bond 1 has the same time-to-maturity as Bond 3 but a higher coupon, thus Bond 1 would experience a smaller percentage price change compared to Bond 3."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because generally, for the same coupon rate, a longer-term bond has a greater percentage price change than a shorter-term bond when their market discount rates change by the same amount (the maturity effect). Bond 2 has the same coupon rate as Bond 3 but a shorter maturity, thus Bond 2 would experience a smaller percentage price change compared to Bond 3."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because for the same time-to-maturity, a lower-coupon bond has a greater percentage price change than a higher-coupon bond when their market discount rates change by the same amount (the coupon effect). Bond 3 has the same time-to-maturity as Bond 1 but a lower coupon, thus Bond 3 would experience a greater percentage price change compared to Bond 1. Also, generally, for the same coupon rate, a longer-term bond has a greater percentage price change than a shorter-term bond when their market discount rates change by the same amount (the maturity effect). Bond 3 has the same coupon rate as Bond 2 but a longer maturity, thus Bond 3 would experience a greater percentage price change compared to Bond 2."
+      }
+    ],
+    "note": "Fixed Income: identify the relationships among a bond's price, coupon rate, maturity, and yield-to-maturity"
+  },
+  {
+    "id": "FI-39",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the spot curve can be calculated as the geometric average of the forward rates."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because implied forward rates (also known as forward yields) are calculated from spot rates. An implied forward rate is a break-even reinvestment rate. When the market is in equilibrium (no arbitrage) the implied forward rate is the same as the forward rate."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because spot rates are yields-to-maturity on zero-coupon bonds maturing at the date of each cash flow."
+      }
+    ],
+    "note": "Fixed Income: define spot rates and the spot curve, and calculate the price of a bond using spot rates"
+  },
+  {
+    "id": "FI-40",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because bonds with embedded options have well-defined effective convexity. Negative convexity, which could be called \"concavity,\" is an important feature of callable bonds. Putable bonds, on the other hand, always have positive convexity."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because in brief, a callable bond does not have a well-defined internal rate of return (yield-to-maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply; effective duration is the appropriate duration measure."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because effective duration is a curve duration statistic in that it measures interest rate risk in terms of a parallel shift in the benchmark yield curve (𝛥Curve). The interest rate risk of bonds with embedded options is most appropriately measured using effective duration, a curve statistic, which means that the sensitivity of a bond with an embedded-option to a change in the level of the benchmark yield curve is in fact well- defined."
+      }
+    ],
+    "note": "Fixed Income: explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options"
+  },
+  {
+    "id": "FI-41",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because extension risk is the risk that when interest rates rise, prepayments will be lower than forecasted because homeowners are reluctant to give up the benefits of a contractual interest rate that now looks low. As a result, a security backed by mortgages will typically have a longer maturity than was anticipated at the time of purchase."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because contraction risk is the risk that when interest rates decline, actual prepayments will be higher than forecasted because homeowners will refinance at now- available lower interest rates. Thus, a security backed by mortgages will have a shorter maturity than was anticipated at the time of purchase. Holding a security whose maturity becomes shorter when interest rates decline has two adverse consequences for investors. First, investors must reinvest the proceeds at lower interest rates. Second, if the security is prepayable or callable, its price appreciation is not as great as that of an otherwise identical bond that does not have a prepayment or call option. Increased contraction risk occurs when interest rates decline, not increase."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because contraction risk is the risk that when interest rates decline, actual prepayments will be higher than forecasted because homeowners will refinance at now- available lower interest rates. First, investors must reinvest the proceeds at lower interest rates. When interest rates decline, as opposed to increase, prepayments are likely to increase and be reinvested at lower rates, thus increasing reinvestment risk. This is not likely to occur when interest rates rise."
+      }
+    ],
+    "note": "Fixed Income: define prepayment risk and describe time tranching structures in securitizations and their purpose"
+  },
+  {
+    "id": "FI-42",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because yield spreads widen based on two primary factors: (1) a decline in an issuer's creditworthiness, sometimes referred to as credit migration or downgrade risk, and (2) an increase in market liquidity risk."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because in periods of high demand for bonds, spreads will move tighter."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because yield spreads widen based on two primary factors: (1) a decline in an issuer's creditworthiness, sometimes referred to as credit migration or downgrade risk, and (2) an increase in market liquidity risk. Most markets beads trade primarily over the counter through broker-dealers trading for ther own accounts Their ability and willingness to make markets, as reflected in the bid-ask spread, is an important determinant of market liquidity risk."
+      }
+    ],
+    "note": "Fixed Income: describe macroeconomic, market, and issuer-specific factors that influence the level and volatility of yield spreads"
+  },
+  {
+    "id": "FI-43",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because each repo contract participant is exposed to the risk that the other party is unable to meet its obligations"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because each repo contract participant is exposed to the risk that the other party is unable to meet its obligations, regardless of the quality of the collateral used in the repo transaction. The collateral should have little or no correlation with the credit risk of the repo counterparty in order to diversify credit exposure."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because in addition to the high quality of underlying securities, repos include features designed to reduce the risk of a collateral shortfall over the contract life. One such feature is the provision of collateral in excess of the cash exchanged, known as initial margin."
+      }
+    ],
+    "note": "Fixed Income: describe repurchase agreements (repos), their uses, and their benefits and risks"
+  },
+  {
+    "id": "FI-44",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because for parallel shifts in the benchmark yield curve, key rate durations will indicate the same interest rate sensitivity as effective duration."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the difference between approximate modified duration and effective duration is in the denominator. Modified duration is a >yield duration statistic in that it measures interest rate risk in terms of a change in the band's own yield-to-maturity (AYield).\nThis question refers to changes in the benchmark yield curve, not the bond's own yield to maturity, therefore, modified duration is an incorrect measure."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the difference between approximate modified duration and effective duration is in the denominator. Modified duration is a yield duration statistic in that it measures interest rate risk in terms of a change in the band's own yield-to-maturity (AYield) Additionally, The calculation of the modified duration (ModDur) statistic of a bond requires a simple adjustment to Macaulay duration. It is the Macaulay duration statistic divided by one plus the yield per period. Thus, the Macaulay duration, as a mathematical derivative of modified duration, is also a measure of risk in terms of the change in a bond's own yield-to- maturity. This question refers to changes in the benchmark yield curve, not the bond's own yield-to-maturity, therefore, modified duration is an incorrect measure."
+      }
+    ],
+    "note": "Fixed Income: define key rate duration and describe its use to measure price sensitivity of fixed-income instruments to benchmark yield curve changes"
+  },
+  {
+    "id": "FI-45",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the creation of bond classes that possess different expected maturities is referred to as time a form of credit tranching, not time tranching."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because it is common for securitizations to include a form of internal credit enhancement called Subordination is subordination, also referred to as credit tranching. In such a structure, there is more than one bond class or tranche, and the bond classes differ as to how they will share any losses resulting from defaults of the borrowers whose loans are in the collateral. The bond classes are classified as senior bond classes or subordinated bond classes hence, the reason this structure is also referred to as a senior/subordinated structure."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because prepayment risk is the uncertainty that the cash flows will be different from the scheduled cash flows as set forth in the loan agreement because of the borrowers' ability to alter payments. This risk is related to time tranching, not credit tranching."
+      }
+    ],
+    "note": "Fixed Income: describe typical credit enhancement structures used in securitizations"
+  },
+  {
+    "id": "FI-46",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because a callable bond does not have a well-defined internal rate of return (yield-to-maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply effective duration is the appropriate duration measure"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because modified duration can be used to measure the interest rate risk of a non- complex bond such as a US Treasury bond, while effective duration is essential to the measurement of the interest rate risk of a complex bond, such as a bond that contains an embedded call option."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because another fixed-income security for which yield duration statistics, such as modified and Macaulay durations, are not relevant is a mortgage-backed bond."
+      }
+    ],
+    "note": "Fixed Income: define, calculate, and interpret modified duration, money duration, and the price value of a basis point (PVBP)"
+  },
+  {
+    "id": "FI-47",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the effective duration of a bond is the sensitivity of the bond's price to a change in a benchmark yield curve, not to a change in the bond's yield to maturity"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because modified duration is a yield duration statistic in that it measures interest rate risk in terms of a change in the bond's own yield-to-maturity. Modified duration provides an estimate of the percentage price change for a bond given a change in its yield- to-maturity"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because Macaulay duration is a weighted average of the time to receipt of the bond's promised payments, where the weights are the shares of the full price that correspond to each of the bond's promised future payments."
+      }
+    ],
+    "note": "Fixed Income: define, calculate, and interpret modified duration, money duration, and the price value of a basis point (PVBP)"
+  },
+  {
+    "id": "FI-48",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it calculates modified duration using the coupon rather than YTM. MacDur / (1 + coupon) = 10/1.06 = 9.43."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because modified duration provides an estimate of the percentage price change for a bond given a change in its yield-to-maturity [YTM]\nModified duration = Macaulay Duration / (1+r) = 10.0 / 1.045 = 9.5694\n%*SYMBOL*PV ≈ - AnnModDur x 𝛥Yield = - 9.5694 x -1% = 9.5694% ≈ 9.57%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this is Macaulay duration. Macaulay duration must be adjusted by the yield-to-maturity to calculate the modified duration, and afterwards, modified duration is the used to calculate the percentage price change for a change in bond's yield to maturity."
+      }
+    ],
+    "note": "Fixed Income: calculate the percentage price change of a bond for a specified change in yield, given the bond's duration and convexity"
+  },
+  {
+    "id": "FI-49",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because affirmative covenants are typically administrative in nature. For example, frequently used affirmative covenants include what the issuer will do with the\nproceeds from the bond issue and the promise of making the contractual payments. The issuer may also promise to comply with all laws and regulations."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because negative pledges prevent the issuance of debt that would be senior to or rank in priority ahead of the existing bondholders ' debt. This is a negative covenant."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because affirmative covenants are typically administrative in nature. For example, a pari passu (or\"equal footing\") clause, which ensures that a debt obligation is treated the same as the borrower's other senior debt instruments."
+      }
+    ],
+    "note": "Fixed Income: describe the contents of a bond indenture and contrast affirmative and negative covenants"
+  },
+  {
+    "id": "FI-50",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it determines ApproxModDur but then adjusts the calculated duration measure by dividing it by (1 + r), instead of multiplying.\nAppxModDur = [(𝑃𝑉−) −(𝑃𝑉+)]/[2 × ( 𝛥𝑌𝑖𝑒𝑙𝑑) × (𝑃𝑉0)] = (100.45-99.56)/(2 x 0.001 x 100) = 4.45. ApproxMacDur ≠ ApproxModDur / (1+r) = 4.45/(1+0.04) = 4.279 ≈ 4.28."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it does not further adjust the modified duration to determine the Macaulay duration. AppxModDur = [(𝑃𝑉−) −(𝑃𝑉+)]/[2 × ( 𝛥𝑌𝑖𝑒𝑙𝑑) × (𝑃𝑉0)] = (100.45- 99.56)/(2 x 0.001 x 100) = 4.45."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because it adjusts the Approximate Modified Duration by 1+ yield to maturity to determine the Macaulay duration. AppxModDur = [(𝑃𝑉−) −(𝑃𝑉+)]/[2 × ( 𝛥𝑌𝑖𝑒𝑙𝑑) × (𝑃𝑉0)] = (100.45-99.56)/(2 x 0.001 x 100) = 4.45. Macaulay duration = modified duration x (1 + YTM) = 4.45 x (1 + 0.04) = 4.628 ≈ 4.63."
+      }
+    ],
+    "note": "Fixed Income: define, calculate, and interpret Macaulay duration"
+  },
+  {
+    "id": "FI-51",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because this is net income plus depreciation & amortization divided by interest expense. Interest coverage ≠ (85 + 15) / 15= $100 / 15 = 6.7, rounded to 7."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because operating income is defined as operating revenues minus operating expenses and is commonly referred to as 'earnings before interest and taxes' (EBIT). Interest coverage using EBIT is operating income/interest expense. = $120/15 = 8."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this is interest coverage using EBIT plus depreciation & amortization (EBITDA. not EBIT) divided by interest expense. Interest coverage ≠ ($120 + $15) / 15 = 9."
+      }
+    ],
+    "note": "Fixed Income: calculate and interpret financial ratios used in credit analysis"
+  },
+  {
+    "id": "FI-52",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because key rate duration (or partial duration) is a measure of a bond's sensitivity to a change in the benchmark yield curve at a specific maturity segment. In contrast to effective duration, key rate durations help identify 'shaping risk for a bond-that is, a bond's sensitivity to changes in the shape of the benchmark yield curve (e.g., the yield curve becoming steeper or flatter)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because effective duration indicates the bond's sensitivity to the benchmark yield curve assuming that all yields change by the same amount. In contrast to effective duration, key rate durations help identify shaping risk' for a band that is, a band's sensitivity to changes in the shape of the benchmark yield curve (e g., the yield curve becoming steeper or flatter)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because yield duration statistics measuring the sensitivity of a bond's full price to the bond's own yield- to-maturity include the Macaulay duration, modified duration, money duration, and price value of a basis point. The Macaulay duration measures the sensitivity of a bond's full price to a change in its yield to maturity, not to changes in the shape of the benchmark yield curve."
+      }
+    ],
+    "note": "Fixed Income: define key rate duration and describe its use to measure price sensitivity of fixed-income instruments to benchmark yield curve changes"
+  },
+  {
+    "id": "FI-53",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because market liquidity risk is the risk that the price at which investors can actually transact-buying or selling-may differ from the price indicated in the market. The lower the quality of the issuer, the higher the market liquidity risk"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the lower the quality of the issuer, the higher the market liquidity risk. In this case the investment grade borrower has less market liquidity risk, not the same."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the lower the quality of the issuer, the higher the market liquidity risk. In this case the investment grade borrower has less market liquidity risk, not more."
+      }
+    ],
+    "note": "Fixed Income: describe credit risk and its components, probability of default and loss given default"
+  },
+  {
+    "id": "FI-54",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because modified duration provides an estimate of the percentage price change for a bond given a change in its yield-to-maturity. A modified duration of 2.4 tranlates to a 2.4% percentage price change given a 100 basis points change in the bond's yield to maturity. Therefore, for a 50 basis point decrease in yields, the bond's price will change by (2.4)(0.0050)($912,575) = $10.951 ≈ $11,000."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it uses an incorrect calculation ( 0.024)($912,575) = $21,902 ≈ $22,000."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it uses an incorrect calculation (0.024)($1,000,000) = $24,000."
+      }
+    ],
+    "note": "Fixed Income: calculate the percentage price change of a bond for a specified change in yield, given the bond's duration and convexity"
+  },
+  {
+    "id": "FI-55",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because modified duration provides anestimate of the percentage price change for a bond given a change in its yield-to-maturity: %𝛥𝑃𝑉𝐹𝑢𝑙𝑙 ≈ -AnnModDur x 𝛥Yield. Also, another version of money duration is the price value of a basis point (PVBP) for the bond. The PVBP is an estimate of the change in the full price given a 1 bp change in the yield-to- maturity Here: -6.2 x 0.0001 0.00062 and PVBP = 0.00062 x 103.50 = 0.06417, rounded to 0.0642."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it represents a 10 bp change in rates, not 1 bp: -6.2 x 0.001 = 0.0062 and PVBP ≠ 0.0062 × 103.50 = 0.6417, rounded to 0.642."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it represents a 1 percent change in rates (100 bp), not 1 bp: -6.2 x 0.01 = 0.062 and PVBP ≠ 0.062 × 103.50 = 6.417, rounded to 6.42"
+      }
+    ],
+    "note": "Fixed Income: define, calculate, and interpret modified duration, money duration, and the price value of a basis point (PVBP)"
+  },
+  {
+    "id": "FI-56",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because money duration (Money Dur) is calculated as the annual modified duration times the full price (𝑃𝑉𝐹𝑢𝑙𝑙) of the bond, including accrued interest. Thus the modified durations of the bands are 730/95 = 7.6842 and 515/120 = 4.29167, respectively.\nThe modified duration of a bond portfolio is calculated as the weighted average of the statistics for the individual bonds. The shares of overall portfolio market value are the weights. Here, the market values of the bonds are £25 million * 95/100 = £23,750,000 and £25 million* 120/100 = £30,000,000. Thus the weight of the first bond in the portfolio is £23,750,000/(£23,750,000+ £30,000,000) = 44.186% and the weight of the second bond in the portfolio is £30,000,000/(£23,750,000+ £30,000,000) = 55.814%. The modified duration of the portfolio is therefore 44.186% * 7.6842 + 55.814% * 4.29167 = 3.3953 +2.3953 = 5.7907, rounded to 5.8."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the modified duration of the portfolio is not equal to the weighted average of the money durations of the bonds divided by 100. Portfolio modified duration <> 44.186% * 730/100 + 55.814% 5.15/100 = 6.1. Instead, the modified duration of a bond portfolio is calculated as the weighted average of the statistics for the individual bonds. The shares of overall portfolio market value are the weights."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the modified duration of the portfolio is not equal to the simple average of the money durations of the bonds divided by 100. Portfolio modified duration <> 50% * 730/100 + 50% * 5.15/100 = 6.225, rounded to 6.2. Instead, the modified duration of a bond portfolio is calculated as the weighted average of the statistics for the individual bonds. The shares of overall portfolio market value are the weights. Candidates may choose this option because the par values of the bonds are the same."
+      }
+    ],
+    "note": "Fixed Income: calculate portfolio duration and convexity and explain the limitations of these measures"
+  },
+  {
+    "id": "FI-57",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because as a general rule , the higher the senior unsecured rating, the smaller the notching adjustment."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because notching is applied according to each credit rating agency's notching guidelines"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because recognizing different payment priorities, and thus the potential for higher (or lower) loss severity in the event of default, the rating agencies have adopted a notching process whereby their credit ratings on issues can be moved up or down from the issuer rating which is usually the rating applied to its senior unsecured debt. As a general rule, the higher the senior orisecured rating, the smaller fne notching adjustment. The reason behind this is that the higher the rating, the lower the perceived risk of default so, the need to 'notch' the rating to capture the potential difference in loss seventy is greatly reduced. For lower rated credits, however, the risk of default is greater and thus be potensa diterence in foss from a lower (or higher angray ranking is a bager consideration in assessing an issue's credit riskiness"
+      }
+    ],
+    "note": "Fixed Income: describe the seniority rankings of debt, secured versus unsecured debt and the priority of claims in bankruptcy, and their impact on credit ratings"
+  },
+  {
+    "id": "FI-58",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because per capita income is a concern for sovereign bonds or general obligation bonds, not non- sovereign govemment revenue bonds. Income per capita: More prosperous countries generally have a broader and deeper tax base with which to support debt. The economic analysis of non-sovereign government GO bonds, including US municipal bonds, focuses on employment, per capita income (and changes in it over time), per capita debt (and changes in it over time), the tax base (depth, breadth, diversification, stability, etc.)"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the tax base is a concern for sovereign bonds or general obligation bonds. Income per capita: More prosperous countries generally have a broader and deeper tax base with which to support debt. The economic analysis of non-sovereign government\nGO bonds, including US municipal bonds, focuses on employment, per capita income (and changes in it over time), per capita debt (and changes in it over time), the tax base (depth, breadth, diversification, stability, etc.)."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because revenue bonds are issued for specific project financing (eg, financing for a new sewer system, a toll road, bridge, hospital, a sports arena, etc.). Revenue bonds, which are issued to finance a specific project, have a higher degree of risk than GO bonds because they are dependent on a single source of revenue. A key credit measure for revenue-backed non-sovereign government bonds is the debt-service-coverage (DSC) ratio, which measures how much revenue is available to cover debt payments (principal and interest) after operating expenses."
+      }
+    ],
+    "note": "Fixed Income: explain special considerations when evaluating the credit of sovereign and non-sovereign government debt issuers and issues"
+  },
+  {
+    "id": "FI-59",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it is the 1y2y implied forward yield. The yield can be found using (1 + z)1 x (1+ IFR1,2)²= (1 + Z3)³; (1+0.015)¹× (1+IFR1,2)²= (1+0.035)³× (1+ IFR1,2)² = (1 + 0.035)/(1+0.015) - 1 = 1.1087/1.0150 = 1.0923. IFR1,2 = 1.0923 -1 = 0.0451 or 4.51%."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the 2y1y yield is the implied one-year forward yield two years from now. The 2y1y implied yield can be found using (1+ z1)(1+ z2) x (1+ IFR2,1)=(1+z3)3= (1+0.015) x (1+0.025) x (1+ IFR1,2) = (1+1.035)³. (1 + IFR1, 2)² = (1 +1.040)3/[(1+0.015) x (1.025)] - 1 = 1.1087/1.0404 = 1.0656 - 1 = 0.0656 or 6.6%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it is the compounded three year to maturity bond divided by the product of the first two yields to maturity. The yield is found as (1 + z₁) × (1+ z₂) ×(1 + IFR1,2) = (1+z3)3 = (1 + 0.015) × (1 + 0.025) × (1+ IFR₁,₂) = (1 +1.035)3. (1 + IFR1, 2)²= (1 + 1.040)3/[(1+0.015) x (1.025)] - 1 = 1.1087/1.0404 = 1.0656 - 1 = 0.0656 or 6.6%"
+      }
+    ],
+    "note": "Fixed Income: define par and forward rates, and calculate par rates, forward rates from spot rates, spot rates from forward rates, and the price of a bond using forward rates"
+  },
+  {
+    "id": "FI-60",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because some fixed-rate bonds are not actively traded. Therefore, there is no market price available to calculate the rate of return required by investors. In these situations, it is common to estimate the market discount rate and price based on the quoted or flat prices of more frequently traded comparable bonds. These comparable bonds have similar fimes-to-maturity coupon rates, and credit quality. This estimation process is called matrix pricing The estimated market discount rate can be obtained with linear interpolation. Using linear interpolation between the two given bonds, we have: 0.034+ (5 - 3) / (8 - 3) x (0064 - 0034) = 0.034+ 2/5 x 0.02=0.042 = 4.2%"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the simple average is used instead of linear interpolation in matrix pricing. Some fixed-rate bonds are not actively traded. Therefore, there is no market price available to calculate the rate of return required by investors. In these situations, it is common to estimate the market discount rate and price based on the quoted or flat prices of more frequently traded comparable bonds. These comparable bonds have similar times- to- maturity, coupon rates, and credit quality. This estimation process is called matrix pricing. The estimated market discount rate can be obtained with linear interpolation. Using the simple average of the two given bonds, we have (0.034 +0.054)/2=0.088/2= 0.044=4.4%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the finear interpolation dar matrix pricing is implemented from the wrong end of the interval. Some fixed-rate bonds are not actively traded. Therefore, there is no market price available to calculate the rate of retum required by investors. In these situations, it is common to estimate the market discount rate and price based on the quoted or flat prices of more frequently traded comparable bonds. These comparable bonds have similar tires-to-isafunty cannon cales and credit quality. This estimation amoess is called eratrix pricing. The es bmete fatkebdisonart inte can be cofeined with linear intereation. Usitig meat inlatbotolica firm the wraite end between the two given bonds, we have: 0.034+ (8-5)/(8-3) * (0.054 -0.034) = 0.034 +3/5x0.02 = 0.046 = 4.6%."
+      }
+    ],
+    "note": "Fixed Income: describe matrix pricing"
+  },
+  {
+    "id": "FI-61",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the put provision is a valuable option for the bondholders, therefore putable bonds offer a lower yield (and thus have a higher price) than otherwise similar non- putable bonds."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the call provision is a valuable option for the issuer. Thus, other things equal, investors require a higher yield (and thus pay a lower price) for a callable bond than for an otherwise similar non-callable bond."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a convertible bond gives the bondholder the right to convert the bond into common shares of the issuing company. Because this option favors the bondholder, convertible bonds offer a lower yield and sell at a higher price than otherwise similar non- convertible bonds."
+      }
+    ],
+    "note": "Fixed Income: describe common cash flow structures of fixed-income instruments and contrast cash flow contingency provisions that benefit issuers and investors"
+  },
+  {
+    "id": "FI-62",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the currency denomination of a bond's cash flows influences which country's interest rates affect a bond's price. The price of a bond issued by a US-based company and denominated in British pounds will be affected by British interest rates."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the currency denomination of a bond's cash flows influences which country's interest rates affect a bond's price. The price of a bond issued by a US-based company and denominated in British pounds will be affected by British interest rates."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the currency denomination of a bond's cash flows influences which country's interest rates affect a bond's price. The price of a bond issued by a US-based company and denominated in British pounds will be affected by British interest rates."
+      }
+    ],
+    "note": "Fixed Income: describe how legal, regulatory, and tax considerations affect the issuance and trading of fixed-income securities"
+  },
+  {
+    "id": "FI-63",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the applicable interest rate in December is the six-month market reference rate in June plus the 45 basis point margin = 1.95% +0.45% = 2.40%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the 45 bps margin is added to the average of the June and December six-month market reference rates = (2.25% + 1.95% )/2+0.45% = 2.55%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the 45 bps margin is added to the market reference rate in December = 2.25% +0.45% = 2.70%"
+      }
+    ],
+    "note": "Fixed Income: calculate and interpret yield spread measures for floating-rate instruments"
+  },
+  {
+    "id": "FI-64",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the approximate modified duration of a bond is calculated as follows:\nApproxModDur = [(𝑃𝑉−) −(𝑃𝑉+)]/[2 ∗( 𝛥𝑌𝑖𝑒𝑙𝑑) ∗(𝑃𝑉0)] = (103.40 - 100.95)/(2 x 0.0070 x 101.80) = 2.45/1.4252 = 1.7191 ≈ 1.72."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the approximate modified duration of a bond is calculated as follows ApproxModDur = [(𝑃𝑉−) −(𝑃𝑉+)]/[2 ∗( 𝛥𝑌𝑖𝑒𝑙𝑑) ∗(𝑃𝑉0)] However, in this case, the higher yield/lower price is omitted from the calculation and the multiplication by 2 in the denominator is omitted as well: = (103.40 - 101.80)/(101.80*(6.75% - 6.05%)) = 2.2453 = 2.25."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the approximate modified duration of a bond is calculated as follows ApproxModDur = [(𝑃𝑉−) −(𝑃𝑉+)]/[2 ∗( 𝛥𝑌𝑖𝑒𝑙𝑑) ∗(𝑃𝑉0)] However, in this case, the number 2 is omitted from the denominator. = (103.40-100.95)/(0.0070 × 101.80) = 2.45/0.7126 = 3.4381 ≈ 3,44."
+      }
+    ],
+    "note": "Fixed Income: define, calculate, and interpret modified duration, money duration, and the price value of a basis point (PVBP)"
+  },
+  {
+    "id": "FI-65",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the effective duration is incorrectly calculated as EffDur = [(𝑃𝑉0) −(𝑃𝑉+)]/[( 𝛥𝐶𝑢𝑟𝑣𝑒) ∗(𝑃𝑉0)] = (95.35-92.25)/(0.005 × 95.35) = 6.50."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the effective duration of a bond is the sensitivity of the bond's price to a change in a benchmark yield curve. EffDur = [(𝑃𝑉−) −(𝑃𝑉+)]/[2 ∗( 𝛥𝐶𝑢𝑟𝑣𝑒) ∗(𝑃𝑉0)] With 𝑃𝑉0 = 95.35, 𝑃𝑉− = 99.50, 𝑃𝑉+ = 92.25, EffDur= (99.50 - 92.25)/(2 x 0.005 x 95,35) = 7.60"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the effective duration is incorrectly calculated as EffDur = [(𝑃𝑉−) −(𝑃𝑉+)]/[( 𝛥𝐶𝑢𝑟𝑣𝑒) ∗(𝑃𝑉0)] = (99.50 - 95.35)/(0.005 x 95.35) = 8.70"
+      }
+    ],
+    "note": "Fixed Income: explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options"
+  },
+  {
+    "id": "FI-66",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because 4.75% is used as the coupon rate and 5.50% as the reinvestment rate, resulting in (4.75 x 1.0550^2) + (4.75 x 1.0550) + 4.75 = 15.0481 ≈ 15.05. Interest rates are the rates at which coupon payments are reinvested and the market discount rates at the time of purchase and at the time of sale if the bond is not held to maturity."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the first coupon is reinvested at 4.75% for two years, the second coupon is reinvested at 4.75% for one year, and the third coupon has not yet been reinvested.\n(5.50 × 1.0475^2)+(5.50×1.0475) + 5.50 = 17 2962 ≈ 17 30. Interest rates are the rates at which coupon payments are reinvested and the market discount rates at the time of purchase and at the time of sale if the bond is not held to maturity."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the coupons are deemed to have been reinvested over 3 years, 2 years, and 1 year, respectively, resulting in (5.50 x 1.0475^3)+(5.50 x 1.0475 ^2)+(5.50 x 1.0475) = 18.1177 ≈ 18.12. Interest rates are the rates at which coupon payments are reinvested and the market discount rates at the time of purchase and at the time of sale if the bond is not held to maturity."
+      }
+    ],
+    "note": "Fixed Income: calculate and interpret the sources of return from investing in a fixed-rate bond;"
+  },
+  {
+    "id": "FI-67",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the flat price usually is quoted by bond dealers. If a trade takes place, the accrued interest is added to the flat price to obtain the full price paid by the buyer and received by the seller on the settlement date."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the flat price usually is quoted by bond dealers. If a trade takes place, the accrued interest is added to the flat price to obtain the full price paid by the buyer and received by the seller on the settlement date."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the flat price usually is quoted by bond dealers. If a trade takes place, the accrued interest is added to the flat price to obtain the full price paid by the buyer and received by the seller on the settlement date\" and the full price also is called the invoice or 'dirty' price."
+      }
+    ],
+    "note": "Fixed Income: calculate a bond's price given a yield-to-maturity on or between coupon dates"
+  },
+  {
+    "id": "FI-68",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it is the flat price that is affected by a market discount rate change"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it is the flat price that is affected by a market discount rate change, and if the flat price is affected by the market discount rate so is the full price (as full price equals flat price plus accrued interest)."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the accrued interest part of the full price does not depend on the yield- to-maturity."
+      }
+    ],
+    "note": "Fixed Income: calculate a bond's price given a yield-to-maturity on or between coupon dates"
+  },
+  {
+    "id": "FI-69",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it uses 100 bps instead of 75bps in the denominator\nDuration ≠ 108.5 - 104\n2 × 106 x 0.0100 ≠ 2.12, or 2.1"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the following formula estimates the approximate percentage price change for a 100 basis point change in yield (duration) is\nDuration = Price if yield declines - Price if yield rises\n2 x (initial price) x (change in yield in decimal format)\n= 108.5 - 104\n2 x 106 x 0.0075\n= 4.5\n1.59\n= 2.83, or 2.8"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it uses par value instead of market value in the denominator\nDuration ≠ 108.5 - 104\n2 x 100 x 0.0075 ≠ 3.0"
+      }
+    ],
+    "note": "Fixed Income: define, calculate, and interpret modified duration, money duration, and the price value of a basis point (PVBP)"
+  },
+  {
+    "id": "FI-70",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the conversion ratio is the number of common shares that each bond can be converted into."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the conversion price is the price per share at which the convertible bond can be converted into shares."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the conversion value, sometimes called the parity value, is the current share price multiplied by the conversion ratio."
+      }
+    ],
+    "note": "Fixed Income: describe common cash flow structures of fixed-income instruments and contrast cash flow contingency provisions that benefit issuers and investors"
+  },
+  {
+    "id": "FI-71",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because a non-amortizing loan does not involve scheduled principal repayments, an ABS backed by non-amortizing loans is not affected by prepayment risk. Credit card receivable ABS are an example of ABS backed by non-amortizing loans"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a non-amortizing loan does not involve scheduled principal repayments, an ABS backed by non-amortizing loans is not affected by prepayment risk. Credit card receivable ABS are an example of ABS backed by non-amortizing loans."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the collateral of credit card receivable ABS is a pool of non-amortizing loans. These loans have lockout periods during which the cash flows that are paid out to security holders are based only on finance charges collected and fees. When the lockout period is over, the principal that is repaid by the cardholders is no longer reinvested but instead is distributed to investors."
+      }
+    ],
+    "note": "Fixed Income: describe types and characteristics of non-mortgage asset-backed securities, including the cash flows and risks of each type"
+  },
+  {
+    "id": "FI-72",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it omits the basis point change x 100 from the calculation. Effective duration ≠ (𝑃𝑉−) −(𝑃𝑉+)/2 = (103 - 98)/2 = 2.5"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it is the difference in the prices (103-98 = 5)."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the effective duration is calculated as (𝑃𝑉−) −(𝑃𝑉+)]/[2 ∗( 𝛥𝐶𝑢𝑟𝑣𝑒) ∗ 𝑃𝑉0) where: 𝑃𝑉+ = the bond price when the benchmark yield is decreased, 𝑃𝑉0 = the bond price when the benchmark yield is increased, and PV, then current bond price. Effective duration = (103-98)/(2 * 0.0025 × 100) = 10."
+      }
+    ],
+    "note": "Fixed Income: explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options"
+  },
+  {
+    "id": "FI-73",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the general formula for the relationship between two spot rates and the implied forward rate is (1 + 𝑍𝐴 )𝐴 * (1 + 𝐼𝐹𝑅𝐴.𝐵−𝐴 )𝐵−𝐴= (1 + 𝑍𝐵 )𝐵𝑛 where z, is the x- year spot rate and IFR is the y-year forward rate, x years from now. Using the formula, the 6 year spot rate can be calculated in two different ways:\nX\n1. Using A = 2, B=6 : (1 + z6)6 = (1 + z2)2 × (1+ IFR2,4)4\n2. Using A = 4, B = 6: (1 + z6)6 = (1 + Z4) × (1+IFR4,2)2\n(1+0.01)2 × (1+0.03)4=(1+0.025)4 × (1+IFR4,2)4\n1.0201 x 1.1255 = 1.1038 × (1+ IFR4,2)2\nIFR4,2 =(1.1481/1.1038)0.5-1=0.0199~2%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because instead of using the formula for the relationship between spot rates and the implied forward rates, the candidate assumed that the 2 year forward rate, 4 years from today is equal to the 4 year forward rate, 2 years from today."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because when calculating IFR in the last step, the candidate forgets to take the square root IFR4,2 ≠1.1481/1.1038-1 = 0.0401 ≈ 4%."
+      }
+    ],
+    "note": "Fixed Income: define par and forward rates, and calculate par rates, forward rates from spot rates, spot rates from forward rates, and the price of a bond using forward rates"
+  },
+  {
+    "id": "FI-74",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because as noted in the rationale for the correct answer, the issuer credit rating usually applies to senior unsecured debt."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the issuer credit rating usually applies to its senior unsecured debt."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because as noted in the rationale for the correct answer, the issuer credit rating usually applies to senior unsecured debt."
+      }
+    ],
+    "note": "Fixed Income: describe the seniority rankings of debt, secured versus unsecured debt and the priority of claims in bankruptcy, and their impact on credit ratings"
+  },
+  {
+    "id": "FI-75",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the convexity adjustment is subtracted rather than added. The percentage change in price is not equal to -4.901961*-0.01- (0.5 * 28.835* - 0.014)=0.04901961 -0.0014418 = 4.757781%, rounded to 4.76%."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the Macaulay duration of a zero-coupon bond is its time-to-maturity and modified duration is the Macaulay duration statistic divided by one plus the yield per period Here, modified duration = 5 / 1.02 = 4.901961 Thus, the percentage change in price = -4.901961* -0.01 + (0.5*28.835* -0.012) = 0.04901961 + 0.0014418 = 5.04614%, rounded to 5.05%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the convexity adjustment is applied to the Macaulay duration rather than the modified duration. The percentage change in price is not equal to -5* -0.01+ (0.5*28.835 - 0.012) = 0.05 +0.0014418 = 5.14418%, rounded to 5.14%."
+      }
+    ],
+    "note": "Fixed Income: calculate the percentage price change of a bond for a specified change in yield, given the bond's duration and Convexity"
+  },
+  {
+    "id": "FI-76",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the Macaulay duration of a zero-coupon bond is equal to the time-to- maturity, not less-than the time-to-maturity."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the Macaulay duration of a zero-coupon bond is its time-to-maturity."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the Macaulay duration of a zero-coupon bond is equal to the time-to- maturity, not greater-than the time-to-maturity."
+      }
+    ],
+    "note": "Fixed Income: define, calculate, and interpret Macaulay duration"
+  },
+  {
+    "id": "FI-77",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because government agencies are quasi-government entities that issue debt in order to fund the government-sponsored provision of specific public goods or services based on sovereign or local law This may involve the financing of specific activities promoted by the govemment or the operation of necessary infrastructure as mandated by law The bonds issued by these agencies are known as quasi govemment bonds or agency bonds"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the main types of non-sovereign government issuers include agencies, public banks supranationals and regional governments Redicinal Governrsent testers. These inchide provincial, state, ama incal governams, referred to as muiticpal bouds in the US and most often as local authority bonds elsewhere within a specias sovereign Junsdiction"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because government agencies are quas-government entities that issue debt in order to fund the government-sponsored provisies of specific public goods or senecue based on sovereign or local law. This may involve the financing of snet 50 aervities promoter by the emernout the asennon of necessary lottastover, its mamfered by lass Timi coals relied by these agences are asoen as quest bouddment biheds or neary bonds"
+      }
+    ],
+    "note": "Fixed Income: desenterfinding choices by sovereign and monisovereige governments, quasi- govamenteobusa and supranational agencies"
+  },
+  {
+    "id": "FI-78",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the Macaulay and modified durations for the portfolio are calculated as the weighted average of the statistics for the individual bonds. The shares of overall portfolio market value are the weights.\nFirst we calculate the modified duration (ModDur) of the individual bonds using formula below ModDur = MacDur / (1+r) ModDur of Bond 1 = 7.5/(1+4%) = 7.211538 ModDur of Bond 2 = 5.4/(1+3%) = 5.242718. Next, we calculate the weights for the individual bonds based on market values, as follows: Weight for Bond 1 = $200,000 / ($200,000 + $400,000) = 0.333333 Weight for Bond 2 = $400,000 / ($200,000 + $400,000) = 0.666667 Modified duration of the portfolio = (Weight for Bond 1 x ModDur of Bond 1) + (Weight for Bond 2 x ModDur of Bond 2) = (0.333333 7.211538) + (0.666667 x 5.242718)= 5.898992 ≈ 5.9."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the weights based on par value are used. Weight for Bond 1≠ $300,000/ ($300,000+ $450,000) = 0.4 Weight for Bond 2≠ $450,000/ ($300,000+ $450,000) = 0.6 Modified duration of the portfolio (0.4 x 7.211538) + (0.6 x 5.242718)=6.030246 ≈ 6.0."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it uses Macaulay duration instead of modified duration for the individual bonds, and represents the Macaulay duration of the portfolio.\nModified duration of the portfolio Macaulay duration of the portfolio = (0.333333 x 7.5) + (0.666667 × 5.4) = 6.099999 ≈ 6.1."
+      }
+    ],
+    "note": "Fixed Income: calculate portfolio duration and convexity and explain the limitations of these measures"
+  },
+  {
+    "id": "FI-79",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because each denominator is raised to the power of the corresponding year.\nPV ≠ PMT/ (1 +0y1y) + PMT/ (1+0y1y x 1y1y)2 + (PMT + FV)/(1+0y1y x 1y1y x 2y1y)3\nPV ≠ 1/(1+1%) + 1/((1+1%) (1 + 2% ))2 + (1+100)/((1+1%) (1+2%) (1 + 4% ) )3 = 0.9901+0.9422 +82.1215 = 84.0538, rounded to 84.05."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the forward rates are used directly as spot rates. Hence,\nPV ≠ PMT / (1 + Z1)1 + PMT / (1 + Z2)2 + ... + (PMT + FV) / (1 + ZN)N\nPV ≠ 1/(1+1%)1 +1 / (1 +2%)2 + (1 + 100)/(1+4%)3 = 0.9901 +0.9612 +89.7886 = 91.7399, rounded to\n91.74."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the geometric average of the forward rates gives us the spot rates (ie. (0y1y x 1y1y) = (1 + Z2)2, (0y1y x 1y1y x 2y1y) = (1 + Z3)3)), hence the price of a bond using forward rates can be calculated using: PV = PMT / (1 + Z1)1 + PMT / (1 + Z2)2+. + (PMT + FV)/(1+ZN)N where 𝑍1 = spot rate, or the zero-coupon yield, or zero rate, for Period 1, 𝑍2 = spot rate, or the zero-coupon yield, or zero rate, for Period 2, 𝑍𝑁 = spot rate, or the zero- coupon yield, or zero rate, for Period N.\nPV> = PMT / (1 +0y1y) + PMT / (1 + 0y1y x 1y1y) + (PMT + FV) / (1 +0y1y x 1y1y x 2y1y)\nPV = 1 / (1 +1%) + 1/((1+1%) (1+2% )) + (1 + 100)/((1+1%) (1+2%) (1+4%) = 0.9901+0.9707 +94.2685 = 96.2293, rounded to 96.23."
+      }
+    ],
+    "note": "Fixed Income: define par and forward rates, and calculate par rates, forward rates from spot rates, spot rates from forward rates, and the price of a bond using forward rates"
+  },
+  {
+    "id": "FI-80",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because changes in interest rates change the future value of reinvested coupon payments. Therefore, the investor faces coupon reinvestment risk, too."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the investor will be selling the bond before maturity and faces the risk that it will be sold at a higher or lower price (market price risk)."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the investor faces coupon reinvestment risk for all coupons received (first coupon plus any others until sale) and also faces market price risk as changes in the interest rate will impact the sale price of the bond.\nCoupon reinvestment risk matters more when the investor has a long-term horizon relative to the time-to-maturity of the bond. For instance, a buy-and-hold investor only has coupon reinvestment risk. Market price risk matters more when the investor has a short-term horizon relative to the time-to-maturity. For example, an investor who sells the bond before the first coupon is received has only market price risk."
+      }
+    ],
+    "note": "Fixed Income: calculate and interpret the sources of return from investing in a fixed-rate bond;"
+  },
+  {
+    "id": "FI-81",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the yield-to-maturity on a corporate bond consists of a government benchmark yield and a spread, a change in the bond's yield-to-maturity can originate in either component or a combination of the two. The key point is that for an option-free fixed-rate bond, the same duration and convexity statistics that apply for a change in benchmark yield also apply for a change in spread"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the yield-to-maturity on a corporate bond consists of a government benchmark yield and a spread a change in the bond's yield-to-maturity can originate in either component or a combination of the two The key point is that for an option-free fixed- rate bond, the same duration and convexity statistics that apply for a change in benchmark yield also apply for a change in spread."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the key point is that for an option-free fixed-rate bond, the same duration and convexity statistics that apply for a change in benchmark yield also apply for a change in spread."
+      }
+    ],
+    "note": "Fixed Income: describe macroeconomic, market, and issuer-specific factors that influence the level and volatility of yield spreads"
+  },
+  {
+    "id": "FI-82",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the yield-to-maturity, 𝑟𝑦𝑡𝑚 is : 105 = 4/(1 + rytm)1 + 4/(1 + rytm)2 + 4/(1 + rytm)3 + 104/(1 + rytm)4 Using a financial calculator with N = 4, PV=-105, FV = 100, PMT=4 and solving for I, 𝑟𝑦𝑡𝑚 = 2.6656% ≈ 2.7%. Although less than the yield to first call of 2.9%, the YTM is greater (better) than the yield to second call of 2.6%, making the latter the yield to worst."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the yield-to-first-call, r, is: 105 = 4/(1+r)^1+ (4+103)/(1+r)^2 Using a financial calculator with N = 2, PV=-105, FV = 103, PMT 4 and solving for I, r₁ = 2.8706% ≈ 2.9%. This yield is greater (better) than both the yield to second call of 2.6% (which is the lowest, or worst) and the YTM of 2.7%,"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the lowest of the sequence of yields-to-call and the yield-to-maturity is known as the yield-to- worst. The sequence of yields for the bond is as follows:\nYield-to-maturity, Tem is calculated by solving this equation: 105 = 4/(1 +rytm)1+4/(1+гyem)2+4/(1+ryem)3 + 104/(1 + rytm)4 Using a financial calculator with N = 4, PV=-105, FV = 100, PMT=4 and solving for I, 𝑟𝑦𝑡𝑚 = 2.6656% ≈ 2.7%.\nYield-to-first-call, r, is calculated by solving this equation: 105 = 4/(1+r1)1+ (4+103)/(1+r1)2 Using a financial calculator with N = 2, PV=-105, FV = 103, PMT=4 and solving for 1, r = 2.8706% ≈ 2.9%.\nYield-to-second-call, r, is calculated by solving this equation: 105 = 4/(1 + r2)1 + 4/(1+r2)2+(4+101)/(1+r2)3Using a financial calculator with N = 3, PV=-105, FV = 101, PMT=4 and solving for I, r2 = 2.5718% ≈ 2.6%. Therefore the yield-to-worst is equal to the yield-to-second-call."
+      }
+    ],
+    "note": "Fixed Income: compare, calculate, and interpret yield and yield spread measures for fixed- rate bonds"
+  },
+  {
+    "id": "FI-83",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the Macaulay and modified duration statistics for a fixed-rate bond depend primarily on the coupon rate, yield-to-maturity, and time-to-maturity. A higher coupon rate or a higher yield-to-maturity reduces the duration measures A longer time-to- maturity usually leads to a higher duration. It always does so for a bond priced at a premium or at par value. Bond 1 has a lower coupon than Bond 3, a lower yield-to-maturity, and a longer maturity. The Macaulay duration of Bond 1 is therefore greater than that of Bond 3."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the Macaulay and modified duration statistics for a fixed-rate bond depend primarily on the coupon rate, yield-to-maturity, and time-to-maturity. A higher coupon rate or a higher yield-to-maturity reduces the duration measures. A longer time-to- maturity usually leads to a higher duration. It always does so for a bond priced at a premium or at par value. Bond 2 has a lower coupon than Bond 3, the same yield-to-maturity, and a longer maturity The Macaulay duration of Bond 2 is therefore greater than that of Bond 3."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the Macaulay and modified duration statistics for a fixed-rate bond depend primarily on the coupon rate, yield-to-maturity, and time-to-maturity. A higher coupon rate or a higher yield-to-maturity reduces the duration measures. A longer time-to- maturity usually leads to a higher duration. It always does so for a bond priced at a premium or at par value.\" In this case, Bond 3 has a higher coupon, the same or higher yield-to- maturity, and the shortest time to maturity. It therefore has the lowest Macaulay duration."
+      }
+    ],
+    "note": "Fixed Income: explain how a bond's maturity, coupon, and yield level affect its interest rate risk"
+  },
+  {
+    "id": "FI-84",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because it multiplies the modified duration with the clean price instead of the full price.\n4.8250 x 114.75 = 553.6688 ≈ 553.67."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the money duration equals the product of modified duration and full price\nFull price = Clean price + Accrued interest = 114.75 + 1.625 = 116.375;\nMoney duration = Modified duration x Full Price = 116.375 x 4.8250 = 561.5094 ≈ 561.51.\nModified duration is a measure of the percentage price change of a bond given a change in its yield-to-maturity. A related statistic is money duration. The money duration of a bond is a measure of the price change in units of the currency in which the bond is denominated. The money duration can be stated per 100 of par value or in terms of the actual position size of the bond in the portfolio. In the United States, money duration is commonly called 'dollar duration 'Money duration (MoneyDur) is calculated as the annual modified duration times the full price (𝑃𝑉𝐹𝑢𝑙𝑙) of the bond, including accrued interest."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it multiplies the full price with the Macaulay duration instead of the modified duration.\nFull price = Clean price + Accrued interest = 114.75 + 1.625 = 116.375,\nMacaulay duration x Full price = 4.9469 x 116.375 = 575.6955 ≈ 575.70."
+      }
+    ],
+    "note": "Fixed Income: define, calculate, and interpret modified duration, money duration, and the price value of a basis point (PVBP)"
+  },
+  {
+    "id": "FI-85",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because although effective duration is the most appropriate interest rate risk measure for bonds with embedded options, it also is useful with traditional bonds to supplement the information provided by the Macaulay and modified yield durations."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a practical consideration in using effective duration is in setting the change in the benchmark yield curve. With approximate modified duration, accuracy is improved by choosing a smaller yield-to-maturity change. But the pricing models for more- complex securities, such as callable and mortgage-backed bonds, include assumptions about the behavior of the corporate issuers, businesses, or homeowners. Rates typically need to change by a minimum amount to affect the decision to call a bond or refinance a mortgage loan because issuing new debt involves transaction costs. Therefore, estimates of interest rate risk using effective duration are not necessarily improved by choosing a smaller change in benchmark rates."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the modified duration and effective duration on an option-free bond are identical only in the rare circumstance of an absolutely flat yield curve."
+      }
+    ],
+    "note": "Fixed Income: explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options"
+  },
+  {
+    "id": "FI-86",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": ""
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the portfolio's duration is the weighted average (by market value) of the duration of the bonds in the portfolio.\nDuration of portfolio = [(120,000 ÷ 300,000) x 5] + [(180,000 ÷ 300,000) × 4] = (0.4 x 5)+(0.6 × 4) = 2.00 +2.40 = 4.40"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because it weights the bonds by their duration. DP= [(5÷9) x 5] + [(4÷9) x 4)] = 2.777 +1.777 = 4.5544.55"
+      }
+    ],
+    "note": "Fixed Income: calculate portfolio duration and convexity and explain the limitations of these measures"
+  },
+  {
+    "id": "FI-87",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because as per the justification for the correct answer, the price of the bond is closest to $97,277. This incorrect answer is arrived at by ignoring the coupon payments for year 1 & 2:\nPrice of bond ≠ 104,000/(1+5% )3 = 89,839.11025 ≈ 89,839."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the price of the bond is the present value of the promised cash flows and is calculated as follows: Price of bond = 4,000/ (1 +5%)1 + 4,000 / (1+5% )² + 104,000 / (1+5%)3 = 3,809.5238 + 3,628.1179 + 89,839.1102 = 97,276.7520 ≈ 97,277. Calculator inputs: FV = 100,000, I = 10.05, N = 3, PMT = 4,000, PV = 97,276.75 ≈ 97.277."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because as per the justification for the correct answer, the price of the bond is closest to $97,277. This incorrect answer is arrived at by switching the coupon rate and the\nmarket discount rate. Price of bond ≠ 5,000/(1+4%)1 +5,000/(1+4% )² + 105,000/(1+4%)3 = 4,807.6923 + 4,622.7811 + 93,344.6177 = 102,775.0910 ≈ 102,775. Calculator inputs: FV = 100,000, I= 0.04, N=3, PMT = 5,000, PV = 102,775.09 ≈ 102,775."
+      }
+    ],
+    "note": "Fixed Income: calculate a bond's price given a yield-to-maturity on or between coupon dates"
+  },
+  {
+    "id": "FI-88",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because in a recourse loan, the lender has a claim against the borrower for the shortfall between the amount of the outstanding mortgage balance and the proceeds received from the sale of the property. In a non- recourse loan, the lender does not have such a claim and thus can look only to the property to recover the outstanding mortgage balance."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because a mortgage may entitle the borrower to prepay all or part of the outstanding mortgage principal prior to the scheduled due date when the principal must be repaid. This contractual provision is referred to as a prepayment option or an early repayment option. From the lender's or investor's viewpoint, the effect of a prepayment option is that the amount and timing of the cash flows from a mortgage cannot be known with certainty. The prepayment option benefits the borrower rather than the lender."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the purpose of the prepayment penalty is to compensate the lender for the difference between the contract rate and the prevailing mortgage rate if the borrower prepays when interest rates decline."
+      }
+    ],
+    "note": "Fixed Income: describe fundamental features of residential mortgage loans that are securitized"
+  },
+  {
+    "id": "FI-89",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because recognizing these different payment priorities, and thus the potential for higher (or lower) loss severity in the event of default, the rating agencies have adopted a notching process whereby their credit ratings on issues can be moved up or down from the issuer rating, which is usually the rating applied to its senior unsecured debt. Issue ratings are thus notched up or down from the issuer rating, and not from more junior ratings such as junior subordinated ratings."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the rating agencies have adopted a notching process whereby their credit ratings on issues can be moved up or down from the issuer rating, which is usually the rating applied to its senior unsecured debt As a general rule, the higher the senior unsecured rating, the smaller the notching adjustment."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because recognizing these different payment priorities, and thus the potential for higher (or lower) loss severity in the event of default, the rating agencies have adopted a\nnotching process whereby their credit ratings on issues can be moved up or down from the issuer rating and also cross-default provisions, whereby events of default (such as non- payment of interest) on one bond trigger default on all outstanding debt, imply the same default probability for all issues, specific issues may be assigned different credit ratings- higher or lower-due to a rating adjustment methodology known as notching. It is the higher loss severity, and not higher probability of default, that is driving the notching process."
+      }
+    ],
+    "note": "Fixed Income: describe the seniority rankings of debt, secured versus unsecured debt and the priority of claims in bankruptcy, and their impact on credit ratings"
+  },
+  {
+    "id": "FI-90",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because bond yields-to-maturity are annualized and compounded. Yield measures in the money market are annualized but not compounded."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because money market instruments having different times-to-maturity have different periodicities for the annual rate."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the rate of return on a money market instrument is stated on a simple interest basis."
+      }
+    ],
+    "note": "Fixed Income: calculate and interpret yield measures for money market instruments"
+  },
+  {
+    "id": "FI-91",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because, since the reinvestment rate is less than the horizon yield, the yield-to- maturity is greater than the horizon yield of 4.2%"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because, since the reinvestment rate is less than the horizon yield, the yield-to- maturity is greater than the horizon yield of 4.2%"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the realized horizon yield matches the original yield-to-maturity if (1) coupon payments are reinvested at the same interest rate as the original yield-to-maturity, and (2) the bond is sold at a price on the constant-yield price trajectory, which implies that the investor does not have any capital gains or losses when the bond is sold. Since the reinvestment rate is less than the horizon yield and the bond is held to maturity, the yield to maturity is greater than the horizon yield."
+      }
+    ],
+    "note": "Fixed Income: calculate and interpret the sources of return from investing in a fixed-rate bond;"
+  },
+  {
+    "id": "FI-92",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the value of a bond is calculated as:\nPV= [PMT = (1+r)¹] + [PMT +(1+r)²] +...+ [(PMT + FV) + (1+r)N) where: PV= present value, or the price of the bond PMT coupon payment per period FV = future value paid at maturity, or the par value of the bond r = market discount rate, or required rate of return per period N= number of evenly spaced periods to maturity Using calculator inputs, N = (3 x 2)=6, PMT = (5% ÷ 2) 100 = $2.5, FV = $100, PV = $108, Solve for I, is equal to 1.114% semi-annually, or 2.228% on an annual basis. If the yield to maturity decreases by 100 bps, the price of the bond after one year is computed as: N = 4, PMT = $2.5, FV = $100, 1= [(2.228% -1% ) ÷ 2] = 0.614%, Solve PV, is equal to $107.43. Therefore, the change in value of the bond = $108.00 - $107.43 = $0.57"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because fails to annualize the interest rate before computing the change in value Using calculator inputs, the yield of the bond: N=6, PMT = $2.5, FV = $100, Solve I is equal to 1.114%. If the yield declines by 100 bps, the price of the bond after one year is computed as: N = 4, PMT = $2.5, FV = 100, I = (1.114% -1% ) = 0.114%, Solve for PV = $109.52. Therefore, the change in value = $108-109.52-$1.52, or a change in value of $1.52"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because incorrectly uses the same time to maturity when calculating the new value rather than adjusting the term for the passage of one year in value Using calculator inputs, the yield of the bond: N = 6, PMT = $2.5, FV = 100, I = (2.228% - 1%)/2=0.614%, Solve for PV is equal to $111.08. Therefore, the change in value = $108-111.08 = - $3.08, or a change in value of $3.08."
+      }
+    ],
+    "note": "Fixed Income: calculate a bond's price given a yield-to-maturity on or between coupon dates"
+  },
+  {
+    "id": "FI-93",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because the yield spread of a specific bond over the standard swap rate in that currency of the same tenor is known as the I-spread or interpolated spread to the swap curve."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because another approach is to calculate a constant yield spread over a government (or interest rate swap) spot curve instead. This spread is known as the zero volatility spread (Z-spread) of a bond over the benchmark rate. Sometimes, the Z-spread is called the static spread because it is constant (and has zero volatility)."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the Z-spread is also used to calculate the option-adjusted spread (OAS) on a callable bond. The OAS, like the option-adjusted yield, is based on an option- pricing model and an assumption about future interest rate volatility."
+      }
+    ],
+    "note": "Fixed Income: compare, calculate, and interpret yield and yield spread measures for fixed- rate bonds"
+  },
+  {
+    "id": "FI-94",
+    "solutions": [
+      {
+        "isCorrect": true,
+        "reason": "because there are two offsetting types of interest rate risk that affect the bond investor coupon reinvestment risk and market price risk. The future value of reinvested coupon payments (and in a portfolio, the principal on bonds that mature before the horizon date) increases when interest rates go up and decreases when rates go down. The sale price on a bond that matures after the horizon date (and thus needs to be sold) decreases when interest rates go up and increases when rates go down."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the future value of reinvested coupon payments (and in a portfolio, the principal on boods that mature before the horizon date) increases when interest rates go up. The sale price on a bond that matures after the horizon date (and thus needs to be sold) decreases when interest rates go up."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the future value of reinvested coupon payments (and in a portfolio, the principal on bonds that mature before the horizon date) increases when interest rates go up. The sale price on a band that matures after the horizon date (and thus needs to be sold) decreases when interest rates go pp."
+      }
+    ],
+    "note": "Fixed Income: describe the relationships among a band's holding period return, its Macaulay duration, and the investment horizon"
+  },
+  {
+    "id": "FI-96",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the yield spread of a specific bond over the standard swap rate in that currency of the same tenor is known as the I- spread."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the yield spread in basis points over an actual or interpolated government bond is known as the G-spread. The spread over a government bond is the return for bearing greater credit, liquidity, and other risks relative to the sovereign bond."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the yield spread over a specific benchmark is referred to as the benchmark spread. A constant yield spread over a government (or interest rate swap) spot curve is known as the zero-volatility spread (Z- spread) of a bond over the benchmark rate."
+      }
+    ],
+    "note": "Fixed Income: compare, calculate, and interpret yield and yield spread measures for fixed- rate bonds"
+  },
+  {
+    "id": "FI-97",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because this relates to credit tranching, not time tranching. In credit tranching, there is more than one bond class or tranche, and the share classes differ as to how they will share losses resulting from defaults of the borrowers whose loans are in the collateral."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the creation of bond classes that possess different expected maturities is referred to as time tranching."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because tranching does not change underlying collateral, rather it only changes how losses or prepayments will be shared. In such a structure, there is more than one bond class or tranche, and the share classes differ as to how they will share losses resulting from defaults of the borrowers whose loans are in the collateral."
+      }
+    ],
+    "note": "Fixed Income: define prepayment risk and describe time tranching structures in securitizations and their purpose"
+  },
+  {
+    "id": "FI-98",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because a specified yield spread is added to, or subtracted from, the reference rate which results in the coupon. For example, the floater might reset its interest rate quarterly at three-month Libor plus 0.50%. This is not the quoted margin, it is the reference rate plus the quoted margin."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because this specified yield spread over the reference rate is called the quoted margin on the FRN. The role of the quoted margin is to compensate the investor for the difference in the credit risk of the issuer and that implied by the reference rate."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the required margin is the yield spread over, or under, the reference rate such that the FRN is priced at par value on a rate reset date. Changes in the required margin usually come from changes in the issuer's credit risk. The required margin is not specified but changes based on market forces."
+      }
+    ],
+    "note": "Fixed Income: calculate and interpret yield spread measures for floating-rate instruments"
+  },
+  {
+    "id": "FI-99",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the candidate calculates the Macaulay duration incorrectly: MacDur ≠ 7.4/(1+9%) = 6.8. Because the duration gap is equal to the bond's Macaulay duration minus the investment horizon the investment horizon is incorrectly stated as 6.8 years."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the candidate confuses the Macaulay duration with the modified duration, thus incorrectly determining the investment horizon as 7.4 years."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because we use the fact that ModDur = MacDur /(1+r) to calculate the Macaulay duration of the bond: MacDur = 7.4 × (1+9%) = 8.07. Because the duration gap is equal to the bond's Macaulay duration minus the investment horizon the investment horizon is closest to 8.1 years."
+      }
+    ],
+    "note": "Fixed Income: describe the relationships among a bond's holding period return, its Macaulay duration, and the investment horizon;"
+  },
+  {
+    "id": "FI-100",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because if interest rates are low compared with the coupon rate, the value of the put option is low and the impact of a change in the benchmark yield on the [putable] bond's price is very similar to the impact on the price of a non-putable bond, e.g., not limited. Furthermore, a rational investor would not exercise the put option when the market interest rate is lower than the coupon rate of the bond."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because when interest rates are low, the effective duration of the callable bond is lower than that of the otherwise comparable non-callable bond because the callable bond price does not increase as much when benchmark yields fall. The presence of the call option\nlimits price appreciation especially when interest rates are falling and the bond is more likely to be called."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the presence of an embedded option reduces the sensitivity of the bond price to changes in the benchmark yield curve, assuming no change in credit risk. An option-free bond serves as the base case, whereas with a call, price appreciation is limited when market rates go below the coupon rate [and with a put, price depreciation is limited when market rates go above the coupon rate]."
+      }
+    ],
+    "note": "Fixed Income: explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options"
+  },
+  {
+    "id": "FI-101",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because when the benchmark yield is high and the value of the embedded call option is low, the callable and the non-callable bonds experience very similar effects from interest rate changes. They both have positive convexity But as the benchmark yield is reduced the curves diverge At some point, the callable bond moves into the range of negative convexity, which indicates that the embedded call option has more value to the issuer and is more likely to be exercised"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because when the benchmark yield is high and the value of the embedded call option is low, the callable and the non-callable bonds experience very similar effects from interest rate changes. They both have positive convexity. But as the benchmark yield is reduced, the curves diverge At some point, the callable bond moves into the range of negative convexity, which indicates that the embedded call option has more value to the issuer and is more likely to be exercised."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because when the benchmark yield is high and the value of the embedded call option is low, the callable and the non-callable bonds experience very similar effects from interest rate changes. They both have positive convexity But as the benchmark yield is reduced, the curves diverge. At some point, the callable bond moves into the range of negative convexity, which indicates that the embedded call option has more value to the issuer and is more likely to be exercised."
+      }
+    ],
+    "note": "Fixed Income: explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options"
+  },
+  {
+    "id": "FI-102",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because capital gains and losses are measured from the carrying value of the bond and not from the purchase price or par value."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because capital gains arise if a bond is sold at a price above its constant-yield price trajectory and capital losses occur if a bond is sold at a price below its constant-yield price trajectory. Also, capital gains and losses are measured from the carrying value of the\nbond and not from the purchase price. The carrying value includes the amortization of the discount or premium if the bond is purchased at a price below or above par value. The carrying value is any point on the constant-yield price trajectory."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because capital gains and losses are measured from the carrying value of the bond and not from the purchase price."
+      }
+    ],
+    "note": "Fixed Income: calculate and interpret the sources of return from investing in a fixed-rate bond"
+  },
+  {
+    "id": "FI-103",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the sale and purchase price are accidentally swapped in the formula:\n102.06 = (95.27 +24.28)/(1+r)^7 => r = 0.022853 ≈ 2.29%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because holding period and tenor of bond are accidentally swapped in the formula:\n95.27 (102.06+24 28)/(1+r)^10=> r = 0.028628 ≈ 2.86%."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because a horizon yield is the internal rate of return between the total return (the sum of reinvested coupon payments and the sale price or redemption amount) and the purchase price of the bond. The horizon yield on a bond investment is the annualized holding-period rate of return.\n95.27 = (102.06+24.28)/ (1+r)^7 => r = 0.041147 ≈ 4.11%."
+      }
+    ],
+    "note": "Fixed Income: calculate and interpret the sources of return from investing in a fixed-rate bond;"
+  },
+  {
+    "id": "FI-104",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because candidates confuse the redemption value with the present value and thereby add the interest earned to the redemption value as part of the calculation. DR ≠ (365/160) x (140,500/(5,000,000 + 140,500)) = 0.0624 ≈ 6.2%."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the discount rate, DR = (Year/Days) x ((FV - PV)/FV), where Year = number of days in the year, Days = number of days between settlement and maturity, FV = future value paid at maturity/face value of the money market instrument, PV = present value/price of the money market instrument, and FV - PV, is the interest earned.\nDR = (365/160) x (140,500/5,000,000) = 0.0641 ≈ 6.4%."
+      },
+      {
+        "isCorrect": false,
+        "reason": "because this is the add-on rate. AOR = Year/Days x ((FV-PV)/PV)\nAOR = (365/160) x (140,500/(5,000,000-140,500)) = 0.0660 ≈ 6.6%."
+      }
+    ],
+    "note": "Fixed Income: calculate and interpret yield measures for money market instruments"
+  },
+  {
+    "id": "FI-105",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because the two bonds are assumed to have the same price, yield-to-maturity, and modified duration. The benefit of greater convexity occurs when their yields-to- maturity change. For the same decrease in yield-to-maturity, the more convex bond appreciates more in price. And for the same increase in yield-to-maturity, the more convex bond depreciates less in price. The conclusion is that the more convex bond outperforms the less convex bond in both bull (rising price) and bear (falling price) markets. The more convex bond always outperforms the less convex bond"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the two bonds are assumed to have the same price, yield-to-maturity, and modified duration. The benefit of greater convexity occurs when their yields-to- maturity change. For the same decrease in yield-to-maturity, the more convex bond appreciates more in price. And for the same increase in yield-to-maturity, the more convex bond depreciates less in price. The conclusion is that the more convex bond outperforms the less convex outperforms bond in both bull (rising price) and bear (falling price) markets. The more convex bond always the less convex bond."
+      },
+      {
+        "isCorrect": true,
+        "reason": "because the two bonds are assumed to have the same price, yield-to-maturity, and modified duration. The benefit of greater convexity occurs when their yields-to- maturity change. And for the same increase in yield-to-maturity, the more convex bond depreciates less in price [than the less convex bond]."
+      }
+    ],
+    "note": "Fixed Income: calculate and interpret convexity and describe the convexity adjustment"
+  },
+  {
+    "id": "FI-106",
+    "solutions": [
+      {
+        "isCorrect": false,
+        "reason": "because both the coupon payment and discount rate used are annual:\nPV=\n12 (1 + 0.04)1 + 12 (1 + 0.04)2 + 12 (1 + 0.04)3\n=122.2007~122.20"
+      },
+      {
+        "isCorrect": true,
+        "reason": "because PV=\n6 (1 + 0.02)1 + 6 (1 + 0.02)2 + 6 (1 + 0.02)3 + 6 (1 + 0.02)4 + 6 (1 + 0.02)5 + 6 (1 + 0.02)6\n=122.4057~122.41"
+      },
+      {
+        "isCorrect": false,
+        "reason": "because the the coupon payment and discount rate are annual, similar to the other distractor. The difference between this and other distractor is that payment is made at the beginning of the period, not at the end. = 122.53\nFixed-Income Bond Valuation: Prices and Yields: calculate a bond's price given a yield-to- maturity on or between coupon dates"
+      }
+    ],
+    "note": ""
+  }
+]
