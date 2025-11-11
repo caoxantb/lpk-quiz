@@ -5,7 +5,6 @@ import { currentQuestion, questionAtom } from "../../stores/questions";
 import { getCategoriesFromQuestions } from "../../utils/categoryMap";
 
 const MainPanel = () => {
-  console.log("run here");
   const { id } = useParams();
   const [testSuites, setTestSuites] = useAtom(testAtom);
   const questions = useAtomValue(questionAtom);

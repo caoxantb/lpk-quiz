@@ -1,6 +1,6 @@
 export const getCategoriesFromQuestions = (questionList) => {
   return Object.values(
-    questionList.reduce((acc, cur) => {
+    questionList?.reduce((acc, cur) => {
       if (!acc[cur.category]) {
         acc[cur.category] = {
           id: Object.keys(acc).length + 1,
