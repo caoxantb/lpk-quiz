@@ -7,6 +7,7 @@ import { testAtom } from "../../stores/tests";
 import { getColor } from "../../utils/colors";
 import { toast } from "sonner";
 import { formatTime } from "../../utils/formatTime";
+import { Skeleton } from "@/components/ui/skeleton";
 
 const QuestionPanel = () => {
   const { id } = useParams();
@@ -86,6 +87,7 @@ const QuestionPanel = () => {
 
   useEffect(() => {
     const fetchQuestionDetail = async () => {
+      setQuestionDetail(undefined);
       if (!question?.id) return;
       const res = await axios.get(
         `https://lpk-quiz.onrender.com/api/questions/${question.id}`
@@ -159,7 +161,7 @@ const QuestionPanel = () => {
         </button>
       </div>
 
-      {questionDetail && currentIdx !== 0 && (
+      {currentIdx !== 0 && (
         <div className="flex flex-1 flex-col gap-6 border border-slate-200 p-6">
           <div className="flex items-center justify-between">
             <button
@@ -225,49 +227,65 @@ const QuestionPanel = () => {
                   </table>
                 </div>
               )}
-            <p className="mt-2 text-base font-semibold text-slate-800">
-              {questionDetail.question}
-            </p>
+            {questionDetail ? (
+              <p className="mt-4 text-base font-semibold text-slate-800">
+                {questionDetail.question}
+              </p>
+            ) : (
+              <>
+                <Skeleton className="mt-4 h-4 w-[90%]" />
+                <Skeleton className="mt-4 h-4 w-[90%]" />
+              </>
+            )}
           </div>
 
           <div className="flex flex-col gap-4">
-            {questionDetail?.solutions.map((sol, index) => {
-              return (
-                <button
-                  key={index}
-                  className={`border px-4 py-3 text-left transition cursor-pointer ${
-                    question.userChoice === index
-                      ? "border-blue-500 bg-blue-500 text-white"
-                      : "border-slate-300 text-slate-800 hover:border-blue-400 hover:bg-blue-50"
-                  }`}
-                  onClick={() => {
-                    if (question.flag) {
-                      toast.error(
-                        "Please remove the flag if you want to choose an answer."
-                      );
-                    } else {
-                      setQuestions({
-                        ...questions,
-                        [id]: questions[id].map((q) =>
-                          q.qNo === currentIdx
-                            ? {
-                                ...q,
-                                userChoice:
-                                  question.userChoice === index
-                                    ? undefined
-                                    : index,
-                              }
-                            : q
-                        ),
-                      });
-                    }
-                  }}
-                  type="button"
-                >
-                  {String.fromCharCode(65 + index)}. {sol.answer}
-                </button>
-              );
-            })}
+            {questionDetail
+              ? questionDetail.solutions.map((sol, index) => {
+                  return (
+                    <button
+                      key={index}
+                      className={`border px-4 py-3 text-left transition cursor-pointer ${
+                        question.userChoice === index
+                          ? "border-blue-500 bg-blue-500 text-white"
+                          : "border-slate-300 text-slate-800 hover:border-blue-400 hover:bg-blue-50"
+                      }`}
+                      onClick={() => {
+                        if (question.flag) {
+                          toast.error(
+                            "Please remove the flag if you want to choose an answer."
+                          );
+                        } else {
+                          setQuestions({
+                            ...questions,
+                            [id]: questions[id].map((q) =>
+                              q.qNo === currentIdx
+                                ? {
+                                    ...q,
+                                    userChoice:
+                                      question.userChoice === index
+                                        ? undefined
+                                        : index,
+                                  }
+                                : q
+                            ),
+                          });
+                        }
+                      }}
+                      type="button"
+                    >
+                      {String.fromCharCode(65 + index)}. {sol.answer}
+                    </button>
+                  );
+                })
+              : [1, 2, 3].map(() => {
+                  return (
+                    <div className="flex gap-2 border px-4 py-3 text-left transition cursor-pointer">
+                      <Skeleton className="mt-2 h-4 w-4 rounded-full" />
+                      <Skeleton className="mt-2 h-4 w-[90%]" />
+                    </div>
+                  );
+                })}
           </div>
         </div>
       )}

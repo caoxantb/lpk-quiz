@@ -5,6 +5,7 @@ import { useParams } from "react-router";
 import axios from "axios";
 import { testAtom } from "../../stores/tests";
 import { getColor } from "../../utils/colors";
+import { Skeleton } from "@/components/ui/skeleton";
 
 const SolutionPanel = () => {
   const { id } = useParams();
@@ -28,6 +29,7 @@ const SolutionPanel = () => {
 
   useEffect(() => {
     const fetchQuestionDetail = async () => {
+      setQuestionDetail(undefined);
       if (!question?.id) return;
       const res = await axios.get(
         `https://lpk-quiz.onrender.com/api/questions/${question?.id}?isReview=true`
@@ -62,7 +64,7 @@ const SolutionPanel = () => {
 
   return (
     <article className="flex flex-1 flex-col gap-6 border-t border-slate-200 p-6 lg:border-t-0">
-      {questionDetail && currentIdx !== 0 && (
+      {currentIdx !== 0 && (
         <div className="flex flex-1 flex-col gap-6 border border-slate-200 p-6">
           <div className="flex items-center justify-between">
             <button
@@ -126,58 +128,83 @@ const SolutionPanel = () => {
                   </table>
                 </div>
               )}
-            <p className="mt-2 text-base font-semibold text-slate-800">
-              {questionDetail.question}
-            </p>
+            {questionDetail ? (
+              <p className="mt-4 text-base font-semibold text-slate-800">
+                {questionDetail.question}
+              </p>
+            ) : (
+              <>
+                <Skeleton className="mt-4 h-4 w-[90%]" />
+                <Skeleton className="mt-4 h-4 w-[90%]" />
+              </>
+            )}
           </div>
-          <p
-            className={`font-bold ${
-              isCorrect
-                ? "text-green-700"
+          {questionDetail ? (
+            <p
+              className={`font-bold ${
+                isCorrect
+                  ? "text-green-700"
+                  : question?.flag
+                  ? "text-yellow-700"
+                  : "text-red-700"
+              }`}
+            >
+              {isCorrect
+                ? "Your answer is correct!"
                 : question?.flag
-                ? "text-yellow-700"
-                : "text-red-700"
-            }`}
-          >
-            {isCorrect
-              ? "Your answer is correct!"
-              : question?.flag
-              ? "You flagged this question."
-              : question?.userChoice === undefined
-              ? "You left your answer blank."
-              : `Your answer is incorrect. You chose ${String.fromCharCode(
-                  65 + question?.userChoice
-                )}, the correct answer is ${String.fromCharCode(
-                  65 + question?.solution
-                )}.`}
-          </p>
+                ? "You flagged this question."
+                : question?.userChoice === undefined
+                ? "You left your answer blank."
+                : `Your answer is incorrect. You chose ${String.fromCharCode(
+                    65 + question?.userChoice
+                  )}, the correct answer is ${String.fromCharCode(
+                    65 + question?.solution
+                  )}.`}
+            </p>
+          ) : (
+            <Skeleton className="mt-2 h-4 w-[50%]" />
+          )}
+
           <div className="flex flex-col gap-4">
-            {questionDetail?.solutions.map((sol, index) => {
-              return (
-                <>
-                  <div
-                    key={index}
-                    className={`border px-4 py-3 text-left transition cursor-pointer ${
-                      question?.solution === index
-                        ? "border-green-700 bg-green-700 text-white"
-                        : "border-red-700 bg-red-700 text-white"
-                    }`}
-                    type="button"
-                  >
-                    {String.fromCharCode(65 + index)}. {sol.answer}
-                  </div>
-                  <div
-                    className={`${
-                      question?.solution === index
-                        ? "text-green-700"
-                        : "text-red-700"
-                    } text-sm mt-1`}
-                  >
-                    {sol.reason}
-                  </div>
-                </>
-              );
-            })}
+            {questionDetail
+              ? questionDetail.solutions.map((sol, index) => {
+                  return (
+                    <>
+                      <div
+                        key={index}
+                        className={`border px-4 py-3 text-left transition cursor-pointer ${
+                          question?.solution === index
+                            ? "border-green-700 bg-green-700 text-white"
+                            : "border-red-700 bg-red-700 text-white"
+                        }`}
+                        type="button"
+                      >
+                        {String.fromCharCode(65 + index)}. {sol.answer}
+                      </div>
+                      <div
+                        className={`${
+                          question?.solution === index
+                            ? "text-green-700"
+                            : "text-red-700"
+                        } text-sm mt-1`}
+                      >
+                        {sol.reason}
+                      </div>
+                    </>
+                  );
+                })
+              : [1, 2, 3].map(() => {
+                  return (
+                    <>
+                      <div className="flex gap-2 border px-4 py-3 text-left transition cursor-pointer">
+                        <Skeleton className="mt-2 h-4 w-4 rounded-full" />
+                        <Skeleton className="mt-2 h-4 w-[90%]" />
+                      </div>
+                      <Skeleton className="mt-2 h-4 w-full" />
+                      <Skeleton className="mt-2 h-4 w-full" />
+                    </>
+                  );
+                })}
           </div>
         </div>
       )}
