@@ -66,9 +66,6 @@ const ResultPanel = () => {
   const session1Result = buildSessionResult(1);
   const session2Result = buildSessionResult(2);
 
-  console.log(session1Result);
-  console.log(session2Result);
-
   const finalResult =
     session1Result && session2Result
       ? {

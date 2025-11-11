@@ -30,7 +30,7 @@ const SolutionPanel = () => {
     const fetchQuestionDetail = async () => {
       if (!question?.id) return;
       const res = await axios.get(
-        `http://localhost:8080/api/questions/${question?.id}?isReview=true`
+        `https://lpk-quiz.onrender.com/api/questions/${question?.id}?isReview=true`
       );
 
       setQuestionDetail(res.data);

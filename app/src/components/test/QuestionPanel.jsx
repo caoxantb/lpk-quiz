@@ -26,8 +26,6 @@ const QuestionPanel = () => {
   const sessionStartTimestamp =
     (startTimestampKey && testSuite?.[startTimestampKey]) || "";
 
-  console.log(id);
-
   const questionList =
     activeSession === 1
       ? questions[id]?.filter((q) => q.session === 1)
@@ -90,7 +88,7 @@ const QuestionPanel = () => {
     const fetchQuestionDetail = async () => {
       if (!question?.id) return;
       const res = await axios.get(
-        `http://localhost:8080/api/questions/${question.id}`
+        `https://lpk-quiz.onrender.com/api/questions/${question.id}`
       );
 
       setQuestionDetail(res.data);
@@ -243,8 +241,6 @@ const QuestionPanel = () => {
                       : "border-slate-300 text-slate-800 hover:border-blue-400 hover:bg-blue-50"
                   }`}
                   onClick={() => {
-                    console.log("here");
-
                     if (question.flag) {
                       toast.error(
                         "Please remove the flag if you want to choose an answer."

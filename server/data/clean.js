@@ -174,7 +174,6 @@ export const checkSolutions = async () => {
       })
     );
 
-    console.log(abnormals);
     return abnormals;
   } catch (err) {
     console.error(err);
@@ -210,7 +209,6 @@ export const checkQuestions = async () => {
       })
     );
 
-    console.log(abnormals);
     return abnormals;
   } catch (err) {
     console.error(err);

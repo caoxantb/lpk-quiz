@@ -20,11 +20,8 @@ const router = createBrowserRouter([
 
 const App = () => {
   const fetchQuestions = useSetAtom(fetchQuestionsAtom);
-  // const rehydrateQuestions = useSetAtom(rehydrateQuestionsAtom);
 
   useEffect(() => {
-    // rehydrateQuestions();
-
     fetchQuestions(); // runs only once, skips if data already exists in localStorage
   }, [fetchQuestions]);
 
