@@ -11,10 +11,7 @@ const loadInitialQuestions = () => {
   }
 };
 
-export const questionAtom = atomWithStorage(
-  "questions",
-  loadInitialQuestions()
-);
+export const questionAtom = atomWithStorage("question", loadInitialQuestions());
 
 export const fetchQuestionsAtom = atom(
   (get) => get(questionAtom),
@@ -39,7 +36,6 @@ export const fetchQuestionsAtom = atom(
       );
 
       set(questionAtom, allData);
-      localStorage.setItem("question", JSON.stringify(allData)); // persist manually
     } catch (err) {
       console.error("Failed to fetch test data:", err);
     }

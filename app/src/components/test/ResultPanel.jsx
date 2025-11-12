@@ -38,12 +38,12 @@ const ResultPanel = () => {
   const buildSessionResult = (sessionNumber) => {
     if (!testSuite) return null;
 
+    // Special case
     if (sessionNumber === 2 && Number(id) === 6)
       return { rightAnswers: 0, totalQuestions: 0, durationMs: 1 };
 
     const sessionKey = sessionNumber === 1 ? "session1" : "session2";
     const sessionStatus = testSuite[sessionKey];
-
     if (sessionStatus !== "done") return null;
 
     const sessionQuestions = questionSet.filter(
@@ -57,8 +57,23 @@ const ResultPanel = () => {
 
     const start = Number(testSuite[`${sessionKey}StartTimestamp`]);
     const end = Number(testSuite[`${sessionKey}EndTimestamp`]);
+
+    // Handle pause sequences
+    const pauseKey =
+      sessionNumber === 1 ? "session1PauseSequences" : "session2PauseSequences";
+    const pauses = testSuite[pauseKey] || [];
+
+    const totalPauseMs = pauses.reduce((total, [pauseStart, pauseEnd]) => {
+      // if pauseEnd missing (still paused at end), treat end timestamp as pause end
+      const endTime = pauseEnd || end;
+      return total + (endTime - pauseStart);
+    }, 0);
+
+    const rawDuration = end - start;
     const durationMs =
-      Number.isFinite(end - start) && end - start > 0 ? end - start : null;
+      Number.isFinite(rawDuration) && rawDuration > 0
+        ? Math.max(rawDuration - totalPauseMs, 0)
+        : null;
 
     return { rightAnswers, totalQuestions, durationMs };
   };

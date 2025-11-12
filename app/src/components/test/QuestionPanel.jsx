@@ -16,6 +16,7 @@ const QuestionPanel = () => {
   const [currentIdx, setCurrentIdx] = useAtom(currentQuestion);
   const [questionDetail, setQuestionDetail] = useState();
   const [timeLeft, setTimeLeft] = useState(8100);
+  const [isPaused, setIsPaused] = useState(false);
   const [showSubmitConfirm, setShowSubmitConfirm] = useState(false);
 
   const testSuite = testSuites?.[id] ?? {};
@@ -71,9 +72,29 @@ const QuestionPanel = () => {
       ? new Date(sessionStartTimestamp).getTime()
       : null;
 
+    const computePausedTime = () => {
+      const key =
+        activeSession === 1
+          ? "session1PauseSequences"
+          : "session2PauseSequences";
+
+      const pauseSequences = testSuites[id][key];
+
+      if (!pauseSequences?.length) return 0;
+      return pauseSequences.reduce((total, [start, end]) => {
+        const endTime = end || Date.now(); // if currently paused
+        return total + (endTime - start);
+      }, 0);
+    };
+
     const computeRemainingSeconds = () => {
       if (!sessionStart || Number.isNaN(sessionStart)) return durationSeconds;
-      const elapsedSeconds = Math.floor((Date.now() - sessionStart) / 1000);
+
+      const pausedMillis = computePausedTime();
+      const elapsedSeconds = Math.floor(
+        (Date.now() - sessionStart - pausedMillis) / 1000
+      );
+
       return Math.max(durationSeconds - elapsedSeconds, 0);
     };
 
@@ -83,7 +104,7 @@ const QuestionPanel = () => {
     }, 1000);
 
     return () => clearInterval(interval);
-  }, [durationMinutes, sessionStartTimestamp]);
+  }, [durationMinutes, sessionStartTimestamp, activeSession, testSuites[id]]);
 
   useEffect(() => {
     const fetchQuestionDetail = async () => {
@@ -124,7 +145,11 @@ const QuestionPanel = () => {
 
   const toggleFlag = () => {
     if (!question) return;
-    if (question.userChoice !== undefined)
+    if (isPaused)
+      toast.error(
+        "Please resume the test first if you want to flag this question."
+      );
+    else if (question.userChoice !== undefined)
       toast.error(
         "Please remove the chosen answer if you want to flag this question."
       );
@@ -140,22 +165,90 @@ const QuestionPanel = () => {
 
   const flaggedColorClass = getColor("flagged");
 
+  const pauseAndReplay = (prev) => {
+    const key =
+      activeSession === 1 ? "session1PauseSequences" : "session2PauseSequences";
+
+    setTestSuites((prevState) => {
+      const existing = prevState[id]?.[key] || [];
+
+      let updated;
+      if (!prev) {
+        // Start a new inner array
+        updated = [...existing, [Date.now()]];
+      } else {
+        // Add to the last inner array
+        updated = existing.map((arr, index) =>
+          index === existing.length - 1 ? [...arr, Date.now()] : arr
+        );
+      }
+
+      return {
+        ...prevState,
+        [id]: {
+          ...prevState[id],
+          [key]: updated,
+        },
+      };
+    });
+
+    setIsPaused(!prev);
+  };
+
   return (
     <article className="flex flex-1 flex-col gap-6 border-t border-slate-200 p-6 lg:border-t-0">
       <div className="flex flex-col gap-2 border border-slate-200 px-4 py-3 sm:flex-row sm:items-stretch sm:justify-between">
+        <button
+          aria-pressed={isPaused}
+          aria-label={isPaused ? "Resume timer" : "Pause timer"}
+          className="flex h-12 w-12 items-center justify-center rounded-full border border-slate-300/70 bg-transparent text-slate-700 transition cursor-pointer
+                      hover:border-slate-400 hover:bg-slate-100/40 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-500"
+          onClick={() => pauseAndReplay(isPaused)}
+          type="button"
+        >
+          {isPaused ? (
+            <svg
+              className="h-5 w-5"
+              fill="currentColor"
+              viewBox="0 0 20 20"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path d="M6 4l10 6-10 6V4z" />
+            </svg>
+          ) : (
+            <svg
+              className="h-5 w-5"
+              fill="currentColor"
+              viewBox="0 0 20 20"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path d="M6 4h3v12H6V4zm5 0h3v12h-3V4z" />
+            </svg>
+          )}
+        </button>
         <div className="sm:flex sm:flex-col sm:justify-center">
-          <p className="text-xs font-semibold uppercase tracking-[0.3em] text-slate-500">
-            Time remaining
-          </p>
-          <span className="text-4xl font-semibold text-slate-900">
-            {formatTime(timeLeft)}
-          </span>
+          <div className="flex items-center gap-3">
+            <div>
+              <p className="text-xs font-semibold uppercase tracking-[0.3em] text-slate-500">
+                Time remaining
+              </p>
+              <span className="text-4xl font-semibold text-slate-900">
+                {formatTime(timeLeft)}
+              </span>
+            </div>
+          </div>
         </div>
         <button
           className="border border-blue-500 bg-blue-500 px-6 py-2 text-s font-semibold uppercase tracking-[0.2em] cursor-pointer
                     text-white transition hover:border-blue-600 hover:bg-transparent hover:text-blue-600 sm:self-stretch sm:px-10"
           type="button"
-          onClick={() => setShowSubmitConfirm(true)}
+          onClick={() => {
+            isPaused
+              ? toast.error(
+                  "Please resume the test first if you want to submit."
+                )
+              : setShowSubmitConfirm(true);
+          }}
         >
           Submit
         </button>
@@ -251,26 +344,28 @@ const QuestionPanel = () => {
                           : "border-slate-300 text-slate-800 hover:border-blue-400 hover:bg-blue-50"
                       }`}
                       onClick={() => {
-                        if (question.flag) {
-                          toast.error(
-                            "Please remove the flag if you want to choose an answer."
-                          );
-                        } else {
-                          setQuestions({
-                            ...questions,
-                            [id]: questions[id].map((q) =>
-                              q.qNo === currentIdx
-                                ? {
-                                    ...q,
-                                    userChoice:
-                                      question.userChoice === index
-                                        ? undefined
-                                        : index,
-                                  }
-                                : q
-                            ),
-                          });
-                        }
+                        isPaused
+                          ? toast.error(
+                              "Please resume the test first if you want to choose an answer."
+                            )
+                          : question.flag
+                          ? toast.error(
+                              "Please remove the flag if you want to choose an answer."
+                            )
+                          : setQuestions({
+                              ...questions,
+                              [id]: questions[id].map((q) =>
+                                q.qNo === currentIdx
+                                  ? {
+                                      ...q,
+                                      userChoice:
+                                        question.userChoice === index
+                                          ? undefined
+                                          : index,
+                                    }
+                                  : q
+                              ),
+                            });
                       }}
                       type="button"
                     >

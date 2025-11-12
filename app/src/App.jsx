@@ -6,6 +6,11 @@ import { useSetAtom } from "jotai";
 import { fetchQuestionsAtom } from "./stores/questions.js";
 import { useEffect } from "react";
 import { Toaster } from "sonner";
+import { migrateData } from "./migrations/index.js";
+
+const LATEST_VERSION = "1.1.0";
+
+migrateData[LATEST_VERSION]();
 
 const router = createBrowserRouter([
   {
