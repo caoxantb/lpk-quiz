@@ -8,7 +8,7 @@ import { useEffect } from "react";
 import { Toaster } from "sonner";
 import { migrateData } from "./migrations/index.js";
 
-const LATEST_VERSION = "1.1.0";
+const LATEST_VERSION = "1.1.1";
 
 migrateData[LATEST_VERSION]();
 
