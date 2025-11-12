@@ -192,6 +192,11 @@ const QuestionPanel = () => {
       };
     });
 
+    if (!prev)
+      toast.warning(
+        "Pausing will not be allowed in real exam, LPK. You-disappointed-me! 😞"
+      );
+
     setIsPaused(!prev);
   };
 
