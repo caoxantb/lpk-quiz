@@ -1,4 +1,5 @@
 export const getCategoriesFromQuestions = (questionList) => {
+  if (!questionList || !Array.isArray(questionList)) return [];
   return Object.values(
     questionList?.reduce((acc, cur) => {
       if (!acc[cur.category]) {

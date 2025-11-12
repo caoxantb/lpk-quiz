@@ -28,16 +28,16 @@ const Sidebar = () => {
       ? questions[id]?.filter((q) => q.session === 2)
       : questions[id];
 
-  const categoryData = getCategoriesFromQuestions(questionList);
+  const categoryData = getCategoriesFromQuestions(questionList) || [];
 
-  const completedQuestions = questionList.filter(
+  const completedQuestions = questionList?.filter(
     (q) => q.userChoice !== undefined || q.flag
   ).length;
 
   const [openSections, setOpenSections] = useState(() =>
     categoryData.map((category) => category.id)
   );
-  const totalQuestions = questionList.length;
+  const totalQuestions = questionList?.length || 0;
 
   const progressPercentage = Math.round(
     (completedQuestions / Math.max(totalQuestions, 1)) * 100
