@@ -97,7 +97,7 @@ const QuestionPanel = () => {
     };
 
     fetchQuestionDetail();
-  }, [question]);
+  }, [question?.id]);
 
   useEffect(() => {
     if (timeLeft === 0 && activeSession) submit();

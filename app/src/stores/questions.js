@@ -46,4 +46,4 @@ export const fetchQuestionsAtom = atom(
   }
 );
 
-export const currentQuestion = atomWithStorage(0);
+export const currentQuestion = atomWithStorage("currentIdx", 0);
