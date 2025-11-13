@@ -45,14 +45,16 @@ function Home() {
           {testVisuals.map((card, idx) => {
             const finished =
               card.session1 === "done" &&
-              (card.session2 === "done" || idx === 5);
+              (card.session2 === "done" || idx >= 5);
 
             return (
               <button
                 key={idx + 1}
-                className="group relative flex cursor-pointer aspect-square items-center justify-center rounded-3xl border border-indigo-100 
+                className={`group relative flex cursor-pointer aspect-square items-center justify-center rounded-3xl border border-indigo-100 
                           bg-slate-100/80 text-6xl font-semibold text-slate-900 shadow-sm transition hover:-translate-y-1 hover:border-indigo-200 
-                          focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-indigo-200"
+                          focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-indigo-200 ${
+                            idx === 6 ? "col-start-2" : ""
+                          }`}
                 type="button"
                 onClick={() => {
                   finished || activeIndex === idx || activeIndex === -1

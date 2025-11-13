@@ -62,14 +62,16 @@ function Stats({ onBack }) {
   const testSuites = useAtomValue(testAtom);
   const questions = useAtomValue(questionAtom);
 
-  const questionList = Object.entries(questions).flatMap(([key, qs]) => {
-    const suite = testSuites[key] || {};
+  const questionList = Object.entries(questions)
+    .filter(([key]) => Number(key) < 7)
+    .flatMap(([key, qs]) => {
+      const suite = testSuites[key] || {};
 
-    return [
-      suite.session1 === "done" ? qs.filter((q) => q.session === 1) : [],
-      suite.session2 === "done" ? qs.filter((q) => q.session === 2) : [],
-    ].flat();
-  });
+      return [
+        suite.session1 === "done" ? qs.filter((q) => q.session === 1) : [],
+        suite.session2 === "done" ? qs.filter((q) => q.session === 2) : [],
+      ].flat();
+    });
 
   const stats = Object.values(
     questionList.reduce((acc, q) => {

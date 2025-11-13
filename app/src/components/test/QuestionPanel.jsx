@@ -49,7 +49,7 @@ const QuestionPanel = () => {
         [activeSession === 1 ? "session1" : "session2"]: "done",
         [activeSession === 1 ? "session1EndTimestamp" : "session2EndTimestamp"]:
           Date.now(),
-        activeSession: activeSession === 1 && Number(id) !== 6 ? 2 : 0,
+        activeSession: activeSession === 1 && Number(id) < 6 ? 2 : 0,
       },
     }));
     setShowSubmitConfirm(false);

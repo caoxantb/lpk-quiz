@@ -72,7 +72,10 @@ const ResultPanel = () => {
     const rawDuration = end - start;
     const durationMs =
       Number.isFinite(rawDuration) && rawDuration > 0
-        ? Math.max(rawDuration - totalPauseMs, 0)
+        ? Math.min(
+            Math.max(rawDuration - totalPauseMs, 0),
+            testSuite.duration * 60 * 1000
+          )
         : null;
 
     return { rightAnswers, totalQuestions, durationMs };

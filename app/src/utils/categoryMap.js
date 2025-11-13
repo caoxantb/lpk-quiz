@@ -16,6 +16,25 @@ export const getCategoriesFromQuestions = (questionList) => {
   );
 };
 
+export const sortByCategory = (questionList) => {
+  const categories = [
+    "ETH",
+    "FSA",
+    "CI",
+    "ECO",
+    "QUA",
+    "EQU",
+    "FI",
+    "PM",
+    "ALT",
+    "DER",
+  ];
+
+  return questionList.sort((a, b) => {
+    return categories.indexOf(a.category) - categories.indexOf(b.category);
+  });
+};
+
 export const categoryMap = (abbreviation) => {
   const fullNames = {
     ALT: "Alternative Investments",
