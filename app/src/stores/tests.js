@@ -23,3 +23,5 @@ export const testAtom = atomWithStorage(
 );
 
 export const viewResults = atom(false);
+
+export const pause = atomWithStorage(false);

@@ -3,7 +3,7 @@ import { useCallback, useEffect, useState } from "react";
 import { currentQuestion, questionAtom } from "../../stores/questions";
 import { useParams } from "react-router";
 import axios from "axios";
-import { testAtom } from "../../stores/tests";
+import { pause, testAtom } from "../../stores/tests";
 import { getColor } from "../../utils/colors";
 import { toast } from "sonner";
 import { formatTime } from "../../utils/formatTime";
@@ -16,7 +16,7 @@ const QuestionPanel = () => {
   const [currentIdx, setCurrentIdx] = useAtom(currentQuestion);
   const [questionDetail, setQuestionDetail] = useState();
   const [timeLeft, setTimeLeft] = useState(8100);
-  const [isPaused, setIsPaused] = useState(false);
+  const [isPaused, setIsPaused] = useAtom(pause);
   const [showSubmitConfirm, setShowSubmitConfirm] = useState(false);
 
   const testSuite = testSuites?.[id] ?? {};
